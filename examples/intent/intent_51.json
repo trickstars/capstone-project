@@ -1,0 +1,470 @@
+[
+    {
+        "intent": "",
+        "message": "MSSV/MSGV: [student_id]7  / \t. . . .   i&gt Đăng ký môn học . Hiện đang có đợt đăng ký môn học nhưng em không thể mở trang đăng ký, xin thầy/ cô pđt mở trang đkmh giúp em ạ."
+    },
+    {
+        "intent": "",
+        "message": "Do em vẩn chưa thể mở trang ĐKMH nên xin thầy/ cô đăng ký môn học Anh Văn 4 (LA1009) lớp dự thính giúp em ạ.. . Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . . . Bạn vui lòng đăng ký lại Học kỳ Dự thính - lộ trình 2, dự kiến từ 20/01/2022 - 25/01/2022 (để kiểm tra TKB sơ bộ, có thể đăng ký thêm, điều chỉnh nhóm hoặc hủy môn theo Lịch học vụ HK212). . . . Chúc bạn học tốt. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Mở môn học học kỳ 212 . Em không đăng được môn giải tích 2(MT1005)và lớp vẽ kỹ thuật(CI1003). Vì em bị trùng lịch với hông đủ thời gian giãn cách giữa 2 cơ sở. Giờ em phải làm sao ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Theo quy định là không được nghen bạn. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ xin chào thầy cô,em là [full_name],mssv [student_id],em muốn đăng kí lớp Mô hình hóa, mô phỏng và tối ưu hóa trong công nghệ hóa. . học mã CH3133 thứ 3 mà đã full lớp có 60 sinh viên nên có thể cho em vào lớp được không ạ.Hiện tại em rất cần môn này mong thầy cô xem xét giúp em.. . Em xin cảm ơn thầy cô ạ"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Em tên là [full_name], MSSV [student_id], em có đăng kí nhầm một môn không có trong chương trình đào tạo là môn AS3113 Phân loại quản lý trang thiết bị y tế, bây giờ em hủy môn được không ạ hay chỉ có thể rút môn thôi. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Đã hết thời gian hiệu chỉnh và hủy môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi mail thông báo dự kiến trong tháng 1/2021 sau của PDT. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Mở môn học học kỳ 212 . . . Kính gửi Phòng đào tạo,. . Em tên [full_name], MSSV: [student_id], Khoa Kỹ thuật vật liệu.. . Trong đợt đăng kí môn học học kỳ 212, em không thể đăng kí 2 môn Giải tích 2 (MT1005) và vẽ kỹ thuật (CI1033).. . Em mong nhà trường có thể giải quyết trường hợp của em.. . . . Em xin cám ơn"
+    },
+    {
+        "intent": "",
+        "message": "Em tên: [full_name], mssv:[student_id]. Thuộc lớp VP17NL.. . . . Em xin gửi đơn đăng ký mở môn Nguyên lý hóa công nghiệp 601702 trong học kỳ   B&gt dự thính, lộ trình 2  /B&gt  sắp tới. Trong đơn đã có thầy [full_name] và bộ môn đồng ý. Em xin văn phòng đồng ý mở lớp cho tụi em.. . . . Em xin cảm ơn. . . .   i&gt Mở môn học học kỳ 212 ."
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác . dạ em có lịch thi ngày 25/12 và em có hoãn thi trên hệ thống mybk sau đó trường có tổ chức thi lại vào ngày 31/12 do hệ thống thi bị lỗi. cho em hỏi em có cần đăng kí hoãn thi lại không ạ và cách thức đăng kí hoãn thi như thế nào ạ! do hệ thống mybk không cập nhật ngày thi mới ạ!. . . ."
+    },
+    {
+        "intent": "",
+        "message": "\"\"\" . . Chào bạn. . Về vấn đề Hoãn thi của HK211 bạn vui lòng xem chi tiết: Thông báo kế hoạch tổ chức thi HK211 Pdt đã gởi qua mail  vào ngày 22/11/2021- Mục 5. Hoặc Quy trình Hoãn thi HK211 Pdt đã gởi qua mail  vào ngày 10/12/2021. . Thân. . \"\"\""
+    },
+    {
+        "intent": "",
+        "message": "Em chào thầy cô PĐT,. . Em tên là [full_name], MSSV: [student_id]. . . . Em biết là đợt 3 không thể hiệu chỉnh và hủy môn được.. . Nhưng trong đợt 2 bất đắc dĩ lắm vì không còn slot nào của môn Phương pháp tính - mã môn MT1009. Chỉ còn lớp duy nhất là lớp L16.. . Hiện tại em bị kẹt lịch thực tập, cũng như bị kẹt lịch lớp học này.. . . . Vì vậy nên em mới đăng ký lớp dự thính DT01_MT1009. Cô có thể chuyển lớp giúp em được không ạ. Vì kỳ chính em không có thời gian để học thật sự. Nếu không được thì có cách nào để em giữ lớp dự thính không ạ?. . . . Nếu không được thì em hy vọng được giữ slot của lớp dự thính DT01_MT1009, để khi PĐT thông báo rút môn em sẽ rút môn kỳ chính mà không bị ảnh hưởng tới lớp dự thính.. . . . Em năm nay đã năm 4 rồi. Phải chuẩn bị làm LVTN và thi chứng chỉ ngoại ngữ nữa ạ. Rất mong quý thầy cô giúp đỡ.. . . . Em xin cảm ơn cô"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Pdt đã tiếp nhận đề nghị DKMH của em. . Em xem TKB cập nhật tại Mybk-xem TKB dự kiến sau ngày 14/1/2022. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào cô [full_name],. . . . Hiện tại em đã thấy nhóm lớp của thầy [full_name]. Nhưng chỉ là lớp lý thuyết.. . Còn lớp bài tập vẫn chưa được cập nhật như hình đính kèm. . . . Mong Phòng đào tạo cập nhật sớm cho em. . Trân trọng."
+    },
+    {
+        "intent": "",
+        "message": "Kính chào Quý Thầy cô,. . . . Em không biết Thầy cô đã nhận được phản hồi của em chưa. Hiện tại đã ở tuần 3 của học kỳ rồi.. . Mong Quý Thầy cô cập nhật sớm giúp em để em còn học ạ.. . Hay em phải trực tiếp lên văn phòng của Phòng đào tạo thì mới được sửa ạ.. . . . Em xin cảm ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em xem lại nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Kính chào cô [full_name]!. . . . Em nghĩ là việc xử lý cho em chuyển lớp   B&gt đã xong từ trước Tết  /B&gt . . . . Nhưng sao mới đây em   B&gt lại nhận thêm 1 mail từ PĐT về việc rút môn Phương pháp tính nhỉ?  /B&gt  (file screenshoot mail PĐT gửi em có đính kèm). . . . Chắc chắc có gì đó nhầm lẫn.. . Mong cô xem lại giúp em. . . . Trân trọng"
+    },
+    {
+        "intent": "",
+        "message": "Thì em trả lời câu hỏi lại câu hỏi đó, có cần phải rút môn học này không?"
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: Kính chào quý thầy cô cùng cán bộ của phòng đào đạo.. . Kì này bộ môn em có mở lớp Công nghệ không dệt nhưng em quên đăng kí và lỡ đăng kí đầy chỉ dẫn đến không đăng kí môn Công nghệ không dệt được, mã môn này một năm chỉ mở một lần nên nếu không đăng kí thì phải đến năm sau em mới được học, tiến độ học tập của em sẽ bị ảnh hưởng.. . Nên em tha thiết mong quý thầy cô và cán bộ có thể hủy môn Kỹ thuật điện để em có thể đăng kí môn Công nghệ không dệt.. . Em xin chân thành cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng gửi mã số môn học, tên môn học, mã nhóm, lý do nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Em chào thầy/cô! Em tên là [full_name], . . MSSV [student_id]. Cho em đăng kí Anh văn theo yêu cầu AV3A LA1041, lớp DT02 được không ạ?. . Lý do không đăng kí học thì không đăng kí môn năm 3 kịp. Em cảm ơn thầy/cô.. . . . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi PDT,. . Em là sinh viên Việt Pháp khóa 2017và hiện còn nợ môn Tư tưởng HCM (001025) ạ. Tuy nhiên, môn Tư tưởng HCM mã 001025 đã không còn mở mà đã được tương đương với môn Tư tưởng HCM mã mới SP1037 theo như danh sách các môn tương đương trên trang web Pdt. Em đã gửi đăng kí môn học đợt 3 mã môn SP1037 loại hình CQ-Chuyển hệ, nhưng trang web thông báo thiếu môn học trước Lịch sử DCSVN (SP1039) dù em đã hoàn thành   B&gt tất cả  /B&gt  môn chính trị khác tương đương. Kính mong Pdt kiểm tra cập nhật hoặc thông báo thông tin cần thiết để em có thể đăng kí môn học kịp thời ạ. . . Kính thư,. . Sinh viên [full_name]"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ em chào thầy/cô,. . Em muốn hỏi về vấn đề   B&gt đăng ký luận văn tốt nghiệp  /B&gt . Hiện tại em đã thỏa điều kiện nợ dưới 7 tín chỉ, thỏa điều kiện các môn tiên quyết và học trước, đạt số ngày ctxh. Em chưa thỏa điều kiện tiếng anh nhưng theo email của nhà trường thì không xét chuẩn av trong kì này. Tuy nhiên khi đăng ký luận văn thì em vẫn bị xóa môn do không đủ điều kiện nhận luận văn. Lý do xóa em nghĩ là do   B&gt bảng điểm trên mybk chưa cập nhật điểm các môn thực tập  /B&gt . Em đã liên hệ giảng viên phụ trách và   B&gt giảng viên xác nhận đã khóa điểm  /B&gt .. . Em gửi câu hỏi này với mục đích xin tư vấn liệu em có cần liên hệ với ai để đăng ký luận văn trong kỳ này không ạ? Do em sợ   U&gt nếu điểm thực tập cập nhật không kịp  /U&gt  em sẽ   U&gt bị xóa môn luận văn và trễ thêm 1 học kì  /U&gt . . . Em cảm ơn thầy/cô"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Nếu yêu cầu của bạn về ĐKMH đến nay vẫn chưa được xử lý, SV vui lòng gửi lại phản hồi khác để PDT kiểm tra và trả lời cho bạn. . SV lưu ý:. . 1- Vì bất kỳ lý do nào đến thời điểm hiện tại bạn vẫn chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV), SV vui lòng đăng ký lại đợt cuối cùng chỉ để đăng ký các học phần tốt nghiệp (LVTN, TTTN, DCLV) dự kiến từ ngày 18/1 đến 19/1/2022. . . .   B&gt 2- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 (3) &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.  /B&gt . . . . 3- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc các bạn học tốt!. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Tốt nghiệp . Hi ad, xin cho em hỏi, hiện em đã đủ các điều kiện tốt nghiệp và muốn đăng ký tốt nghiệp bổ sung nhưng không truy cập được mục Đăng ký tốt nghiệp trên Mybk, nhờ ad hỗ trợ giúp em. Em cám ơn ạ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . PDT đã ghi nhận yêu cầu về đăng ký xét TN của bạn. SV vui lòng theo dõi email  và đăng ký tốt nghiệp tại trang mybk.hcmut.edu.vn/6.Đăng ký Tốt nghiệp. . Trường hợp sau ngày 11/01/2022 SV vẫn chưa nhận được mail hoặc chưa đăng ký tốt nghiệp được vui lòng gửi lại câu hỏi qua bksi để PDT kiểm tra và trả lời.. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn) &gt &gt  Sinh viên &gt &gt  Lịch học vụ &gt &gt  Lịch tốt nghiệp &gt &gt  tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Về tình trạng sinh viên, khi nào em có tên trong ds dự kiến tốt nghiệp, PDT sẽ tự động ra QD thu nhận cho bạn nhé. . Thân. . \""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em chào thầy/cô ạ.. . . . Cho em thắc mắc là khi em đăng kí môm học đợt 3-CQ em luôn bị lỗi \"Bạn không được phép đăng ký vào nhóm lớp này \" như này dù em đã đăng kí đúng nhóm lớp là sao ạ? Sau đó em chuyển qua bên chuyển hệ thì em lại đăng kí được nên cho em hỏi nên xử lí thế nào vậy ạ?. . . . Em cảm ơn thầy cô đã đọc.. . . . Trân trọng."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn. . Nếu yêu cầu của bạn về ĐKMH đến nay vẫn chưa được xử lý, SV vui lòng gửi lại phản hồi khác để PDT kiểm tra và trả lời cho bạn. . SV lưu ý:. . 1- Sau khi kết thúc đợt 3 kết quả ĐKMH của bạn vẫn chưa được xử lý, bạn có thể làm đơn khiếu nại (kèm minh chứng nếu có), gửi qua trang bksi ghi rõ tiêu đề: “Khiếu nại ĐKMH HK212”, nội dung khiếu nại trình bày rõ lý do, ghi rõ tên, mã môn học và mã nhóm đã đăng ký (thời gian nhận yêu cầu khiếu nại đến hết ngày 14/01/2022). . 2- Vì bất kỳ lý do nào đến thời điểm hiện tại bạn vẫn chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV), SV vui lòng đăng ký lại đợt cuối cùng chỉ để đăng ký các học phần tốt nghiệp (LVTN, TTTN, DCLV) dự kiến từ ngày 18/1 đến 19/1/2022. . 3- Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . 4- Đến thời điểm hiện tại, theo quy định thì không thể huỷ môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi thông báo sau của Phòng Đào tạo. . 5- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 (3) &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.. . 6- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc các bạn học tốt!. . Thân\""
+    },
+    {
+        "intent": "",
+        "message": "Mở môn học học kỳ 212 ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Cho em hỏi là tại sao em lại bị lỗi không đúng loại hình sinh viên trong khi em chọn đúng mã lớp CC dành cho CLC ạ?(Có ảnh đi kèm) Em cảm ơn"
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: Em muốn xin được hủy bớt môn học EE3131 - Hệ thống năng lượng xanh lớp L01 trong HK chính 212. Vì lí do để giảm bớt áp lực trong HK làm đồ án của bản thân em.. . Mong phòng đào tạo có thể tạo điều kiện giúp em. Em xin chân thành cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Đã hết thời gian hiệu chỉnh và hủy môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi mail thông báo dự kiến trong tháng 1/2021 sau của PDT. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi phòng đào tạo.. . Em là [full_name], mssv [student_id], là sinh viên khoa cơ khí. Em muốn đăng ký môn học vào lớp môn học Pháp luật đại cương Việt (SP1007) nhưng tất cả các lớp đều đã full sĩ số. Nên em gửi đơn yêu cầu này nhờ phòng đào tạo có thể nào thêm giúp tên em vào 1 trong các nhóm lớp chính quy của môn học và nếu được thì ưu tiên nhóm L01 giúp em với ạ. Em hiện đã là sinh viên năm thứ 5 và vì một số lý do nên chưa được đăng ký luận văn tốt nghiệp nên mới phải đăng ký học lại, em rất mong phòng đào tạo có thể tạo điều kiện giúp đỡ cho em ạ.. . Em xin chân thành cảm ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Kính gửi phòng đào tạo,. . . . Em là sinh viên ngành Kỹ thuật máy tính, khoa Khoa học và Kỹ thuật máy tính.. . Học kì 201 em có học môn Giải tích mạch mã EE2033 môn tương đương thay thế cho môn Giải tích mạch cơ bản mã EE2001.. . . . Cho em hỏi là sau khi học qua môn tương đương trên thì em phải làm gì tiếp theo để chuyển điểm môn tương đương thay thế trên ạ?. . . . Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em cần làm đơn gửi email [email]  để PĐT kiểm tra rồi trả lời em nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Em chào cô em tên [full_name] mssv [student_id].. .  Em làm đơn xin mở lớp dự thính hạ tầng công trình giao thông CI4019 . Mong cô xem xét ạ.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn . . Hiện đăng đăng ký lộ trình 2 dự thính đọt 1, nếu đến 20/1 môn này vẫn không mở thì bạn nộp đơn mở lớp lại nghen, vui lòng nộp theo thông báo. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Do có trục trặc trong quá trình đăng ký của  nên Môn   B&gt Hành vi người tiêu dùng  /B&gt  mã   CODE&gt IM3083  /CODE&gt  đã đủ sinh viên đăng ký. Kính mong PĐT mở cho em xin 1 chỗ nữa ở môn này. Em xin chân thành cảm ơn!. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Đã có quyết định của PĐT nhưng em vẫn chưa vào đăng ký môn học được. . PĐT kiểm tra lại giúp em ạ. . Em cảm ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng gửi lại mã môn học, tên môn học, mã nhóm, lý do nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Dạ em chào Thầy(cô), em thuộc khoa kỹ thuật hàng không. Hiện tại em đăng kí nhận luận văn tốt nghiệp nhưng bị xoá môn ( lý do không đủ điều kiện nhận luận văn tốt nghiệp). Tín chỉ hiện tại của em là 117 do năm vừa qua tình hình dịch bệnh nên em không thể thi được anh văn để đổi điểm anh văn hiện tại của em là [full_name] 1. Dạ thầy(cô) cho em hỏi nếu trường xét miễn anh văn thì các tín chỉ của các môn anh văn sẽ được tính như thế nào ạ. Mong được sự giúp đỡ của thầy cô để em có thể hoàn thành chương trình học ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Nếu yêu cầu của bạn về ĐKMH đến nay vẫn chưa được xử lý, SV vui lòng gửi lại phản hồi khác để PDT kiểm tra và trả lời cho bạn. . SV lưu ý:. . 1- Vì bất kỳ lý do nào đến thời điểm hiện tại bạn vẫn chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV), SV vui lòng đăng ký lại đợt cuối cùng chỉ để đăng ký các học phần tốt nghiệp (LVTN, TTTN, DCLV) dự kiến từ ngày 18/1 đến 19/1/2022. . . .   B&gt 2- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 (3) &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.  /B&gt . . . . 3- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc các bạn học tốt!. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em xin chào thầy/ cô ạ,. . . . Em là [full_name] [student_id] khóa 2017 đến từ khoa CNVL chuyên ngành vật liệu Polymer. Em có một thắc mắc liên quan đến môn tương đương/ thay thế mong thầy/ cô giải đáp giúp em với nội dung như sau:. . . . Thầy/ cô cho em hỏi là môn B \"Kỹ thuật điện\" (EE1005) là môn tương đương của môn A \"Kỹ thuật điện-điện tử\" (EE2011) đối với ngành Kỹ thuật vật liệu chuyên ngành Polymer (dựa trên file pdf danh sách môn tương đương đính kèm của khoa CNVL bên dưới) phải không ạ? . . . . Em đã học và đạt điểm tổng kết môn B \"Kỹ thuật điện\" (EE1005) - thuộc CTĐT K19 - là 6.50 vào học kỳ 202 (như hình đính kèm). Như vậy là môn A \"Kỹ thuật điện-điện tử\" (EE2011) - thuộc CTĐT K17 - của em sẽ được cập nhật điểm \"MT\" phải không ạ? . . . . Em thắc mắc vì em đã có điểm môn B nhưng em kiểm tra bảng điểm vẫn chưa thấy môn A được cập nhật điểm \"MT\". Mong thầy/ cô giải đáp giúp em. . . . . Em xin cảm ơn thầy/ cô rất nhiều ạ!"
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . Về Chương trình Đào tạo, danh sách môn tương đương…, bạn vui lòng xem tại:. . aao.hcmut.edu.vn/Sinh viên/Chương trình Đào tạo. . Sinh viên thắc mắc về CTĐT vui lòng liên hệ về Khoa xin gặp Thầy/Cô Phụ trách về CTĐT để được tư vấn và hỗ trợ thêm.. . Thân. . \""
+    },
+    {
+        "intent": "",
+        "message": "Tốt nghiệp . Em có nhận được mail thông báo lên phòng đào tạo để nhận bằng tốt nghiệp nhưng hiện giờ em đang ở nhà, Buôn Ma Thuột Daklak, nên không thể lên lại trường để nhận bằng.. . Cho em hỏi có cách nào đăng ký nhà trường gửi bằng qua bưu điện để em có thể nhận bằng sớm nhất có thể không ạ?. . . . Rất mong nhận được sự giúp đỡ từ thầy cô!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Bằng tốt nghiệp không gửi qua bưu điện nhé.. . Khi nào em có mặt ở TPHCM thì liên hệ Phòng Đào tạo để nhận bằng tốt nghiệp. . . Bằng tốt nghiệp vẫn được lưu trữ tại Phòng Đào tạo cho Sinh viên.. . Trường hợp nhận thay bằng tốt nghiệp: Phải có giấy ủy quyền có xác nhận của chính quyền và chỉ có thể ủy quyền cho ba/mẹ/anh/chị/ em ruột (khi nhận phải kèm theo hộ khẩu, CMND/CCCD). . Về lễ tốt nghiệp SV vui lòng đợi thông báo sau của nhà trường. . Thân mến. . . . . ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . em chào [full_name] ạ,em tên [full_name] Ân MSSV [student_id],do ở lần đăng kí môn học đợt 2 em có đăng kí môn Nền Móng CI3239 nhưng rồi bị văng mất ở lần đăng kí môn học đợt 3,nên đợt 3 em có vào để đăng kí lại nhưng bị full sĩ số,nay em muốn xin pdt mở thêm sĩ số lớp Nền móng để em có thể đăng kí được không ạ,em xin cảm ơn!. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Kính chào Phòng Đào Tạo.. . Em tên là [full_name], MSSV: [student_id].. . Hiện tại em tốt nghiệp trễ hạn, và là kì cuối cùng của hệ chính quy, em muốn đăng kí thi anh văn 2 kĩ năng nhưng trong mục đăng kí môn học hiển thị không thể đăng kí. Kính mong Phòng Đào Tạo hỗ trợ.. . Em xin chân thành cám ơn.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . AV Nói - viết: Em vui lòng liên hệ Trung tâm ngoại ngữ sau tết Nguyên đán để đăng ký thi.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "MSSV/MSGV: [student_id]  / . . \t. . . .   i&gt Học vụ ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn. . Pdt ghi nhận đăng ký hủy Hoãn thi của bạn cho Hk 211. . Thân\""
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em chào thầy cô ạ! Em là [full_name] - [student_id]. Ở kì 202 em có học hai môn là Hệ thống máy tính và ngôn ngữ lập trình (EE2009) và Xử lý số tín hiệu (EE2015). Hiện bảng điểm của em vẫn chưa có điểm hai môn đó dù đã hoàn thành hết các bài kiểm tra một thời gian khá lâu. Vì em là sinh viên năm cuối nên em rất cần biết điểm để xem có rớt hay không để em đăng kí môn học cho kịp lộ trình ạ. Mong nhận được sự quan tâm của thầy cô. Em xin cảm ơn ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Điểm do GV nhập, bảng điểm [full_name] gửi PĐT, em vui lòng liên hệ [full_name], GV nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em cảm ơn sự hỗ trợ của nhà trường. em xin phép gửi những môn học đăng kí sau ạ!. . . . MT1007 Đại số tuyến tính. . MT1005 Giải tích 2. . CI2003 Cơ lưu chất. . . . Em xin chân thành cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em gửi lại có thêm mã nhóm cần đăng ký nữa nhé.. . Thân mến"
+    },
+    {
+        "intent": "",
+        "message": "Họ và tên: [full_name]. . MSSV: [student_id]. . Khóa: K20. . Khoa: Môi trường và Tài nguyên. . Đăng kí mở thêm môn học: Mạng lưới cấp thoát nước (EN2055) . . Lí do: thay đổi CTĐT nên bị trùng giờ học với một số môn khác . . . ."
+    },
+    {
+        "intent": "",
+        "message": "Họ và tên: [full_name]. . MSSV: [student_id]. . Khóa: K20. . Khoa: Môi trường và Tài nguyên. . Đăng kí mở thêm môn học: Mạng lưới cấp thoát nước (EN2055). . Lí do: thay đổi CTĐT nên bị trùng giờ học với một số môn khác. . Thời gian mở môn mong muốn: Thứ 2 tiết 11-12"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Hiện đã hết hạn nghen bạn. . . .  - Quy trình nhận đơn mở lớp HK chính quy 212 (các môn chưa được mở lớp) : Hiên tại Phòng Đào tạo chỉ nhận đơn “Đề nghị mở môn học” cho HK chính quy 212. SV có nhu cầu mở lớp dự thính vui lòng đăng ký vào Đợt 1 của Lộ trình 2 Dự thính dự kiến bắt đầu đăng ký vào ngày 06/01/2022.. .    1- Tải mẫu đơn “Đề nghị mở môn học”, sau đó SV gửi email trực tiếp đến Giảng viên giảng dạy & Khoa/Bộ môn để được ký xác nhận đồng ý (ghi rõ đầy đủ thông tin và Thời khóa biểu);. . - Đối với các môn có thực hành/thí nghiệm : Khoa phải cam kết tổ chức được cho SV.. .    2- Sau đó gửi đơn + email xác nhận đồng ý (nếu có) qua trang hỗ trợ trực tuyến (BKSI) &gt &gt  chọn đề mục “MỞ MÔN HỌC HỌC KỲ 212” &gt &gt  ghi rõ tiêu đề yêu cầu : MỞ MÔN HỌC CHÍNH QUY HK212.. .     3- Thời gian gửi đơn từ 25/12 đến 10g ngày 28/12;. ."
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: Kính gửi Phòng đào tạo. . Em tên là [full_name], MSSV [student_id]. Hôm nay, em gửi phiếu này mong Phòng đào tạo cho em tạm dừng học kì 2 năm học 2020-2021 để chuẩn bị hồ sơ du học.. . Em mong nhận được phản hồi sớm của Phòng đào tạo.. . Thân mến,. . [full_name]"
+    },
+    {
+        "intent": "",
+        "message": "\"Chào em,. . Phòng Đào tạo đã tiếp nhận đơn tạm dừng HK212 của bạn, Sinh viên theo dõi tình trạng sinh viên được cập nhật trên mybk/Thông tin Sinh viên/tình trạng. . chuyển qua trạng thái từ \"\"đang học\"\" sang \"\"tạm dừng\"\", dự kiến sẽ cập nhật trước ngày 21/1/2022 và gửi mail Quyết định qua email cho sinh viên. . SV vui lòng theo dõi lịch học vụ và mail SV để làm đơn thu nhận lại để đăng ký MH cho học kỳ tiếp theo. . Thân\""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em chào thầy cô!. . Đợt 2 em có đăng ký được Luận văn tốt nghiệp, hiện tại trong E-learning đã có môn LVTN rồi nhưng TKB thì chưa có và xem kết quả ĐKMH đợt 2 thì LV bị hủy do không đủ điều kiện.. . Vậy đợt 3 này em có cần đăng ký lại LVTN hay không ạ?"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Nếu yêu cầu của bạn về ĐKMH đến nay vẫn chưa được xử lý, SV vui lòng gửi lại phản hồi khác để PDT kiểm tra và trả lời cho bạn. . SV lưu ý:. . 1- Vì bất kỳ lý do nào đến thời điểm hiện tại bạn vẫn chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV), SV vui lòng đăng ký lại đợt cuối cùng chỉ để đăng ký các học phần tốt nghiệp (LVTN, TTTN, DCLV) dự kiến từ ngày 18/1 đến 19/1/2022. . . .   B&gt 2- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 (3) &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.  /B&gt . . . . 3- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc các bạn học tốt!. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . IM3083- Hành vi người tiêu dùng"
+    },
+    {
+        "intent": "",
+        "message": "- Quy trình nhận đơn mở lớp HK chính quy 212 (các môn chưa được mở lớp) : Hiên tại Phòng Đào tạo chỉ nhận đơn “Đề nghị mở môn học” cho HK chính quy 212. SV có nhu cầu mở lớp dự thính vui lòng đăng ký vào Đợt 1 của Lộ trình 2 Dự thính dự kiến bắt đầu đăng ký vào ngày 06/01/2022.. .    1- Tải mẫu đơn “Đề nghị mở môn học”, sau đó SV gửi email trực tiếp đến Giảng viên giảng dạy & Khoa/Bộ môn để được ký xác nhận đồng ý (ghi rõ đầy đủ thông tin và Thời khóa biểu);. . - Đối với các môn có thực hành/thí nghiệm : Khoa phải cam kết tổ chức được cho SV.. .    2- Sau đó gửi đơn + email xác nhận đồng ý (nếu có) qua trang hỗ trợ trực tuyến (BKSI) &gt &gt  chọn đề mục “MỞ MÔN HỌC HỌC KỲ 212” &gt &gt  ghi rõ tiêu đề yêu cầu : MỞ MÔN HỌC CHÍNH QUY HK212.. .     3- Thời gian gửi đơn từ 25/12 đến 10g ngày 28/12;. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Thưa cô, kỳ 212 này em có đăng ký lớp Lịch sử Đảng Cộng sản Việt Nam nhóm L17 thì em thấy chỉ có lớp này có sĩ số là 100 người trong khi các lớp khác là 99 và nếu cộng với giảng viên thì vượt quá số lượng Meet cho phép. Với đặc thù là môn điểm danh và tính điểm chuyên cần thì sẽ có bạn bị ảnh hưởng và có thể là em. Vì vậy em mong cô xem xét ạ! Em cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Pdt ghi nhận ý kiến của bạn. . [full_name]ân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Xin phòng đào tạo mở thêm một chỗ trong môn mã IM3083 - Hành vi người tiêu dùng ạ"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: Cho em hỏi là hiện tại bảng điểm của em em chưa thấy cập nhật lại vậy ạ mặc dù là đã có điểm đầy đủ rồi ạ. Mong cô xem lại giúp em ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . - STCTL ngành chưa có cập nhật lên Mybk được do chưa có điểm của tất cả sv chứ không phải của 1 mình em.. . - Khi sv cần in bảng điểm thì sẽ có đầy đủ ĐTB tính đến thời điểm sv đăng ký in.. . Thân mến. . . . . ."
+    },
+    {
+        "intent": "",
+        "message": "Hiện tại em đang bị thiếu giáo dục thể chất 3 kỳ do cá nhân em đăng ký trễ quá hết lớp mà giờ em đang năm 2 kỳ 2, và em không biết là trước khi vào năm 3 phải hoàn thành đủ 3 kỳ giáo dục thể chất thì mới được đăng ký môn học năm 3. Trường hợp này em có được làm đơn xin phép nhà trường học dồn hay học song song ở năm 3 được không ạ. Em đang rất lo.  ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . SV chương trình chất lượng cao, quốc tế, bạn vui lòng liên hệ với [full_name] (Văn Phòng Đào tạo Quốc tế) để được hướng dẫn và hỗ trợ về ĐKMH nhé: [email]. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . . . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học  /i&gt Cho em hỏi sao có 1 vài môn em đăng kí nhưng chỉ mở 1 lớp ạ? Em đăng kí từ đợt 1 và bị xóa môn sau đó đợt 2 và 3 đều chỉ mở đăng kí 1 lớp.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em đặt câu hỏi vui lòng ghi mã môn học, tên môn học, mã nhóm, lý do nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Tốt nghiệp . Quý thầy cô cho em hỏi. Em đã nhận được email thông báo lên trường nhận bằng, tuy nhiên do dịch bệnh nên em đã về quê một thời gian rồi. Quý thầy cô cho em hỏi là em có thể đăng ký nhận bằng qua đường bưu điện được không ạ? Nếu không được thì quý thầy cô cho em hỏi là thời gian nhà trường giữ bằng cho tới khi sinh viên đến nhận là trong bao lâu vậy ạ?. . Em xin cám ơn quý thầy cô"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Không gửi qua bưu điện nhé.. . Khi nào em có mặt ở TPHCM thì liên hệ Phòng Đào tạo để nhận bằng tốt nghiệp. . . Bằng tốt nghiệp vẫn được lưu trữ tại Phòng Đào tạo cho Sinh viên.. . Trường hợp nhận thay bằng tốt nghiệp: Phải có giấy ủy quyền có xác nhận của chính quyền và chỉ có thể ủy quyền cho ba/mẹ/anh/chị/ em ruột (khi nhận phải kèm theo hộ khẩu, CMND/CCCD). . Về lễ tốt nghiệp SV vui lòng đợi thông báo sau của nhà trường. . Thân mến. . . . . ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ thưa thầy cô, em muốn được đăng ký môn ME4647 lớp L01 hiện đã đủ sĩ số 60/60, em đã kiểm tra và không bị vướng lịch các môn khác cũng như chưa đạt giới hạn tín chỉ tối đa, em mong sớm nhận được phản hồi.. . Em xin chân thành cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Hiện tại em vẫn chưa được PĐT mở lại quyền đăng ký môn học. Em xin PĐT mở lại cho em để em có thể kịp đăng ký môn học. Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Xin tăng sỉ số môn học: Anh văn 3A (nhu cầu). . Mã môn LA1041. . Lớp DT02. . Em xin chân cám ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em chào anh/chị,. . . . Em là [full_name], đại diện cán sự lớp CC20KHM1. Hiện tại trong lớp em có một số sinh viên chỉ mới học kỳ Giáo dục thể chất (GDTC) đầu tiên, tức là nếu sang năm 3, các bạn này sẽ chưa đạt đủ 02 kỳ GDTC như quy định. Các bạn lớp em đến nay mới học vì các kỳ trước không đăng ký được lớp.. . . . Vậy em xin hỏi là trường hợp này có bị cấm đăng ký môn năm 3 hay không, và nếu có thì các bạn cần phải làm gì để xin cứu xét/ xin đăng ký môn học ạ?. . . . Em xin cảm ơn anh/chị.. . . . Trân trọng,. . [full_name]"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . SV chương trình chất lượng cao, quốc tế, bạn vui lòng liên hệ với [full_name] (Văn Phòng Đào tạo Quốc tế) để được hướng dẫn và hỗ trợ về ĐKMH nhé: [email]. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "[full_name] MSSV [student_id]. . Trung tâm đào tạo Bảo dưỡng Công nghiệp. . Lớp BD20BDG1\t. . . . Dạ em muốn xin giấy xác nhận sinh viên để hoàn tất hồ sơ vay vốn từ địa phương hỗ trợ ạ.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Dạ em xin chào phòng đào tạo trường Đại học Bách Khoa- ĐHQG TP.HCM.. . Em tên là [full_name]. . MSSV: [student_id]. . Lớp: XD18KT. . Khoa: Kỹ thuật xây dựng. . em có nguyện vọng muốn đăng kí môn thí nghiệm vật lí kiến trúc (CI3151) do lớp L03 đã đầy 25/25 mà 2 lớp kia em bị trùng lịch. Vì hiện tại từ khóa k19 đã thay đổi chương trình nên có thể sẽ rất lâu môn học mới được mở lại. nay em mong PĐT có thể mở thêm slot để em đăng kí và theo kịp chương trình của khóa mình. Em xin chân thành cảm ơn. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Pdt đã tiếp nhận đề nghị DKMH của em. . Em xem TKB cập nhật tại Mybk-xem TKB dự kiến sau ngày 14/1/2022. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn;. . do nhóm L03 full ss nên chuyển cho bạn sang nhóm L02 nhé. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "MSSV/MSGV: 1533404  / \t. . . .   i&gt Đăng ký môn học . Kính gởi: Quý Thầy/Cô PĐT. . Em tên: Nguyễn Thành An. MSSV: 1533404. Trong đợt đăng ký môn học lần này, nhờ quý Thầy/Cô hỗ trợ giúp em: . . 1. Em không đăng ký môn học: EE1003-Toán kỹ thuật, tuy nhiên trong thời khóa biểu HK212 thì có(file đính kèm) --&gt  Nhờ Thầy/Cô kiểm tra lại giúp. . 2. Môn EE3121 - Thiết kế vi mạch tt & hh, em đăng ký nhầm đợt: \"Đăng ký môn học HK212 - Đợt 1 CQ + VLVH\" --&gt  đây là lớp học ban ngày, hiện em không theo học được, đây là lỗi sai sót của em. Kính mong quý thầy cô xem xét hủy giúp em (em hủy trên trang đăng ký môn học không được) . . 3. Môn 440303- Luận văn tốt nghiệp: em có đăng ký tuy nhiên hệ thống thông báo: \"Thiếu môn tiên quyết 404810\": Môn này em đã học ở học kỳ vừa rồi tuy nhiên chưa có kết quả. Vậy kính mong quý thầy cô xem xét cho em được đăng ký luận văn học kỳ này để kịp tiến độ ạ . . . . Kinh mong quý thầy cô xem xét giúp em các vấn đề trên, em xin chân thành cảm ơn ạ. . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . [full_name]dt đã tiếp nhận đề nghị DKMH của em. . Em xem TKB cập nhật tại Mybk-xem TKB dự kiến sau ngày 14/1/2022. . Môn 440303- Luận văn tốt nghiệp:. . =&gt  Thân gửi các bạn sinh viên,. . . . Đến thời điểm hiện tại SV vẫn chưa có Thời khóa biểu hoặc chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV) vì bất kỳ lý do gì. SV vui lòng vào đăng ký lại trong đợt này.. . . . Thời gian dự kiến từ ngày 18/01/2022 đến 19/01/2022 cho HK chính 212 (chỉ được đăng ký bổ sung các học phần tốt nghiệp: LVTN, TTTN, ĐCLV).. . . . Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được [full_name]ĐT hậu kiểm lại để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . . . Trân trọng thông báo.. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em lỡ đăng kí môn vật lý 2 ở đợt 2 nên giờ không thay đổi được, mà đợt 3 mới mở môn chuyên ngành của em nhưng lại bị trùng giờ nên không đăng kí được.. . Cho em hỏi có cách nào để em đăng kí được môn chuyên ngành không ạ? Vì sợ mấy kì sau không mở lại ạ. Em cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Nếu yêu cầu của em về ĐKMH đến nay vẫn chưa được xử lý, SV vui lòng gửi lại phản hồi khác để PDT kiểm tra và trả lời cho em. . SV lưu ý:. . 1- Sau khi kết thúc đợt 3 kết quả ĐKMH của bạn vẫn chưa được xử lý, bạn có thể làm đơn khiếu nại (kèm minh chứng nếu có), gửi qua trang bksi ghi rõ tiêu đề: “Khiếu nại ĐKMH HK212”, nội dung khiếu nại trình bày rõ lý do, ghi rõ tên, mã môn học và mã nhóm đã đăng ký (thời gian nhận yêu cầu khiếu nại đến hết ngày 14/01/2022). . 2- Vì bất kỳ lý do nào đến thời điểm hiện tại bạn vẫn chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV), SV vui lòng đăng ký lại đợt cuối cùng chỉ để đăng ký các học phần tốt nghiệp (LVTN, TTTN, DCLV) dự kiến từ ngày 18/1 đến 19/1/2022. . 3- Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . 4- Đến thời điểm hiện tại, theo quy định thì không thể huỷ môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi thông báo sau của Phòng Đào tạo. . 5- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 (3) &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.. . 6- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc em học tốt. ."
+    },
+    {
+        "intent": "",
+        "message": "Dear [full_name]. . Em: [full_name]. . Mssv:[student_id]. . Ngành: Kỹ thuật điều khiển Tự động hóa hệ VLVH. . . . Mong Thầy cô xem qua file em gủi bên dưới ạ.. . EM CẢM ƠN"
+    },
+    {
+        "intent": "",
+        "message": "Đã trả lời. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em hiện đang học khoa Xây Dựng ngành Cầu Đường năm 3 .. . Em đăng kí môn thực tập ngoài trường CI3415 thì bị xoá do không đạt yêu cầu, em xem chương trình đào tạo thì thấy môn không có yêu cầu số tín chỉ tối thiểu.. . Cho em hỏi là điều kiện đăng kí môn CI3415 là gì ạ.. . Em xin cám ơn. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Về Chương trình Đào tạo, danh sách môn tương đương…, bạn vui lòng xem tại:. . aao.hcmut.edu.vn/Sinh viên/Chương trình Đào tạo. . Sinh viên thắc mắc về CTĐT vui lòng liên hệ về Khoa xin gặp Thầy/Cô Phụ trách về CTĐT để được tư vấn và hỗ trợ thêm.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "[student_id]. . \t. . Cho em xin phép hỏi là làm sao để đăng kí làm thí nghiệm hóa đại cương để hoàn thành môn này của học kì 211 ạ.. . Em xin cảm ơn ạ. . . ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào em,. . Hiện tại, Phòng Đào tạo không thể đăng ký học thí nghiệm trực tiếp theo yêu cầu của bạn.. . Sau tết Nguyên đán, Pdt sẽ tự động xếp học thí nghiệm cho Sinh viên chưa có lịch học. . SV vui lòng theo dõi mail và thời khóa biểu được cập nhật Mybk/Thông tin sinh viên/Xem thời khóa biểu sau khi trường được hoạt động lại bình thường (dự kiến trong tháng 3/2022). . Thân\""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ kính gửi quý thầy cô. Em tên là [full_name], MSSV: [student_id]. Dạ đợt đăng ký môn học đợt 3 vừa rồi trước khi có mail của phòng đào tạo em đã lỡ đổi nhóm lớp môn học của mình ạ nên em xin phép thầy, cô thông cảm và có thể cho phép em được ở lại nhóm lớp mới được không ạ. Em cám ơn thầy cô. Em chúc thầy cô nhiều sức khỏe!!!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng gửi mã số môn học, tên môn học, mã nhóm, lý do nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Kính gửi Phòng Đào Tạo. . Em tên là[full_name] Võ Nhật Tài, MSSV[full_name] [student_id]. . Đang là sinh viên khoa Kỹ Thuật Giao Thông.. . Hiện tại em đã đạt 125 chỉ và các môn tiên quyết.. . Nhưng theo chương trình đào tạo cần phải đạt ít nhất 126 chỉ trở lên mới được đăng kí nhận Luận Văn Tốt Nghiệp.. . Em bị thiếu 8 chỉ các môn anh văn, vì em đã đạt chuẩn ăn từng năm đối với sinh viên khóa K18 nên em không đăng kí học các môn Anh văn và dự tính thi CCNN để chuyển điểm. Nhưng tình hình dịch bệnh phức tạp, em không thể kịp thi CCNN để theo kịp tiến độ. Em đã đăng kí Luận Văn Tốt Nghiệp đợt 2 nhưng vẫn bị hủy vì không đủ điều kiện.. . Em kính mong Phòng Đào Tạo xem xét để giúp em được đăng kí Luận Văn tốt Nghiệp để kịp tiến độ học tập.. . Em xin chân thành cảm ơn!. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Nếu yêu cầu của em về ĐKMH đến nay vẫn chưa được xử lý, SV vui lòng gửi lại phản hồi khác để PDT kiểm tra và trả lời cho em. . SV lưu ý:. . 1- Sau khi kết thúc đợt 3 kết quả ĐKMH của bạn vẫn chưa được xử lý, bạn có thể làm đơn khiếu nại (kèm minh chứng nếu có), gửi qua trang bksi ghi rõ tiêu đề: “Khiếu nại ĐKMH HK212”, nội dung khiếu nại trình bày rõ lý do, ghi rõ tên, mã môn học và mã nhóm đã đăng ký (thời gian nhận yêu cầu khiếu nại đến hết ngày 14/01/2022). . 2- Vì bất kỳ lý do nào đến thời điểm hiện tại bạn vẫn chưa đăng ký được các học phần tốt nghiệp (LVTN, TTTN, DCLV), SV vui lòng đăng ký lại đợt cuối cùng chỉ để đăng ký các học phần tốt nghiệp (LVTN, TTTN, DCLV) dự kiến từ ngày 18/1 đến 19/1/2022. . 3- Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . 4- Đến thời điểm hiện tại, theo quy định thì không thể huỷ môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi thông báo sau của Phòng Đào tạo. . 5- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 (3) &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.. . 6- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc em học tốt. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Pdt kiểm tra số tín chỉ tích luỹ ngành của bạn: 125  126 Không đủ ĐK nhận LVTN. . Gởi đính kèm: file thống kê các môn chưa tích lũy + số tín chỉ đã tích lũy. . Bạn kiểm tra lại nghen. . Trường hợp SV học môn tương đương nhưng chưa được cập nhật, vui lòng gửi lại thêm 1 yêu cầu khác về việc xin cập nhật môn tương đương (ghi rõ tên và mã MH SV học, ở học kỳ nào? bao nhiêu điểm? và tương đương với môn học nào thuộc CTĐT của SV). . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em muốn hỏi để học song ngành theo hướng bằng thứ hai cần làm gì ạ?. . . . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem quy chế điều 28. . http://www.aao.hcmut.edu.vn/quy chế quy định/học vụ/- Quy chế đào tạo và học vụ bậc đại học, cao đẳng/điều 28. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ em chào thầy/cô,. . Em là [full_name], mssv [student_id].. . . . Hôm 29/12 em có gửi đơn xin mở lớp theo dạng ngoại lệ, môn Truyền Nhiệt (210701) lên bksi nhưng chưa được trả lời ạ.. . . . Em xin phép gửi lại đơn ạ, không biết còn kịp hạn để mở lớp không ạ?. . . . Kính mong Phòng Đào tạo giải quyết giúp em ạ.. . Em xin cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "\"\"\"Chào bạn. . [full_name] đã tiếp nhận đề nghị DKMH của bạn. . Bạn xem TKB cập nhật tại Mybk-xem TKB dự kiến sau ngày 14/1/2022. . Thân. . \"\"\""
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Thời gian vừa qua, em đã gửi đơn xin chuyển hệ VLVH, PDT đã tiếp nhận đơn và bảo sinh viên theo dõi cập nhật quyết định của nhà trường (bên PDT có thể kiểm tra lại đơn của em đã gửi vào ngày 22/12/2021). Hiện tại, đang có DKMH đợt 3 nhưng tình trạng của em vẫn đang ở trạng thái \"tạm dừng\", tuy vậy em cũng thử DKMH và đang có thời khóa biểu học chính thức. Như vậy, em vẫn tham gia lớp học bình thường hay sao? Hay em phải chờ quyết định của nhà trường cập nhật mới được học, và các môn học đăng ký trong đợt này có được giữ nguyên hay không? Xin PDT giải tỏa thắc mắc của em. Em xin cám ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Tình trạng của bạn đã chuyển sang VLVH, và cũng đã có tkb trên Mybk- thông tin sinh viên. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em hiện tại đã được chuyển sang hệ VLVH, em K15, MSSV [student_id]. Nhưng vẫn chưa đăng kí môn học lại được cho HK212. Kính mong pđt mở cho em đăng kí ạ"
+    }
+]

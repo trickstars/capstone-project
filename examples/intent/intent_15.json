@@ -1,0 +1,470 @@
+[
+    {
+        "intent": "",
+        "message": "Me2025: Thực tập kỹ thuật (CN thiết kế)"
+    },
+    {
+        "intent": "",
+        "message": "Đơn thiếu chữ ký xác nhận, bạn bổ sung"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ chào phòng đào tạo, cho em hỏi :. . Nhà trường thông báo tạm không xét chuẩn anh văn khi xét LVTN mà em đăng ký luận văn vẫn không được ạ, em tưởng lỗi nên đã chờ và đến nay vẫn không đăng ký được, mong trường phàn hồi để em yên tâm hoặc có hướng giải quyết ạ.. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Cho em hỏi môn CI3095 không được mở nữa vào các kỳ sau và môn tương đương là CI3241. . Theo CTĐT k19 ngành Kỹ thuật Xây Dựng thì môn CI3241 lại cùng nhóm các môn tự chọn với môn CI3061 (yêu cầu chọn 1 môn trong nhóm 3 môn tự chọn). . Mà môn CI3061 em đã qua môn rồi. . Vậy cho em hỏi em có được ghi điểm miễn môn CI3095 không hay phải qua môn CI3241 mới được ghi điểm miễn môn CI3095 ạ?. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Về Chương trình Đào tạo, danh sách môn tương đương…, bạn vui lòng xem tại:. . aao.hcmut.edu.vn/Sinh viên/Chương trình Đào tạo. . Sinh viên thắc mắc về CTĐT vui lòng liên hệ về Khoa xin gặp Thầy/Cô Phụ trách về CTĐT để được tư vấn và hỗ trợ thêm.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Hiện Tại em vừa mới nộp chứng chỉ av để đăng kí luận văn cho em hỏi la phòng đào tạo có thể xem xét sớm cho em được không ạ mssv của em là [student_id]. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính chào phòng đào tạo, em tên là [full_name], mssv [student_id],. . Hiện tại đang trong thời gian đăng ký môn học học kỳ 212, theo như mail của trường nói là trường không xét chuẩn anh văn nhận luận văn tốt nghiệp, nhưng hiện tại em không đăng ký được do bị dính chuẩn anh văn, như vậy là sao ạ? Kính mong phòng đào tạo hồi đáp sớm nhất giúp em, vì 29/12 đã hết hạn và em đã học hết môn chỉ còn luận văn tốt nghiệp thôi ạ.. . Em chân thành cảm ơn phòng đào tạo."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính chào quý thầy/cô! Em là [full_name] - MSSV [student_id], em muốn hỏi về vấn đề bị hủy môn học đã đăng ký cho HK 212. Ở đợt thi AVĐV em được 465 điểm, tức là đã qua Anh văn 1, nên học kỳ này em đăng ký môn Anh văn 2. Tuy nhiên, em không biết tại sao PĐT lại không đăng ký cho em vì lý do \"Thiếu môn học trước\". Mong quý thầy/cô giải đáp giúp em. Em xin chân thành cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính chào quý thầy/cô! Em là [full_name] - MSSV [student_id], em muốn hỏi về vấn đề bị hủy môn học đã đăng ký cho HK 212. Ở đợt thi AVĐV em được 465 điểm, tức là đã qua Anh văn 1, nên học kỳ này em đăng ký môn Anh văn 2. Tuy nhiên, em không biết tại sao PĐT lại không đăng ký cho em vì lý do \"Thiếu môn học trước\". Mong quý thầy/cô giải đáp giúp em. Em xin chân thành cảm ơn!"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . SV lưu ý:. . 1- Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . 2- Đã hết thời gian hiệu chỉnh và hủy môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi mail thông báo dự kiến trong tháng 1/2021 sau của PDT. . 3- Trường hợp chưa ĐKMH ở đợt 2 thành công, bạn vui lòng đợi mail thông báo về việc ĐKMH ở đợt 3 từ ngày 04/01/2022 ( lưu ý: Trong đợt 3, SV chỉ có thể bổ sung các môn học còn sĩ số, không hiệu chỉnh và hủy MH). . 4- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn &gt &gt  Đăng ký môn học &gt &gt  Đăng ký môn học HK212 - Kết quả đợt 2 &gt &gt  bấm vào mục Đăng ký mới &gt &gt  chọn Loại hình đăng ký &gt &gt  xem Lịch sử đăng ký.. . 5- Trong trường hợp sau khi kết thúc đợt 3 (từ ngày 4/1 đến 6/1/2022), mà kết quả xử lý ĐKMH không đúng, bạn có thể làm đơn khiếu nại (kèm minh chứng nếu có), gửi qua trang bksi ghi rõ tiêu đề: “Khiếu nại ĐKMH HK212”, nội dung khiếu nại trình bày rõ lý do, ghi rõ tên, mã môn học và mã nhóm đã đăng ký. . 6- SV xem TKB tại mybk/Thông tin SV/ Xem TKB (sẽ được cập nhật dự kiến trước ngày 3/1/2022). . Chúc các bạn học tốt!. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Qúy thầy cô cho em hỏi ạ.. . HK212 nhà trường xét tạm miễn CCAV để đăng kí môn học. Tuy nhiên, khi em đăng kí LVTN cho HK212 thì hệ thống báo:   B&gt chưa có CCAV ạ  /B&gt .. . Em xin hỏi cách khắc phục ạ!. . Em cảm ơn và chúc quý thầy cô nhiều sức khỏe!. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Kính gửi Phòng Đào Tạo. . Em tên là : [full_name]. . MSSV: [student_id]. . Vào 12h ngày 25/12/2021, em thi môn kỹ thuật số EE1009, nhưng vì lý do hệ thống của trường trục trặc nên ngày thi được dời đến 16h ngày 31/12/2021. Trong ngày 31/12/2021, vào lúc 12h-14h em thi môn Scada (EE3071) và từ 14h đến 16h em thi môn máy điện EE3009. Như vậy em phải ngồi thi 6 tiếng liên tục, điều này quá áp lực,căng thẳng và sức khỏe của em cũng không đáp ứng được.. . Vậy nên em viết đơn này, mong được hoãn thi môn kỹ thuật số EE1009 để chuyển ngày thi đến học kỳ kế hoặc phòng đào tạo có phương án nào khác không, có thể tư vấn giúp em.. . Em cảm ơn.. . Em có đính kèm hình ảnh lịch thi ở mục các tập tin đính kèm.. .   i&gt Học vụ ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem lại email PĐT đã gửi:. . Kế hoạch tổ chức thi học kỳ 1 năm 2021-2022. . mục 5. Hướng dẫn đăng ký hoãn thi Cuối kỳ, dự thi. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: Em không thực hiện đóng bảo hiểm y tế đúng thời hạn nhà trường quy định nên hiện tại trang thanh toán đã bị khoá.. . . . Em đã thử đăng ký thanh toán bhyt bên ngoài nhưng được yêu cầu thanh toán qua nhà trường.. . . . Anh/chị cho em hỏi có cách nào để đóng bổ sung bảo hiểm y tế năm 2022 không ạ?. . . . Em cảm ơn.. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Kính gửi PĐT,. . . . Em hiện tại đang là sinh viên năm 4. Hiện tại em có 1 môn học có số điểm khá thấp và có nhu cầu cải thiện nhưng trường không mở lớp nữa.. . . . Theo đó, em có thể đăng ký môn tương đương với môn này để cải thiện được không ạ (tức là thay thế điểm cũ bằng điểm mới)?. . . . Em xin chân thành cảm ơn ạ!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . - Sv muốn học cải thiện thì môn học phải có cùng một msmh vì khi này sẽ lấy điểm cao nhất tính.. . - Môn học cải thiện mà khác msmh thì vô nghĩa vì sẽ không lấy điểm cao nhất tính được vì hai msmh khác.. . - việc học lại môn thay thế do môn gốc không còn mở lớp và khi đạt môn này sẽ được quy về môn gốc và được ghi thành điểm miễn(12).. . Tóm lại khi tính đtbtl sẽ được tính nếu có cùng msmh như vd sau :. . -Môn A = 5,0 đ . .    Học lại cải thiện môn A =7,0 đ . . =&gt  sẽ lấy 7,0đ tính . . -Môn A= 5,0 đ . . Học lại môn B = 8,0đ (có trong môn thay thế/tương đương với A) , được quy về môn gốc B=A=12 đ . . =&gt  sẽ lấy 5,0đ tính vì điểm 12 sẽ không có tính vào đtbtl. . . Thân mến. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em chào PĐT,. . . . Em là sinh viên K2019, chương trình đào tạo của em là 128 tín chỉ. Em có một số thắc mắc như sau:. . . . Em muốn hỏi là trong một học kỳ em có thể đăng ký ít hơn 14 tín chỉ được không ạ?. . . . Cụ thể hơn, thì trường hợp giả sử nếu trong học kì cuối cùng, tức học kì 8, số tín chỉ em còn thiếu ít hơn 14 chỉ thì em có thể đăng ký ít hơn 14 chỉ có được không?. . . . Và nếu em đăng ký ít hơn 14 chỉ trong một học kỳ thì có gặp vấn đề gì không ạ?. . . . Rất mong PĐT có thể giải đáp các thắc mắc trên giúp em.. . . . Em xin chân thành cảm ơn. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Việc ĐKMH là tuỳ SV nhé. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính chào thầy/cô,. . . . Em là [full_name], MSSV [student_id].. . Theo thông báo của PĐT lúc đăng ký môn học, chứng chỉ anh văn xét LVTN được tạm thời không xét do dịch COVID-19.. . Tuy nhiên, từ khoảng 2 ngày nay, em không thể đăng ký LVTN và luôn bị báo là thiếu tiên quyết về Chứng chỉ anh văn.. . . . Mong thầy/cô xem xét giúp em ạ. . Em xin cảm ơn thầy/cô."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Kính gửi Nhà trường,. . . . Em tên là [full_name], MSSV [student_id].. . Em có đăng ký in bảng điểm để phục vụ cho việc thực tập vào ngày 20/12/2021, em cũng đã thanh toán BkPay vào cùng ngày, nhưng tới hôm nay thì tình trạng vẫn là \"Đang in\", mã phiếu là InBD[phone_number]2 (em có đính kèm hình ạ). Em không biết bảng điểm của em có bị vấn đề gì không ạ?. . . . Em kính mong được giúp đỡ ạ,. . [full_name]"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . hiện em không đăng kí môn học được em đã gửi đơn xin chuyển hệ mong pdt giải quyết dùm e để e đăng kí môn học không hết đợt không đăng kí được em xin cám ơn."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi phòng đào tạo.. . Em là sinh viên K14, hiện tại em đã chuyển qua hệ VLVH, trong kỳ này em chỉ còn đăng ký luận văn.. . Cho em hỏi là khi đăng ký luận văn mã môn CI4343 của em có thể chọn nhóm lớp nào được ạ. . (A01,B01), vừa qua em đã không đăng ký môn học 1 năm, nên quên cập nhập những quy định của trường.. . Mong PĐT hỗ trợ, để em hoàn thành chương trình của mình.. . Em xin cám ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Mã A01 nghen bạn. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ PĐT cho em hỏi học kỳ 212 không xét CCAV để làm LVTN sao nhiều trường hợp như em bị xoá đăng ký LVTN đợt 1 và giờ đăng ký đợt 2 vẫn không được ạ?. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại . . Theo thông báo : . . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. ."
+    },
+    {
+        "intent": "",
+        "message": "MSSV/MSGV: [student_id]  / \t[full_name] [full_name] Kính chào Quí Thầy/Cô,[full_name] [full_name] Em tên [full_name], MSSV: [student_id][full_name] [full_name] Em là sinh viên chuyển hệ từ [full_name] Quy sang VLVH[full_name][full_name] [full_name] Hiện tại em đang làm luận văn tốt nghiệp kì này và đang có đợt đăng kí môn học[full_name] Em viết mail này để xin thầy/cô kiểm tra giúp em tiến độ học tập của em còn thiếu những môn nào để em đăng kí học vào kì sau để hoàn thành sớm chương trình đào tạo ạ vì có những môn chuyển hệ phải học nhưng em đang không biết kiểm tra ở đâu[full_name] Em xin chân thành cảm ơn Thầy/Cô rất nhiều đã hỗ trợ em ạ! [full_name] [full_name] Chúc Quí Thầy/Cô sức khỏe[full_name] [full_name] [full_name]![full_name] [full_name] [full_name] [full_name]   i&gt Đăng ký môn học  /i&gt [full_name] [full_name] [full_name] [full_name]"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng email đến [email] . . Thân mến"
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em chào thầy/cô. . . . Em là Hoàng Kỳ Anh, sinh viên lớp VP17CDT.. . . . Em viết đơn này để xin phép được đăng kí lịch học môn TN Tin Học trong học kì hiện tại- học kì 211. Vì dịch nên lịch thí nghiệm của em bị xóa và em cũng sơ suất quên đăng kí lại khi có mail từ PĐT gửi. Hiện tại em vẫn đang học môn TN Tin Học cùng các bạn dù TKB của em chưa có nên em xin phép PĐT cập nhật TKB môn TN Tin Học  giúp em ạ.. . . . Em xin cảm ơn thầy/cô.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Đến thời điểm hiện tại, Pdt không thể giải quyết, bạn vui lòng đợi thông báo sau . . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Chào quý thầy cô pđt Đại học Bách Khoa TpHCM.. . . . Em tên Nguyễn [full_name], mssv [student_id], ngành Xây dựng dân dụng.. . . . Thầy cô cho em hỏi là kỳ sau em cần đăng ký bao nhiêu tín chỉ để không bị gọi đi nghĩa vụ ạ.. . Em cám ơn quý thầy cô đã xem và mong nhận được phản hồi từ thầy cô. Chúc quý thầy cô nhiều sức khỏe ạ. . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Việc ĐKMH là tùy sinh viên nhé, trường hợp không có TKB trong học kỳ, SV sẽ bị buộc tạm dừng, không được cấp giấy CNSV.. . Xem chi tiết quy chế tại đây:. . aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/ điều 26. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi quý thầy cô Phòng đào tạo,. . Em tên [full_name] (MSSV [student_id]), sinh viên khoa QLCN, khóa 2018. Cho phép em được hỏi là học kì này trường không xét Chứng chỉ Anh Văn cho việc đăng ký môn học đúng không ạ? Do hiện tại em vẫn chưa thể đăng ký được môn Luận văn tốt nghiệp (IM4317) với lý do chưa có chứng chỉ ngoại ngữ (như hình) ạ. . . Kính mong quý thầy cô xem xét giúp em! Em xin chân thành cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại . . Nếu vẫn không dkmh được bạn vui lòng báo lại PĐT. . . . Theo thông báo : . . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . \""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ em đăng kí môn Tư [full_name] [full_name] (msmh SP1037 ) nhưng bị ghi là chưa học môn Lịch sử đảng cộng sản VN ), trong khi em đã học môn Những nguyên lý cơ bản của chủ nghĩa Mác Lê-nin ( đã bao gồm môn Lịch sử đảng cộng sản VN). Em mong PĐT có thể cho em đăng kí được ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Môn 001001 tđ SP1003 tđ sp1031+sp1033 nha em, 001001 kg tđ sp1039, nên bạn không dkmh sp1037 là đúng rồi nghen. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi PĐT,. . Em tên là [full_name] - MSSV: [student_id], em có đăng ký môn học CO2007 - Kiến trúc máy tính Nhóm L01_L03 ngày 26/ 12/ 2021 10:28 thành công nhưng do lỗi kỹ thuật mạng nên môn học này đã bị hủy đăng ký vào 27/ 12/ 2021 07:43. (Ảnh đính kèm kết quả đăng ký). . . . Nay em làm đơn này xin phép PĐT hủy kết quả hủy đăng ký vào 27/ 12/ 2021 07:43 và giữ lại kết quả ĐKMH thành công vào 26/ 12/ 2021 10:28. Hiện tại em không đăng ký lại môn nào được trên mybk vì hệ thống báo lỗi đăng ký.. . . . Em xin chân thành cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Dạ hôm nay em có kiểm tra lại thì hệ thống có thêm thông báo Thiếu môn học trước   Nhóm [CO1023]: CO1023 - Hệ thống số (học trước)&gt  nên chưa đăng ký được, hôm trước thì không thấy báo nên vẫn đăng ký và hủy bình thường. Em xin phép close câu hỏi này ạ. . . Em xin cảm ơn quý thầy/cô."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Hiện tại ở học kì 211 em đã đăng ký hoãn thi vì lí do không đảm bảo trang thiết bị đáp ứng cho kỳ thi. . . . . Nhưng ở phần ghi lý do em không thể ghi vào được mà chỉ chọn được vào mục vì lí do trang thiết bị không đảm bảo ạ.. . . . Bên cạnh đó em thấy ở mục hoãn thi em đã đăng ký vẫn đang chờ xử lí. Vậy thì em không biết đến bao lâu sẽ có kết quả ạ. Vì nếu không hoãn thi được em sẽ phải đăng kí môn học ở học kì mới. . . . . Trong trường hợp em không được hoãn thi, thì em lại không thể đăng kí môn cơ lưu chất ở học kì chính vì lí do ( Bạn không được phép đăng ký vào nhóm lớp này - Xem thêm về Loại hình SV và Loại hình đào tạo). Còn kì dự thính thì đã hết slot đăng kí ạ. Em mong trường có thể hỗ trợ thêm một vài slot để em đăng kí được không ạ?. . . . Em xin chân thành cảm ơn quý thầy cô!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem lại email PĐT đã gửi:. . Kế hoạch tổ chức thi học kỳ 1 năm 2021-2022. . mục 5. Hướng dẫn đăng ký hoãn thi Cuối kỳ, dự thi. . - Vậy thì em không biết đến bao lâu sẽ có kết quả ạ. Vì nếu không hoãn thi được em sẽ phải đăng kí môn học ở học kì mới.. . . . =&gt  Hết đợt thi HK, PĐT hậu kiểm với [full_name] mới có kết quả cuối cùng.. . Thân mến. .  . ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi thầy/cô!. . Em tên là [full_name], MSSV [student_id], đợt đăng kí môn học kì 212, em có đăng kí môn luận văn tốt nghiệp MA4317, hệ thống hiển thị không đủ điều kiện chứng chỉ anh văn, theo thông báo pđt thì kì 212 không xét CCAV, vậy trường hợp của em phải giải quyết như thế nào để em có thể đăng kí được luận văn kì 212 ạ. . Mong nhận sự giúp đỡ từ thầy/cô. Em cảm ơn ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Kính gửi phòng đào tạo . . em tên là [full_name], MSSV: [student_id]. . Em xin phép phòng đào tạo cho em hỏi là tại sao em không đăng ký môn học được ạ? Hiện tại em đang cần đăng ký thi tiếng anh 2 kỹ năng nói và viết ạ. Em xin chân thành cảm ơn!. ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn. . AV Nói - viết: Bạn vui lòng liên hệ Trung tâm ngoại ngữ sau tết Nguyên đán để đăng ký thi .. . Thân. . \""
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác . giáo dục thể chất có 2 học phần :. . học phần 1 và học phần 2 . . Nếu muốn hoàn thành môn học  thì cần học 1 học phần . . Hay  phải học cả 2 học phần để hoàn thành môn . . Mong thầy cô giải đáp thắc mắc của em ạ . . Em cảm ơn ạ. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Theo quy định là em phải hoàn thành 3 môn GDTC khác mã số môn học. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ em đăng kí môn Tư tưởng [full_name] (msmh SP1037 ) nhưng bị ghi là chưa học môn Lịch sử đảng cộng sản VN, msmh SP1039 ), trong khi em đã học môn Những nguyên lý cơ bản của chủ nghĩa Mác Lê-nin, msmh 001001 ( đã bao gồm môn Lịch sử đảng cộng sản VN, SP1039).  Em mong PĐT có thể cho em đăng kí được ạ."
+    },
+    {
+        "intent": "",
+        "message": "\"\"\"Chào bạn. . Cô đã lấy dữ liệu chuyển bộ phận dkmh kiểm tra lại. . Bạn dkmh lại vào ngày là thứ 3 ngày 28/12. . Thân. . \"\"\""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em kính chào thầy cô,. . Năm nhất em có thi av đầu vào được 565 và em đã được cộng 8 chỉ tích lũy vào số số tín chỉ tích lũy.(qua 4 anh văn). . Đợt 1 em có đăng kí luận văn thành công, nhưng đợt 2, bị xóa, nên đợt 2 này em có đăng kí lại nhưng báo lỗi thiếu   Nhóm [CCAV_1]: CCAV_1 - Chứng chỉ ngoại ngữ_LVTN (tiên quyết)&gt . . Em mong phòng đạo tạo xem xét lại trường hợp của em.. . Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: kính thưa giảng viên. . em tên là [full_name] [student_id], vào ngày 26/12/2021 theo lịch thi thì em phải thi môn giải tích mạch nhưng vào lúc 7h sáng, nhưng vì tại nơi em xảy ra sự cố đột ngột nên nên không thể thi và đã lên mybk chọn hoãn thi (lúc 3 sáng cùng ngày). Tình huống hoãn thi gần giờ thi như em thì có được chấp nhận không ạ ?. . em cảm ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem lại email PĐT đã gửi:. . Kế hoạch tổ chức thi học kỳ 1 năm 2021-2022. . mục 5. Hướng dẫn đăng ký hoãn thi Cuối kỳ, dự thi. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Dạ phòng đào tạo gửi mail em là em liên hệ với giáo viên sắp môn thí nghiệm trùng lịch thi của em nhưng mà tuần trước em hỏi trên này thì giáo viên hỗ trợ nói phòng đạo tạo đã tiếp nhận nhưng tới giờ thời khóa biểu của em vẫn chưa sửa ạ mà thứ 6 này em có lịch thi và 2 môn đó hiện giờ chưa thay đổi thì cho em hỏi em cần đăng kí thủ tục gì để hủy học trực tiếp môn thí nghiệm ạ . . MSSV của em là [student_id] . . nhóm lớp thí nghiệm của em là VP01 bị trùng thi môn pháp văn 1 ạ"
+    },
+    {
+        "intent": "",
+        "message": "Chào em;. . Phòng Đào tạo sẽ xử lý hủy thí nghiệm nhé. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Em tên [full_name], MSSV: [student_id]. . . Em có đăng ký môn học Luận Văn tốt nghiệp Kỹ thuật Máy tính (CO4327) ở kỳ 212. Nhưng không biết vì lý do gì mà hệ thống báo là không đủ điều kiện đăng kí. Hệ thống báo thiếu môn CO2031 Kỹ thuật truyền số liệu (học trước). Trong khi chương trình đào tạo k18 môn đó chỉ là môn tự chọn. Em mong thầy/cô giải đáp giúp em. . . Em xin chân thành cảm ơn.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . . . Học vụ. . Em tên là : [full_name]. . MSSV : [student_id]. . Do em không hoàn thành học phí kì học 201 đúng hạn nên bị tạm dừng học. Nay em đã đóng học phí đủ, kính mong các thầy cô, Ban Giám Hiệu nhà trường xem xét để em được tiếp tục theo học ạ. Em xin cảm ơn ạ. . Em đã kiểm trai tại BKPay em thanh toán ngày 21/12 mà BKPay 24/12 mới hiện ạ, em có kiểm tra lại kèm hình ảnh cô kiểm tra lại giúp em ạ em xin cảm ơn cô nhiều ạ"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em thấy HK212 không xét CCAV quốc tế nhưng em lại không đăng ký LVTN được ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Tốt nghiệp . Kính gửi PDT,. . Em lên trang mybk.hcmut.edu.vn để đăng kí tốt nghiệp nhưng hệ thống không cho em cập nhật thông tin ( đề tài LVTN, điểm LVTN, nơi ở, hình ảnh,…). . . . Em đã đủ điều kiện tốt nghiệp rồi."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em đăng kí môn đồ án thiết kế - ME3139 nhưng hiện tại lớp đủ sĩ số rồi ạ, vậy giờ có thể mở thêm sĩ số cho em đăng kí được không ạ?. ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet. Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Thân mến"
+    },
+    {
+        "intent": "",
+        "message": "Em chào Thầy/Cô ạ,. . . . Em tên [full_name] MSSV: [student_id]. . . . Em có tra kết quả anh văn nói viết thi đợt tháng 12 được 215 điểm, nhưng có thể nhà trường chưa chuyển điểm nên em chưa có trong danh sách dự kiến để đăng kí tốt nghiệp. Thầy/Cô hỗ trợ em với ạ để em có thể kịp đăng kí trong đợt này.. . . . Em cảm ơn rất nhiều.. ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . PDT đã ghi nhận yêu cầu về đăng ký xét TN của bạn. SV vui lòng theo dõi email  và đăng ký tốt nghiệp tại trang mybk.hcmut.edu.vn/6.Đăng ký Tốt nghiệp. . Trường hợp sau ngày 30/12/2021 SV vẫn chưa nhận được mail hoặc chưa đăng ký tốt nghiệp được vui lòng gửi lại câu hỏi qua bksi để PDT kiểm tra và trả lời.. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn) &gt &gt  Sinh viên &gt &gt  Lịch học vụ &gt &gt  Lịch tốt nghiệp &gt &gt  tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Về tình trạng sinh viên, khi nào em có tên trong ds dự kiến tốt nghiệp, PDT sẽ tự động ra QD thu nhận cho bạn nhé. . Thân. . \""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính chào [full_name]. . Em là [full_name], mssv [student_id]. Theo thông báo của [full_name] thì sẽ tạm không xét Chứng chỉ anh văn trong đợt đăng ký luận văn học kỳ 212, nhưng em vẫn không được đăng ký do thiếu chứng chỉ ngoại ngữ. Mong [full_name] xem xét lại và mở cho em đăng ký luận văn học ký 212 ạ.. . Mong [full_name] giải quyết sớm giúp em. Em cảm ơn.. ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại . . Nếu vẫn không dkmh được bạn vui lòng báo lại PĐT. . . . Theo thông báo : . . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . \""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ em là [full_name]_[student_id]. . Hôm trước em có thấy pđt mail là không xét chứng chỉ anh văn để đăng ký luận văn tốt nghiệp đó á.. . Mà em đăng ký luận văn tốt nghiệp đợt 2 web báo lỗi là thiếu chứng chỉ anh văn ạ.. . Dạ không biết là web bị lỗi hay pđt mới thay đổi quy chế đăng ký ạ.. . Em hi vọng có thể xem xét để em dăng ký được luận văn tốt nghiệp ạ.. . Em chân thành cảm ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em là [full_name] sinh viên ngành kỹ thuật hàng không k18.. . Trong đợt 1 đăng ký môn học vừa rồi. Các môn chuyên ngành mà lớp chúng em đăng ký đều bị xóa và đợt 2 không mở lại.. . ﻿Cụ thể môn Điện - điện tử hàng không (TR4069), số lượng đăng ký là trên 20 sinh viên nhưng vẫn bị xóa và không mở lại. Dù theo kế hoạch giảng dạy thì đây là môn được mở vào học kỳ này. Em mong Phòng Đào Tạo cho hướng giải quyết, vì như thế sẽ ảnh hưởng đến việc ra trường của sinh viên năm 4 bọn em. Em cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . - Trường hợp chưa ĐKMH ở đợt 2 thành công, bạn vui lòng đợi mail thông báo về việc ĐKMH ở đợt 3 từ ngày 04/01/2022 ( lưu ý: Trong đợt 3, SV chỉ có thể bổ sung các môn học còn sĩ số, không hiệu chỉnh và hủy MH). . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em là [full_name] - MSSSV:[student_id],hiện đang là sinh viên Khoa Kỹ Thuật Giao Thông.. . Hiện tại số chỉ tích luỹ của em là 122 chỉ và ngày công tác xã hội là 12 ngày.. . E thiếu 4 chỉ so với số chỉ đăng kí [full_name] là 126 chỉ.. . Do tình hình dịch bệnh và e đang bị cách ly theo diện f1 em không thể hoàn thành việc thi chứng chỉ tiếng anh đạt đủ số chỉ.. . Em đăng kí LUận văn và nhận kết quả không thành công.. . Em mong nhà trường có thể tạo cơ hội cho e đăng kí môn này để đạt tiến độ học tập.. . Em hứa sẽ hoàn thành đúng chỉ tiêu học tập vào kì sau ạ.. . Em xin chân thành cảm ơn nhà trường."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Chào thầy/cô,. . Em là [full_name], sinh viên CK17CTM1, MSSV: [student_id].. . Học kỳ này em có thực hiện LVTN do thầy [full_name] hướng dẫn nhưng do dịch Covid-19 ảnh hưởng, em chưa kịp hoàn thành trong thời gian quy định và có xin phép để hoãn Bảo vệ.. . Em có gửi một mail đính kèm \"Phiếu đăng ký hoãn thi/vắng thi có phép do vắng thi cuối kỳ\" theo mẫu PDT-08 đã được thầy [full_name] và BCN Khoa Cơ Khí ký tên xác nhận vào ngày 22 và ngày 24 tháng 12 qua mail [email] để được PĐT xác nhận cho em hoãn Bảo vệ. Nhưng em vẫn chưa nhận được phản hồi nào. . . Em rất mong được phản hồi từ PĐT! Mong thầy/cô sớm phản hồi giúp em.. . Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Căn cứ trên tình hình phòng chống dịch Covid-19, theo lệnh của Ban giám hiệu, Phòng Đào tạo (PĐT) thông báo kế hoạch tổ chức thi học kỳ 1 năm học 2021-2022, ngày 08/11/2021 (Phòng Đào tạo đã gửi mail cho SV vào ngày 22/11/2021), có thông báo rõ về thời gian phản biện và bảo vệ Luận văn tốt nghiệp (LVTN) trong HK211 và có ghi rõ về các \" Trường hợp cần thiết, sẽ có một đợt bảo vệ bổ sung cho các trường hợp đề tài bị ảnh hưởng nghiêm trọng bởi tình hình dịch Covid-19\". SV vui lòng xem lại email sinh viên về thông báo báo này.. . - Về đơn xin hoãn LVTN HK211 của bạn, Phòng Đào tạo hiện không thể tiếp nhận được.. . SV vui lòng liên hệ khoa để được hỗ trợ và hướng dẫn để xin đăng ký bảo vệ trong đợt bổ sung theo đúng chỉ đạo của Ban Giám hiệu nhà trường.. . -Trường hợp Khoa không tiếp nhận trường hợp tổ chức đợt bảo vệ bổ sung, SV nhờ Khoa làm công văn đề nghị lên Phòng Đào tạo, ghi rõ lý do vì sao không thể tổ chức đợt bảo vệ LVTN bổ sung, để Phòng Đào tạo trình lên Ban Giám hiệu nhà trường xin ý kiến và phản hồi cho sinh viên.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Chào thầy cô!. . Em học chuyên ngành Cầu Đường có đăng kí luận văn tốt nghiệp học kì 212, nhưng khi đăng kí thì hệ thống báo em chưa học môn CI4031 (Quy hoạch mạng lưới giao thông) (hình ảnh đính kèm). Quy hoạch mạng lưới giao thông (CI4031) là môn của chuyên ngành Quy hoạch và Quản lý giao thông, không có trong chương trình đào tạo của chuyên ngành Cầu Đường. Mong thầy cô giải quyết giúp em ạ. Em cảm ơn thầy cô nhiều ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . - Trường hợp chưa ĐKMH ở đợt 2 thành công, bạn vui lòng đợi mail thông báo về việc ĐKMH ở đợt 3 từ ngày 04/01/2022 ( lưu ý: Trong đợt 3, SV chỉ có thể bổ sung các môn học còn sĩ số, không hiệu chỉnh và hủy MH). . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Dạ em chào thầy cô!. . Tình hình là em có học môn thay thế và làm việc với phòng đào tạo qua mail mà nhận được phản hồi là phải làm việc trực tiếp với pđt về việc chuyển điểm môn thay thế! Do tình hình dịch bệnh nên em đang ở quê nên không đến trực tiếp được! em nhận được  gợi ý từ các bạn là có giải quyết qua bksi!. . Em xin cám ơn"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em cần làm đơn gửi email [email]  để PĐT kiểm tra rồi trả lời em nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Mở môn học học kỳ 212 . em xin chào thầy cô, em thấy mail đăng kí môn học 212 là có mở gdtc nhưng khi e vào đăng kí thì không có môn học mở. Tất cả mã môn gdtc luôn ạ. Giờ e phải làm sao đây ạ, e có cần phải viết đơn mở lớp không ạ. Em xin cảm ơn đã trả lời thắc mắc của em."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem email PĐT đã mở: \"Nhắc lại : Mở lại các lớp GDTC, Thông báo bổ sung cho ĐKMH HK Chính + Dự thính 212 - lộ trình 1 + VLVH (Đợt 2). . Hộp thư đến. . . . - Ho Tro SV   support.stu@hcmut.edu.vn&gt . . Tệp đính kèm. . 14:18, Th 3, 28 thg 12 (1 ngày trước). . tới stu.all, . . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính chào thầy cô phòng đào tạo . . em kì này đk luận văn tốt nghiệp nhưng lúc đăng ký vẫn xét anh văn 1 nên em ko đăng ký được . . thầy cô cho em hỏi đó là lỗi hay là bản thân em bị thiếu tiếng anh thật ạ.. . tại e lúc vô trường em đã qua anh văn đầu vào và cứ học liên tiếp tới giờ nên không có học tiếng anh trong trường . . em cảm ơn thầy cô ạ. . . ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em chào thầy/cô,. . . . Em là sinh viên K18, em đang đăng ký môn luận văn tốt nghiệp cho học kỳ 212. Tuy nhiên em bị báo là không có chứng chỉ anh văn tiên quyết nên không đăng ký được. Trong khi trước đó đã có mail rằng học kỳ 212 sẽ không xét chứng chỉ anh văn tiên quyết, và một số bạn của em đã đăng ký được mà chưa nộp chứng chỉ anh văn.. . . . Mong nhà trường và quý thầy/cô hỗ trợ giúp em.. . . . Em xin cám ơn."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại . . Nếu vẫn không dkmh được bạn vui lòng báo lại PĐT. . . . Theo thông báo : . . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . \""
+    },
+    {
+        "intent": "",
+        "message": "Mở môn học học kỳ 212 . Em xin phép mở môn học theo đơn và xác nhận của giảng viên ạ. Mong phòng đào tạo đồng ý mở lớp ạ. Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Kính chào PDT trường Đại học Bách Khoa. . SV: [full_name] MSSV: [student_id]. . Cho em hỏi hiện em không đăng kí được luận văn tốt nghiệp(cdt), thông báo hiện em không đủ CCAV_1-Chứng chĩ ngoại ngữ. Theo em biết thì học kì này được miễn chứng chỉ ngoại ngữ.. . Mong PDT sớm xem xét thắc mắc của em.. . Xin cảm ơn.. . . ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại . . Nếu vẫn không dkmh được bạn vui lòng báo lại PĐT. . . . Theo thông báo : . . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . \""
+    },
+    {
+        "intent": "",
+        "message": "answer rate: Answer suits the needs / Câu trả lời đúng ý"
+    },
+    {
+        "intent": "",
+        "message": "B&gt Em sinh viên K18 chương trình tiên tiến , kỳ này em có 22 chỉ tính cả luận văn , điều kiện đăng ký luận văn em thỏa, nhưng gặp vấn đề như hình dưới,mong nhà trường giải đáp.. . . . . . Phía dưới là các môn thiếu của chương trình đại trà.. . . . . . . . . ."
+    },
+    {
+        "intent": "",
+        "message": "\"Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại . . Nếu vẫn không dkmh được bạn vui lòng báo lại PĐT. . . . Theo thông báo : . . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào.. . \""
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em chào Thầy/Cô,. . Trong học kỳ 211 vừa rồi, em có đăng ký môn học  Quản lý dự án xây dựng (CI1053) nhưng sau đó đã xin rút môn và được duyệt. Hôm nay em xem lại trên bảng điểm thì lại bị ghi là điểm 13 thay vì 17 ạ. Cho em hỏi bị vậy là sao ạ?. . Em cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Không sao nhé em, PĐT sẽ cập nhập sau.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Điểm tbtl của em là 6.5 và kì tới em đăng kí lvtn nên tổng số tín chỉ muốn học vượt quá 21 chỉ, có cách nào để em đăng kí hơn 21 chỉ không ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn. . Theo quy định là không được. . Thân"
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Kính gửi Phòng đào tạo.. . Em là [full_name] - MSSV [student_id] - sinh viên lớp QL18KD. . . Theo thông báo của Phòng đào tạo là tạm thời không xét chứng chỉ Anh văn quốc tế trong đợt này, nhưng khi đăng ký môn Luận văn Tốt nghiệp, em lại không đăng ký được. Lý do đưa ra là thiếu chứng chỉ Anh văn. . . Mong Phòng đào tạo xem xét giúp em.. . Em xin cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Hiện tại PĐT đã cập nhật lại các lỗi phát sinh khi đăng ký môn học. Nên SV vui lòng vào đăng ký lại. . Theo thông báo :. . - Các học phần đang học nhưng chưa có điểm, kể cả học dự thính, và SV không thuộc diện bị cấm thi, được xem là đạt và tích luỹ được tín chỉ để đăng ký các học phần, kể cả các học phần tốt nghiệp (TTNT, ĐCLV và LVTN). Các học phần tốt nghiệp sẽ được PĐT hậu kiểm sau khi có kết quả học tập để đảm bảo đúng điều kiện ràng buộc theo đúng quy định. SV nên cân nhắc kỹ, tự xác định năng lực học tập trước khi đăng ký các học phần tốt nghiệp để việc học tập đạt kết quả tốt nhất.. . - Nhà trường tạm thời không xét điều kiện : Chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm); Chuẩn CCAV quốc tế khi xét LVTN; Chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . - Nhà trường tạm thời xét từ đủ 6 ngày CTXH khi xét LVTN trong HK212.. . . . Thân chào."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Cho em hỏi về việc đăng kí môn học học kì 212 ạ. Em có nhận được mail là kì này được miễn Anh văn ạ, mà hiện tại em đăng kí môn học thì nó báo là thiếu chứng chỉ ngoại ngữ ạ, cho em hỏi giờ phải xử lý như thể nào ạ?. . Em chân thành cảm ơn."
+    },
+    {
+        "intent": "",
+        "message": "Tốt nghiệp . Cho em hỏi là mình học học kì hè thì có kịp cho đợt xét tốt nghiệp cuối tháng 8 để được tham gia lễ tốt nghiệp tháng 11 không ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem email PĐT đã gửi, việc đkmh tuỳ sv nhé:. . \"Thông báo ​​Kế hoạch học tập của học kỳ 2 và học kỳ hè năm học 2021-2022 ​và phần bù các học kỳ trước. . Hộp thư đến. . . . - Ho Tro SV   [email] \". . Thân mến"
+    },
+    {
+        "intent": "",
+        "message": "Học vụ . Em chào cô thầy ạ!. . Cho là [full_name] MSSV [student_id]. Em đã rút môn Kinh tế chính trị mã SP1033 nhưng tại sao lại bị điểm 13 ạ"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . SP1033\tK/tế chính trị [full_name]-Lênin\tL01-A\t2\t\t17\t13.00. . =&gt  Không sao nhé.. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Dạ thưa thầy cô PDT, . . Em tên: Lưu Thanh Huân MSSV: [student_id]. . Hiện em đã gần hoàn thành CTDT (do thiếu 2 môn AV) tuy nhiên em muốn nộp bằng AV và chuyển điểm lun nên em không ĐKMH HK212, PDT cho em hỏi khi bị tạm dừng em vẫn có thể nộp bằng AV và chuyển điểm được không ạ? . . Em cảm ơn nhiều ạ.. . Trân trong."
+    },
+    {
+        "intent": "",
+        "message": "Chào bạn,. . Việc ĐKMH là tùy sinh viên nhé, trường hợp không có TKB trong học kỳ, SV sẽ bị buộc tạm dừng, không được cấp giấy CNSV.. . Khi đủ điều kiện TN, SV có thể làm đơn xin thu nhận lại nhé.. . Xem chi tiết quy chế tại đây:. . aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/ điều 26. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Chào thầy cô ạ.. . Em tên [full_name], MSSV [student_id].. . Hiện tại theo tiến độ chương trình học thì em phải đăng ký thực tập ngoài trường, nhưng do thiếu tín chỉ nên em chưa thể đăng ký được. Vì đăng ký kỳ sau thì học trong kỳ chính khá bất tiện, mà đợi hè sau thì em sẽ trễ một năm. Vậy em thắc mắc không biết có thể đăng ký thực tập ngoài trường vào kỳ dự thính hè sắp tới được hay không, em cảm ơn ạ."
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng xem email PĐT đã gửi: \"Thông báo ​​Kế hoạch học tập của học kỳ 2 và học kỳ hè năm học 2021-2022 ​và phần bù các học kỳ trước. . Hộp thư đến. . . . - Ho Tro SV   support.stu@hcmut.edu.vn&gt . . 10:36, 27 thg 12, 2021 (2 ngày trước). . tới stu,. . -   Lưu ý: Thực hiện Nghị định 81/2021/NĐ-CP ngày 27/8/2021, đối với các SINH VIÊN CHÍNH QUY, chỉ tổ chức dạng dự thính cho các trường hợp HỌC LẠI (học từ lần thứ hai).\". . Thân mến"
+    },
+    {
+        "intent": "",
+        "message": "Dạ cho em xin nộp đơn chuyển hệ từ Chính quy sang vừa học vừa làm. em mong là PĐT hồi âm sớm để em kịp đăng kí Luận văn ạ. em xin  cám ơn. . . ."
+    },
+    {
+        "intent": "",
+        "message": "\"\"\"Chào em,. . PDT đã tiếp nhận đơn chuyển qua hệ VLVH của bạn, bạn theo dõi tình trạng sinh viên và quyết định được cập nhật tại:. . Mybk/Thông tin sinh viên/Tình trạng. . Trường hợp nếu SV đã đủ điều kiện tốt nghiệp của hệ VLVH, sau khi có QD chuyển hệ được cập nhật tại mybk/Thông tin SV có thể gửi câu hỏi qua bksi để xin đăng ký xét tốt nghiệp bổ sung. . SV theo dõi mail và lịch học vụ để vào đăng ký môn học cho HK212 nếu còn nợ MH, vào đợt 3 (từ ngày 4/1/2022). . Thân\"\"\""
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác: Dạ, em chào thầy/cô. . . . Em là SV K19-Khoa KTXD. . Dạ thầy/cô cho em hỏi là em có nghe bảo là CTĐT khoá tụi em sẽ có hệ Kỹ Sư nhưng hiện tại chỉ còn vài học kì nữa là kết thúc chương trình học của tụi em rồi mà vẫn chưa thấy trường/khoa phổ biến đến với SV ạ.. . . . Em rất mong nhận được sự tư vấn hoặc hỗ trợ từ phía thầy/cô.. . . . Trân trọng!"
+    },
+    {
+        "intent": "",
+        "message": "Chào em,. . Em vui lòng liên hệ [full_name], GVCN nhé. . Thân mến. ."
+    },
+    {
+        "intent": "",
+        "message": "Yêu cầu khác . Cho em hỏi mình cần làm gì để xin được tăng sỉ số sinh viên của lớp học môn Kỹ thuật chế tạo 3 (ME3201) lớp dự thính kì 212. Vì còn nhiều bạn như em cũng chưa đăng kí được ạ.. . Danh sách sinh viên chưa đăng kí được môn Kỹ thuật chế tạo 3. . https://docs.google.com/spreadsheets/d/1T0S2RrUuMHKZsEmINLVr_fEeA5TXbXIBfbbrFdLdiWM/edit#gid=0. ."
+    },
+    {
+        "intent": "",
+        "message": "\"\"\"Chào bạn,. . Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của google meet (tối đa 100 tính luôn Giảng Viên). . Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . Chúc bạn học tập tốt nhé.. . Thân.. . \"\"\""
+    },
+    {
+        "intent": "",
+        "message": "Đăng ký môn học . Em chào Phòng Đào Tạo,. . Em là sinh viên khóa K2019 khoa Máy Tính.. . . . Theo chương trình đào tạo của ngành em khóa này, học phần Thực tập ngoài trường được thêm vào học kỳ chính 212 (ảnh đính kèm 1).. . . . Nhưng theo email mới nhất về Kế hoạch học tập 2021-2022 thì em có thông tin là học phần Thực tập sẽ được tổ chức trong HK213 nhưng số tín chỉ học phí được cộng vào HK212 (ảnh đính kèm 2).. . . . Vậy em muốn đi thực tập vào học kỳ hè thì đăng ký môn Thực Tập ngoài trường vào đợt đăng ký cho HK212 hay HK213 để được tính học phí như trên ạ?. . . . Em xin chân thành cảm ơn !"
+    }
+]

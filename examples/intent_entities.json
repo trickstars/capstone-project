@@ -1,0 +1,794 @@
+{
+    "báo lỗi": {
+        "entities": [
+            "dịch vụ gì",
+            "loại lỗi gì",
+            "quá trình gì"
+        ]
+    },
+    "bổ sung bảo hiểm y tế": {
+        "entities": [
+            "lý do gì",
+            "thời hạn bao lâu",
+            "hình thức gì"
+        ]
+    }, 
+    "cải thiện điểm": {
+        "entities": [
+            "hình thức gì",
+            "môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "cảm ơn": {
+        "entities": [
+            "lĩnh vực gì",
+            "ai"
+        ]
+    },
+    "cập nhật điểm": {
+        "entities": [
+            "môn học gì",
+            "học kỳ nào",
+            "mã môn học gì"
+        ]
+    },
+    "cập nhật dữ liệu": {
+        "entities": [
+            "loại dữ liệu gì"
+        ]
+    },
+    "cập nhật lịch thi": {
+        "entities": [
+            "môn học gì",
+            "học kỳ nào",
+            "thời gian nào"
+        ]
+    },
+    "cập nhật quả đăng kí môn học": {
+        "entities": [
+            "môn học gì",
+            "học kỳ nào",
+            "đợt mấy"
+        ]
+    },
+    "cập nhật thời khoá biểu": {
+        "entities": [
+            "môn học gì",
+            "học kỳ nào",
+            "lớp học nào"
+        ]
+    },
+    "cập nhật thông tin sinh viên": {
+        "entities": [
+            "loại thông tin gì",
+            "lý do gì"
+        ]
+    },
+    "chuyển điểm": {
+        "entities": [
+            "môn học gì",
+            "học kỳ nào",
+            "mã môn học gì",
+            "lý do gì"
+        ]
+    },
+    "chuyển hệ": {
+        "entities": [
+            "hệ đào tạo nào",
+            "lý do gì"
+        ]
+    },
+    "chuyển nhóm": {
+        "entities": [
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "học kỳ nào",
+            "mã môn học gì",
+            "lý do gì"
+
+        ]
+    },
+    "đăng kí gia hạn": {
+        "entities": [
+            "lĩnh vực gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "đăng kí in bảng điểm": {
+        "entities": [
+            "số lượng bao nhiêu",
+            "hình thức gì",
+            "thời gian nào",
+            "lý do gì",
+            "học kỳ nào"
+        ]
+    },
+    "đăng kí nhận bảng điểm": {
+        "entities": [
+            "hình thức gì",
+            "phương thức thanh toán gì",
+            "lý do gì",
+            "học kỳ nào"
+        ]
+    },
+    "đăng kí thi tiếng Anh": {
+        "entities": [
+            "chương trình thi gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "đăng kí công tác xã hội": {
+        "entities": [
+            "hoạt động gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "đăng kí môn học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "mã nhóm/lớp gì",
+            "đợt mấy"
+        ]
+    },
+    "đăng kí xét tuyển": {
+        "entities": [
+            "khoa gì",
+            "ngành gì",
+            "thời gian nào",
+            "phương thức xét tuyển gì"
+        ]
+    },
+    "đề nghị hỗ trợ": {
+        "entities": [
+            "lĩnh vực gì",
+            "lý do gì"
+        ]
+    },
+    "đề nghị hỗ trợ thực tập": {
+        "entities": [
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "đổi mật khẩu": {
+        "entities": [
+            "lý do gì"
+        ]
+    },
+    "gia hạn đóng học phí": {
+        "entities": [
+            "số tiền bao nhiêu",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "gia hạn thời gian đào tạo": {
+        "entities": [
+            "hệ đào tạo gì",
+            "thời gian nào",
+            "lý do gì",
+            "khoá gì",
+            "khoa gì"
+        ]
+    },
+    "gia hạn tốt nghiệp": {
+        "entities": [
+            "học kỳ nào",
+            "thời gian nào",
+            "lý do gì",
+            "khoa gì",
+            "khoá gì"
+        ]
+    },
+    "hỗ trợ học tập": {
+        "entities": [
+            "lĩnh vực gì",
+            "lý do gì"
+        ]
+    },
+    "hỗ trợ học trực tuyến": {
+        "entities": [
+            "vấn đề gì",
+            "hình thức gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "hỗ trợ kiểm tra": {
+        "entities": [
+            "vấn đề gì",
+            "hình thức gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "hỗ trợ luận văn": {
+        "entities": [
+            "vấn đề gì",
+            "hình thức gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "hỗ trợ tốt nghiệp": {
+        "entities": [
+            "vấn đề gì",
+            "hình thức gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "hỗ trợ trễ hạn": {
+        "entities": [
+            "vấn đề gì",
+            "hình thức gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "hoãn thi": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "hỏi cách tính điểm": {
+        "entities": [
+            "loại điểm gì",
+            "khoá gì",
+            "hệ số mấy"
+        ]
+    },
+    "hỏi địa điểm": {
+        "entities": [
+            "địa điểm gì",
+            "mục đích gì"
+        ]
+    },
+    "hỏi điều kiện nhận luận văn": {
+        "entities": [
+            "khoa gì",
+            "khoá gì",
+            "hê đào tạo nào"
+        ]
+    },
+    "hỏi điều kiện nộp luận văn": {
+        "entities": [
+            "khoa gì",
+            "khoá gì",
+            "hê đào tạo nào"
+        ]
+    },
+    "hỏi điều kiện tốt nghiệp": {
+        "entities": [
+            "khoa gì",
+            "khoá gì",
+            "hê đào tạo nào"
+        ]
+    },
+    "hỏi hình thức học": {
+        "entities": [
+            "hình thức gì",
+            "hê đào tạo nào"
+        ]
+    },
+    "hỏi học phí": {
+        "entities": [
+            "số tín chỉ bao nhiêu",
+            "khoá gì",
+            "hê đào tạo nào"
+        ]
+    },
+    "hỏi lịch học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào"
+        ]
+    },
+    "hỏi lịch thi": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "đợt thi nào"
+        ]
+    },
+    "hỏi môn tương đương": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "khoá gì",
+            "hệ đào tạo nào",
+            "khoá gì"
+        ]
+    },
+    "hỏi phòng thi": {
+        "entities": [
+            "môn học gì",
+            "học kỳ nào",
+            "thời gian nào",
+            "đợt thi nào"
+        ]
+    },
+    "hỏi quy trình học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "khoá gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi quyết định tuyển sinh": {
+        "entities": [
+            "học kỳ nào",
+            "khoá gì",
+            "hê đào tạo nào",
+            "hình thức gì"
+        ]
+    },
+    "hỏi thời gian đăng kí môn học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "mã nhóm/lớp gì",
+            "đợt mấy"
+        ]
+    },
+    "hỏi thời gian xét tốt nghiệp": {
+        "entities": [
+            "khoá gì",
+            "khoa gì",
+            "học kỳ nào",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi thông tin bảo hiểm y tế": {
+        "entities": [
+            "khoá gì",
+            "khoa gì",
+            "học kỳ nào",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi thông tin đào tạo": {
+        "entities": [
+            "khoá gì",
+            "khoa gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi thông tin dự thi": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "đợt thi nào"
+        ]
+    },
+    "hỏi thông tin khoa": {
+        "entities": [
+            "lĩnh vực gì",
+            "khoa gì"
+        ]
+    },
+    "hỏi thông tin khoá học": {
+        "entities": [
+            "khoá học gì",
+            "thời gian nào"
+        ]
+    },
+    "hỏi thông tin lớp học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "mã nhóm/lớp gì",
+            "khoa gì"
+        ]
+    },
+    "hỏi thông tin môn học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "khoa gì",
+            "khoá gì"
+        ]
+    },
+    "hỏi thông tin sinh viên": {
+        "entities": [
+            "loại thông tin gì",
+            "mục đích gì"
+        ]
+    },
+    "hỏi thông tin tốt nghiệp": {
+        "entities": [
+            "thời gian nào",
+            "học kỳ nào",
+            "khoa gì",
+            "khoá gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi thủ tục hành chính": {
+        "entities": [
+            "loại thủ tục gì",
+            "mục đích gì"
+        ]
+    },
+    "hỏi thủ tục nhập học": {
+        "entities": [
+            "phương thức xét tuyển gì",
+            "học kỳ nào",
+            "khoa gì",
+            "khoá gì"
+        ]
+    },
+    "hỏi tình trạng tốt nghiệp": {
+        "entities": [
+            "học kỳ nào",
+            "khoa gì",
+            "khoá gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi về cảnh cáo học vụ": {
+        "entities": [
+            "nguyên nhân gì",
+            "khoa gì",
+            "khoá gì"
+        ]
+    },
+    "hỏi về chuẩn ngoại ngữ": {
+        "entities": [
+            "ngoại ngữ gì",
+            "mục đích gì",
+            "khoá gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi về chương trình đào tạo": {
+        "entities": [
+            "khoa gì",
+            "khoá gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi về ngày công tác xã hội": {
+        "entities": [
+            "lĩnh vực gì",
+            "mục đích gì",
+            "hoạt động gì"
+        ]
+    },
+    "hỏi về quy định quy chế": {
+        "entities": [
+            "lĩnh vực gì",
+            "học kỳ nào"
+        ]
+    },
+    "hỏi về số tín chỉ": {
+        "entities": [
+            "loại gì",
+            "khoa gì",
+            "khoá gì",
+            "môn học gì",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi về thủ tục": {
+        "entities": [
+            "loại thủ tục gì",
+            "mục đích gì"
+        ]
+    },
+    "huỷ bảo lưu": {
+        "entities": [
+            "lĩnh vực gì",
+            "lý do gì"
+        ]
+    },
+    "huỷ đăng kí khoá học": {
+        "entities": [
+            "thời gian nào",
+            "hình thức gì",
+            "khoá học gì",
+            "lý do gì"
+        ]
+    },
+    "huỷ đăng kí môn học": {
+        "entities": [
+            "môn học gì",
+            "hình thức gì",
+            "mã môn học gì",
+            "lý do gì"
+        ]
+    },
+    "huỷ đơn": {
+        "entities": [
+            "loại đơn gì",
+            "lý do gì"
+        ]
+    },
+    "huỷ hoãn thi": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "huỷ học kì": {
+        "entities": [
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "huỷ lớp": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "mã nhóm/lớp gì",
+            "lý do gì"
+        ]
+    },
+    "huỷ môn học": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "khiếu nại điểm": {
+        "entities": [
+            "loại điểm gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "khôi phục mật khẩu": {
+        "entities": [
+            "loại mật khẩu gì",
+            "lý do gì"
+        ]
+    },
+    "kiểm tra danh sách dự kiến tốt nghiệp": {
+        "entities": [
+            "học kỳ nào",
+            "khoá gì",
+            "khoa gì"
+        ]
+    },
+    "kiểm tra danh sách nhận học bổng": {
+        "entities": [
+            "học kỳ nào",
+            "khoa gì"
+        ]
+    },
+    "kiểm tra danh sách tốt nghiệp": {
+        "entities": [
+            "học kỳ nào",
+            "khoá gì",
+            "khoa gì"
+        ]
+    },
+    "kiểm tra điểm": {
+        "entities": [
+            "loại điểm gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "kiểm tra email": {
+        "entities": [
+            "lý do gì"
+        ]
+    },
+    "kiểm tra mã số": {
+        "entities": [
+            "loại mã số gì",
+            "lý do gì"
+        ]
+    },
+    "kiểm tra nợ": {
+        "entities": [
+            "loại nợ gì",
+            "lý do gì"
+        ]
+    },
+    "liên kết tài khoản ngân hàng": {
+        "entities": [
+            "mục đích gì"
+        ]
+    },
+    "mở thời khoá biểu": {
+        "entities": [
+            "khoá gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "nhận giấy tờ": {
+        "entities": [
+            "loại giấy tờ gì",
+            "thời gian nào"
+        ]
+    },
+    "nộp đơn": {
+        "entities": [
+            "loại đơn gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "nộp giấy tờ": {
+        "entities": [
+            "loại giấy tờ gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "nộp hồ sơ": {
+        "entities": [
+            "loại hồ sơ gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "phúc khảo điểm": {
+        "entities": [
+            "loại điểm gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì",
+            "hình thức gì"
+        ]
+    },
+    "quy đổi ngày công tác xã hội": {
+        "entities": [
+            "hoạt động gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    },
+    "rút môn học": {
+        "entities": [
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì",
+            "hình thức gì"
+        ]
+    },
+    "tải biểu mẫu": {
+        "entities": [
+            "loại biểu mẫu gì",
+            "lý do gì"
+        ]
+    },
+    "tạm dừng học": {
+        "entities": [
+            "khoá gì",
+            "khoa gì",
+            "thời gian nào",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "tăng sĩ số lớp": {
+        "entities": [
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì",
+            "số lượng bao nhiêu"
+        ]
+    },
+    "thắc mắc mẫu đơn": {
+        "entities": [
+            "loại biểu mẫu gì",
+            "mục đích gì"
+        ]
+    },
+    "thanh toán học phí": {
+        "entities": [
+            "phương thức gì",
+            "số tiền bao nhiêu",
+            "hệ đào tạo nào",
+            "học kỳ nào",
+            "khoá gì"
+        ]
+    },
+    "thay đổi đăng kí môn học": {
+        "entities": [
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "xét chuẩn sinh viên": {
+        "entities": [
+            "loại chuẩn gì",
+            "khoa gì",
+            "khoá gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "xét học bổng": {
+        "entities": [
+            "loại học bổng",
+            "khoa gì",
+            "khoá gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "xét miễn": {
+        "entities": [
+            "môn học gì",
+            "mã môn học gì",
+            "hệ đào tạo"
+        ]
+    },
+    "xin mở lớp": {
+        "entities": [
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "xin thi bù": {
+        "entities": [
+            "đợt thi nào",
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào",
+            "lý do gì"
+        ]
+    },
+    "yêu cầu bổ sung thông tin môn học": {
+        "entities": [
+            "loại thông tin gì",
+            "mã nhóm/lớp gì",
+            "môn học gì",
+            "mã môn học gì",
+            "học kỳ nào"
+
+        ]
+    },
+    "yêu cầu giấy tờ": {
+        "entities": [
+            "loại giấy tờ gì",
+            "thời gian nào",
+            "lý do gì"
+        ]
+    }
+
+}
