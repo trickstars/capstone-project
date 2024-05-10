@@ -1,0 +1,394 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em là [full_name] MSSV [student_id], khoa Khoa học Máy tính, em đang học môn Mô hình hoá toán học (CO2011) trong kỳ này, em đăng ký môn thực tập tốt nghiệp (CO3313) cho kỳ hè nhưng đăng ký không thành công và nhận được thông báo là thiếu môn học trước Mô hình hoá toán học (CO2011),em có mail cho cô [full_name] nhưng không nhận được phản hồi,  mong thầy cô có thể xem xét lại giúp em ạ, kỳ trước em cũng không đăng ký được và đi thực tập nhưng sau đó kết quả không được chấp nhận, em cảm ơn ạ. . . .",
+            "Chào em;. . . . Em vào đăng kí môn học kiểm tra lại nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Em là sinh viên k18. Do cuối năm nay em sẽ phân ngành nên em muốn nộp chứng chỉ anh văn để chuyển điểm phân ngành. Em có thể thi rồi nộp bằng toeic 2 kĩ năng được không? vì theo thông tin em biết thì từ k14 trở đi đã yêu cầu bằng 4 kĩ năng.",
+            "Chào bạn,. . Bạn vui lòng xem chi tiết quy định về ngoại ngữ tại trang web:. . www.aao.hcmut.edu.vn-  sinh viên - Quy chế -  Quy chế học vụ bậc đại học -  Phụ lục 1.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ - Đại học - Cao đẳng chính quy   Khác ... . Em chào PĐT,. . Em là [full_name] khóa K17 Quản lý công nghiệp. Theo em được biết là khoa em sau 2 năm học tập tại cs2 thì sẽ chuyển lên cs1 để tiếp tục việc học. Nhưng năm học sắp tới 2019-2010 vẫn chưa có quyết định khoa quản lý công nghiệp khóa K17 sẽ học tại cs1 hay cs2.. . Em mong muốn được PĐT thông tin chắc chắn để em có thể sắp xếp nơi ở thuận tiện cho năm học tới ạ.. . Xin cảm ơn.",
+            "Chào bạn,. . Hiện tại chưa có thông báo mới về địa điểm học của sv năm học 2019-2020. Ban vui lòng đợi thông báo mới.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em là [full_name] MSSV:[student_id]. Các ngày gần đây khi em vào trang web đăng ký môn học của trường thì đều gặp tình trạng trang bị sập, trong khi ngày hết hạn đăng ký môn học đã gần kề, mong trường giải quyết nhanh chóng giúp em và các bạn, em cảm ơn.. . . .",
+            "Chào em; . . . . Em vào đăng kí lại nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . AV2 em bị rớt môn, em đăng kí chuyển điểm AV và chuyển thành công môn AV2, cho em hỏi vậy em có được xét là qua môn AV2 không hay phải học lại ạ? Em sắp tốt nghiệp, như vậy có đủ điều kiện xét tốt nghiệp không ạ?",
+            "Chào bạn,. . Điểm chuyển 3 môn av1+2+3 của bạn đã được cập nhật vào điểm tích lũy chung, ban xem tại:. . Mybk-  Thông tin sinh viên -  Điểm chuyển.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . cho em hỏi là hiện tại em đã qua anh văn 1 , nhưng em chưa học anh văn 2 , 3 , 4 .Vậy nếu em thi trên 500 điểm toeic ở kỳ thi kiểm tra trình độ tiếng anh sắp tới thì em có được miễn học anh văn hay không .. .",
+            "Chào bạn,. . Kết quả điểm thi kiểm tra trình độ tiếng anh chỉ có giá trị xét đạt chuẩn anh văn của từng năm, không có giá trị quy đổi điểm các môn anh văn.. . Bạn vui lòng xem quy định chi tiết tại :. . www.aao.hcmut.edu.vn-  sinh viên -  Ngoại ngữ -  Kiêm tra trình độ tiếng anh mỗi học kỳ.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ - Đại học - Cao đẳng chính quy   Phúc tra bài thi .",
+            "Học vụ - Đại học - Cao đẳng chính quy   Phúc tra bài thi .  Em chào phòng đào tạo, em tên là [full_name], MSSV [student_id], học sinh k18. .  Em có việc muốn trình bày là: bài thi đại số tuyến tính cuối học kì 181 (09/01/2019 tại phòng 406H2 lúc 10h10p) của em làm rất tốt nhưng kết quả cuối cùng lại được 1 điểm. trong lúc đó có 1 bạn cùng phòng cùng tên với em là [full_name] [student_id] bỏ môn học này nên thi 1/3 thời gian thì đi về nhưng lại được 9,5 điểm. Em sợ có sự nhầm lẫn, em đã phúc khảo ngay khi có điểm, và hiện tại bây giờ mới công bố là không điều chỉnh. Em thực sự rất muốn xem lại bài thi của mình.. .  Kính mong phòng đào tạo có thể xem xét giúp em. em cảm ơn",
+            "Học vụ - Đại học - Cao đẳng chính quy   Phúc tra bài thi .  Em chào phòng đào tạo, em tên là [full_name], MSSV [student_id], học sinh k18. .  Em có việc muốn trình bày là: bài thi đại số tuyến tính cuối học kì 181 (09/01/2019 tại phòng 406H2 lúc 10h10p) của em làm rất tốt nhưng kết quả cuối cùng lại được 1 điểm. trong lúc đó có 1 bạn cùng phòng cùng tên với em là [full_name] [student_id] bỏ môn học này nên thi 1/3 thời gian thì đi về nhưng lại được 9,5 điểm. Em sợ có sự nhầm lẫn, em đã phúc khảo ngay khi có điểm, và hiện tại bây giờ mới công bố là không điều chỉnh. Em thực sự rất muốn xem lại bài thi của mình.. .  Kính mong phòng đào tạo có thể xem xét giúp em. em cảm ơn",
+            "Chào bạn,. . Kết quả phúc tra này do giáo viên ký và chuyển trả về Phòng đào tạo.. . Nếu bạn mốn xem lại bài củ mình thì vui lòng liên hệ trực tiêp văn phòng Khoa - bộ môn Toán - gặp Thầy [full_name] trình bày để được Thầy hỗ trợ.. . Thân. (Đính kèm file ảnh phiếu trả kết quả phúc tra của em)"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: em muốn hỏi em muốn mượn lại bằng tốt nghiệp THPT thì phải làm sao ạ ?. .",
+            "Chào bạn,. . Bằng PTTH bạn nộp tại trường là bản sao không phải là bản chính nên không cho mượn lại được.. . NẾu bạn mất bằng thì bạn vui lòng liên hệ trực tiếp sở giáo dục để xin câp lại.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em là [full_name] MSSV:[student_id] Lớp CK18CK05. . Em cập nhập thông tin tài khoản trên ocb sau ngày 12/4 thì học bổng có được chuyển về tài khoản không ạ.Em cảm ơn.",
+            "Chào bạn,. . Được bạn nhé!nếu bạn có tên trong ds nhận học bổng. . . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "1.  I Em muốn được hỏi rõ hơn về việc tính điểm với các môn học dự thích và học lần 2.. .  . Giả sử môn giải tích 1 em học lần 1 tổng kết là 2.5 và điểm TBTL học kì là 5.0. thì sau khi em học cải thiện điểm giải tích 1 lên 8.0 sao mà trên bảng điểm TBTL của kì đó vẫn là 5.0 ạ. nên em mong được giải thích rõ hơn về việc học cải thiện ạ. . 2. em hỏi về việc điểm 13.. . em vắng thi cuối kì nên bị điểm 13. vậy là tổng kết là 0.0. nhưng liệu điểm 13 khác điểm 0 ở chỗ nào ạ.. . 3. em muốn hỏi xem liệu các môn em học lần 1 điểm thấp và bị điểm 13 thì sau khi học lại kết quả tốt hơn thì khi tốt nghiệp các điểm xấu đó có ghi vào trong bảng điểm không ạ",
+            "Chào bạn,. . Điểm môn học trong từng học kỳ sẽ không thay đổi trong suốt quá trình học, khi bạn học cải thiện lai 1 môn thì điểm thi mới được tính trong Hk mới, không thay đổi điểm trong những Hk trước đó, chỉ thay đổi điểm tích lũy chung của bạn.. . Điểm 13 là điểm vắng thi chứng tỏ bạn tự ý bỏ thi môn đó, ảnh hưởng khi cứu xét học vụ sau này.. . Từ K2015 khi tốt nghiệp ra trường bảng điểm tốt nghiệp sẽ chỉ in một cột điểm đạt cao nhất của từng môn học.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Em chào thầy/cô, em là sinh viên K18, hiện tại em đã nhận được mail thông báo phòng đào tạo đã nhận được bản sao chứng chỉ Ielts của em do trung tâm IDP gửi về và yêu cầu em khai báo online. Tuy nhiên, khi em khai báo thì web lại thông báo \"tình trạng sẽ được cập nhật hợp lệ khi phòng đào tạo nhận được bản sao\". . . Em mong các thầy cô có thể sớm giải thích và giải quyết vấn đề này. . . Em cảm ơn.. . [full_name], MSSV:[student_id], [full_name].",
+            "Chào bạn,. . Khi bạn chọn loại chứng chỉ ngoại ngữ khai báo thì chương trình sẽ tự động hiển thị thông báo quy định tương ứng với loại chứng chỉ để sinh viên hoàn tất quy trình nộp theo quy định.. . Trường hợp của bạn là bạn không đọc quy định về quy trình trước khi nộp chứng chỉ ngoại ngữ nên bạn đang làm ngược quy trình, bây giờ bạn hãy vào trang web hoàn tất quy trình khai báo online để nhà trường xác nhận chứng chỉ cho bạn.. . Bạn vui lòng vào trên web xem các quy định về ngoại ngữ để nắm rõ quy định:. . www.aao.hcmut.edu.vn- sinh viên-  Ngoại ngữ.. . Thân.",
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Em chào thầy/cô, em là sinh viên K18, hiện tại em đã nhận được mail thông báo phòng đào tạo đã nhận được bản sao chứng chỉ Ielts của em do trung tâm IDP gửi về và yêu cầu em khai báo online. Tuy nhiên, khi em khai báo thì web lại thông báo \"tình trạng sẽ được cập nhật hợp lệ khi phòng đào tạo nhận được bản sao\" (như hình). . . Em mong các thầy cô có thể sớm giải thích và giải quyết vấn đề này. . . Em cảm ơn.. . [full_name], MSSV:[student_id], [full_name]."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em không hiểu về công thức tính điểm trung bình tích lũy giữa các học kì ạ.. . giả sử HK1 em được 15 chỉ và tổng kết trung bình là 5.25. .  HK2 em được 18 chỉ và tổng kết trung bình là 8.5. .  HK1 em được 9 chỉ và tổng kết trung bình là 7.5. . em tính bằng cách lấy . . (15*5.25+18*8.5+9*7.5)/(15+18+9)=7.13 . . em làm vậy có đúng không ạ. . .",
+            "Chào bạn,. . Cách tính điểm trung bình học kỳ được ghi rõ trong Quy chế học vụ - Điều 18.. . Bạn vui lòng xem quy định chi tiết tại:. . www.aao.hcmut.edu.vn-  sinh viên-  Quy chế -. QUy chế học vụ bậc đại học -  Điều 18.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Cho em hỏi là em muốn đăng kí nộp chứng chỉ ngoại ngữ và chuyển điểm vào ngày 26/4. Vậy khi nào thì có kết quả và nó có kịp để tính vào điểm trung bình tích lũy cho đợt phân ngành của em vào đầu tháng 7 không ạ?. . Em cảm ơn ạ!. . . .",
+            "Chào bạn,. . Ngày 26/04/2019 là đợt lấy dữ liệu anh văn chuyển điểm cuả HK182.. . Điểm chuyển chỉ tính vào điểm tích lũy chung, không tính vào điểm của HK. Khi xét phân ngành sẽ lấy điểm tích lũy chung tại thời điểm xét.. .  Thân.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi là khi nào phòng đào tạo sẽ chuyển khoản học bổng học kỳ 181 vào tài hoản của sinh viên ạ?",
+            "Chào bạn,. . . . Việc chuyển khoản học bổng do Phòng kế hoạch tài chính phụ trách nha bạn. Nếu bạn có tên trong ds nhận học bổng thì vài hôm nữa sẽ có thôi bạn nhé! \"Chờ đợi là hạnh phúc!\".. . . . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hiện tại em muốn in bảng điểm để cho mẹ kiểm tra. Nhưng có một số môn em bị rớt và điểm kém, em đã học lại và qua môn.. .  Em không biết vậy khi in bảng điểm có in cả điểm em rớt và điểm thấp luôn hay chỉ tính điểm cao hơn thôi ạ. em là K17 ạ. . EM CẢM ƠN",
+            "Chào bạn,. . Bảng điểm hiên tại là in tất cả các môn bạn đã học trong từng học kỳ (kể cảtất cả những môn bạn học laị và điểm thấp).. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Em đăng kí nộp chứng chỉ ngoại ngữ vào ngày 26/4 thì thời hạn nộp bằng vào khi nào và khi nào thì có kết quả ạ?. . Em cảm ơn!",
+            "Chào  bạn,. . Bạn vui lòng xem hướng dẫn nộp chứng chỉ ngoại ngữ tại:. . www.aao.hcmut.edu.vn -  sinh viên-  Ngoại ngữ-  HƯớng dẫn nộp bằng ngoại ngữ.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Thầy cô cho em hỏi nếu không đạt thể dục có thể được học bổng không ạ.",
+            "Chào bạn,. . Không đạt thể dục cũng không được học bổng.. . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Nếu em được vào chương trình kstn và trước đó em đã hoàn thành một môn có học phần mở rộng thì bậy giờ em phải học lại môn đó hay chỉ cần học thêm học phần mở rộng?. . . . Trong điều kiện để được xét tuyển và tiếp tục tham gia chương trình KSTN có yêu cầu ĐTBHK gần nhất phải trên 7,5 vậy điểm TB của học kỳ hẻ có tính không ạ?",
+            "Chào bạn,. . Về việc xét KSTN bạn vui lòng liên hệ trực tiếp văn Phòng [full_name] gặp Thầy phó [full_name] phụ trách vầ đào tạo để được tư vấn rõ.. .  Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên [full_name], khoa QLCN, MSSV [student_id]. . . . Thầy cô cho em hỏi, cuối năm 1 em thì AV đầu vào 390 điểm, với số điểm đó em có đủ điều kiện học năm 3 không hay phải thi lại  vào đợt tháng 5 này?. . Nếu thi lại, kết quả điểm mới này nhỏ hơn thì lấy kết quả cũ hay mới ạ?. . Em cảm ơn.",
+            "Chào bạn,. . Bạn vui lòng xem quy định chi tiết về chuẩn anh văn của từng năm tại trang web:. . www.aao.hcmut.edu.vn-  sinh viên -  Quy chế -  Quy chế học vụ bậc đại học -  Phụ lục 1.. . Kết quả thi kiểm tra trình độ tiếng anh từng học kỳ trường lưu lại kết quả cao nhất cho bạn.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên là [full_name] MSSV: [student_id]. . ĐTB học kì 1 năm 2018-2019: 8.84. . Điểm rèn luyện: 98. . Ngày 4.4.2019 em có nhận được mail nằm trong danh sách dự kiến học bổng khuyến khích. Nhưng tới ngày 2.5.2019 em vào mục xem học bổng thì thấy trong danh sách học bổng dự kiến và chính thức đều không có tên em. Em rất hụt hẫng.. . Mong Phòng Đào tạo giải đáp thắc mắc giúp em",
+            "Chào bạn,. . . . Danh sách dự kiến lúc đầu (4/4/2019) do tính nhầm các bạn khóa 2018 (Không có điểm rèn luyện) nên không có học bổng(HB) nên mới cấp cho các bạn khóa khác cùng khoa. Nay đã tính lại khóa 2018 nên kinh phí cấp học bổng có giới hạn nên được xét điểm từ cao xuống tới khi hết quỹ học bổng. Do đó ds dự kiến cấp HB được cập nhật lại ngày 08/4/2019 & chính thức sẽ không có các bạn được chia quỹ HB từ K.2018 vì khi đến mức điểm các bạn thì hết quỹ học bổng.. . . . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ cho em hỏi. Em năm nhất. Em lỡ quên đăng kí kiểm tra anh văn vào ngày 18/05/2019 ( đợt này là đợt cuối ) mà em chưa qua được anh văn 1. Em có được đăng kí môn học cho năm hai hay không? Và có cách nào cho em đăng kí thi anh văn vào 18/05/2019 được không? Em xin cảm ơn.",
+            "Câu hỏi lặp lại, đã được trả lời",
+            "Dạ cho em hỏi. Em năm nhất. Em lỡ quên đăng kí kiểm tra anh văn vào ngày 18/05/2019 ( đợt này là đợt cuối ) mà em chưa qua được anh văn 1. Em có được đăng kí môn học cho năm hai hay không? Và có cách nào cho em đăng kí thi anh văn vào 18/05/2019 được không? Em xin cảm ơn.",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . PĐT sẽ bổ sung tên bạn vào danh sách, bạn xem lịch học vụ để coi thời gian thanh toán tiền, thời gian thi, phòng thi nha. (Thời gian thi và phòng thi xem tại mybk). . trên lịch học vụ có hết, bạn đừng chờ mail thông báo của PĐT nha"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ em năm nhất. Em lỡ quên đăng kí kiểm tra anh văn vào ngày 18/05/2019, em có hỏi trên phòng đào tạo đợt này là đợt cuối, mà em chưa qua được anh văn 1. Em có được đăng kí môn học cho năm hai hay không? Và có cách nào cho em đăng kí thi anh văn vào 18/05/2019 được không? Em xin cảm ơn.",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . PĐT sẽ bổ sung tên bạn vào danh sách, bạn xem lịch học vụ để coi thời gian thanh toán tiền, thời gian thi, phòng thi nha. (Thời gian thi và phòng thi xem tại mybk). . trên lịch học vụ có hết, bạn đừng chờ mail thông báo của PĐT nha"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vừa làm vừa học - ĐTTX   Đăng ký môn học . Em có đăng ký hai môn học ( cơ lưu chất và ,bê tông cốt thép 1 ) và đã có thời khóa biểu . Nhưng từ ngày 24.04 đến nay thời khóa biểu của em không có nữa. Và được yêu cầu là liên hệ bộ môn khoa để được hướng dẫn. Nhờ thầy / cô hỗ trợ. . . Em xin cảm ơn",
+            "Chào em. kết quả đkmh của em ghi lỗi Mã \" P \" là nợ học phí.. . Em cần thanh toán học phí và làm đơn trình bày lý do đóng trễ HP để được cập nhật TKB lại.. . Lưu ý: làm sớm nếu ko sẽ ko được cập nhật"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Em đã chuyển điểm tiếng anh trên MYBK và đã được xác nhận là hợp lệ, vậy thì có cần phải nộp bằng gốc cho PĐT không ạ?. .",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Chứng chỉ Toeic không yêu cầu nộp bản sao lên Phòng đào tạo.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "/i  em là sv K18,. . cho em hỏi là còn đợt đăng ký học dự thính hè HK183 nào nữa không ạ? tại bữa trước em có đăng ký nhưng hệ thống cứ bị lỗi nên không vào được.  .",
+            "Chào bạn. . . . Trong các đợt đăng ký môn học nếu bạn đăng ký bị hệ thống báo lỗi thì vui lòng liên hệ ngay Phòng đào tạo để được hỗ trợ -  đến hết hạn đăng ký thì phòng đào tạo không thể hỗ trợ kỹ thuật cho bạn được.. . Bạn vui lòng xem chi tiết \"Lịch đăng ký môn học hè\" được cập nhật trên web aao.hcmut.edu.vn -  Sinh viên -  Lịch học vụ -  Học kỳ hè. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . hiện tại còn có thể đk thi toeic được không?",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Chào thầy cô. . Thầy, cô cho em hỏi. . Em đang học cuối năm 3, đang chuẩn bị qua năm 4. . Em ko đủ av để đăng kí môn học, em đang ôn thi để lấy chứng chỉ ngoại ngữ.nhưng em ko biết rõ là hạn cuối cùng nộp chứng chỉ là ngày (2/7) trước khi hiệu chỉnh môn học, hay là ngày (25/7) trước khi dk môn học bổ xung lần cuối cùng. Em sọ khi đk bổ sung thì các môn học chuyên nghành sẽ ko còn mở nữa. . . Câu hỏi này rất quan trọng với em. Mong thầy cô trả lời giúp em.. . Em xin trân thành cảm ơn.",
+            "Chào bạn,. . Đợt lấy dữ liệu anh văn cho đợt ĐKMH bổ sung của HK191 là trước 15g ngày 25/07/2019.. . V/v môn chuyên ngành hết chổ hay không mở là lý do khách quan từ phía sinh viên đăng ký và từ VP khoa thì không thể trả lời trước được.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Em đăng kí thi chuẩn anh văn đầu vào nhưng quên là chưa tới hạn đăng kí thì nó sẽ bị xoá khi đăng xuất. Và đã quá hạn đăng kí, anh có thể làm sao cho em đăng kí thi chuẩn anh văn đợt này được không ạ ?",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra trình độ tiếng anh. Ban vui lòng đợi đợt sau.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Cho em hỏi là em đã thi anh văn đầu vào được 610 điểm thì các môn anh văn của em có được 10 không ạ? Nếu có thì khi nào sẽ được cộng vào bảng điểm ạ?",
+            "Chào bạn,. . Điểm thi anh văn đầu vào chỉ tính cho bạn được miễn học các môn anh văn, không tính ra thang điểm chuyển của môn anh văn nha bạn.. . Các môn Anh văn được miễn học và ghi điểm miễn MT sẽ được tính vào số tín chỉ tích lũy nhưng không tính vào điểm trung bình.. . Bạn vui lòng xem quy định chi tiết tại:. . www.aao.hcmut.edu.vn- sinh viên -  Ngoại ngữ - Kiểm tra xếp lớp tiếng anh khi nhập học.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1612997  /b \t. . . .   i Yêu cầu khác . Em là sinh viên K16. Cho em hỏi cần đạt . . bao nhiêu kiểm tra định kì tiếng anh do trường tổ chức hoặc Anh Văn mấy để được đăng kí môn chuyên ngành ạ. Em cảm ơn",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Ban vui lòng đọc quy định chi tiết về chuẩn tiếng anh theo từng năm được cập nhật tại trang web :. . www.aao.hcmut.edu.vn- sinh viên -  Quy chế -  Quy chế học vụ bậc đại học - Phụ lục 1, Mục 2.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Em tên là [full_name] mssv [student_id]. .  em ở mức av căn bản, cũng không học anh văn trên trường ,vừa rồi em cũng không kịp đăng kí kiểm tra lại chuẩn anh văn đầu vào trên trường. Vậy em có được đăng kí tiếp học phần năm hai không hay là phải nộp bằng toeic? Nếu cần phải nộp bằng toeic thì có bắt buộc bằng phải đủ chỉ tiêu ra trường không? . . Em xin cảm ơn.",
+            "Chào ban,. . Nếu hiện tại bạn chưa đạt chuẩn anh văn Toeic 350 thì bạn sẽ không được đăng ký các môn học của năm thứ 2.. . Em phải nộp chứng chỉ Toeic đạt 350 do IIG cấp thì mới được đăng ký môn học năm thứ 2.. . Bạn vui lòng đọc quy định về chuẩn tiếng anh cuả từng năm tại trang web: . . www.aao.hcmut.edu.vn - sinh viên- Quy chế -  Quy chế học vụ bậc đại học -  Phụ lục 1, Mục 2.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em bị trễ hạn đăng ký anh văn đầu vào giờ em muốn đăng ký lại sao ạ",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b [student_id]/MSGV: [student_id]  /b \t. . . .   i Em bị lỡ lịch đăng kí thi anh văn định kì, giờ em có thể viết đơn xin đăng kí được khong ạ. Mong phản hổi sớm giúp em , em cảm ơn ạ .",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dịch vụ cho sinh viên - Đại học - Cao đẳng chính quy   Bằng tốt nghiệp THPT . Em chưa nộp bằng tốt nghiệp THPT nhưng khi vào myBK kiểm tra thì lại có xác nhận đã nộp bằng.. . Nhờ thầy, cô kiểm tra lại thông tin dùm em ạ.. . Em xin cảm ơn.",
+            "Chào bạn,. . Trường hợp của bạn là do lúc nhập học bạn khai báo là nộp bản sao bằng PTTH nhưng thực tế là bạn vẫn chưa nộp bản sao bằng PTTH cho trường do bạn tốt nghiệp 2018 mới có bằng PTTH. Phòng tạo sẽ xóa dữ liệu hiện tại để bạn khai báo và xác nhận lại thông tin bằng PTTH sau ngày 10/05/2019.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Thầy cô cho em hỏi , khi em vào mục tình trạng sinh viên thì thấy mình bị cảnh cáo học vụ , em chưa hiểu lý do mình bị cảnh cáo ạ. Mong thầy cô giải đáp cho em . Em xin cảm ơn ạ",
+            "Chào bạn,. . Bạn vui lòng đọc quy định về lý do bị cảnh cáo học vụ tại:. . www.aao.hcmut.edu.vn- sinh viên -  học vụ -  Xử lý học vụ, kỷ luật.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ, em bị cảnh cáo học vụ lần 1 ở học kỳ trước nhưng không nhận được thông báo nên giờ mới biết. Em không biết lí do mình bị cảnh báo, em có thể xem lí do ở đâu ạ? Vì em đảm bảo số tín chỉ, cũng như đóng học phí, sinh hoạt công dân và khám sức khoẻ đầy đủ ạ. .",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Bạn vui lòng đọc quy định về lý do bị cảnh cáo học vụ tại:. . www.aao.hcmut.edu.vn- sinh viên -  học vụ -  Xử lý học vụ, kỷ luật.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Mong thầy cô giải đáp thắc mắc giùm em .. . Em lên mục tình trạng sinh viên thì thấy mình bị cảnh cáo học vụ , em cũng đã lên trang aao.hcmut để xem lý do thì có 2 lý do đó là điểm trung bình tích lũy   4.0 và tín chỉ tích lũy bé hơn 10. Nhưng ở HK181 , em học Pre-Uni của chương trình liên kết quốc tế và sau đó được tuyển bổ sung qua hệ đại trà. Học kỳ Pre-Uni thì chỉ có 4 chỉ , và điểm trung bình của em là 7.0. Em vẫn chưa hiểu tại sao mình lại bị cảnh cáo.. . Mong thầy cô giải đáp giùm em.",
+            "Chào bạn,. . Theo chuẩn xử lý học vụ cảnh báo lần 1 đối với K.2018 như sau :. . sv có ĐTBTLHK181    3.00 hoặc STCTL    10. . Mà bạn mới tích lũy có 4tín chỉ.-  nên bị cảnh báo lần 1. . . Do bạn từ lớp CLC sang lớp đại trà, có học HK Pre nên được cộng 10 tín chỉ khi xử lý học vụ.. . . . Vậy nên HK182 này bạn được xóa cảnh báo học vụ.. . . . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . E đăng kí thi anh văn đầu vào mà đăng kí nhầm bên kì 183 rồi ạ. E muốn đăng kí thi thì làm sao ạ?",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Thân.",
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Em có đăng kí anh văn nhưng đk nhầm bên kì hè. Mà nếu em không thi kì này thì có thể sẽ bị cấm 1 học kì. Có thể cho em làm đơn xin đăng kí để được thi vào tuần sau được không ạ?. Nếu phải đợi kì 191 vậy em có thể nộp bằng toeic trước khi đăng kí học kì 191 được không ạ. Và nếu nộp thì hạn chót là ngày mấy ạ?",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Các đợt lấy dữ liệu anh văn cho đăng ký môn hco5 HK191 được cập nhật trên lịch học vụ Hk191, bạn vui lòng xem chi tiết tại:. . www.aao.hcmut.edu.vn- Lịch học vụ- HK191.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Em chào thầy cô. Em là sinh viên năm 2, khóa Hóa. vì đợt đăng kí môn học đợt 9-22/4 em đã quên không đăng ký môn Thực tập quá trình và thiết bị, nên đến đợt Kiểm tra kết quả đăng ký và hiệu chỉnh đăng ký môn học đợt 14-20/5 em có được đăng kí mới môn học này không ạ ? Nếu không được thì em phải làm sao để được tham gia học tập trong học kì hè. em xin cám ơn.",
+            "Chào bạn,. . Hiện tại đợt đăng ký môn học sắp tới là 14/05 đến 20/05, trong đợt mở ĐKMH, việc 1 môn học có đăng ký thành công được hay không là tùy thuộc vào việc môn đó có mở hay không và còn chổ để cho sv vào đăng ký bổ sung hay không.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Bây giờ em hủy đăng ký thi kiểm tra anh văn định kì được không?",
+            "Chào bạn,. . Kiểm tra tiếng anh đã đăng ký thì không hủy được, bạn có thể không tham gia kiểm tra, nhưng bạn vẫn phải có nghĩa vụ thanh toán lệ phí thi nếu không sẽ bị ghi nợ trên trang học phí.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . thưa . . hôm bữa đăng kí kiểm tra trình độ tiếng anh toic e quên đăng kí bây giờ cho em hỏi có cách nào không . . e cảm ơn. .  . . . .",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b . .   i Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Em đã đăng kí thi chuẩn anh văn đầu vào của trường vào ngày 18/05 nhưng ngày thi bị trùng với lịch thi thí nghiệm hoá lý. Nên thầy (cô) cho em hỏi có thể hủy thi chuẩn anh văn được không?",
+            "Chào bạn,. . Kiểm tra tiếng anh đã đăng ký thì không hủy được, bạn có thể không tham gia kiểm tra, nhưng bạn vẫn phải có nghĩa vụ thanh toán lệ phí thi nếu không sẽ bị ghi nợ trên trang học phí.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1811363  /b \t. . . .   i Yêu cầu khác . Bây giờ em không thể chỉnh sửa được SỐ HIỆU BẰNG được, xin anh chị giúp em ạ.",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Phòng đào tạo đã hủy thông tin bằng PTTH bị sai, bạn vui lòng vào đăng ký lại.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ  cho em hỏi là bây giờ em đăng kí nộp chứng chỉ ngoại ngữ để chuyển điểm, mà đợt đăng kí của hk 182 hết hạn rồi nên em đăng kí  của hk 183 vậy thì điểm đó có được tính vô điểm trung bình tích luỹ để phân ngành không ạ?  Em khoa Hoá tháng 7 mới phân ngành nên em muốn chuyển điểm vô học kì 2 ạ. Em cám ơn.",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Điểm chuyển của đợt hè sẽ được tính vào điểm tích lũy chung vào cuối HK182.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào thầy cô. Em là [full_name] MSSV [student_id]. Đợt trước em có đăng ký thi AVDV tại trường. Nhưng hiện tại em lên thanh toán phí thi trên MyBK thì không thấy mục thanh toán của AVDV. Mong trường xử lý giúp em ạ. Em cảm ơn !",
+            "Chào bạn,. . Hiện tại Phòng đào tạo đã kiểm dữ liệu đăng ky online, bạn không có đăng ký nên không có tên trong danh sách sách đóng tiền.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Yêu cầu khác: Em lỡ hạn đăng kí kiểm tra AV định kì kỳ 182. Giờ em đăng kí bù được không ạ?",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Nếu em đã đăng kí thi chuẩn anh văn đầu vào mà em có việc bận không đi thi được thì có sao không ạ. Ví dụ như trừ điểm rèn luyện hay  không được xét học bổng hay gì không. Em cảm ơn ạ",
+            "Chào bạn,. . Kiểm tra tiếng anh đã đăng ký thì không hủy được, bạn có thể không tham gia kiểm tra ( không bị trừ điểm rèn luyện, không ảnh hưởng xét HB gì cả), nhưng bạn vẫn phải có nghĩa vụ thanh toán lệ phí thi nếu không sẽ bị ghi nợ trên trang học phí.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính thưa thầy (cô), em là sinh viên năm nhất. . Học kì 181 em đạt được 10 tín chỉ, điểm tbtl 4,12 . Không vi phạm về quy chế cảnh báo học vụ của nhà trường. . . Nhưng lại bị cảnh báo học vụ, quí thầy cô vui lòng xem lại trường hợp của em ạ!",
+            "Chào bạn,. . Thời điểm xét xử lý học vụ bạn rơi vào chuẩn: bị cảnh báo lần 1 : (ĐTBTL    4.00 hoặc STCTL    10)(3.75/7).. . Thân mến.. .",
+            "học kì 1 em bị sai sót điểm do lỗi của cô bộ môn Đại số tuyến tính ([full_name]). cô đã nhận lỗi và sửa lại điểm cho em.Thời điểm đó điểm tbtl của em   4. Là lỗi của giảng viên, vầy nhà trường có thể thu hồi cảnh báo học vụ của em không ạ. . (vì kết qur học tập kì 2 của em không được tốt)",
+            "Chào bạn,. . Đã xóa cảnh báo học vụ lần 1 của bạn.. . Thân mến",
+            "Cảm ơn cô đã xóa cảnh báo học vụ cho em. Nhưng tại sao ở trên mybk phần tình trạng sinh viên của em vẫn còn thông báo cảnh báo vậy ạ?",
+            "Chào bạn,. . Không sao đâu bạn.. . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Em đăng kí thi chuẩn anh văn vào dư thính , em muốn đăng kí thi anh văn được không",
+            "Chào bạn,. . Hiện tại đã hết hạn đăng ký thi kiểm tra tiếng anh. Bạn vui lòng đợi đợt sau vào cuối kỳ 191.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Cho e hỏi cuối kì hè có tổ chức  thi chuẩn anh văn không ạ?",
+            "Chào bạn,. . Các đợt thi kiểm tra chuẩn anh văn chỉ tổ chức vào cuối các HK chính.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "em tên là [full_name] , MSSV:[student_id] , bộ môn logistics khoa cơ khí, đầu năm ở cuộc thi AV đầu vào em chỉ được 250 và không đạt chuẩn AV, nên 18/4 sắp tới đây em có đăng ký tham gia kỳ thi AV đầu vào , em được biết nếu ko qua 350 thì sẽ bị cấm chọn môn 1 HK, vậy thầy cô, anh chị cho em hỏi là nếu em ko qua 350 nhưng sau đó em học để có bằng nộp vào thì có kịp chọn môn ko , và hạn chót nộp là khi nào ạ , em xin cảm ơn...!!!. . . .",
+            "Chào bạn,. . Lịch lấy dữ liêu anh văn cho các đợt ĐKMH của Hk191 đã cập nhật trên web www.aao.hcmut.edu.vn- sinh ive6n -  Lịch học vụ- HK191.. . bạn phải nộp chứng chỉ ngoại ngữ trước những đợt lấy dữ liêu anh văn thì bạn mới được mở cho đký môn học trong các đợt mở tương ứng trên lịch học vụ.. . Thân.",
+            "em tên là [full_name] , MSSV:[student_id] , bộ môn logistics khoa cơ khí, đầu năm ở cuộc thi AV đầu vào em chỉ được 250 và không đạt chuẩn AV, nên 18/4 sắp tới đây em có đăng ký tham gia kỳ thi AV đầu vào , em được biết nếu ko qua 350 thì sẽ bị cấm chọn môn 1 HK, vậy thầy cô, anh chị cho em hỏi là nếu em ko qua 350 nhưng sau đó em học để có bằng nộp vào thì có kịp chọn môn ko , và hạn chót nộp là khi nào ạ , em xin cảm ơn...!!!. . . .",
+            "Chào bạn,. . Lịch lấy dữ liêu anh văn cho các đợt ĐKMH của Hk191 đã cập nhật trên web www.aao.hcmut.edu.vn- sinh ive6n -  Lịch học vụ- HK191.. . bạn phải nộp chứng chỉ ngoại ngữ trước những đợt lấy dữ liêu anh văn thì bạn mới được mở cho đký môn học trong các đợt mở tương ứng trên lịch học vụ.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học phí - Đại học - Cao đẳng chính quy   Khác ... .",
+            "Chào bạn,. . Chỉ thanh toán 1 mục có ghi nội dung là \"Lệ phí kiểm tra trình độ tiếng anh ngày 18/05/2019\".. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1812596  /b \t. . . .   i Học phí - Đại học - Cao đẳng chính quy   Khác ... . Kính gửi quý thầy(cô),. . . . Em là sinh viên khóa K18 của trường mình, vừa rồi em có đăng ký dự kì thi chuẩn Anh Văn của trường mình và vào ngày 7/5 em đã thanh toán lệ phí là 100.000 VNĐ trên BK Pay rồi vậy tại sao trên BK Pay tới hiện tại vẫn hiện thêm một khoảng lệ phí cho kì thi kiểm tra Anh Văn nữa ạ?. . . . Mong quý thầy(cô) phản hồi em sớm.",
+            "Chào bạn,. . Bạn chỉ cần thanh toán 1 mục có ghi nội dung là \"Lệ phí kiểm tra trình độ tiếng anh ngày 18/05/2019\".. . Thân."
+        ]
+    }
+]

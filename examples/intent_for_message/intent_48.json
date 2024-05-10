@@ -1,0 +1,392 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Chào thầy (cô). . Em là [full_name] . . MSSV: [student_id]. . Ẻ xin phép phòng đào tạo tăng sỉ số . . Môn: [full_name]. . Mã môn học: ME3007. . Mã lớp: A02_A04. . Lịch học: Thứ 2 tiết 3 4 5. . Em rất mong được sự phản hồi từ nhà trường ạ. . Em chúc thầy (cô) có 1 buổi chiều vui vẽ ạ. .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học .",
+            "Đã tăng sĩ số . . . . bạn vào đăng ký nhé",
+            "Thầy (cô) cho em hỏi em đăng ký luận văn đợt 3 kết quả ghi thỏa điều kiện đăng ký. Nhưng hôm nay các bạn có thời khóa biểu nhưng em thì lại không có. . MSSV: [student_id]. . Khoa: Cơ khí. . Ngành Cơ điện Tử. . Mã môn: ME4019 - Luận văn tốt nghiệp (cđt). . Do em chưa nộp anh văn nên em đăng ký đợt 3 này ạ. .",
+            "Thầy (cô) cho em hỏi em đăng ký luận văn đợt 3 kết quả ghi thỏa điều kiện đăng ký. Nhưng hôm nay các bạn có thời khóa biểu nhưng em thì lại không có. . MSSV: [student_id]. . Khoa: Cơ khí. . Ngành Cơ điện Tử. . Mã môn: ME4019 - Luận văn tốt nghiệp (cđt). . Do em chưa nộp anh văn nên em đăng ký đợt 3 này ạ",
+            "Chào bạn,. . Trường hợp của bạn đang bị tạm dừng,. . Để tiếp tục ĐKMH cho HK 211, SV vui lòng tải mẫu đơn thu nhận tại trang aao .hcmut.edu.vn/Sinh viên/biểu mẫu. . Điền đầy đủ thông tin và gửi qua bksi nhé. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em muốn tăng sĩ môn thiết kế hệ thống nhúng ee3003. . Lớp a02 thứ 2 tiết 345 lên 1 sĩ số để em có thể học môn này theo đúng chương trình. . . .",
+            "Đã tăng cho bạn",
+            "phiền anh xem lại giúp em chứ em chưa thâý tăng sĩ số lớp naỳ ạ",
+            "bạn kiểm tra lại nhé. . . . mình thấy đã tăng rồi"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chưa cập nhật điểm . Chào quý thầy cô,. . Kì trước em có thi anh văn được 440 nhưng hiện tại em vẫn đăng kí môn học không được vì lí do thiếu chuẩn anh văn. Thứ 2 là hết hạn rồi nhưng em vẫn chưa có môn học, em đang rất lo lắng. Nên xin thầy cô hãy dành chút thời gian xem xét trường hợp của em và cập nhật điểm cho em.. . Xin chân thành cảm ơn ạ.",
+            "Đã cập nhật điểm chuyển AV cho bạn. . . . bạn vào đăng ký lại nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em muốn tăng sĩ số môn học trường điện từ ee2003 lớp a01 . . và môn tín hiệu và hệ thống ee2005 lớp a01. .",
+            "Đã tăng cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Dạ e chào cô, vì em có nhu cầu học trả nợ môn vi xử lý để tích lũy đủ chỉ cho kì tới nhận thực tập, e mong cô có thể tăng thêm sỉ số lớp để em có thể đăng ký bổ sung ạ, e cảm ơn cô.",
+            "Chào bạn. . . . Môn học Vi xử lý có kèm TN và phòng thí nghiệm đã ở mức tối đa 30sv không thể tăng thêm"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . . Mong nhà trường tăng thêm sĩ số môn học với mã số SP1009. Vì chỉ 1 nhày trôi qua mà nhóm lớp [full_name] đã 100% sinh viên. . .",
+            "Đã tăng 2 chỗ cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em chào cô ạ. . . Em có đăng kí môn quản trị kinh doanh cho kĩ sư (im3001) vào đợt kế hoạch là đăng kí lần 1,2. . . Đến lần đăng kí này thì em bị huỷ không có môn trong tkb nữa. . . Khi em đăng kí lại  thì đã full sỉ số lớp ở cs2 83/83. Lớp t2 4-6.  Em chỉ còn môn cuối cùng này là xong chương trình để bắt đầu làm LVTN. . . Mong cô mở sỉ số để em sớm được đăng kí môn học hoàn thành tiến độ đúng hạn. . . Em xin chân thành cảm ơn.",
+            "Chào bạn. . . . IM3001 bị hủy nhóm do [full_name] yêu cầu hủy.. . . . mình tăng các nhóm còn lại lên tối đa dể bạn đăng ký"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi phòng đào tạo Trường Đại Học Bách Khoa HCM. . . . . Em tên là [full_name]. . MSSV: [student_id]. . . . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí em vào lớp A01 hoặc L01 môn Anh văn 4 (mã môn học là lA1009). Em rất mong lời phản hồi sớm từ phòng đào tạo bởi thời gian đăng ký môn học còn rất ngắn. . . . . Em xin cảm ơn ạ!",
+            "Chào em, . . . . Tất cả các nhóm anh văn đã full sỉ số, em đăng kí học kỳ dự thính 191 sắp tới nhé.",
+            "Dạ . Em cảm ơn cô. . Cho em xin hoi dự thính cũng mở anh văn 4 luôn hẳn cô. Em hiện là sinh viên k14  em còn anh văn 4 để ra trường . Em cung sắp hết hạn đê học chinh quy rồi .. . Em cảm ơn nhiều ạ.",
+            "Chào em, . . . . Nếu các bạn đăng kí đủ sỉ số pdt đã sẽ mở"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Trong đợt đăng kí môn học đợt 2 em đã đăng kí thành công đủ 19 chỉ theo chương trình đào tạo nhưng không hiểu sao mấy ngày sau kiểm tra lại thì bị   B mất 1 môn  /B  ( kĩ thuật phản ứng -   B CH2059  /B  ). Nay khi đợt 3 mở thì môn này chỉ còn   B 1 lớp trống  /B  vào tiết   B 456  /B  thứ 2 nhưng em lại   B có  /B  môn khác vào tiết   B 789  /B  cũng thứ 2 và môn này đã bị khóa không hiệu chỉnh được. Em kính mong phòng đào tạo cho phép em được   B học liên tục  /B  2 môn này vào các tiết   B 456  /B  và   B 789  /B . Em xin cám ơn.. .",
+            "Chào em,. . . . Trường hợp thông tầm không đăng kí em nhé.",
+            "Vậy em xin phòng đào tạo tăng sĩ số môn   B CH2059      /B mã số   B A03   /B giảng viên [full_name] để em được đăng kí bổ sung được không ạ? Em cảm ơn rất nhiều ạ!",
+            "đã tăng sĩ số cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b \t[full_name] [full_name] [full_name] [full_name]   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được  /i [full_name] [full_name] [full_name] [full_name] Khi [full_name]m đăng ký môn học thì bị tình trạng giới hạn chỉ được đăng ký tối đa 14 tín chỉ[full_name] Mong quý thầy cô x[full_name]m xét và xử lý giúp [full_name][full_name] E cảm ơn ạ[full_name]",
+            "Chào em,. . . . Em kiểm tra lại nhé đăng kí bình thường 21 tín chỉ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Em có đăng kí môn học mã CH2009 e xin xoá môn này để đăng kí môn học mã CH2015 do môn học này chỉ mở vào học kì 1. Do em là sinh viên k15 nếu không đăng kí được môn này vào năm nay thì em sẽ trể hạn tốt nghiệp lâu hơn. Mong nhà trường giúp đỡ. Em cảm ơn.. .",
+            "Đã mở khóa cho bạn môn CH2009 . . . . bạn vào xóa môn học nhé"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em xin tăng thêm sĩ số lớp A04_A09 môn học ME3031 của thầy [full_name]. Em xin cảm ơn ạ.. .",
+            "Chào em, . . Môn ME3031 nhóm A04_A09 tăng sỉ số rồi nhé"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học  . . mong quý thầy cô mở thêm sỉ số tại thời khóa biểu của e chỉ học được lớp A06_A12 mà hiện tại lớp đã đủ số lượng.em xin cảm ơn",
+            "Chào em,. . . . Môn này đã full sỉ số không tăng được nữa.",
+            "cô có thể tăng giúp e 1 chỗ được không tại lịch học của e còn trống tiết này.môn này học trước của đồ án nên rất quang trọng với e",
+            "Chào em,. . . . Môn này đã full sỉ số không tăng được nữa, em có thể đăng kí vào học kỳ dự thính 191 sắp tới"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "I Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính thưa Phòng đào tạo, em là [full_name] , mssv [student_id], vì đợt vừa rồi em chưa chuyển điểm anh văn xong nên không đăng kí được môn chuyên ngành, giờ em đã đăng kí được nhưng còn môn Vẽ kĩ thuật là môn tiên quyết nhưng em không đăng kí được vì full lớp, nếu em không đăng kí sẽ bị trễ mất 1 năm học. Em xin phòng đào tạo tăng sĩ số lớp L10_L17 môn vẽ kĩ thuật được không ạ. . . Em mong nhận được phản hồi sớm từ phòng đào tạo. Em xin chân thành cảm ơn ạ. . Mong phòng đào tạo giúp em ạ.",
+            "Đã tăng sĩ số cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi quý thầy cô phòng đào tạo . . Em tên [full_name]. . MSSV [student_id]. . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số lớp A06_A12 hoặc lớp A06_A13 môn K/thuật thủy lực &khínén (mã môn học là ME3001). Em rất mong lời phản hồi sớm từ phòng đào tạo bởi thời gian đăng ký môn học còn rất ngắn. . . Em xin cảm ơn!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi quý thầy cô phòng đào tạo . . Em tên [full_name]. . MSSV [student_id]. . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số lớp A06_A12 hoặc lớp A06_A13 môn K/thuật thủy lực &khínén (mã môn học là ME3001). Em rất mong lời phản hồi sớm từ phòng đào tạo bởi thời gian đăng ký môn học còn rất ngắn. . . Em xin cảm ơn!",
+            "đã tăng nhóm A06_A13 thêm 1 slot"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi PĐT Trường Đại Học Bách Khoa.. . Em tên: [full_name] - Mssv : [student_id].. . Hôm ngày 22/7/2019 em có nộp bằng toeic (335đ) trên trang web của nhà trường nhưng tới nay em vẫn chưa đăng kí được môn AV1 ( môn chỉ cần trên 300đ) em rất mong thầy cô xem xét để em kịp đăng kí môn để không trễ tiến độ học tập ạ. Em chân thành cảm ơn.",
+            "Chào bạn,. . Phòn đào tạo đã cập nhật pass AVCB cho bạn, bạn vui lòng vào đăng ký lại AV1.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chuyển thời khóa biểu . Kính thưa thầy/cô,. . Em hiện đang là sinh viên lớp tài năng chuyên ngành Thiết kế máy, thuộc lớp CK16KSTN, khoa Cơ khí. MSSV của em là [student_id].. . Trong học kỳ tới, chương trình của em có môn Đồ án chuyên ngành (mã môn học: ME4047). Môn học trên có hai lớp hiện đang mở là A01 (sĩ số 31/40) và A02 (sĩ số: 10/11). Do nhầm lẫn, trong đợt đăng ký vừa rồi, em đã đăng ký nhầm vào lớp A01. Em cho rằng lớp em nên đăng ký là A02 với sĩ số lớp bằng với sĩ số sinh viên lớp tài năng Thiết kế. Tuy nhiên, đợt đăng ký môn học lần 3 này hệ thống đã khoá không cho đổi lớp nữa.. . Vì khó khăn trên, em kính mong thầy/cô xem xét giúp em đăng ký được đúng lớp của mình.. . Em xin chân thành cảm ơn.",
+            "Chào em,. . . . Không phân biệt nhóm tài năng hay nhóm thường nha em, bạn nào lớp tài năng thì học thêm môn mở rộng. Em muốn mở khoá PDT sẽ mở khoá cho em hiệu chỉnh.",
+            "Kính thưa cô,. . . . Em chân thành cảm ơn cô vì đã nhiệt tình trả lời em.. . . . Sau khi đọc thư trả lời của cô, em hiểu rằng việc em chọn một trong hai lớp không ảnh hưởng đến việc em thuộc lớp tài năng hay không. Tuy nhiên, em vẫn rất muốn được đổi lại lớp A02 để tiện cho việc chia nhóm sau khi vào học.. . Nếu có thể, em kính mong cô giúp em mở khoá môn học để em được hiệu chỉnh lớp của mình.. . . . Một lần nữa em xin chân thành cảm ơn sự giúp đỡ của cô.",
+            "PDT đã mở khoá cho em hiệu rồi, em đọc lại câu PDT trả lời em khi nảy.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em xin chào các thầy cô làm trong PĐT của trường !. . Em tên là [full_name], MSSV [student_id], Khoa Máy Tính. Em viết bài này mong thầy cô có thể giúp em cùng các bạn có thể học sớm môn Vật Lý 2. Hiện tại trên trang ĐKMH đã hết lớp Vật Lý 2, em mong thầy cô có thể mở thêm lớp hoặc thêm sinh viên trong một lớp (mong thầy cô tạo điều kiện cho chúng em) để giúp chúng em hoàn thành tốt chương trình của mình hơn ạ. Hiện tại em đã lấy được danh sách 1 số bạn cùng mong muốn như em rồi ạ ! Em mong thầy cô có thể cố gắng sắp xếp tạo điều kiện cho chúng em! Em xin trân thành cảm ơn ạ !",
+            "Chào em,. . . . Môn này đã full sỉ số, bạn có thể đăng kí vào học kỳ dự thính 191 sắp tới."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học .",
+            "Đã tăng sỉ số rồi nha em"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi Phòng Đào Tạo Trường ĐH Bách Khoa Tp.HCM.. . . . Em tên: Nguyễn Thị Kim Cương . . MSSV: [student_id]. . . . Kính mong Phòng Đào Tạo có thể xem xét tăng sĩ số nhóm L01-L02 của môn Hoá Phân Tích (CH2009) vì hiện tại không có nhóm nào ngoài nhóm trên phù hợp với thời khoá biểu của em do trùng lịch học với các môn khác.. . . . Mong PĐT xem xét giúp em.. . . . Em xin chân thành cảm ơn!",
+            "Đã tăng sĩ số cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi phòng đào tạo trường đại học Bách Khoa.. . Em tên là [full_name]. . Mssv: [student_id], học khoa kĩ thuật xây dựng.. . trong đợt đăng kí môn học đợt 3 học kì 191 em có đăng kí 2 môn là: thiết kế kiến trúc công cộng 1(mã môn học là CI2023) và môn thiết kế kĩ thuật kiến trúc(mã môn học là CI2027) nhưng đã hết chỗ.. . Em viết đơn này mong phòng đào tạo xem xét và tăng sỉ số của 2 môn này lên để em có thể đăng kí để kịp tiến độ học tập vì 2 môn này là 2 môn chuyên ngành trong học kì chính của em. . . Em xin cảm ơn. . .",
+            "ĐÃ tăng sĩ số cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chuyển thời khóa biểu . Chào Ban Quản Trị, . . . . Hiện tại em đang muốn đăng ký một môn mà lịch trên hệ thống đã bị trùng. Giáo viên bộ môn đó đã gửi đơn đổi lịch và đã được Phòng Đào Tạo(PDT) đồng ý. Nhưng PDT cũng có nói với em là hệ thống online sẽ không được cập nhật để DKMH online như thường lệ và hướng dẫn em làm đơn gửi trực tiếp. . . . . Hôm nay em có đến trực tiếp gửi đơn nhưng PDT không nhận. Bây giờ em phải làm sao để đăng ký môn học không thông qua hệ thống online ạ.",
+            "Chào em,. . . . Vấn đề này là gì?",
+            "Chào chị [full_name] ạ,. . . . Em ở trong nhóm xin đổi giờ học môn Kỹ Thuật Robot của Thầy Phùng Trí Công. Em nghe bạn nói chị đã giải quyết xong cho tụi em. Cám ơn chị rất nhiều.. . . . Ngoài đăng ký thêm môn Các Hệ Thời Gian Thực 2 như các bạn, em còn có thể học thêm môn Các Hệ Thời Gian Thực. Chị có thể giúp em đăng ký được không ạ?. . . . [full_name]: Các Hệ Thời Gian Thực. . Mã [full_name]: 213720",
+            "li answer rate: Answer is not complete / Câu trả lời chưa hoàn chỉnh"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi thầy cô PĐT. Em là [full_name] MSSV [student_id]. Hôm trước lúc 10h ngày 1/8 em có đăng kí nhưng bị báo là [full_name] [full_name]. Sau đó em có gọi PĐT để hỏi thì PĐT báo là dữ liệu tải cưa kịp do trước đó em có nộp CCNN 305Đ. Mãi đến hôm nay 2/8 em mới gọi PĐT thì PĐT bảo là 12h em lên đăng kí sẽ được. Nhưng sỉ số đã đủ rồi. Mong thầy cô sắp xếp cho em vô lớp AV1 L-01 ạ.. . cám ơn thầy cô. .",
+            "Chào em,. . . . Em lên đăng kí gấp nha."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Hè vừa rồi em có đăng kí môn Sức Bền Vật Liệu, nhưng sau khi có kết quả xét tuyển Kỹ Sư Tài Năng của Khoa Cơ Khí, em đọc Quy định về chương trình Kỹ Sư Tài Năng thì em thấy hình như môn em có thể sẽ nằm vào phần mở rộng nên không được đăng kí trong hè đúng không ạ, em cũng đã tính đăng kí học lại môn đó trong năm nhưng do hạn chót đăng kí môn học đợt 2 là 17/7 nhưng cái thông tin em đọc được cùng với kết quả lại được gửi vào 18/7 nên em không kịp chuyển lại. Em không biết giờ phải làm như thế nào ạ.",
+            "Chào bạn. . . . Trong HK [full_name] sẽ không có mở học phần mở rộng của môn học TN và chỉ mở ở HK chính.. . . . Bạn vui lòng đăng ký môn học TN trong HK chính"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . [full_name] : CI1057",
+            "Kính gửi pđt trường Đại học Bách Khoa TPHCM.. . Em tên là [full_name]. . MSSV: [student_id]. . Em viết đơn yêu cầu này nhằm mục đích xin pđt mở thêm sĩ số lớp môn học với mã môn học là . .   B CI1057.  /B . . Mong pđt xem xét để em hoàn thành môn học.",
+            "Đã tăng sĩ số cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi : Phòng ĐÀO TẠO . . Hiện tại lớp Ô Tô hệ VLVH, bị trùng thời khóa biểu khi đăng ký môn học HK191, các môn trùng là TR3045 ([full_name] Ô [full_name]) học ngày thứ 3 và TR3049 (THIẾT KẾ Ô [full_name]) học thứ 3 và thứ 5. Do môn học bị trùng thời gian nên chúng em không đăng ký 1 lúc cả 2 được, môn này đều là môn học trước của các môn của HK192. Kính mong phòng Đào Tạo xem xét và xếp lại thời khóa biểu để chúng em được đăng ký và học cả 2 môn nói trên. (VD : chuyển môn TR3045 sang thứ 4, . . . ) Rất mong phản hồi từ phòng Đào tạo . Trân trọng cảm ơn .",
+            "bạn không thể đổi thời khóa biểu nếu môn học đó ko đúng tiến độ . (bạn học lại). . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi: pđt đại học Bách Khoa Tp HCM. . Em tên: [full_name] . . Mssv: [student_id]. . . . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí cho em cào lớp L01 môn thiết kế kiến trúc công cộng 1 ( mã môn học CI2023). Em rất mong phòng đạo tạo sớm phản hồi cho em và mở rộng sĩ số giúp em,  vì thời gian đăng kí môn học còn rất ngắn và môn này thực sự quan trọng để em làm bài thiết kế kiến trúc tiếp theo. . . Em xin cảm ơn.",
+            "Đã tăng sĩ số cho bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi quý thầy cô phòng đào tạo . . Em tên [full_name]. . MSSV [student_id]. . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số lớp A06_A12 hoặc lớp A06_A13 môn K/thuật thủy lực &khínén (mã môn học là ME3001). Em rất mong lời phản hồi sớm từ phòng đào tạo bởi thời gian đăng ký môn học còn rất ngắn. . . Em xin cảm ơn!",
+            "Chào em,. . . . PDT đã tăng nhóm A06_A12 em đăng kí nhanh nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi: pđt đại học Bách Khoa Tp HCM. . Em tên: [full_name] . . Mssv: [student_id]. . . . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí cho em vào lớp L01 môn tin học chuyên ngành 3D ( mã môn học CI1025). Em rất mong phòng đạo tạo sớm phản hồi cho em và mở rộng sĩ số giúp em,  vì thời gian đăng kí môn học còn rất ngắn và môn này thực sự quan trọng để em làm bài thiết kế kiến trúc tiếp theo. . . Em xin cảm ơn.",
+            "Chào bạn. . Mình đã  tăng sĩ số nhóm lớp theo yêu cầu của bạn. Bạn vào đăng ký nhanh để tránh trường hợp bị full sĩ số lại nhé.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Kính gửi Thầy/Cô,. . . . Trong đợt đăng kí môn học trước, em có đăng kí môn học Mạch điện tử. Đến đợt hiệu chỉnh lần này em có muốn xóa đăng kí nhưng hệ thống không cho phép xóa môn học.. . Do không hiểu biết rõ thông tin nên em nhầm lẫn là vẫn có thể xóa đăng kí trong đợt đăng kí môn học này nên đã không tính toán kĩ khi đăng kí môn. Nay em không có nhu cầu học môn Mạch điện tử trong kì này và mong muốn sử dụng thời gian đó để học các môn học khác cấp thiết hơn. Kính mong Phòng Đào tạo giúp đỡ em giải quyết xóa môn.. . Chân thành cảm ơn Thầy/Cô.",
+            "Chào em,. . . . PDT đã mở khoá cho em."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi:Phòng đào tạo trường Đại học Bách Khoa Hồ Chí Minh. . Em tên:[full_name]. . MSSV:[student_id]. . . . . . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí cho em vào lớp. . L02_L03 môn vật lí 2 mã môn học (PH1005). Em rất mong phòng đạo tạo sớm phản hồi cho em và mở rộng sĩ số giúp em.. . Em cảm ơn phòng đào tạo đã đọc đơn.. . Em chân thành cảm ơn.",
+            "Chào em,. . . . Môn PH1005 đã full sỉ số, em có thể đăng kí trong học kỳ dự thính 191 sắp tới.",
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học. . Kính gửi:Phòng đào tạo trường Đại học Bách Khoa Hồ Chí Minh. . Em tên:[full_name]. . MSSV:[student_id]. . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí cho em vào lớp. . [full_name]5 nhóm LO7 thứ 3 tiết 789. Em rất mong phòng đạo tạo sớm phản hồi cho em và mở rộng sĩ số giúp em.. . Em cảm ơn phòng đào tạo đã đọc đơn.. . Em chân thành cảm ơn.",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Em chào anh/chị ạ! Sáng nay em có xin phép được mở khóa hiệu chỉnh môn học để hủy môn tuy nhiên hiện tại em gặp phải lỗi mặc dù đã hủy môn nhưng không được ạ! Mong anh/chị kiểm tra lại giúp em, em chân thành cảm ơn!",
+            "Chào em,. . . . Trong đợt 3 này chỉ thêm môn học, không huỷ môn học được nha em"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em xin Phòng Đào tạo tăng sĩ số Môn học   B Tính toán song song CO3067  /B ,   B Lớp L01-L02  /B  để em có thể đăng ký vào học ạ.",
+            "Chào em, . . . . Môn này đã full sỉ số, bạn có thể đăng kí học kỳ dự thính 191 sắp tới.",
+            "Thưa cô, thường thì lớp full sĩ số thì có thể mở rộng thêm để sinh viên đăng ký như mấy môn khác được mà cô. Vì em thấy có lớp L01_L02 sỉ số 40/39 ấy nên em không hiểu lắm.. . Và vì sao trường mở lớp dự thính sao lại không mở thêm lớp chính ạ.. . Em cảm ơn cô.",
+            "Lớp môn học này đi theo sĩ số phòng máy và sĩ số phòng máy tối đa là 40sv / nhóm. . . . . PĐT đã tăng tối đa sĩ số theo yêu cầu của Khoa, không thể tăng thêm được."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vừa làm vừa học - ĐTTX   Đăng ký môn học ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Mong phòng đào tạo tăng sỉ số môn Quản lý dự án xây dựng Mã CI1053 và môn Hư hỏng sửa chữa công trình Mã CI1051. . Lý do: Để hoàn thành đúng tiến độ môn học năm 4, không bị trễ hạn tốt nghiệp.. . Mong phòng đào tạo có thể giúp e. E xin cảm ơn !!!",
+            "Chào em,. . . . Em vào dkmh gấp nhé, PDT đã mở khoá"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên là[full_name]. . mssv: [student_id]. .    Nay em viết đơn này xin trình bày như sau: trong học kỳ 183 em có đăng ký môn kỹ thuật lập trình (CO1013) dựa trên thời khóa biểu mở lớp là tuần 29. Nhưng tới gần thời gian học lại thay đổi lịch là tuần 28. em ko sắp xếp được công việc, nhưng ko hủy môn học được do pđt không mở hiệu chỉnh. em bắt buộc bỏ môn.rất nhiều sinh viên bị trường hợp tương tự. em không có thời gian để đi giờ hành chính lên pđt. kính mong pđt phản hồi sớm cho em qua trang web này.Mong pđt hướng dẫn để giải quyết được vấn đề sớm tạo điều kiện cho sinh viên. Trong thời gian chờ đợi em xin chân thành cảm ơn!.. . . . . .",
+            "No solution"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Dạ mong Phòng đào tạo Tăng sĩ số môn Kĩ thuật số EE1015 hk191 lớp L04_L08.. . Em cảm ơn!",
+            "Chào em,. . . . Môn EE1015 đã full sỉ số không tăng được nữa"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi phòng đào tạo trường Đại học Bách Khoa TPHCM,. . Em tên là [full_name]. . MSSV [student_id]. . Trong 2 đợt đăng ký đầu em có đăng ký môn \"Tính toán song song\" Mã môn học CO3067, tuy nhiên không được xếp lớp. Em viết đơn này xin phòng đào tạo mở rộng sĩ số lớp L01_L01 để em có cơ hội được học môn này trong học kỳ 191 ạ.. . Em mong có phản hồi sớm từ phòng đào tạo để đăng ký kịp trong đợt 3 này.. . Em xin chân thành cảm ơn,. . [full_name].",
+            "Chào em,. . . . Môn này full sỉ số không tăng được nữa.",
+            "Chào cô,. . . . Em thấy sỉ số các 2 lớp môn \"Tính toán song song\" hiện tại đang là 39/39 và 40/39. Em mong rằng phòng đạo tạo có thể tạo điều kiện cho em đăng ký môn này. Em nghĩ rằng sỉ số như vậy chưa phải quá đông với 1 lớp học.. . Rất mong được phòng đào tạo giúp đỡ, mở rộng sỉ số môn học ạ.. . . . Em cảm ơn cô,. . [full_name].",
+            "Môn học đã ở sĩ số tối đa 40sv / nhóm . . . . bạn vui lòng kiểm tra trong đợt đăng ký nhé"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Kính gửi: PĐT. Đại học Bách Khoa Tp HCM . . Em tên: [full_name] . . Mssv: [student_id]5. . . . Hiện tại chương trình học của em còn 1 bài luận văn và 1 môn học tự chọn mà em bị vướng lại 2 lần, tuy nhiên trong 4 học kì vừa qua em đăng kí mã cũ, mã mới cũng như đổi sang môn tự chọn khác vẫn không đăng kí được. Sau đó em được biết là khoá 13 của em không được phép đăng kí vào nhóm môn học của các khoá sau này.. . Hôm nay em viết đơn này kính mong PĐT đồng ý cho em được đăng kí môn học với:. . Tên môn học: [full_name]. . Mã môn học: EN1005 (mã cũ 610056). . Đây là học kì cuối cùng trong chương trình đào tạo của em, và thời gian đăng kí môn học đợt 3 cũng sắp cận kề. Em hy vọng PĐT có thể xem xét giải quyết giúp em để em có thể hoàn thành chương trình học của mình trong học kì này.. . Em xin chân thành cám ơn và mong nhận hồi âm sớm từ PĐT!. . . . Trân trọng,. . [full_name]",
+            "Chào em,. . . . Em viết đơn tay gởi PDT nha em."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Cho em tham gia vào lớp A01_A01 , EE1001\tNhập môn về kỹ thuật . . . .",
+            "Môn học dành cho khóa 2019 nên bạn không thể đăng ký vào học."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi phòng đào tạo Trường Đại Học Bách Khoa HCM.. . . . Em tên là [full_name]. MSSV: [student_id].. . . . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí em vào lớp L01-L01 của môn Cấu trúc dữ liệu và giải thuật (CO2003). Hiện tại không có lớp học nào phù hợp với thời khóa biểu của em, cũng như những lớp phù hợp đều đã đủ sĩ số. Em rất mong lời phản hồi sớm từ phòng đào tạo bởi thời gian đăng ký môn học còn rất ngắn.. . . . Em xin cảm ơn ạ!",
+            "Chào em,. . . . Môn CO2003 bị full sỉ số không tăng được nữa."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi: pđt đại học Bách Khoa Tp HCM . . Em tên: [full_name]. . Mssv: [student_id] . . . . . . Em viết đơn này để xin phòng đào tạo có thể cân nhắc tăng sĩ số và bố trí cho em vào lớp L05 môn Đường lối cách mạng của Đảng Cộng sản Việt Nam ( mã môn học SP1009 ). Em rất mong phòng đạo tạo sớm phản hồi cho em và mở rộng sĩ số giúp em, vì thời gian đăng kí môn học còn rất ngắn và môn này thực sự quan trọng để em có những kiến thức vững chắc về Đảng.. . Em xin cảm ơn. . . . .",
+            "Chào bạn. . . . Sĩ số môn học đã ở mức tối đa và không thể tăng thêm được"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vừa làm vừa học - ĐTTX   Đăng ký môn học . Kính gửi : Phòng ĐÀO TẠO . . Hiện tại lớp Ô Tô hệ VLVH, bị trùng thời khóa biểu khi đăng ký môn học HK191, các môn trùng là TR3045 ([full_name]Ử Ô TÔ) học ngày thứ 3 và TR3049 (THIẾT KẾ Ô TÔ) học thứ 3 và thứ 5. Do môn học bị trùng thời gian nên chúng em không đăng ký 1 lúc cả 2 được, môn này đều là môn học trước của các môn của HK192. Kính mong phòng Đào Tạo xem xét và xếp lại thời khóa biểu để chúng em được đăng ký và học cả 2 môn nói trên. (VD : chuyển môn TR3045 sang thứ 4, . . . ) vào ngày 7 tháng 9 2019 là hết hạn đăng kí hiệu chỉnh  Rất mong phản hồi từ phòng Đào tạo. Trân trọng cảm ơn .",
+            "bạn học lại thì không thể thay đổi tkb của 1 lớp khác được. . Thân",
+            "Vừa làm vừa học - ĐTTX   Đăng ký môn học . Kính gửi : Phòng ĐÀO TẠO . . Hiện tại lớp Ô Tô hệ VLVH, bị trùng thời khóa biểu khi đăng ký môn học HK191, các môn trùng là TR3045 ([full_name]Ử Ô TÔ) học ngày thứ 3 và TR3049 (THIẾT KẾ Ô TÔ) học thứ 3 và thứ 5. Do môn học bị trùng thời gian nên chúng em không đăng ký 1 lúc cả 2 được, môn này đều là môn học trước của các môn của HK192. Kính mong phòng Đào Tạo xem xét và xếp lại thời khóa biểu để chúng em được đăng ký và học cả 2 môn nói trên. (VD : chuyển môn TR3045 sang thứ 4, . . . ) vào ngày 7 tháng 9 2019 là hết hạn đăng kí hiệu chỉnh  Rất mong phản hồi từ phòng Đào tạo. Trân trọng cảm ơn .",
+            "bạn không thể đổi tkb nếu như bạn học lại. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em có đăng kí môn võ karatedo ở đợt 2 nhưng bị trùng giờ với môn chuyên ngành ở đợt 3 mà không thể hiệu chỉnh được. Em mong quý thầy cô phòng Đào tạo có thể xem xét và giúp em, để em có thể đăng ký môn chuyên ngành ạ. . . Em xin cảm ơn!",
+            "Chào em,. . . . PDT đã mở khoa, em vào hiệu chỉnh nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . kính gửi phòng đào tạo em là [full_name] lớp DC13DK.Em muốn hỏi về vấn đề là đợt 2 của đợt đkmh em có đăng ký môn luận văn tốt nghiệp MMH:302303 nhưng không có kết quả đăng ký và hệ thống báo là không đủ điều kiện nhận luận văn tốt nghiệp và đợt 3 của đkmh em cũng đăng ký và hệ thống vẫn báo là không đủ điều kiện nhận luận văn tốt nghiệp.Kính mong phòng đào tạo xem xét lại dùm em xem em có bị lỗi gì không ạ.Trong khi đó em hoàn toàn đủ điều kiện nhận luận văn tốt nghiệp. . em xin chân thành cảm ơn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi PĐT,. . Em tên [full_name], MSSV: [student_id].. . Em mong PĐT mở thêm sĩ số cho môn học CI1043 - Địa chất công trình học kì 191.. . Em chân thành cảm ơn!",
+            "Chào em,. . . . Môn này mở cho khoá 2019, nên em không đăng kí được."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi quý thầy cô phòng đào tạo trường Đại học Bách Khoa Tp.HCM . . Em tên là: [full_name]. . MSSV: [student_id]. . Em làm đơn này gửi tới thầy cô phòng đào tạo về việc cân nhắc việc tăng sĩ số lớp Kỹ thuật số(EE1015), nhóm lớp A02_A04 của gv [full_name]. Để em có thể đăng kí đủ tín chỉ và kịp tiến độ của chương trình đào tạo.. . Em xin cảm ơn.. . . . \t. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chuyển thời khóa biểu . Dạ kính thưa thầy cô phòng đào tạo.. . Em tên là [full_name].. . Khoa: khoa học và kĩ thuật máy tính.. . Em có nghe nói là có thể học chuyển điểm môn thể dục nên thầy/cô phòng đào tạo có thể cho em đăng kí thêm một môn trùng tiết  9 với môn thể dục được không ạ? Đó là môn có mã là CO2001 - ngày thứ 2 tiết 9 10 11.",
+            "A em nhầm. Tiết 7 [full_name] 9 ạ"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Gửi phòng đào tạo trường đại học Bách Khoa tp.HCM. . . Em tên: [full_name], MSSV:[student_id]. . Em có yêu cầu xin chuyển nhóm môn học do muốn đăng ký môn cơ sở ngành để đi thực địa năm tới nhưng đụng lịch học môn cũ. Mong phòng đào tạo giải quyết. . . Em xin chân thành cảm ơn.",
+            "Chào bạn. . . . Trong đợt 3 ĐKMH bạn không thể hủy hoặc chuyển nhóm môn học.. . . . . . Bạn xem quy định dkmh tại đây :. . . . . . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=192&tid=871"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi Phòng Đào Tạo Trường ĐH Bách Khoa Tp.HCM.. . . . Em tên: Nguyễn Thị Kim Cương . . MSSV: [student_id]. . . . Kính mong Phòng Đào Tạo có thể xem xét tăng sĩ số nhóm L01-L02 của môn Hoá Phân Tích (CH2009) vì hiện tại không có nhóm nào ngoài nhóm trên phù hợp với thời khoá biểu của em do trùng lịch học với các môn khác.. . . . Mong PĐT xem xét giúp em.. . . . Em xin chân thành cảm ơn!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chuyển thời khóa biểu . Dạ kính thưa thầy cô phòng đào tạo.. . Em tên là [full_name].. . Khoa: khoa học và kĩ thuật máy tính.. . Em có nghe nói là có thể học chuyển điểm môn thể dục nên thầy/cô phòng đào tạo có thể cho em đăng kí thêm một môn trùng tiết  9 với môn thể dục được không ạ? Đó là môn có mã là CO2001 - ngày thứ 2 tiết 7 8 9.. . Hay là thầy cô có thể mở khóa môn thể dục của em để em có thể chuyển thời khóa biểu ạ.Em thật lòng rất lo lắng và sốt ruột ạ. Em xin cảm ơn thầy cô ạ.",
+            "Chào em,. . . . PDT đã mở khoa cho em rồi."
+        ]
+    }
+]

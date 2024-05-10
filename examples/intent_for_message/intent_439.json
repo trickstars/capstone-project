@@ -1,0 +1,384 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Xin chào phía phòng đào tạo,. . Em tên là [full_name], sinh viên khóa 2018 khoa Quản Lý Công Nghiệp. . Do Chương trình đào tạo khóa 2019 có thay đổi so với khóa của em là 2018, nên có một số môn học bị đổi mã thành những môn học tương đương. . . Nhưng em vẫn chưa được cập nhật những môn học với mã tương đương vào số tín chỉ tích lũy ngành để có thể đủ điều kiện đăng ký thực tập tốt nghiệp trong hè, mong phòng đào tạo có thể giải đáp giúp em.. . Em cảm ơn ạ.",
+            "Chào bạn,. . . . Về môn tương đương bạn vui lòng tra chứu trên web PDT http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_201&tid=447.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ chào thầy cô ạ.Em xin nộp đơn đăng ký môn học ạ.Kính mong thầy cô giải quyết giúp em ạ",
+            "Chào bạn,. . . . Đợt 3 đăng kí với chính qui bạn vào đăng kí nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em có các thắc mắc sau mong các thấy cô giải đáp:. . • Nếu đăng ký thực tập hè thì có được đăng ký học thêm 1 môn nữa được không ạ.. . • Đợt 2 đăng ký em có đăng ký thực tập hè, nhưng chưa đủ điều kiện về tín chỉ và theo như mail thông báo sẽ mở đợt 3 để đăng ký. . . Kết quả đợt 2 em đã đăng ký được 1 môn 4 chỉ và được yêu cầu đóng học phí trước 7/6 , nhưng đến ngày 7/6 mới mở đăng ký đợt 3 . Khi đó em đăng ký thực tập thì có được không ạ?! Và nếu không đăng ký được thì em vẫn giữ được thực tập thì em có thể giữ kết quả đăng ký môn như đợt 2 không ạ ( giữ TKB )",
+            "Chào bạn,. . . . + Nếu môn học không trùng lịch thực tập hè thì bạn vẫn đăng kí được.. . . . + Hiện tại mới có thông báo đóng học phí đợt 1 và đợt 2. Chưa có thông báo đóng học phí đợt 3."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Xin chào phía phòng đào tạo,. . Em tên là [full_name], sinh viên khóa 2018 khoa Quản Lý Công Nghiệp. . Do Chương trình đào tạo khóa 2019 có thay đổi so với khóa của em là 2018, nên có một số môn học bị đổi mã thành những môn học tương đương.. . Em đã học những môn học có mã tương đương này rồi, nhưng những môn này vẫn chưa được tính vào tín chỉ tích lũy ngành, nên em muốn hỏi thủ tục để chuyển điểm các môn này để em có thể đủ điều kiện đăng ký học kỳ tiếp theo.. . Em cảm ơn ạ.",
+            "Chào bạn,. . . . Cụ thể là môn gì vậy bạn?.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính thưa ban giám hiệu, em có một câu hỏi đó là, tại sao trường mình lại đóng học phí học kỳ hè 203 sớm vậy ạ. Vì trong thời điểm này mọi hoạt động kiếm ra tiền của nhiều gia đình đều bị đóng băng, đặc biệt những gia đình ở nông thôn như nhà em, bình thường không có dịch đã vất vả rồi,giờ dịch vào không đi làm được, mà tụi em ở Sài Gòn mấy nay dịch cũng đang phức tạp không thể đi làm thêm để đi kiếm tiền được. Tình hình kinh tế nhà em, mà em nghĩ một số gia đình khác cũng đang rất chao đảo và hết sức khó khăn.Em rất mong được Ban Giám Hiệu chia sẻ và chỉ ra phương hướng hợp lý cho tụi em trong cái kỳ hè này. Hi vọng em sẽ sớm được nhận phản hồi ạ. Em cảm ơn BGH rất nhiều.",
+            "Chào bạn,. . . . [full_name]T ghi nhận trường hợp của bạn gởi lên bạn lãnh đạo.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Chào thầy (cô ), em là sinh viên khóa K20.. . Vào đợt đăng ký dự thính đợt 1, em đã đăng ký hai môn học. Nhưng hiện giờ gia đình em gặp vấn đề về tài chính, nên không thể thanh toán học phí đúng hạn được. Em cũng đã tìm hiểu và biết đợt đăng ký lần 3 sắp tới, em không được hủy, và nếu em không thanh toán sẽ bị hủy thời khóa biểu và trừ điểm rèn luyện.. . Thầy cô cho em hỏi, nếu em không thể thanh toán học phí được, ngoài trừ bị xóa thời khóa biểu và trừ điểm rèn luyện, em còn bị ảnh hưởng gì không? Nếu có là gì vậy ạ ? Em cũng đã hỏi mấy anh ( chị ) khóa trước, và biết nếu em không đóng sẽ bị ghi là nợ, và vẫn phải đóng đầy đủ phí dù không học, khiến em rất hoang mang.. . Mong thầy cô thể trả lời giúp em.. . Em cảm ơn !",
+            "Chào bạn,. . . . Bạn không đóng học phí thì sẽ bị xử lý học vụ theo qui định điều 7, mục 7.2 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân. . . .",
+            "Đăng ký môn học . Gửi thầy ( cô ) em là sinh viên khóa K20.. . Vào đợt đăng ký dự thính đợt 1, em đã đăng ký hai môn học. Nhưng hiện giờ gia đình em gặp vấn đề về tài chính, nên không thể thanh toán học phí đúng hạn được. Em cũng đã tìm hiểu và biết đợt đăng ký lần 3 sắp tới, em không được hủy, và nếu em không thanh toán sẽ bị hủy thời khóa biểu và trừ điểm rèn luyện.. . Thầy cô cho em hỏi, nếu em không thể thanh toán học phí được, ngoài trừ bị xóa thời khóa biểu và trừ điểm rèn luyện, em còn bị ảnh hưởng gì không? Nếu có là gì vậy ạ ? Em cũng đã hỏi mấy anh ( chị ) khóa trước, và biết nếu em không đóng sẽ bị ghi là nợ, và vẫn phải đóng đầy đủ phí dù không học, khiến em rất hoang mang.. . Mong thầy cô thể trả lời giúp em.. . Em cảm ơn !",
+            "Chào bạn,. . . . Bạn không đóng học phí thì sẽ bị xử lý học vụ theo qui định điều 7, mục 7.2 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em là [full_name], sinh viên lớp Việt Pháp VP2018/1. . Trong học kì hè này, em có nhu cầu học môn Giải tích 3 nên đã đăng kí môn học này,  mã MT2007. . . Tuy nhiên, qua 2 lần đăng kí, em đều bị xóa môn, với lí do là chưa học môn Giải tích 1,2. Lý giải điều này, khóa K18 và K19 Việt Pháp trở đi dùng các mã khác nhau, khi chúng em hỏi thầy [full_name] là người phụ trách giảng dạy DT GT3 trong hè về chuyện học thì thầy nói cứ đăng kí theo mã mới, mã cũ không mở lớp nữa.. . Vậy em thông tin để xin Phòng Đào tạo cho em hướng giải quyết nhằm hoàn thành chương trình học tập. Em xin chân thành cảm ơn ! . .",
+            "Chào bạn,. . . . Đợt 3 bạn vào đăng kí lại, nếu có gì trục trặc gì báo lại.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Xin hỏi pđt là học kỳ trước em có tích lũy được 78 tín chỉ và học kỳ này em đăng ký 18 chỉ (trong đó 16 chỉ chuyên ngành và 2 chỉ anh văn 4A). Tính tới học kỳ này 203 là em đã có 96 tín chỉ đủ để đăng ký thực tập tốt nghiệp mà sao trong đăng ký môn học em bị hủy TTTN ở 2 đợt 1 và 2 vậy ạ.. . Em xin cảm ơn.",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ cho em hỏi là đăng kí môn học đợt 3 vào ngày 7-9/6 mà trong mail lại bắt đóng học phí từ 2-7/6 nếu không sẽ bị hủy tkb, vậy có đợt đóng học phí sau đợt 2-7/6 không ạ? Em xin chân thành cảm ơn",
+            "Chào bạn,. . . . Họ phí đợt 3 chưa có thông báo nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Nếu đăng kí thực tập ngoài trường thì có được đăng kí thêm môn học khác vào học kì hè không ạ?. . Em cảm ơn. . . .",
+            "Chào bạn,. . . . Được bạn, nếu môn đó không trùng TKB của môn  thực tập ngoài trường.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học  /i  . . . .",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính chào Thầy/Cô,. . Em nghe giảng viên dạy môn Mip(tpháp hnhập nnghiệp) nói là đã gửi bảng điểm cho PĐT. Vậy mà sao đến giờ môn này vẫn chưa được hiển thị điểm trên MyBK ạ?. . . . Em cảm ơn",
+            "Chào bạn,. . . . Khi nào PDT xử lý xong mới cập nhật điểm cho sinh viên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào Thầy/Cô. . . . Em là sinh viên văn bằng 2 khoa Kĩ Thuật Hóa Học (ngành Hóa lý - hóa phân tích) thuộc lớp HC19B2HL. . . . . Em có đăng kí môn học thực tập tốt nghiệp theo mã CH3325 (theo khóa K18) nhưng bị sai mã. Thầy/Cô cho em hỏi em đăng kí mã nào mới đúng ạ ? . . . . Các bạn sinh viên K18 khác đăng kí mã đó thì được chấp nhận hết ạ.. . . . Em cám ơn",
+            "Chào bạn,. . . . Bạn phải học theo chương trình khoá 2017 nha.. . . . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Phòng đào tạo cho em hỏi là bao giờ tiền học bổng khuyến khích mới được gửi cho tụi em ạ, em xin cảm ơn. .",
+            "Chào bạn,. . . . Việc này bạn liên hệ phòng Công Tác Chính Trị Sinh Viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Đăng ký môn học . Em chào quý thầy/cô.. . Em có thắc mắc về việc đăng ký thực tập ngoài trường vào HK203 này ạ. Theo mail trước đó mà PĐT đã gửi thì sẽ không xét chuẩn anh văn để đăng ký môn cho Hk203 nhưng khi em đăng ký thực tập ngoài trường mã CH3325 của khoa Kỹ thuật hóa học lại không đăng ký được với lý do thiếu chuẩn anh văn như hình trên ạ. Em muốn hỏi vậy đợt 3 này em có thể đăng ký môn học này được không và có bị lỗi gì không ạ.. . Em xin cảm ơn quý thầy/cô.. .",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào quý thầy cô. Em xin hỏi là trong mybk thông tin sinh viên hiện em đã tích được 76 chỉ nhưng Số tín chỉ tích lũy nghành chỉ có 73 em đăng kí đúng theo chương trình đào tạo của em. Cho em hỏi sao em lại mất 3 chỉ vậy ạ. Em xin cảm ơn quý thầy cô",
+            "Chào bạn,. . . . - Bạn đăng kí đúng môn học trong CTDT của bạn thì bạn tích luỹ 73 tin chỉ. . . . . - Bạn tích luỹ chung 76 tín chỉ.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em chào PĐT ạ. Như mail đã thông báo là do kỳ này chưa kịp có điểm của HK2 nên sẽ xem xét đủ số chỉ để được thực tập. Nhưng sau khi có kết quả đăng ký môn học đợt 2 thì em được hệ thống thông báo là thiếu chỉ. Vậy em có thể đăng ký thực tập tiếp đợt 3 này không ạ?. . em cảm ơn.",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. .",
+            "Em tên [full_name] sinh viên hệ VHVL, em có đăng ký môn TTTN học kì 203 nhưng do tòa nhà công ty em đang nộp đơn vào làm việc có người nghi nhiễm covid nên công ty chuyển sang hình thức làm tại nhà, công ty hẹn e ngày 7/6/2021 sẽ trả lời đậu hoặc rớt phỏng vấn, hiện tại e đã phỏng vấn vòng 1 rồi. Nhưng TKB đã có từ tuần 23 như vậy e có bị ảnh hưởng gì không ạ? . . . . Em cám ơn. .",
+            "Chào bạn,. . . . Bạn vui lòng đọc thông báo nha trường.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào cô. Em đang chậm trễ học phí của học kì này . Hiện tại em nhận được Mail như hình ảnh bên dưới . Vì tình hình dịch nên em chưa đủ điều kiện để đóng học phí kịp hạn ngày 4/6/2021 . Em không biết em có thể nộp đơn để gia hạn thời gian nộp được không ? Vì thời gian thi học kì cũng được dời . Mong cô cho em ý kiến để em giải quyết . Em xin cảm ơn",
+            "Chào bạn,. . . . Gia hạn học phí thì bạn liên hệ phòng Công Tác Chính Trị Sinh Viên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào Thầy/Cô,. . Em là [full_name], lớp HC18BSH khoa Kĩ thuật Hóa học. Theo thông báo mới nhất của phòng đào tạo cho phép tạm xét đạt các môn học đang ở học kỳ dự thính 202 chưa có điểm để tính số tín chỉ tích lũy, em muốn hỏi rằng nếu môn học ở kỳ dự thính là môn thay thế thì em có cần làm đơn xin xác nhận môn thay thế của Khoa không ạ? . . Kỳ dự thính 202 em học môn 1 thay thế cho môn 2:. . 1. Quá trình thiết bị truyền nhiệt (CH2043). . 2. Quá trình kĩ thuật sinh học 2 (CH2047). . Dạ em cảm ơn nhiều. . . [full_name]",
+            "Chào bạn,. . . . Vậy bạn làm đơn nộp PDT nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:",
+            "Dạ em chào thầy cô,em có vấn đề muốn hỏi ạ, mong được thầy cô giải đáp, vấn đề là em có in bảng điểm để vào hôm 15/5 ̣(em đã đóng phí in rồi ạ), thì theo quy định sau một tháng nếu không nhận thì sẽ bị hủy là tới 15/6, thì do tình hình dịch bệnh nên em đã về quê hồi tháng 5, thì em có thể nhờ người nhận chỉ cần đọc MSSV mà không cần thẻ được không ạ,",
+            "QUOTE Dạ em chào thầy cô,em có vấn đề muốn hỏi ạ, mong được thầy cô giải đáp, vấn đề là em có in bảng điểm vào hôm 15/5 ̣(em đã đóng phí in rồi ạ), thì theo quy định sau một tháng nếu không nhận thì sẽ bị hủy là tới 15/6, thì do tình hình dịch bệnh nên em đã về quê hồi tháng 5, thì em có thể nhờ người nhận chỉ cần đọc MSSV mà không cần thẻ được không ạ,  /QUOTE . .",
+            "Chào bạn,. . . . Được bạn, bạn lấy dùm phải xuất trình giấy CMND hoặc thẻ sinh viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ em đã đăng ký tốt nghiệp trên hệ thống trường trong đợt bổ sung vừa rồi từ ngày 17/05/2021 nhưng đến nay vẫn chưa có kết quả trả về. Vậy cho em hỏi là có vấn đề gì với đơn xin của em không ạ? Nếu không có vậy chính xác bao lâu sẽ có phản hồi từ Phòng đào tạo?. . . . Em cảm ơn.",
+            "Chào bạn,. . . . Hiện tại PDT đang xử lý, khi nào có quyết định tốt nghiệp PDT sẽ gởi mail cho sinh viên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Hiện tại em có như cầu đóng học phí miễn học ngoại ngữ và học phí HK203, nhưng giờ em đã về quê và địa phương em không vó chi nhánh OCB. Tuy nhiên, hiện giờ em không biết thông tin đăng nhập vào tài khoản. Theo em thấy thì thông tin là do trường cung cấp chị ngân hàng vậy thì trường có thể cũng cấp lại thông tin đăng nhập giúp em được không ạ?",
+            "Chào bạn,. . . . Chưa hiểu ý bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi PĐT, em tên [full_name], MSSV [student_id], ngành Kỹ thuật máy tính.. . . . Em có đăng ký môn Thực tập tốt nghiệp CO3325 học kỳ 203 nhưng kết quả đăng ký không thành công do thiếu tín chỉ. Theo thông báo mới nhất của PĐT thì các môn ở học kỳ dự thính 202 cũng được tính để xét điều kiện đăng ký thực tập. . . . . Vậy em muốn hỏi theo thông báo mới này thì số tín chỉ của em đã đủ điều kiện chưa? Xin cho biết cụ thể số tín chỉ của em nếu chưa đủ. . . . . Mong PĐT trả lời để em có kế hoạch đăng ký môn học phù hợp. Em xin cảm ơn",
+            "Chào bạn,. . . . Số tín chỉ tích luỹ để đăng kí môn TTTN có cập nhật trên web PDT http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_62&tid=1959.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác  /i Em đang theo học lớp phương pháp tính của thầy [full_name], vừa qua có một bài kiểm tra và lấy điểm 5% được thực hiện trên google meet em đã gửi đáp án của mình nhưng không hiểu sao thầy đã không vào điểm cho em. Em có nhắn hỏi thầy và thầy trả lời là \" Không làm bài\". Nhưng em đã đưa ra việc em có tham gia buổi meet đó và kèm đáp án của mình. Nhưng đến nay thầy vẫn im lặng và không trả lời mail của em. Em nên khiếu nại ở đâu để tìm hướng giải quyết cho vấn đề này ạ. Em cảm ơn!. . . .",
+            "Yêu cầu khácEm đang theo học lớp phương pháp tính của thầy [full_name], vừa qua có một bài kiểm tra và lấy điểm 5% được thực hiện trên google meet em đã gửi đáp án của mình nhưng không hiểu sao thầy đã không vào điểm cho em. Em có nhắn hỏi thầy và thầy trả lời là \" Không làm bài\". Nhưng em đã đưa ra việc em có tham gia buổi meet đó và kèm đáp án của mình. Nhưng đến nay thầy vẫn im lặng và không trả lời mail của em. Em nên khiếu nại ở đâu để tìm hướng giải quyết cho vấn đề này ạ. Em cảm ơn!. . . .   /QUOTE . .",
+            "Chào bạn,. . . . Việc này bạn phải liên hệ với thầy thôi, PDT không can thiệp vào được bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Phòng Đào tạo cho em hỏi hiện giờ bên văn phòng có tiếp nhận sinh viên không ạ. Em muốn nộp đơn xin chuyển chương trình đào tạo từ chương trình kĩ sư chất lượng cao Việt-Pháp về chương trình đại trà.. . Em xin cảm ơn",
+            "Chào bạn,. . . . PDT vẫn làm việc bình thường nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em chào thầy cô ạ,hiện tại e có đăng kí môn thực tập ngoài trường mà bị xóa do thiếu môn tiên quyết Co2033 nhưng môn Co2033 e đã học môn Co1025 thay thế rồi ạ.Em mong thầy cô kiểm tra hộ em ạ và cho em cách giải quyết ạ.Em xin cảm ơn",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em là SV BDCN K2018. . Thầy/cô cho em hỏi: . . 1. Theo như thông báo của phòng đào tạo thì tính luôn HK DT 202 thì em được 98TC mà em lại bị xóa đăng ký Thực tập ngoài trường MMH IU3315 với lý do \"PDT không đ/ký cho SV MH IU3315 (N: Không đủ đ/kiện nhận TTTN - STC)\", em không hiểu rõ STC là như thế nào ạ?. . . . 2. Hạn đóng HP HK203 là 02/06-07/06 và thời gian ĐKMH từ 07/06, vậy ngày 07/06 em ĐKMH thì nếu trên BKPAY không cập nhật kịp thì em có bị tính là thanh toán trễ không ạ?. . Em cảm ơn ạ.",
+            "Chào bạn,. . . . 1 Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . 2. Hiện tại học phí đợt 3 PDT chưa có thông nha bạn.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ, em tên là [full_name], lớp VP18VT.. . Em có câu hỏi là: Ở đợt 2 đăng kí môn học DT203 em có đăng kí 2 môn: Kinh tế vi mô - quản lí kế toán(701711) và Kinh tế vi mô & tổ chức xí nghiệp(701705). Nhưng do bận việc nên em muốn hủy đăng kí 2 môn này ạ. Em có thấy mail nói là không cần đóng tiền vào đợt này thì sẽ hủy TKB nhưng em không biết là có cần phải làm thêm đơn gì không.. .   i Đăng ký môn học .",
+            "Chào bạn,. . . . Hiện tại đã hết thời gian huỷ môn học rồi bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . em chào thầy cô. . . em có đăng ký môn học Thực tập tốt nghiệp nhưng kết quả đăng ký thì em không đủ điều kiện anh văn sau năm 2.. . Cho em hỏi là kì hè 203 có được miễn anh văn không ạ ?. .",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Gửi thầy/cô,. . Dạ em chào thầy/cô ạ. Em là sinh viên K20 thuộc hệ đại trà, em viết câu hỏi này muốn hỏi về việc có thể hủy môn học ở kì DT203 sau khi đã hết hạn hiệu chỉnh  được không ạ? Vì một số lí do ở gia đình nên em đang chưa sắp xếp được thời gian học (lúc trước khi hết hạn hiệu chỉnh thì em sắp xếp được nhưng bây giờ vì một số việc đột xuất với gia đình em nên hiện tại em chưa xoay sở được) nên em có thể có cách nào để xin rút môn học được không ạ?. . Em cảm ơn thầy/cô đã đọc câu hỏi này của em ạ.",
+            "Chào bạn,. . . . Hiện tại đã hết thời gian huỷ môn học rồi bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ em chào Thầy/Cô,. . Em là [full_name], lớp HC18BSH khoa Kĩ thuật Hóa học. Theo thông báo mới nhất của phòng đào tạo cho phép tạm xét đạt các môn học đang ở học kỳ dự thính 202 chưa có điểm để tính số tín chỉ tích lũy, em muốn hỏi rằng nếu môn học ở kỳ dự thính là môn tương đương/thay thế thì em có cần làm đơn xin xác nhận môn tương đương/thay thế của Khoa không ạ? . . Kỳ dự thính 202 em học môn 1 tương đương/thay thế cho môn 2:. . 1. Quá trình thiết bị truyền nhiệt (CH2043). . 2. Quá trình kĩ thuật sinh học 2 (CH2047). . Dạ em cảm ơn nhiều.. . [full_name]",
+            "Chào bạn, . . . . Những trường hợp đặc biệt bạn làm đơn nộp PDT nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em đăng ký môn học ở học kỳ 203, nhưng bây giờ em không muốn học nữa. Nếu em không đóng tiền đúng hạn, thì sẽ bị hủy môn học. Vậy cho em hỏi là hủy môn học rồi có phải đóng tiền không ạ? Em cảm ơn",
+            ". . Chào bạn,. . . . Bạn không đóng học phí thì sẽ bị xử lý học vụ theo qui định điều 7, mục 7.2 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Chào thầy/cô. . Trong chương trình đào tạo của em có môn Thực tập Kỹ thuật (ME2017) nhưng năm trước em không đăng ký thực tập do chưa học đủ cấc môn. Hè năm nay em đăng ký nhưng không có lớp mở. . . Kính xin thầy/cô cho em hướng giải quyết.. . Em xin trân thành cám ơn.. . Sinh viên. . [full_name]",
+            "Chào bạn,. . . . Việc này bạn liên hệ khoa vì môn này khoa không đồng ý mở lớp.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chào ad. . Em tên [full_name]. . MSSV: [student_id]. . Khoa xây dựng. . Ad cho em hỏi trong mail trường báo đóng học phí hạn cuối 7/6, nếu không đóng sẽ hủy thời khóa biểu.. . Vậy thì em không muốn học môn mà em đã đăng kí trong lần 2 thì em không đóng học phí là Môn tự hủy và xóa tkb đúng không ạ?. . Liệu không đóng học phí thì sv có bị vô blacklist hay nợ xấu gì không ạ?. . Em chân thành cảm ơn.. .",
+            ". . Chào bạn,. . . . Bạn không đóng học phí thì sẽ bị xử lý học vụ theo qui định điều 7, mục 7.2 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ chào thầy/cô ạ.Cho em xin phép được nộp đơn đăng ký môn học ạ",
+            "Chào bạn,. . . . Đợt 3 DKMH bạn vào đăng kí với sinh viên chính qui nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào PDT. . PDT cho em hỏi về việc thực tập ngoài trường.. . Trường cho đóng học phí từ 2/6 đến 7/6.. . Nhưng tình hình dịch ở HCM đang căng thẳng không biết đến khi nào hết dãn cách xã hội .. . Xe di chuyển từ quê em vào TP HCM vẫn chưa được hoạt động lại.. . Vậy nếu em đóng tiền rồi mà lại không được đi thực tập vì dịch thì sao ạ.. . Mong được PDT trả lời sớm ạ.. . Em cảm ơn. .",
+            "Chào bạn,. . . . Việc này PDT có mail thông báo cho sinh viên rồi nha.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Pđt cho em hỏi là đợt đăng kí môn học đợt 2 học kì 203 này nếu thanh toán học phí trễ hạn thì sẽ bị hủy thời khóa biểu vậy khi bị hủy thời khóa biểu rồi, em có cần thanh toán học phí không ạ. .  Em cảm ơn.. . . .",
+            ". . Chào bạn,. . . . Bạn không đóng học phí thì sẽ bị xử lý học vụ theo qui định điều 7, mục 7.2 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Hiện tại e đang học chương trình chất lượng cao, e muốn đổi qua chương trình đại trà. E mong phòng đào tạo có thể giúp đỡ em . .",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào anh/chị hỗ trợ, . . . . Em là [full_name], MSSV: [student_id]. . . . . Vấn đề: Em có đăng ký in bảng điểm để bổ sung học bổng và hạn nhận là ngày 03/06/2021, nhưng hiện tại em đang ở quê và không thể đến nhận được. . . . . Em đã nhờ bạn [full_name], MSSV: [student_id] đến nhận giúp. Em rất mong PĐT có thể cho phép bạn nhận giúp em. . . . . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . . . Được bạn, khi đi nhận bảng điểm bạn [full_name] nhớ xuất trình CNMD hoặc thẻ sinh viên của bạn nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Cho em hỏi là em đóng trễ học phí và được gia hạn thời gian đóng nhưng do một vài lí do nên em vẫn chưa đủ để đóng đợt gia hạn này thì có gặp vấn đề gì không ạ? Và em chỉ được gia hạn 1 lần để đóng hay như thế nào ? Lần gia hạn này không ghi là lần gia hạn cuối cùng ạ. Xin trả lời giúp em nhanh câu hỏi này, em xin cảm ơn.",
+            "Chào bạn,. . . . Bạn không đóng học phí thì sẽ bị xử lý học vụ theo qui định điều 7, mục 7.2 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Kính gửi: Phòng Đào tạo trường ĐH Bách Khoa TP.HCM  . . Em tên là [full_name] [full_name] - mssv [student_id]. . Em xin quý thầy/cô sửa lỗi họ tên giúp em, cụ thể trong danh sách phòng thi họ \"ôn\" của em không được viết hoa ạ.. . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . Thông tin của bạn trên cổng thông tin sinh viên, in xác nhận SV, bảng điểm... có bị sai không? nếu không bị sai thì không sao nhé!. . Thân",
+            "Em chào cô ạ.. . Em tên Ôn [full_name] - [student_id]. . Tên trên cổng thông tin sv hay in xác nhận sv của em đều đúng ạ. Nhưng tên trên các danh sách học viên trong lớp, trong danh sách phòng thi, và cả trên web sau đại học vẫn còn sai họ \"ôn\" không được viết hoa ạ (hình em đính kèm dưới ạ). Lúc em đi thi thầy giám thị có bảo em báo với nhà trường để sửa để tránh ảnh hưởng bằng tốt nghiệp sau này ạ. Em cũng mong được sửa lại ạ. Mong cô hỗ trợ giúp em. . . Chúc cô thật nhiều sức khỏa ạ. . . Em xin chân thành cảm ơn.",
+            "Chào em,. . Em vui lòng liên hệ Phòng đào tạo Sau đại học qua địa chỉ: Website:www.pgs.hcmut.edu.vn, Email    : [email]. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi: Phòng Đào tạo trường ĐH Bách Khoa TP.HCM. . Em tên là [full_name] [full_name] - mssv [student_id]. . Kết quả xét em được nhận học bổng khuyến khích của học kì 1 (2020-2021) (xét ở học kì 2 năm 2020-2021). Em đã cập nhật thông tin cá nhân trên BKpay (như trong hình em gửi kèm ạ). Quý thầy/cô cho em hỏi em đã cập nhật đủ thông tin để được nhận hbkk chưa ạ? Vì là lần đầu được nhận nên em mong quý thầy/cô giải đáp giúp em ạ.. . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . . . Việc này bạn liên hệ phòng Công Tác Chính Trị Sinh Viên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào các anh chị ạ !. . Vì ảnh hưởng của dịch covid 19 nên lịch thi của tụi em bị dời lại đến tháng 8 mà em có 1 môn đồ án tiên quyết đề cương luận văn nhưng bị dời lịch bảo vệ vậy nhà trường có cho em nhận đề cương không khi chưa có kết quả đồ án ạ?",
+            "Chào bạn,. . . . Học kỳ 211 nhà trường chưa có thông báo về việc DKMH nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em là sv khóa 17 PFIEV. Em muốn học môn Toán 3(Mã MH:006713) để hoàn thành chương trình học nhưng môn không còn mở do đổi chương trình đào tạo cho khóa sau. Tuy nhiên, có môn học tương đương theo quy định của phòng Đào Tạo là Giải tích 3(MT2007). Em đã đăng kí vào đợt 2 nhưng bị hủy với lí do như ảnh đính kèm (kq.jpg). Em hi vọng phòng Đào Tạo có thể giúp em đăng kí môn để em hoàn thành đúng tiến độ học tập.. . Em xin cảm ơn!",
+            "Chào bạn,. . . . Đợt 3 bạn vào đăng kí lại nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cô ơi, cô cho em hỏi là em thanh toán học phí đầy đủ mà sao trường vẫn mail là em chưa thanh toán học phí ạ. . . Cô check lại giúp em với ạ. Em cảm ơn cô.. . . . . .   i Học vụ .",
+            "Chào bạn,. . . . Những bạn đã thanh toán học phí rồi thì bỏ qua mail thôi.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .",
+            "Chào bạn,. . . . Đợt 3 DKMH học kỳ 203 bạn vào đăng kí lại nha.. . . . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy / cô, em muốn hỏi là làm cách nào để huỷ môn học kì hè 203 ạ. Em xin cảm ơn thầy/cô",
+            "Chào bạn,. . . . Không bạn, học kỳ 203 đã hết thời gian huỷ môn học rồi bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Dạ thưa cô cho em hỏi sao em đăng kí có 2 môn là CI2029 - Cơ học kết cấu và CI3211 - Kết cấu thép 2 mà giá tiền học phí lại lên đến \t 5,280,000 Yêu cầu khác:",
+            "Chào bạn,. . . . Môn CI2029 : 4 tin chỉ, CI3211: 2 tin chỉ. Đơn giá học kỳ hè 1 tín chỉ là 880.000/1 tín chỉ nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính thưa phòng đào tạo,. . Em tên là [full_name], MSSV: [student_id].. . Hiện đang là sinh viên lớp Việt Pháp xây dựng.. . Em có vào trang đăng kí môn học hè kì 203 tham khảo trước. Em nhận thấy rằng có môn học pháp luật Việt Nam đại cương (MSMH: Sp1007), nhưng em lại không đăng kí được do loại hình sinh viên. Môn học trong chương trình đào tạo em là môn Pháp luật đại cương (MSMH: 008001) là môn tương đương theo như 'Danh sách môn học CTĐT k2014 tương đương/thay thế cho CTĐT k2013 về trước'. Phòng đào tạo cho em thắc mắc là tại sao em không được đăng kí MH: Sp1007 ạ. Em xin chân thành cám ơn quý phòng ạ.",
+            "Chào bạn,. . . . Bạn không đăng kí vào mã nhóm DTQ được vì mã nhóm này dành cho sinh viên chất lượng cao, quốc tế.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ mình muốn hỏi là về môn giáo dục thể chất ạ, thời khóa biểu ở tuần học tiếp theo. Thì mình vẫn đi học bình thường ạ.. .",
+            "Chào bạn,. . . . Việc này PDT có thông báo cho sinh viên rồi nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1811131  /b \t. . . .   i Học vụ . Dạ, em tên là Trần Diệu Minh Như, MSSV 1811131, cho em hỏi là trong phần bảng điểm sinh viên của em, phần tín chỉ tích luỹ ngành và điểm trung bình tích luỹ ngành tính đến hết học kì ( góc trên cùng bên trái ) vẫn chưa được cập nhật ạ !",
+            "Chào bạn,. . . . Hiện tại PDT chưa cập nhật nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào thầy cô phòng đào tạo !!, em tên là [full_name], MSSV [student_id] hiện đang là sinh viên của Trung tâm Đào Tạo Bảo Dưỡng Công Nghiệp. Học kỳ 203 em có đăng ký môn học thực tập tốt nghiệp nhưng không có kết quả. Hiện tại em được 73 tín chỉ, kỳ này em đang học thêm 13 tín chỉ. Em mong thầy cô tạo điều kiện cho em được đi thực tập vào kỳ tới. Em xin cảm ơn !!!!. .",
+            "Chào bạn,. . . . Những trường hợp đặc biệt bạn làm đơn nộp PDT nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM. . Độc Lập – Tự Do – Hạnh Phúc. . . . Đơn Xin Xem Xét. . . . Kính gửi:  Phòng Đào Tạo trường Đại Học Bách Khoa Hồ Chí Minh. . Em tên:    [full_name]                                    MSSV: [student_id]. .  Ngành:    Logistics và quản lí chuỗi cung ứng                   Khoa: Cơ Khí. . Lý do làm đơn:  Do học kì 201 em có đăng kí môn Quản lí losgictics của khóa 2019 với mã môn ME2125. Hiện môn học này đã là môn tương đương với môn Quản lí losgictics khóa 2018 với mã môn là ME3233 ( lí do sau năm 2018 thì chương trình tạo đạo đổi mã môn và không mở mã 2018 nữa , và cũng đã có công văn tương đương). Văn phòng bộ môn và khoa đã có công văn tương đương rồi nhưng trên hệ thống em chưa được cập nhật số tín chỉ tích lũy ngành của môn này.. . Em kính mong phòng đạo tạo xem xét giúp đỡ em cập nhật, tại nếu không được cập nhật tích lũy môn này em sẽ không đủ chỉ đăng kí môn Thực tập tốt nghiệp vào hè. Em xin chân thành cảm ơn. . .                                                                             Tp HCM, ngày 4 tháng 6 năm 2021. .                                                                                          Người làm đơn. .                                                                                  [full_name]. . . .",
+            "Chào bạn,. . Đã chuyển đơn kiểm việc chuyển điểm môn tương của bạn cho bộ phận tiếp nhận kiểm tra và xử lý. Bạn vui lòng vô đăng ký lại môn TTTN vào trong đợt 3 này để PDT xét lại cho bạn nhé!. . Thân",
+            "Dạ thưa cô. Chỉ của em vẫn chưa được cập nhật và đợt em đăng kí môn học này thì vẫn hiện là thiếu môn quản lý Logistics ạ",
+            "Chào bạn,. . Trong đợt đăng ký môn học (đợt 1) này được xem là đợt nguyện vọng, không ràng bất cứ điều kiện gì, khi SV vào ĐKMH hiện thông báo không đủ điều kiện để ĐKMH vì thiếu môn tiên quyết, học trước, gdtc ..., chỉ cảnh báo để SV kiểm tra về điều kiện ĐKMH của mình. Sau khi kết thúc đợt ĐKMH, PDT sẽ lấy dữ liệu xuống và hậu kiểm lại tất cả các điều kiện ràng buộc về môn học (nếu có). SV viên vui lòng đợi công bố kết quả đợt 1, nếu kết quả ĐKMH không đúng (hoặc sai sót) có thể khiếu nại và đăng ký lại  vào đợt 2.. . Thân chào.. ."
+        ]
+    }
+]

@@ -1,0 +1,381 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "B   /B   b MSSV/MSGV: [student_id]  /b . . Dạ em chào các thầy cô!. . Em tên [full_name], sinh viên khóa K2018, mới sáng nay em nhận được thông báo từ trường là từ học kỳ 211, sinh viên hệ đại trà tất cả các khóa kể cả k2018 đều về học tại cs2. Nhưng thưa các thầy cô, tụi em thuộc khoa Cơ khí và kể từ học kỳ 201,tụi em đã chuyển lên học tập tại CS1 theo đúng chương trình, từ đó tới giờ cũng gần được 1 năm, rồi trường đột ngột thông báo chuyển về cs2 học, rồi học 212 lại làm luận văn các thứ ở CS1, vậy là tụi em cứ di chuyển lên xuống liên tục. Trong khi đồ đạc, thầy cô cũng hiểu, tụi em chuyển trọ đâu phải chuyện đơn giản ạ, chỗ ở cứ không cố định thì tụi em phải học tập sao thưa các thầy cô. Em có thắc mắc, có hay không việc phân biệt đối xử giữa sinh viên hệ đại trà và sinh viên hệ Chất Lượng Cao/Tiên Tiến/Quốc tế và PFIEV? Kể từ khóa 2019 thì các em chưa chuyển lên, nhưng k2018 tụi em đã chuyển lên được gần 1 năm rồi ạ. Em rất mong nhà trường xem xét, vì chuyển trọ không phải đơn giản đâu ạ. Trước khi ra quyết định, nhà trường có nghĩ đến nhận được khó khăn của sinh viên chưa?\t. . . .   i Yêu cầu khác .",
+            "Chào bạn,. . . . Việc  sinh viên học cơ sở nào là do nhà trường qui định nha bạn. PDT ghi nhận ý kiến của bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào PĐT,. . Em tên là [full_name], MSSV: [student_id]. . Vào tuần rồi, em có nhờ PĐT giúp đỡ em kiểm tra lại thông tin hiển thị trong danh sách tốt nghiệp chính thức tháng 4/2021 chỉ hiển thị 1 bằng mặc dù trong danh sách dự kiến tốt nghiệp đã hiển thị 2 bằng. Hôm nay, khi em kiểm tra lại thông tin trong danh sách tốt nghiệp chính thức vẫn chỉ hiển thị cho 1 bằng. Vậy, có phải dữ liệu tốt nghiệp của em gặp vấn đề không? Liệu rằng có ảnh hưởng đến kết quả nhận bằng sắp tới không ạ?. . Kinh mong PĐT kiểm tra lại giúp em.. . Em xin chân thành cảm ơn!. .",
+            "Chào bạn,. . . . PDT đã xét cho bạn tốt nghiệp 2 ngành rồi, bạn yên tâm. Khi cập nhật danh sách tốt nghiệp chính thức chỉ cập nhật được 1 ngành thôi nha bạn.. . . . Thân.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . dạ chào pđt , em đã nộp chứng chỉ anh văn , và đã trả kết quả hợp lệ ! cho em hỏi giờ em coi điểm anh văn của em ở đâu và được học năm 2 không ạ ! em thi 370 toeic ạ ! em cảm ơn ad ạ ! . .",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào quý thầy cô. Em là sinh viên khoá K18. Dạ thầy cô cho em hỏi là theo như quy chế mới thì tất cả môn đại trà sẽ học ở cơ sở Dĩ An. Vậy em khoá k18 đã vào cs 1 hx đc 1 năm. V năm thứ 4 có phải trở về cs 2 để hx ko ak",
+            "Chào bạn,. . . . Tất cả sinh viên đại trà học cơ sở 2 nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b  Phòng đào tạo cho em hỏi thời gian công bố học bổng 201 là bao nhiêu vậy ạ, em cảm ơn phòng đào tạo\t. . . .   i Yêu cầu khác .",
+            "Chào bạn,. . . . Việc này bạn liên hệ phòng Công Tác Chính Trị Sinh Viên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Thưa thầy(cô)!. . Em có nhận mail thông tin về địa điểm học tập cụ thể của hk 211 cho sinh viên hệ đại trà là toàn bộ học ở cs 2 thủ đức ạ. Thầy cô cho em hỏi nếu vậy thì những môn chuyên ngành từ năm 3 trở đi phải bắt buộc học ở cs2 luôn hay được học ở cs1 không ạ ? Vì địa điểm học tập của các lớp thí nghiệm sẽ là cs1 nên em thiết nghĩ việc học ở cs2 các lớp lí thuyết chuyên ngành sẽ gây ảnh hưởng rất lớn đến việc lựa chọn chỗ ở của sinh viên ạ.(việc chạy đi lại giữa 2 cs là rất tốn thời gian và sức lực của sinh viên ạ.). Em có lướt qua một số diễn đàng của sinh viên trường  thì hầu hết các bạn đều cảm thấy bất ngờ và hoang mang với quyết định này của trường ạ.. .",
+            "Chào bạn,. . . . Việc  sinh viên học cơ sở nào là do nhà trường qui định nha bạn. PDT ghi nhận ý kiến của bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em xin chào thầy cô ạ! Em vừa xem quy chế mới liên quan đến học phần GDTC được cập nhật ngày 8/4/2021. Quy chế mới có ghi là học sinh phải hoàn thành học phần 1 gdtc trong năm nhất mới được đăng kí môn học ở năm 2.Nhưng vì một số lí do ( lúc em đăng kí thì tất cả các môn đã đầy đủ học sinh tham gia) nên em không đăng kí được. Nên em không thể học được học phần 1 gdtc, ở học kì 202 em mới đăng kí được thể chất nhưng chỉ học phần 2. Em viết yêu cầu này kính mong thầy cô cho em biết em có thể đăng kí các môn học ở năm 2 được không, và có cách nào để giải quyết vấn đề này không ạ!!! Em mong quý thầy cô giúp đỡ em. Em xin chân thành cảm ơn( Việc không đăng kí được học phần 1 gdtc không chỉ mỗi riêng em, mà còn rất nhiều bạn ạ)",
+            "Chào bạn,. . . . - [full_name]T ghi nhận trường hợp của bạn, sau ghi kết thúc môn GDTC bạn chưa học GDTC 1 thì điểm sẽ chuyển về điểm GDTC 1.. . . . - Sau khi kết thúc học kỳ 202 bạn nhớ kiểm tra lại, nếu có gì thắc mắc phản hồi lại nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Kính chào anh/chị PĐT. . Em tên : [full_name] -MSSV: [student_id]. . Em vừa nhận được thông báo đủ điều kiện xét tốt nghiệp, trong quá trình đăng ký đơn xin tốt nghiệp, thì em phát hiện mình chỉ tốt nghiệp 1 bằng.. . Hiện tại em đủ các điều kiện xét tốt nghiệp song bằng ( bằng 1 và bằng 2 ) theo chương trình đào tạo chính quy của ĐH Bách Khoa TPHCM. .   B Bằng 1 – Ngành học : Kỹ thuật Công Trình Biển ( Cảng – Công Trình Biển)– Khoa Kỹ Thuật Xây Dựng.. . Bằng 2 – Ngành học : Kỹ thuật Công trình xây dựng ( Xây dựng Dân Dụng và Công Nghiệp) – Khoa Kỹ Thuật Xây Dựng.   /B . . Em mong Phòng đào tạo xem xét lại nguyện vọng tốt nghiệp của em. . Em xin cảm ơn. . . .",
+            "Chào bạn,. . . . [full_name] ghi nhận trường hợp của bạn và xét tốt nghiệp 2 ngành trên sau ngày 11/4 sẽ có kết quả xét tốt nghiệp nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy cô ạ!. . Em xin hỏi là học phí của k19 là 5.850.000 nhưng trong BKpay lại là 6.200.000 mặc dù em không đăng ký dư chỉ. Không biết có phải lỗi không hay là do trường tăng học phí ạ.. . Mong thầy cô giải quyết, em xin cảm ơn.",
+            "Chào bạn. . . . Trường hợp của bạn: bạn đăng kí 16 chỉ học phí phải đóng : 5.850.000. Còn môn GDTC Tính theo lần học, 3 lần đầu được miễn phí lần thứ 4 trở đi mỗi môn GDTC được tính 1 tín chỉ học phí (350.000).. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Em có dự định học bằng 2 ngành Kỹ thuật xây dựng cho em hỏi bằng 2 chính quy khác gì với vừa học vừa làm ạ. Bằng 2 chính quy có học buổi tối không ạ?. .",
+            "Chào bạn,. . . . - Hệ vừa học vừa làm là hệ tại chức.. . - Đối với bằng 2 hệ chính qui nếu đầu vào đủ số lượng sẽ mở học buổi tối. Nếu không đủ số lượng các bạn phải học với sinh viên chính qui ban ngày.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy cô, theo quy chế khoá k19 được phép đăng kí speaking and writing tại trường nhưng nếu em thi bằng quốc tế toeic speaking and writing nộp thì có được không",
+            "Chào bạn,. . . . Được bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào thầy/cô,. . Em có thắc mắc là điểm trung bình học kỳ để xét HBKK theo quy định mới có tính điểm học kì dự thính của học kì đó không ạ?. . Ở mục thông tin xét HBKK, điểm trung bình học kỳ của em đã được cộng điểm của học kỳ dự thính.. . Em xin cảm ơn.",
+            "Chào bạn,. . . . Bạn liên hệ phòng Công Tác Chính Trị Sinh Viên nha.. . . . Thân",
+            "li answer rate: Answer does not suit / Câu trả lời không đúng ý",
+            "li answer rate:"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em xin chào quý thầy/cô.. . Theo quy chế mới, sinh viên khoá 18 có thể sử dụng chứng chỉ Speaking & Writing của Trung tâm Ngoại ngữ của Trường Đại học Bách Khoa để xét tốt nghiệp, tuy nhiên mức điểm tối thiểu là bao nhiêu thì lại không đề cập. Vậy quý thầy/cô cho em hỏi mức điểm bao nhiêu thì mới được ạ?. . Em xin cám ơn!",
+            "Chào bạn,. . . . Khoá 2018 chuẩn anh văn Speaking & Writing áp dụng giống khoá 2017. Bạn vui lòng xem qui chế học vụ điều 31, phụ lục 1 nha http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính thưa thầy (cô). . Em có nhận thông báo về việc thay đổi địa điểm học tập từ học kỳ 211 sẽ thực hiện dạy học ở cơ sở Dĩ An (đối với sinh viên hệ đại trà). Cá nhân em cảm thấy có một vài bất cập trong việc thay đổi trên. Trước tiên là về chỗ ở, em đang là sinh viên năm 4 và trong khoảng 1 năm nữa là em ra trường và chỗ ở hiện tại em đã đặt cọc 2 năm trong khi hết học kỳ này em chỉ vừa ở được 1 năm và việc dời địa điểm học xuống cơ sở Dĩ An thì hoặc là em phải chịu mất tiền cọc hoặc là em phải chịu di chuyển đoạn đường xa để đi học. Thứ hai là về việc một số môn học thí nghiệm có phòng thí nghiệm đặt tại cơ sỏ Lý Thường Kiệt nên nếu em chuyển xuống cơ sở Dĩ An thì việc đi lại của em cũng mất nhiều thời gian và ảnh hưởng đến chất lượng học tập. . . Em mong thầy (cô) xem xét và có phương án hỗ trợ giúp em ạ!. . Em cám ơn và chúc sức khỏe thầy (cô)!. . . . . . . .",
+            "Chào bạn,. . . . Việc  sinh viên học cơ sở nào là do nhà trường qui định nha bạn. PDT ghi nhận ý kiến của bạn.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Trong quy chế học vụ thay đổi từ 202 trong phần anh văn 2 kỹ năng nói viết do Trung tâm ngoại ngữ trường thực hiện và áp dụng cho từ khóa [full_name]18. Vậy cho em hỏi là [full_name]19 cũng sẽ thi do Trung tâm hay phải thi lấy bằng nói viết riêng ạ?",
+            "Chào bạn,. . . . Đối với khoá 2019 chưa có thông báo nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào quý thầy cô phòng đào tạo.. . Em tên: [full_name]. . MSSV: [student_id]. . Lớp XD17CTGT02. . Dạ cho em hỏi là lớp anh văn theo yêu cầu đợt đăng ký bổ sung, đợt mở đăng ký từ 25/3/2021-27/3/2021, khi nào mới mở lớp này ạ.. . Dạ em cảm ơn quý thầy cô.",
+            "Chào bạn,. . . . PDT đang mở lớp nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Thưa quý thầy cô. Hiện tại nơi ở của em đã bị nhà nước giải tỏa. Em bắt buộc phải nhập hộ khẩu đi nơi khác nhưng cũng chỉ là phường này sang phường khác trong tỉnh. Nên em muốn hỏi là cách thức để thay đổi trong thông tin sinh viên em",
+            "Chào bạn,. . . . Bạn photo hộ khẩu nộp cho PDT nha.. . . . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính chào thầy (cô),. . . . Em tên là [full_name] mssv [student_id].. . Trong học kỳ hiện tại 202 này em có đăng ký thực tập tốt nghiệp và phía công ty có yêu cầu em về xác nhận không đi qua các vùng dịch COVID 19 để đảm bảo về vấn đề y tế. Em xin cam đoan trong vòng hơn 21 ngày gần đây em không hề rời khỏi tp.HCM. Em không biết nhà trường có thể làm xác nhận cho em hoặc có hướng giải quyết nào giúp em được không ạ. Hiện tại em không biết phải làm thế nào, mong nhà trường có thể hỗ trợ giúp em.. . . . Em chân thành cảm ơn",
+            "Chào bạn,. . . . Việc này bạn hỏi công ty bạn thực tập để hướng dẫn cho bạn, chứ trường không chứng nhận được nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: PĐT cho em hỏi kì này em đăng kí 15 chỉ nhưng sao học phí của em lại là 6.200.000 VNĐ ạ.. . Em cảm ơn.. . . .",
+            "Chào bạn. . . . Trường hợp của bạn: bạn đăng kí 15 chỉ học phí phải đóng : 5.850.000. Còn môn GDTC Tính theo lần học, 3 lần đầu được miễn phí lần thứ 4 trở đi mỗi môn GDTC được tính 1 tín chỉ học phí (350.000).. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em tên là [full_name] MSSV [student_id].. . Dạ cho em hỏi tại sao số tín chỉ tích lũy của em là 73 mà số tín chỉ tích lũy ngành chỉ có 71, trong khi em không học môn nào ngoài chương trình đào tạo.. . Em xin cảm ơn ạ.. . . .",
+            "Chào bạn,. . . . Số tín chỉ tích luỹ ngành của bạn là 73 nha bạn.. . . . Thân",
+            "Dạ hiện tại số tín chỉ tích lũy ngành của em trên bảng điểm vẫn là 71. Nhờ chị cập nhật lại giúp em ạ. . Dạ em cảm ơn ạ.",
+            "Chào bạn,. . . . Bạn vui lòng xem cổng thông tin sinh viên nha .. . . . Thân",
+            ". . . . . .   QUOTE Chào bạn,. . . . Số tín chỉ tích luỹ ngành của bạn là 73 nha bạn.. . . . Thân  /QUOTE . . Dạ nhưng mà hiện tại trên bảng điểm vẫn là 71 chỉ ạ.. . Nhờ chị cập nhật lại giúp em ạ.. . Em cảm ơn."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chào cô/thầy,. . Theo như tệp đính kèm em đã tải lên, ở mục thông tin xét học bổng khuyến khích, số tín chỉ đạt trong kì là 18, nhưng sao điểm lại tính theo 21 tín chỉ ạ?. . Em xin cảm ơn.. . Thân.",
+            "Chào bạn,. . . . Tại học kỳ đang xét  học bổng không tính môn học dự thính nha bạn. Học kỳ 201 bạn học 3 tín chỉ môn dự thính.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi Phòng đào tạo . . Em tên: [full_name] mssv: [student_id]. . Học ở trung tâm đào tạo bảo dưỡng công nghiệp khoá K17. Lớp CN01. . Nay em làm đơn này để xin tăng sĩ số môn học Anh văn 4 (LA1009), nhóm DT01. Thứ 4 tiết 13 15 15. Thứ 6 tiết 1314 15 ở cơ sở 1 . . Em làm đơn này kính mong phòng đào tạo cho em xin phép được học Anh văn 4 trong học kì dự tính 201. . Em xin cám ơn Phòng đạo tạo",
+            "Chào bạn,. . . . Đã quá thời gian đăng kí môn học dự thính rồi bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ cho em hỏi nếu kì này không qua thể chất thì phải học lại đúng môn đó hay được đăng kí môn khác không ạ",
+            "Chào bạn,. . . . Bạn đăng kí môn khác vẫn được nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi thầy(cô). . . . Theo như em được thông tin là để đăng ký được môn thực tốt nghiệp ngành xây dựng dân dụng(mã môn học CI3345) thì cần tối thiểu 95 tín chỉ tích lũy ngành.. . . . Trường hợp của em là hết kỳ 202, tổng tín chỉ tích lũy ngành là 94. Thì có thể cứu xét để đăng ký thực tập tốt nghiệp không?",
+            "Chào bạn,. . . . Phải tích luỹ đủ mới tín chỉ qui định mới đăng kí TTTN được bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào thầy/cô ạ. . . . Em muốn hỏi là em lỡ làm mất thẻ sinh viên hiện em có đăng ký làm lại thẻ mới trên mybk ạ.. . . . Nhưng em thấy phải in ra nộp cho phòng CTCT SV rồi mới đem qua PĐT để nhận đúng không ạ?. . . . Mong thầy cô cho em một chỉ dẫn cụ thể ạ? Em xin cám ơn . .",
+            "Chào bạn,. . . . Nếu tình trạng thẻ sinh viên của bạn đã in xong, bạn in giấy nhận thẻ sinh viên qua phòng Công tác chính trị kí sau đó đến PDT để nhận thẻ nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào thầy/cô .. . . . Em là khóa K14. Cho em hỏi là trường có mở đợt đăng ký tốt nghiệp bổ sung không ạ? Do em chờ điểm toeic nên bị trễ hạn đăng ký tốt nghiệp. Em có thấy hạn đăng ký tốt nghiệp trên Mybk tới 30/4. Vậy đăng ký trước 30/4 vẫn nhận bằng tốt nghiệp được đúng không ạ?. . . . Em cảm ơn ạ.. . . .",
+            "Chào bạn,. . . . Còn đợt đăng kí tốt nghiệp bổ sung nữa bạn kéo dài đếm tháng 7 nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Thưa cô,. . Nếu không tính điểm học kỳ dự thính, thì điểm TBHK phải là 8,08 chứ ạ.. . Xin cám ơn cô.",
+            "Chào bạn,. . . . Điểm ĐTBHK xét học bổng đúng mà (đang là 8.08).. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy cô ạ. Hiện tại em thiếu 2 môn(xử lý số tín hiệu và truyền số liệu) để đủ điều kiện thực tập hè. Vậy có cách nào để em thực tập trước rồi học bù 2 môn đó sau được không ạ? Em cám ơn ạ.",
+            "Chào bạn,. . . . Bạn vui lòng làm đúng qui định của nhà trường.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .  Chào phòng đào tạo , em là sinh viên k19 ngành cơ khí , khoa cơ khí , hiện tại học  kỳ 202 em đã đăng ký gồm 2 môn trong chương trình đào tạo khóa 2019  là chi tiết máy ME2007 ( bao gồm cả  môn thí nghiệm của nó đi kèm là ME2008 ) , và môn Thí nghiệm cơ học máy ME2117 chỉ có thí nghiệm. Em được giáo viên dạy môn thí nghiệm chi tiết máy ( ME2008 ) thông báo là chỉ cần học môn thí nghiệm ME2008 ( đi kèm khi đăng ký môn ME2007 ) hoặc  ME2117 là đủ , không cần học cả 2 môn , vì 2 môn có nội dung trùng nhau và mã ME2008 là mã của chương trình cũ . Như vậy em có quyền chọn 1 trong 2 để học hay không , và nếu bị trùng môn học như vậy thì em có được hoàn lại hoc phí 1 trong 2 học phần thí nghiệm không . Em cảm ơn. .",
+            "Chào bạn,. . . . Về chương trình đào tạo bạn về khoa tư vấn cho bạn nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em chào thầy/cô,. . Em vừa đăng kí tốt nghiệp ngày 02/04/2021 và đã được xử lí, hiện tại là trong danh sách tốt nghiệp dự kiến tháng 4 đã có tên em nhưng trong danh sách tốt nghiệp chính thức chưa có. . . Em không rõ là em có được làm lễ tốt nghiệp vào tháng 4 này không, nếu không thì em có thể đăng kí bổ sung được không? Mong thầy/cô giúp đỡ thông tin giúp em.. . Em xin cảm ơn.",
+            "Chào bạn,. . . . Bạn đã có tên trong danh sách tốt nghiệp dự kiến và hoàn thành các bước đăng kí tốt nghiệp là được rồi bạn. Danh sách tốt nghiệp chính thức PDT sẽ cập nhật sau nha bạn.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em nộp bằng toeic vào ngày 30/3/2021. Ngày trả kết quả hợp lệ là 9/4/2021. Em đã hoàn thành đủ 142 chỉ tích lũy ngành (Kỹ thuật điện tử viễn thông) và đậu anh văn nói viết.. . . . Liệu bây giờ em có được xét tốt nghiệp vào tháng 4, nếu có thì em cần phải làm những gì ạ?. . . . Em mong nhận được sự trả lời từ phòng đào tạo ạ!. . . . Em cảm ơn.",
+            "Chào bạn,. . . . PDT ghi nhận trường hợp và xét tốt nghiệp cho bạn. Bạn đợi mail PDT sau ngày 16/4 sẽ có kết quả xét tốt nghiệp nha.. . . . Thân",
+            "Chào bạn,. . . . Hiện tại bạn còn nợ anh văn 4 nên không được xét tốt nghiệp. Bạn phải chuyển điểm anh văn 4, đóng tiền chuyển điểm để xét tốt nghiệp nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ cho em hỏi ngày tốt nghiệp chính thức của đợt t4 là ngày mấy vậy ạ?. . Mong nhà trường báo sớm để gia đình xem sắp xếp đến dự ạ.. . Em cảm ơn.",
+            "Chào bạn,. . . . Ngày tốt nghiệp là ngày 24/4 nha bạn. Bạn vui lòng đợi mail thông báo nhà trường về đợt tốt nghiệp sắp tới.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào thầy cô,. . . . Em là [full_name], MSSV [student_id], [full_name] [full_name] học ứng dụng.. . Em có đăng kí tốt nghiệp nhưng chỗ dòng [full_name] như kèm hình không để tên [full_name] của em. Do đó e xin hỏi thầy cô cách khăc phục.. . . . Trân trọng",
+            "Chào bạn,. . . . Lỗi đó không sao bạn, khi bạn nhận bằng tốt nghiệp tạm thời bạn nhớ kiểm tra thông tin nếu sai sót gì thì báo lại nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào PĐT, cho em hỏi kỳ này em đăng ký 21 tín chỉ, trong đó bao gồm 3 chỉ môn Địa chất công trình, 4 chỉ XSTK em đã xin điểm Vắng thi có phép kỳ 201. . . Nhưng sao tiền học phí của em là 7 triệu 250 nghìn đồng vậy ạ?. . Quy chế là em sẽ được miễn phí học phí đăng ký các môn Vắng thi có phép trong vòng 1 năm mà ạ? . . Em cảm ơn ! Mong PĐT giải quyết cho em sớm nhất ạ !",
+            "Chào bạn,. . . . Bạn vui lòng chụp hình quyết định vắng thi có phép 2 môn trên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em xin kính chào quý thầy cô.. . Trong đợt tốt nghiệp hệ chính quy vào tháng 4 này, em đã có tên trong danh sách tốt nghiệp dự kiến, thực hiện đăng ký tốt nghiệp và thanh toán trên BKpay rồi. Tuy nhiên hiện tại em vẫn chưa có tên trong danh sách tốt nghiệp chính thức. Em mong quý thầy cô xem xét trường hợp này của em để có thể tốt nghiệp vào đợt tháng 4 này. Em xin chân thành cảm ơn quý thầy cô đã dành thời gian giúp em trong trường hợp này.",
+            "Chào bạn,. . . . Bạn đã có tên trong danh sách tốt nghiệp dự kiến và hoàn thành các bước đăng kí tốt nghiệp là được rồi bạn. Danh sách tốt nghiệp chính thức PDT sẽ cập nhật sau nha bạn.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy cô. . . .  yêu cầu chuyển hệ là ietls 6.0 vậy nếu em có bằng toeic tương ứng thì có được chuyển không? và điểm toiec tương ứng là bao nhiêu ạ?. . . . Em cảm ơn ạ",
+            "Chào bạn,. . . . Bạn vui lòng liên hệ văn phòng Đào Tạo quốc tế để tư vấn cho bạn nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Hiện tại em đang học anh văn 4 nhưng vì một số lí do cá nhân nên không thể tiếp tục học. Vậy nếu không rút môn học sau này em phải đăng kí học lại anh văn 4 hay chỉ cần đạt 600 điểm trong kì thi toeic ở trường thôi ạ? Nếu phải rút môn học thì bây giờ còn rút được không ạ?",
+            "Chào bạn,. . . . Khi bạn rút môn học, sau này bạn đăng kí học lại hoăc chuyển điểm đều được hết nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ cho em hỏi thì Anh văn định kì để xét chuẩn đăng kí môn học năm nay dự tính thi vào thời gian nào ạ? Và để kịp đăng kí môn học cho kì 211 thì trường có khả năng tổ chức nhiều lần không ạ? Em cám ơn.",
+            "Chào bạn,. . . . Việc này nhà trường chưa có thông báo về kỳ thi anh văn định kỳ, bạn đợi mail thông báo của nhà trường nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ chào quý thầy cô, . . Cho em hỏi là bây giờ nộp đơn rút môn vẫn còn kịp không ạ.",
+            "Chào bạn,. . . . PDT vẫn nhận đơn rút môn học nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào [full_name]/Chị.. . Em tên [full_name] MSSV [student_id]. . Hiện tại em đã có tên trong danh sách tốt nghiệp tạm thời và đã đăng ký hoàn thành việc tốt nghiệp ở trường Nhưng chưa có tên trong danh sách chính thức.  B  [full_name]/ Chị cho em hỏi là trường hợp của em đã có bằng tốt nghiệp tạm thời chưa ạ?  /B . . Em chân thành cảm ơn anh/chị đã dành thời gian.",
+            "Chào bạn,. . . . Bạn về khoa nhận bằng tốt nghiệp tạm thời nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào thầy cô! Dạ cho em hỏi, em vừa hoàn tất học phí vào ngày 10/4 nhưng khi đăng kí tốt nghiệp vào hôm nay (12/4) thì tình  trạng vẫn là nợ học phí, dạ cho hỏi có phải hệ thống chưa cập nhật không ạ.Dạ em cảm ơn.",
+            "Chào bạn,. . . . Sau ngày 16/4 mới cập nhật lại tình trạng học phí nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Sau khi bắt đầu học kì 2 em nhận thấy bản thân không thể hoàn thành tốt được khối lượng đã đăng kí học tập nên em muốn rút môn anh văn 4. Phòng đào tạo có thể xem xét giúp em được không ạ?",
+            "Chào bạn,. . . . Bạn có thể nộp đơn rút môn học tại PDT trước ngày thi giữa kỳ nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào thầy/cô,. . Em là [full_name], MSSV [student_id].. . Thầy/cô cho em hỏi đã có lịch ngày tổ chức lễ tốt nghiệp tháng 4/2021 chưa ạ. Em xem trên lịch học vụ mà không thấy ngày tổ chức lịch tốt nghiệp ạ.. . . . Em cảm ơn thầy/cô nhiều.. .",
+            "Chào bạn,. . . . Lễ tốt nghiệp diễn ra ngày 24/4/2021, bạn đợi mail thông báo về lễ tốt nghiệp nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên là [full_name]. . MSSV: [student_id]. . Sau khi thanh toán xong học phí HK202 em thấy mình dã đủ điều kiện tốt nghiệp.. . Em mong phòng đào tạo sớm cập nhật dể em có thể đăng ký tốt nghiệp ạ.. . Em xin cảm ơn.",
+            "Chào bạn,. . . . Sau ngày 16/4 mới cập nhật lại học phí lúc đó bạn mới đăng kí tốt nghiệp được.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em là [full_name], em muốn rút môn av theo yêu cầu thì làm như thế nào và có tính học phí không ạ?",
+            "Chào bạn,. . . . Bạn nộp đơn rút môn học nộp PDT, rút môn học là có tính học phí nha bạn.. . . . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào quý thầy cô phòng đào tạo.. . Em tên: [full_name]. . MSSV:[student_id]. . Lớp XD17CTGT02. . Dạ đợt phòng đào tạo có mở đăng ký lớp anh văn theo yêu cầu em có đăng ký nhưng tới đợt kết quả mới đây thì không có môn học ạ. . . Dạ em cảm ơn.",
+            "Chào bạn,. . . . Bạn đã đăng kí anh văn theo yêu cầu (LA1043) trong học kỳ chính rồi mà.. . . . Thân. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi, ban đầu em thi anh văn định kì ở trường được 355, đủ qua chuẩn anh văn năm nhất của khóa 2019 ạ, đến lúc đăng kí anh văn theo yêu cầu, em đăng kí nhầm môn av1A nên em định hủy môn lại nhưng đã hết hạn hủy môn ạ, nên em mới hông đi học av1A luôn ạ vì nghĩ là em đã qua chuẩn av1 rồi ạ, vậy sao đến đợt đăng kí av theo nhu cầu em đk av2A mà lại bị hủy với lý do trên trang mybk là chưa học môn lA1037 (em đã qua av1 theo chuẩn của khóa 2019) vậy ạ.",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31, phụ lục để phân biệt chuẩn anh văn sau các năm và anh văn 1,2,3,4 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào thầy/cô. . Em là sinh viên năm 3 (K18) . . Em đã đạt AV3, chưa đạt AV4. . Cho em hỏi với tình hình như trên thì học kì tới 211 em có được đăng ký những môn học có mã bắt đầu bằng 3 không? như CH3105. . Em cảm ơn",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ chào pdt, em có đăng ký học môn anh văn 2A nhưng kết quả lai xoa của em , em có nộp bằng toiec được 370 và đã có học vu được học năm 2 và pass anh văn 1 , vay sao giờ xoa mon anh van 2 của em ! Em mong pdt tra loi som giúp em a",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31 phụ lục 1 để phân biệt chuẩn anh văn sau các năm và anh văn 1,2,3,4 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học  /i  . . Dạ em chào thầy cô ạ. . Hiện tại em đang học lớp anh văn theo yêu cầu ( lớp AV1A ) và em sắp kết thúc lớp AV1A và tiếp tục đăng kí lớp AV2A tiếp theo. . . - Ngày 25/3/2021 trường có mở \" Đăng ký bổ sung các lớp Anh văn theo yêu cầu\" và em đã đăng kí tiếp tục lớp AV2A. . - Ngày 12/4/2021 trường công bố kết quả đăng kí nhưng em bị đăng kí không thành công, do lịch học lớp AV2A là thứ 3 và thứ 7 lúc 18h đến 20h tại cơ sở 2. Và T3 em cũng có tiết học sức bền vật liệu lúc 14h đến 17h50 tại cơ sở 2. Do hai môn em học tại cùng cơ sở 2 và em có đủ thời gian giãn cách giữa hai môn học. Em kính mong thầy cô có thể xem xét lại giúp em, giúp em có thể đăng ký được lớp AV2A để có thể đi kiệp tiến độ học tập ạ. . Em chân thành cảm ơn. . . . . . .",
+            "Chào bạn,. . . . Môn anh văn 2A có môn học trước  là môn anh văn 1A, hiện tại bạn đang học anh văn 1A thì không đăng kí được anh văn 2A được nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ cho em hỏi là sắp tới em có thi gk dự thính. Vậy cho em hỏi phòng GDB2A là ở đâu ạ. . Em cảm ơn",
+            "Chào bạn,. . . . Phòng học tại cơ sở 1, bạn đến cơ sở 1 hỏi các bạn sinh viên để sinh viên khác sẽ chỉ cho bạn.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dear cô,. . Em đã viết đơn xin rút môn học vào ngày 07/04/2021. Vậy mất bao lâu thì đơn của em mới được xét duyệt? Thứ hai, chỉ cần phòng đào tạo đóng dấu vào đơn thì em chắc chắn được rút môn và từ nay không cần đi học môn học đã rút nữa đúng không ạ? . . Em xin chân thành cảm ơn cô. Mong sớm nhận được hồi âm của cô. Chúc cô một ngày vui vẻ.",
+            "Chào bạn,. . . . Bạn rút môn học nào, chụp hình biên nhận để PDT kiểm tra cho bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ em xin chào thầy cô. Em có thể hủy môn anh văn 2 được không ạ. Em không thể học tối được với lúc em đăng kí em không biết học anh văn là sẽ học buổi tối. Em mong thầy cô có thể giải quyết giúp em ạ. Em xin cảm ơn.",
+            "Dạ em có thể hủy môn mà không mất học phí không ạ. Tại đăng kí môn học đợt trước có hiệu chỉnh.",
+            "Chào bạn,. . . . Hiện tại không huỷ môn học được bạn, muốn huỷ làm đơn rút môn học là phải tính học phí nha.. . . . Thân"
+        ]
+    }
+]
