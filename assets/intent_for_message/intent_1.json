@@ -1,0 +1,378 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "i Tốt nghiệp .   b Họ tên sinh viên  /b . . [full_name]. . . .   b Mã sinh viên  /b . . ABC123. . . .   b Nội dung yêu cầu  /b . . Thưa thầy cô,. . em muốn biết em có đủ điều kiện tốt nghiệp không?. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Yêu cầu khác .   b Họ tên sinh viên  /b . . [full_name]. . . .   b Mã sinh viên  /b . . XYZ123. . . .   b Nội dung yêu cầu  /b . . Yêu cầu về việc chứng nhận hoàn thành môn học. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Điểm thi .   b Họ tên sinh viên  /b . . [full_name]. . . .   b Mã sinh viên  /b . . [full_name]D1234. . . .   b Nội dung yêu cầu  /b . . Tra lục bảng điểm.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Điểm thi .   b Họ tên sinh viên  /b . . [full_name]. . . .   b Mã sinh viên  /b . . BK1126. . . .   b Nội dung yêu cầu  /b . . Chào thầy cô,. . . . Em muốn xin chấm phúc khảo lại bài thi \"Tư tưởng [full_name]\" ạ!. . . . Em cảm ơn.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Học phí   khong chinh quy .   b Họ tên sinh viên  /b . . sinh vien A. . . .   b Mã sinh viên  /b . . 0001. . . .   b Nội dung yêu cầu  /b . . Noi dung yeu cau hoc phi. . . .   b cau 1  /b . . hoi ve hoc phi. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Điểm thi  /i [full_name] [full_name] [full_name] [full_name]   b Họ tên sinh viên  /b [full_name] [full_name] [full_name][full_name] [full_name] [full_name] [full_name]   b Mã sinh viên  /b [full_name] [full_name] 312312abc[full_name] [full_name] [full_name] [full_name]   b Nội dung yêu cầu  /b [full_name] [full_name] abc[full_name] [full_name] [full_name] [full_name]",
+            "ok"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Điểm thi .   b Họ tên sinh viên  /b . . [full_name]. . . .   b Mã sinh viên  /b . . 097356. . . .   b Nội dung yêu cầu  /b . . [full_name] [full_name] [full_name][full_name]. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Đăng ký môn học .   b Họ tên sinh viên  /b . . [not specified]. . . .   b Mã sinh viên  /b . . [not specified]. . . .   b Nội dung yêu cầu  /b . . [not specified]. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Yêu cầu khác .   b Họ tên sinh viên  /b . . [full_name]. . . .   b Mã sinh viên  /b . . [full_name]0001. . . .   b Nội dung yêu cầu  /b . . Test giao diện mới. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "HP 2017"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Học phí   Học phí học kỳ chính .   b Nội dung yêu cầu  /b . . [not specified]. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Học phí   Học phí dự thính .   b Nội dung yêu cầu  /b . . Thay Trang test. . . .",
+            "Cảm ơn đã test",
+            "Test la di!",
+            "Test rồi :)",
+            "cam on"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Đăng ký môn học   Tình trạng không đăng ký được . Hi, test coi có đúng ko.. .",
+            ". . Dang bi tam dung ...",
+            "Phan hoi lan 1",
+            "i Học phí   Học phí học kỳ chính ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 002282  /b \t. . . .   i Dịch vụ cho sinh viên   Đăng ký in bảng điểm . in 2 bang"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em là sinh viên năm nhất mới nhận được bằng tốt nghiệp THPT. Hôm nay em có đăng kí nộp bằng tốt nghiệp thì hệ thống báo lỗi. Ở ô nơi sinh không cho phép nhập, đến lúc chọn xác nhận thông tin thì ô nơi sinh bắt điền mà không điền được. Mong thầy/cô fix lỗi này để em có thể đăng kí nộp bằng tốt nghiệp THPT trong thời gian sớm nhất. Em xin cảm ơn.",
+            "Yêu cầu khác . Em là sinh viên năm nhất mới nhận được bằng tốt nghiệp THPT. Em có lên web trường để đăng kí nộp bằng nhưng đến ô Nơi sinh thì hệ thống lại không cho phép nhập và xác nhận thông tin không được. Em mong thầy/cô fix lỗi này để em có thể nộp bằng tốt nghiệp THPT trong thời gian sớm nhất. Em xin cảm ơn.. .",
+            "Đang kiểm tra, vui lòng đợi kết quả.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . .   i Học phí   Học phí học kỳ chính . Em chào thầy, cô quản trị viên. . . . Em tên là: [full_name]. . MSSV: [student_id]0. . Học khoa Điện-Điện tử, bộ môn Điện tử. . . . Cho em hỏi, Em đăng kí in thẻ sinh viên, sau đó vào BKpay để thanh toán phí. Khi đăng nhập bkpay xong, chọn khoản thanh toán rồi nhấn thanh toán, thì nó nhảy qua OCB. Nhưng sau khi đăng nhập OCB thì không thấy khoản thanh toán đâu cả (Em có đính kèm file chụp màn hình khi sau khi đăng nhập OCB phía dưới). Đáng lẽ nó hiện khoản thanh toán rồi mình nhấn vào xác nhận luôn. Nhưng me đã đăng xuất hết, rồi làm lại nhiều lần vẫn không được.. . Mong thầy cô khắc phục cho em ạ.. . . . Em cảm ơn.",
+            "Em đã thanh toán được rồi. Cảm ơn phòng đào tạo"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . .   i Điểm thi   Điểm môn học . Em chào thầy, cô quản trị viên. . . . Em tên là: [full_name]. . MSSV: [student_id]0. . Học khoa Điện-Điện tử, bộ môn Điện tử. . . . Cho em hỏi là nếu trong một list môn tự chọn chuyên ngành, Chương trình yêu cầu 6 môn tự chọn. Nếu em học 8 môn (trong đó có 2 môn rớt), thì khi tính điểm trung bình tích lũy, hệ thống sẽ lấy 6 môn tự chọn cao nhất phải k ạ? Nhưng em thống kê file excel thì thấy điểm trung bình tích lũy aao tính hết tất cả 8 môn tự chọn (kể cả 2 môn rớt). Không biết có phải do lỗi hay là nguyên nhân tại sao lại vậy ạ?. . . . Mong thầy cô giải đáp giúp em.. . Em xin cảm ơn.",
+            "Chảo em,. . Điểm trung bình lích lũy là tính tất cả các môn em đã học.. . KHi xét tốt nghiệp, trường chỉ lấy điểm cao nhất của các môn trong tổ hợp môn tự chọn  đúng số tín chỉ của  tích lũy trong ngành.. . Thân",
+            "Dạ. Em hiểu rồi. EM cảm ơn ạ",
+            "Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ   Phúc tra bài thi . Em chào thầy cô,. . Về bài thi cuối kì môn phương pháp tính học kì 162, thầy cô cho em hỏi là em có được quyền xin xem lại bài làm của mình để biết được mình sai ở đâu không ạ.. . Em xin cảm ơn.. . . . . .",
+            "Chào bạn, nếu bạn muốn xem lại trực tiếp bài thi bạn liên hệ trực tiếp giáo viên giảng dạy. . . . - còn nếu xin thầy chấm lại bài thì bạn tải mẫu đơn phúc khảo điền vào và nộp tại cửa tiếp sv của phòng đào tao, pdt sẽ chuyển phiếu chuyển đề nghị thầy xem lại bài thi cho sv"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Điểm thi   Điểm môn học . Vừa qua thầy [full_name] đã đăng điểm tổng kết môn Xử lí số tín hiệu lên trang điểm của trường , và em có một vài thắc mắc muốn hỏi thầy về điểm thành phần và điểm thi nhưng em không thể tìm thấy thông tin liên lạc của thầy .Mong thầy cô có thể cho em xin thông tin liên lạc của thầy [full_name] dạy bộ môn Xử lí số tín hiệu học kì vừa qua có được không ạ . Em xin cảm ơn thầy cô ạ . .",
+            "CHào em,. . Em vui lòng liên hệ Khoa- Bộ môn để hỏi thông tin liên lạc với giáo viên.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Học vụ   Thi vét . Kính thưa thầy cô phòng đào tạo. . Hiên em đã hoàn thành luận văn tốt nghiệp và tất cả các tín chỉ liên quan. Trong chương trình đào tạo, em vẫn còn thiếu tín chỉ của một môn chuyên ngành tự chọn (đã học). Cho em hỏi về thời gian đăng ký và lịch trình thi vét? Em cám ơn thầy cô.. . . .",
+            "QUOTE MSSV/MSGV: [student_id]8    . . . . Học vụ   Thi vét. . Kính thưa thầy cô phòng đào tạo. . Hiên em đã hoàn thành luận văn tốt nghiệp và tất cả các tín chỉ liên quan. Trong chương trình đào tạo, em vẫn còn thiếu tín chỉ của một môn chuyên ngành tự chọn (đã học). Cho em hỏi về thời gian đăng ký và lịch trình thi vét? Thi vét có được mở trong dịp hè không ạ? Em cám ơn thầy cô.. . . .   /QUOTE . .",
+            "Chào bạn, thông báo thi vét cho khóa 2010 sẽ có vào khoảng tháng 10/2017, bạn chú ý xem thông báo và thực hiện theo đúng quy trình. . . . Bạn có thể tham khảo thông báo thi vét của K2009 tại :. . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=219_61&tid=1211"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Khi em bấm vào link xác nhận tham gia hoạt động, nhập đúng MSSV và mật khẩu nhưng lại báo em là thông tin đăng nhập sai trong khi mật khẩu em vẫn dùng được khi đăng nhập eL và sàn hoạt động ngoại khóa. Xin kiểm tra lại giúp em.",
+            "Đang kiểm tra vui lòng chờ kết quả.",
+            "Dạ em mong nhận phản hồi sớm vì 5/7 CTXH đó sẽ đóng ạ",
+            "Nếu xác nhận cần mật khẩu ban đầu trường cho vậy có thể cho em lại mật khẩu đó được không vì em đã làm mất tờ giấy có mật khẩu ban đầu. Em cảm ơn ạ",
+            "CHào em,. . Em vui lòng đến trực tiếp tổ kỹ thuật Phòng đào tạo để được hỗ trợ.. .  Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ   Khác ... . Em hiện năm 2 mà chưa đậu a . . Văn đầu vào giờ em thi IIG toeic ở ngoài em được 340 giờ em nộp vô được miễn a văn đầu vào để tiếp tục đăng kí học kì tới không ạ",
+            "Chào em,. . Em hạy đăng ký thông tin chứng chỉ ngoại ngữ của em lên web của trường để được xét cho đăng ký học các môn trong HK tiếp theo .",
+            "dạ, vậy là được phải không cô. mà sao em đăng kí thông tin chứng chỉ ngoại ngữ trên web rồi mà vẫn chưa được xét, em sợ không biết có trễ đăng kí môn học không. cô có thể kiểm tra giúp em được không cô. em cảm ơn cô",
+            "HIện tại CCNN của em đang được thẩm tra, em vui lỏng chờ KQ trên trang ngoại ngữ.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ   Khác ... . Em có thắc mắc là khi mình học cải thiện lại thì sẽ lấy điểm nào cao hơn của 2 lần học hay là điểm mình học lại.. . Còn khi mình học cải thiện mà bị rớt môn thì môn đó có tính là rớt không khi lần đầu mình đã qua môn đó rồi. . Mong pđt giải đáp thắc mắc giúp em.. . . .",
+            "_ chào bạn, khi bạn học cải thiện điểm (học cùng mã số môn học) thì sẽ lấy điểm cao nhất để cộng vào điểm TBLT ngành"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ   Khác ... . chào cô!. . Dạ thưa cô bây giờ em nôp điểm toeic 340 vào để xét miễn anh văn đầu vào, vậy sau này em còn có thể nộp bằng 550 vào để chuyển điểm không ạ. tại em đọc trên web là chỉ chuyển điểm môn học được 1 lần ạ",
+            "CHào em,. . Mỗi môn av em chỉ được chuyển điểm 1 lần duy nhất, môn Av nào đã đăng ký chuyển điểm rồi thì không chuyển lại được.. .  Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính chào!. .  Cho em hỏi chứng chỉ ngoại ngữ để tốt nghiệp có bắt buộc là tiếng Anh k ạ, nếu em muốn học tiếng Nhật để lấy chứng chỉ tiếng Nhật thì trường có công nhận k? và nếu có thì chuẩn trình độ tiếng Nhật để ra trường cụ thể là như thế nào ạ?. . Em xin chân thành cảm ơn!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ   Khác ... . Kính chào Quý Thầy/Cô,. . Em tốt nghiệp lớp MO10KMT1-kỹ thuật môi trường năm 2015. Sau khi ra trường đi làm 1 thời gian, em quay lại học thêm chuyên ngành xây dựng. Hiện tại, em đang là sinh viên theo học lớp XD15B2D1-Lớp xây dựng bằng 2. Em đã học được 4 học kỳ, 3 học kỳ trước em học vẫn ổn. Nhưng đến học kỳ thứ 4 trở đi do em đi công tác thường xuyên nên việc học bị gián đoạn nhiều, ngoài ra các lớp thực tập có khi được sắp xếp vào ban ngày nên em đang trong giờ làm việc không thể xin ra ngoài được.. . Do cảm thấy tình hình học tập không ổn nên em  đang có ý định chuyển Hệ sang Hệ Tại chức hoặc Hệ Vừa học vừa làm.. . Xin Quý Thầy/Cô cho hướng dẫn, tư vấn cho em về các vấn đề sau: . . 1/ Với trường hợp của em, em có được chuyển Hệ hay không? Điều kiện, yêu cầu để em được phép chuyển Hệ là gì?. . 2/ Khi em chuyển Hệ, liệu em có thể chuyển điểm các môn học tương đương em đã hoàn thành từ lớp Bằng 2 này sang được không?. . Trên đây là các vướng mắc của em. Kính mong Quý Thầy/Cô xem xét và có giải đáp giúp em.. . Em xin cảm ơn và chúc Quý Thầy/Cô nhiều sức khỏe.",
+            "- Chào bạn, bạn có thể chuyển sang hệ vừa học vừa làm. . - Thủ tục: bạn tải mẫu đơn thôi học kèm theo thẻ sinh viên nộp tại cửa tiếp sv của phòng đào tạo --  sau khi có QĐ chuyển hệ liên hệ tổ đào tạo thường xuyên 201A4 . . - Bạn in bảng điểm theo mssv: [student_id], liên hệ tổ đào tạo thường xuyên 201A4 để giải đáp về môn tương đương",
+            "Dạ vâng, em xin cảm ơn."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]9  /b \t. . . .   i Chứng chỉ ngoại ngữ   Xét miễn môn anh văn (chuyển điểm) . Chào PĐT,. . . . Em muốn hỏi SV khóa K13, muốn ra trường đúng hạn thì hạn chót chuyển điểm NN là học kỳ nào?. . . . Nếu học kì 171 chuyển điểm thì có kịp ra trường đúng hạn không?. . . . Em xin cảm ơn!",
+            "Chào em,. . EM có thể đăng ký chuyển điểm các môn ngoại ngữ vào HK171 để tốt nghiệp đúng đợt vào HK172.. . Thân",
+            "dạ tốt nghiệp đợt HK172 có cùng đợt với toàn khóa K13 không ạ?",
+            "HK172 là đợt tốt nghiệp chính của K2013.",
+            "em cảm ơn cô nhiều ạ!. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Tốt nghiệp   Khác ... . Em là sv K12, hiện đã hoàn thành chương trình học và sẽ tốt nghiệp vào tháng 11 tới. Em muốn hỏi về việc em đã nộp bằng TOEIC từ 2 năm trước, đã thực hiện chuyển điểm nhưng bằng TOEIC chỉ có giá trị 2 năm, em xin hỏi là có cần phải thi lại TOEIC và nộp để được tốt nghiệp hay không ạ. Nếu có thì thời gian em phải nộp là khi nào để có thể tốt nghiệp vào tháng 11 tới ?",
+            "Chào bạn, bạn đã đủ chuẩn TOEIC để tốt nghiệp"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: V[student_id]  /b \t. . . .   i Chứng chỉ ngoại ngữ   Khác ... . Cho em hỏi hạn nộp Toeic để xét LVTN cho k11 vào kỳ 2017-2018 là khi nào",
+            "Em đăng ký thông tin chứng chỉn goại ngữ online trước 1 ngày em đăng ký môn LVTN theo  đợt mở đăng ký môn học của HK171."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào các thầy cô ạ. . Vừa rồi em có đăng kí in bảng điểm để nộp đơn đăng kí xin tài trợ học bổng. Nhưng nay thời hạn học bổng đó bị rút ngắn, đến thứ 6 này là hết hạn, nên em mong được in bảng điểm sơm hơn lịch hẹn để có thể lấy vào sáng thứ 6.. . . . Mong phòng đào tạo xem xét giúp em, cái học bổng này rât quan trọng với em ạ.. . . . Mong nhận được phản hồi sớm. . . . Em xin cảm ơn. . . . sinh viên,. . [full_name]."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dịch vụ cho sinh viên   Đăng ký in bảng điểm ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dịch vụ cho sinh viên   Đăng ký in bảng điểm . Em chào các thầy cô ạ. . Vừa rồi em có đăng kí in bảng điểm để nộp đơn đăng kí xin tài trợ học bổng. Nhưng nay thời hạn học bổng đó bị rút ngắn, đến thứ 6 này là hết hạn, nên em mong được in bảng điểm sơm hơn lịch hẹn để có thể lấy vào sáng thứ 6.. . . . Mong phòng đào tạo xem xét giúp em, cái học bổng này rât quan trọng với em ạ.. . . . Mong nhận được phản hồi sớm. . . . Em xin cảm ơn. . . . sinh viên,. . [full_name].. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: G[student_id]  /b \t. . . .   i Chứng chỉ ngoại ngữ   Xét miễn môn anh văn (chuyển điểm) . Kính gửi Phòng đào tạo, . . . . Em là [full_name], MSSV G[student_id]. Ngày 13/6 em đã đăng ký miễn điểm các môn Anh văn 1,2,3,4 và đã đóng lệ phí. Nhưng tới nay em vẫn chưa thấy Điểm chuyển trên trang Thông tin sinh viên. Mong các thầy/cô xem giúp em có thiếu sót gì không? Và trong bao lâu sẽ có điểm chuyển.. . . . Em xin chân thành cảm ơn.",
+            "Chào em,. . Đợt chuyển điểm các môn Av trong HK163 là ngày 28/07/2017, em vui lòng đợi. Điểm chuyển sẽ tính vào điểm tích lũy trung bình chung vào cuối kỳ 163.. . Thân",
+            "Vâng, em cảm ơn cô!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: G[student_id]  /b \t. . . .   i Tốt nghiệp   Khác ... . Kính gửi PĐT . . Em vừa hoàn thành Luận Văn Tốt Nghiệp, đã có điểm và đủ điều kiện tốt nghiệp. Hiện tại, em có dự định đăng ký thi cao học. Tuy nhiên, theo lịch trình đăng ký tốt nghiệp của năm trước thì em nhận được giấy chứng nhận tốt nghiệp tạm thời sau đợt đăng ký cao học tháng 8 này (hạn cuối đăng ký là 11/8). Vậy, em có thể xin giấy chứng nhận tốt nghiệp tạm thời hoặc xác nhận tốt nghiệp trong đợt này để đăng ký thi cao học được  không ạ?",
+            "Chào bạn, bạn theo dõi thông báo tốt nghiệp dự kiến có vào thán 8 nghen. . - nếu bạn đăng ký thi cao học ở trường đại học bách khoa, thì yên tâm không bị trễ hạn nghen"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp   [full_name]hác ... . [full_name]ính gửi PĐT. . Em tên là [full_name].. . - PĐT cho em hỏi là điểm Toeic để tốt nghiệp của [full_name]10 vẫn là 450 phải không ạ.. . - Em chuẩn bị nộp bằng Toeic để tốt nghiệp vào tháng 11 tới nhưng trong học kỳ II (2016 - 2017) em có đăng ký môn học để duy trì (em đã hoàn thành chương trình học trước đó) nhưng điểm dưới 5 (trên 0) thì có ảnh hưởng gì đến tốt nghiệp không ạ.",
+            "Chào bạn, trả lời câu hỏi . . -PĐT cho em hỏi là điểm Toeic để tốt nghiệp của K10 vẫn là 450 phải không ?   B ĐÚNG  /B . . - Em chuẩn bị nộp bằng Toeic để tốt nghiệp vào tháng 11 tới nhưng trong học kỳ II (2016 - 2017) em có đăng ký môn học để duy trì (em đã hoàn thành chương trình học trước đó) nhưng điểm dưới 5 (trên 0) thì có ảnh hưởng gì đến tốt nghiệp không ạ ?   B KHÔNG , NHƯNG NẾU CÓ TÊN TRONG DANH SÁCH BTH THÌ [full_name] LIÊN HỆ PHÒNG ĐÀO TẠO ĐỂ GIẢI QUYẾT  /B"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ   Xét miễn môn anh văn (chuyển điểm) . dạ em chào cô. . em nộp bằng 340 vào để xét miễn anh văn đầu vào ,nhưng  sau khi thẩm tra hợp lệ em bấm vô danh sách xét miễn chỉ có anh văn 1 2 3 4 không có muc anh văn đầu vào, vậy giờ em phải làm sao cô."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính chào PĐT. . . . . Em là [full_name]; MSSV: [student_id] . . Chuyển hệ từ Chính Quy sang VLVH tháng 6 năm 2016,(MSSV cũ : K[student_id]).. . . . Em xin hỏi là: Đã hết hai kỳ học nhưng em vẫn chưa nhận được phiếu miễn môn học tạm thời (em đã trực tiếp đến PĐT hỏi nhiều lần và được trả lời là chưa có, nên em vẫn đang đợi...). . . . . Hiện tại, em đã học xong hết các môn còn thiếu và đã thi đạt toeic 400 (đã hoàn thành đăng ký nộp chứng chỉ ngoại ngữ). Xin PĐT hướng dẫn em cần làm gì để hoàn tất chương trình học và đăng ký tốt nghiệp vào tháng 8 tới ạ. Xin hỏi thêm là vào kỳ 171 sắp tới em có cần ĐKMH để duy trì tình trạng sinh viên không ạ?.. . . . Em xin chân thành cảm ơn."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Tốt nghiệp   Cập nhật ngày CTXH, điểm ... . Cho em hỏi về thời gian chi tiết cập nhật điểm trung bình tích lũy cuối cùng và thời gian em được nhận bằng TN tạm thời. Vì em hiện đang trong thời gian phỏng vấn và công ty muốn em cho một thời gian cụ thể để cung cấp bảng điểm, nhưng vì điểm LVTN của em dù đã có được 3 tuần nhưng vẫn chưa được tính vào điểm TBTL.",
+            "- Chào bạn, dự kiến đầu tháng 8 sẽ có thông báo cụ thể về tốt nghiệp , bạn vui lòng theo dõi thông báo nghen"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            ". . kính gửi PĐT . . cho em hỏi đăng ký LVNT ngoài 2 đơt đăng ký chính và đợt đăng ký bổ sung thì có đợt vét không ạ, và đợt vét thường diễn ra thời gian nào ạ.. .  Hiện tại em còn thiếu chứng chỉ ngoại ngữ, và nếu em nhận được chứng chỉ ngoại ngữ thì em có thể đăng ký luận văn vào đợt vét được không ạ, hay chỉ được đăng ký  luận văn tốt nghiệp vào 2 đợt đăng ký chính và đợt đăng ký bổ sung thôi.. . em cám ơn.",
+            "hiện tại chưa có thông báo gì mới về đăng ký môn học, Em xem chi tiết thông báo đăng ký môn học chính thức tại :. . Trang web http://www.aao.hcmut.edu.vn    sinh viên    đăng ký môn học    các môn học chính quy    học kỳ 1",
+            "kính gửi PĐT . . cho em hỏi K12 thì có cần thi toeic 4 kỹ năng ko ạ, hay chỉ cần toeic 2 kỹ năng (nghe-đọc) để tốt nghiệp được ạ.. . emc ám ơn",
+            "- K 12 để tốt nghiệp không cần toeic 4 kỹ năng",
+            "kính gửi PĐT . . cho em hỏi: hoc môn tương đương có cần viết đơn gì không ạ, hay là chỉ đăng ký học bình thường giống mã cũ thôi ạ.. . em cám ơn",
+            "http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_201&tid=447. . . . Bạn xem qui định ở đây",
+            "kính gửi PĐT . . cho em hỏi: học phí tạm ứng là bao nhiêu % trong học phí tổng vậy ạ. có phải là 50% như các kỳ trước không ạ. . em cám ơn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]7  /b \t. . . . Kính gửi phòng đào tạo Đại học Bách Khoa Tp.HCM. . Em tên là [full_name],MSSV :[student_id]7,khoá K13 khoa Môi trường và tài nguyên. . Em xin hỏi là bằng TOEIC của em đã được xét là hợp lệ nên em đã đăng kí chuyển điểm, em đã làm các bước và thanh toán học phí đầy đủ nhưng em không thấy có gì thay đổi trong bảng điểm cũng như môn được chuyển.Kính mong pđt giải đáp thắc mắc giúp em.Em xin chân thành cảm ơn!",
+            "Chào em,. . Đợt chuyển điểm của HK163 là ngày 28/7 nhen em,. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]9  /b \t. . Chào anh (chị)!. . Vừa qua em đã bảo vệ luận văn thành công vào ngày 16/6/2017 và hiện tại đang tìm kiếm việc làm bên ngoài. Anh (chị) cho em hỏi khi nào em có thể nhận giấy chứng nhận tốt nghiệp tạm thời? Và có phải làm thêm thủ tục gì không? Có thể lấy ở đâu ạ? Em mong hồi đáp sớm từ anh (chị). Em xin chân thành cảm ơn!. .",
+            "- Chào bạn, bạn vui lòng xem thông báo tốt nghiệp chi tiết vào đầu tháng 8 nghen"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 408T1681  /b \t. . . . Dạ em chào Quý Thầy/Cô, Thầy cho em hỏi:. . Em còn nợ môn Quản lý và sử dụng năng lượng nhưng không thấy Trường mở trong hoc kỳ 163 và học kỳ 171 năm 2017, vậy môn tương đương em có thể đăng ký học là môn nào?Nhờ Thầy xem xét giúp để em đăng ký trong học kỳ này. . Em cám ơn Thầy nhiều!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ   Xét miễn môn anh văn (chuyển điểm) . Kính chào quý thầy cô, cho em hỏi, em đã thanh toán lệ phí chuyển điểm cho 4 môn anh văn rồi, nhưng vẫn chưa thấy điểm chuyển trong bảng điểm của em. Vậy sau bao lâu thì điểm mới được cập nhật trong bảng điểm ạ?. . Em cảm ơn.. .",
+            "Chào em.. . Đợt chuyển điểm cuả HK163 là 28/7.. . Điểm chuyển chỉ tính vào tích lũy chung khi cuối kỳ.. .  Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ   Miễn môn học . Học kỳ trước em có học môn tương đương [full_name] mã mới(EE2013) để thay thế cho cả [full_name](402030) và Thí nghiệm [full_name](402114).Nay môn [full_name] đã có điểm miễn thi nhưng môn Thí nghiệm chưa có.Vậy phải làm sao để có điểm Thí nghiệm.",
+            "chào bạn, bạn nên đăng ký in bảng điểm , kiểm tra trong bảng điểm đã in, nếu có sai sót bạn liên hệ cửa tiếp sinh viên số 4 của phòng đào tạo để được giải quyết"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]2  /b \t. . . . Em chào Thầy Cô ạ! . . Thầy cô cho em hỏi, lịch đăng kí môn học học kì 1 năm 2017 cụ thể thế nào ạ??? Ngày đăng kí và đợt đăng kí bổ sung ạ???",
+            "Chào bạn. . \" Nếu yêu cầu của bạn đến nay vẫn chưa được xử lý, vui lòng gửi lại để PDT kiểm tra và trả lời cho bạn \". .  . . SV lưu ý:. .  1- Hiện tại toàn bộ môn học đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của từng loại môn học và quy định của Google Meet (tối đa 100 tính luôn Giảng Viên).Xem quy định về sĩ số mở lớp cho từng loại môn học tại đây: aao.hcmut.edu.vn/sinh viên/quy chế/học vụ/Quy chế đào tạo và học vụ bậc đại học, cao đẳng/ Điều 8. 2. . 2- Đã hết thời gian hiệu chỉnh và hủy môn học, Về việc rút Môn Học (có tính học phí) sinh viên vui lòng đợi mail thông báo của PDT trong tháng 9/2021. . 2- Nếu có nhu cầu học, SV có thể đăng ký dự thính (lộ trình 2 bắt đầu học ngày 30/8) vào đợt 2 từ ngày 25/8 đến 27/8. . 3- Sinh viên vui lòng xem kết quả ĐKMH, xem lý do vì sao không ĐKMH được (có đăng ký, nhưng không có TKB) tại trang web: mybk.hcmut.edu.vn    Đăng ký môn học    Đăng ký môn học HK211 - Kết quả đợt 2 (hoặc Kết quả đợt 1)    bấm vào mục Đăng ký mới    chọn Loại hình đăng ký    xem Lịch sử đăng ký.. . 4- Trong trường hợp kết quả xử lý ĐKMH không đúng, bạn có thể làm đơn khiếu nại (kèm minh chứng nếu có), gửi qua trang bksi ghi rõ tiêu đề: “Khiếu nại ĐKMH HK211”, nội dung khiếu nại trình bày rõ lý do, ghi rõ tên, mã môn học và mã nhóm đã đăng ký.. . 5- SV xem TKB tại mybk/Thông tin SV/ Xem TKB. . Chúc các bạn học tốt!. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: V[student_id]  /b \t. . . . Kính gửi phòng đào tạo!. . Em là [full_name] đến từ khoa Công nghệ vật liệu khóa K13, em có 2 câu hỏi:. . +Em có làm lại thẻ sinh viên nhưng em đã đăng ký nhận phòng 107cs2 ở cơ sở 2, vậy cho em hỏi là cơ sở 2 hè có làm việc không ạ, hay là mình phải lấy ở cơ sở 1 ạ? . . + Do em đang bận thực tập ở Vũng Tàu nên em có thể đợi qua đợt thực tập mới nhận thẻ sinh viên vừa làm lại được không ạ?. . Em chân thành cám ơn và mong nhận được hồi đáp sớm nhất ạ.",
+            "+ Em về CS 1 nhận nhé.. . + Khi nào em nhận cũng được."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "i Đăng ký môn học   Chương trình đào tạo (thiếu môn tiên quyết, song hành...) . EM Tên là [full_name], MSSV: [student_id]1.. . Em là k13 đang học chuyên ngành điện năng. Cho em hỏi 2 chỉ tự chọn khoa DD như trong ảnh đính kèm bên dưới là em được đk lại 2 chỉ ngành điện năng không? Hay em phải bắt buộc chọn 2 chỉ trong chuyên ngành Điện Tử và Tự động hóa ạ?. . . . . .",
+            "Chào bạn, bạn có thể gởi mail ghi rõ nội dung chi tiết ( ví dụ tên , mã số môn học cụ thể) hơn cho tôi được không ?. . địa chỉ mail : [email]"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chương trình đào tạo   Môn tương đương, tiên quyết, ... . Kính gửi PĐT Sau ĐH,. . Hiện tại tôi đang là học viên cao học (Thạc sĩ) ngành Kỹ Thuật Viễn thông - Khoa Điện-Điện tử. Theo chương trình đào tạo hiện bao gồm 4 môn bắt buộc và 4 môn tự chọn (và các môn Triết học, PPNCKH). Hiện tôi đã hoàn thành môn Triết học, PP NCKH, 3 môn bắt buộc và 3 môn tự chọn. Vậy trong học kì tới tôi có được phép đăng ký Đề cương Luận văn tốt nghiệp hay không trong khi vẫn còn thiếu 1 môn bắt buộc?. . Kính mong nhận được phản hồi từ quý thầy cô!. . Trân trọng.",
+            "Chương trình đào tạo   Môn tương đương, tiên quyết, ... . Kính gửi PĐT Sau Đại Học. . Hiện tại tôi đang là học viên Thạc sĩ ngành Kỹ thuật viễn thông - Khoa Điện-Điện tử.Chương trình đạo tạo hiện bao gồm 4 môn bắt buộc và 4 môn tự chọn. Hiện tại tôi đã hoàn thành các môn Triết học, PPNCKH, 3 môn bắt buộc và 3 môn tự chọn.. . Vậy trong học kì tới tôi có được phép đăng ký Đề cương luận văn tốt nghiệp hay không trong khi vẫn còn 1 môn bắt buộc chưa hoàn thành?. . Kính mong nhận được phản hồi từ quí thầy cô!. . Trân trọng",
+            "Sinh viên liên hệ Phòng Quản lý Sau Đại Học"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học bổng   Học bổng (danh sách, điều kiện,...) . Kinh chào thầy /cô,. . Em có thắc mắc về số lượng học bổng cho mỗi khóa/khoa. Ví dụ như em hiện là K14 thì số lượng học bổng khuyến khích cho K14 khoa Hóa là bao nhiêu suất ạ? Bởi vì không biết chắc số lượng là bao nhiêu để không chỉ riêng em mà còn các bạn khác cố gắng để đạt được. . . Em chân thành thầy/cô.",
+            "bạn tham khảo chi tiết quy đinh về học bổng ở đây :. . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59&tid=429. . . . Nếu bạn đọc không hiểu có thắc mắc gỉ cứ gởi mail lại địa chỉ [email] để được giải đáp thêm"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]9  /b \t. . . .   i Đăng ký môn học   Khác ... . Kính thư Phòng đào tạo Trường Đại học Bách khoa TP HCM.. . Em tên [full_name]; MSSV [student_id]9. . Theo như kế hoạch học tập của trường là ngày đăng kí môn học bổ sung học kì 171 là ngày 7/6-8/8. Cho em hỏi là sau ngày 8/8 em vẫn chưa có bằng Anh văn để xét tốt nghiệp thì em có thể xin phòng đào tạo cứu xét gia hạn thêm thời gian nộp bằng Anh văn để xét tốt nghiệp được không ạ. Và cho em hỏi thời gian cứu xét là bao nhiều ngày kể từ ngày 8/8 ạ.. . Mong phòng đào tạo sớm trả lời câu hỏi của em. em xin chân thành cảm ơn ạ.",
+            "chào bạn, nếu bạn chỉ cần nộp   B CCNG để xét TỐT NGHIỆP  /B , thì hạn cuối có thể là đầu tháng 9"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]9  /b \t. . . .   i Chứng chỉ ngoại ngữ   Khác ... . Kính gửi PDT,. . . . Cho em hỏi là theo quy định nộp CCNN để nhận LVTN thì phải nộp trước thời điểm đăng kí LVTN ít nhất 1 ngày.. . . . Vậy em có thể nộp CCNN trước ngày 08/08/2017 vào đợt đăng kí bổ sung được không? Hay phải trước ngày 26/07/2017 (đợt đăng kí chính thức).. . . . Mong PDT phản hồi sớm.. . . . Em xin cảm ơn.. . [full_name]"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên [full_name], mã số sinh viên:[student_id], lớp BC14X_D. Hiện tại điểm thi toeic của em chưa đạt 350 chưa đủ điều kiện nhận luận văn tốt nghiệp. Em không tìm thấy lịch đăng ký av350 để học. Thầy/Cô cho em hỏi tại trường mình hiện tại có mở lớp học av350 không ạ? Nếu có thì bây giờ thủ tục đăng ký như thế nào ạ? . . Chân thành cảm ơn!",
+            "Chào bạn , bạn liên hệ tổ đào tạo thường xuyên 201A4"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: V[student_id]  /b \t. . . .   i Yêu cầu khác . Cho em hỏi em có học môn tương đương Nhiễuxạ tiaX &các ppncvl Mã MH:MA3003 của chương đào tạo k14,tương đương với môn P/pháp đánh giá vật liệu Mã MH:215003 .Em đã đạt được môn MA3003.Vậy tín chỉ có tự động tính cho em không?Em có cần làm đơn gì không?. ."
+        ]
+    }
+]

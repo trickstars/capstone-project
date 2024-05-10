@@ -1,0 +1,412 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi phòng Đào tạo trường Đại Học Bách Khoa Thành phố Hồ Chí Minh. . Em tên là [full_name], mssv [student_id], sinh viên lớp Hàng Không Việt Pháp 2016. . Trong đợt đăng ký môn học học kỳ 203 lần 3 em có đăng ký 1 môn là Giải tích 3 (MT2007), nhưng trong thời khóa biểu hiện tại của em có thêm 1 môn Giải tích 2 (MT1013) em không có đăng ký môn đó.. . Theo chương trình học năm 2016 của em thì em đã hoàn thành môn Toán 2 (006712) tương đương nên em không đăng ký môn Giải tích 2 (MT1013) trong đợt đăng ký môn học học kỳ 203. . Em mong Phòng Đào Tạo giải đáp thắc mắc của em. . Em xin cảm ơn",
+            "Chào bạn. . Môn học MT1013 mở theo đơn SV : [student_id] Đặng Chí Cường gởi, do VP Việt Pháp gởi PĐT có tên bạn. ngày 08/06/2021.. . Bạn liên hệ VP Việt pháp để biết chi tiết đơn. . . . Kèm nội dung như sau:. . . . Do sinh viên chưa đăng ký được môn Giải tích 2 -MT1013, các bạn đã viết đơn và lập danh sách trong file đính kèm.. . . . Nhờ Anh Bình hỗ trợ giúp cho thủ tục mở lớp, do Cô [full_name] phụ trách.. . . . Trân trọng.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em có đăng ký môn học HK203 môn Giải tích 3 (MT2007) 3 tín chỉ, kết quả đăng ký đúng nhưng trong BKeL với BKPay lại có thêm môn giải tích 2 với tổng tiền của 7 tín chỉ. . . . . Hiện tại sắp hết hạn đóng học phí đợt bổ sung, cho em hỏi cách giải quyết ạ. Em cảm ơn",
+            "Môn học MT1013 mở theo đơn của VP Việt pháp.. . Em liên hệ VP việt pháp để biết nội dung đơn và danh sách SV đăng ký nhé. . Thân",
+            "Dạ tụi em xác nhận lại là do có nhầm lẫn trong việc lập danh sách ạ. Cho em hỏi trường hợp này có thể xin rút môn học như thế nào ạ? . . . . Em xin cảm ơn.",
+            "QUOTE Dạ tụi em xác nhận lại là do có nhầm lẫn trong việc lập danh sách ạ. Cho em hỏi trường hợp này có thể xin rút môn học như thế nào ạ?. . . . Em xin cảm ơn.  /QUOTE . .",
+            "Chào bạn,. . . . Trường hợp này bạn làm đơn rút môn học (rút môn học phải có tính học phí nha).. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            ". . Kính gửi Phòng Đào Tạo,. . . . Em tên Trần Sĩ Bình . . . . MSSV [student_id]. . . . Ngành XDDD& CN. . . . Phòng Đào tạo gửi file tín chỉ sinh viên đã tích lũy, các môn học còn nợ theo chương trình đào tạo. Em còn nợ 1 môn trong Nhom To Hop Mon Hoc Bat Buoc Tu Chon 1 . . . . Nhưng tất cả các môn tự chọn em đã hoàn thành . . . . Tin học trong quản lý xây dựng  mã môn học CI3169 : Đạt 7 Điểm. . . . . . Ngoài ra em đã học Đạt các môn tự chọn khác từ lúc học Hệ Bằng 2 năm 2012, mã số sinh viên cũ của em là [student_id]6. . . . . . Nhà nhiều tầng CI3121. . . . . . Hư hỏng sửa chữa công trình CI1051. . . . . . Quản lý dự án xây dựng CI1053. . . . . . Quy hoạch đô thị bền vững CI3147. . . . Em kính mong Phòng Đào Tạo xem xét , em chỉ còn môn Luận Văn Tốt Nghiệp và Toeic 400 nữa là hoàn thành Khóa Học, Em đã học 9 năm ở trường chuyển từ Hệ Bằng 2 sang VLVH nên rất mong muốn ra trường. . . . Em xin chân thành cảm ơn quý thầy cô. . . . . . . . . .",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . .",
+            "Kính gửi quý Thầy Cô Phòng Đào Tạo ĐH BK . . Em tên [full_name] MSSV [student_id]. . . . Sau khi nhận được phản hồi từ cô Thùy, em kiểm tra các thông tin TKB sau ngày 18/6/2021  vẫn không thấy kết quả. . . . Quý thầy cô vui lòng phản hồi giúp em, em còn nợ 1 môn tự chọn nào, trong khi em đã học xong Môn Tin học trong quản lý xây dựng : Mã Số CI3169 : Đạt 7 điểm - Học Kỳ 1 năm học 2019-2020 VHVL ( FILE Đính Kèm có tô đỏ). . . . Kính mong Quý thầy cô Phòng Đào Tạo vui lòng phản hồi thông tin cho em được rõ. . . . Em kính mong quý thầy cô xem xét trường hợp của em, nếu là 1 người khác chắc đã bỏ cuộc vì đã học 9 năm rồi. . . . [full_name] . . [phone_number]",
+            "Chào bạn. . Bạn có thể vui lòng cho biết bạn xem thông tin môn học còn nợ ở đâu không?. . Và hiện tại môn học này ảnh hưởng đến việc đăng ký Mh hay xét tốt nghiệp của bạn. . Thân. .",
+            "Kính gửi Phòng Đào Tạo,. . kính gửi Quý Thầy Cô và Cô [full_name]. . . . Em nhận được thông tin còn nợ môn tự chọn từ Email :[email] thuộc phòng đào tạo. Em có đính kèm 2 file để đối chiếu.. . . . Phòng đào tạo nói em còn nợ 1 môn học tự chọn, nhưng em có phản hồi lại là em nợ môn nào thì được trả lời môn Tin Học Xây Dựng đạt học kỳ nào, rồi vẫn kết luận em nợ môn tự chọn.. . . . Học kỳ 2 này em đang làm luận văn tốt nghiệp, và Thi Toeic 450 điểm để ra trường.. . . . Còn Phòng đào nào nói em nợ môn tự chọn thì cho em biết cụ thể em nợ môn nào? Em học những môn tự chọn khi chưa chuyển hệ là đủ rồi, và những môn này em đã làm phiếu chuyển điểm . . . mã số sinh viên cũ của em là [student_id]6. . Em tên [full_name]. . . . Kính mong quý thầy cô dành 1 chút thời gian trả lời sát đáng cho lý do của em. Mùa dịch covid này rất khổ rồi nên mong quý thầy cô giúp đỡ",
+            "Chào bạn. . Cô đã gởi thông tin của bạn cho [full_name], bạn vui lòng đợi anh phản hồi nghen",
+            "Gửi đến SV. . nhóm tự chọn 1, SV chọn 1 trong 2 môn sau:. . CH2011-Hóa vô cơ. . CH2027-Sinh học đại cương. . thân chào.. .",
+            "Kính gửi Phòng Đạo Tạo. . Thầy [full_name],. . . . nhóm tự chọn 1 . . CH2011-Hóa vô cơ. . . . Môn này em được miễn từ bằng 1 rồi, em đã làm  Bảng xét miễn môn học từ khi nhập học rồi. . . . Em xin xác nhận lại và gửi kèm chương trình đào tạo năm 2014. Em học bằng 2 Ngành Xây Dựng Dân Dụng thì môn tự chọn không có môn Hóa [full_name]. . . . Kính mong quý thầy cô xem xét trường hợp của em. .",
+            "Kính gửi Phòng Đạo Tạo. . Thầy [full_name],. . . . Nhóm tự chọn 1. . CH2011-Hóa vô cơ. . . . Môn này em được miễn từ bằng 1 rồi, em đã làm  Bảng xét miễn môn học từ khi nhập học rồi. . . . Em xin xác nhận lại và gửi kèm chương trình đào tạo năm 2014. Em học bằng 2 Ngành Xây Dựng Dân Dụng thì môn tự chọn không có môn Hóa [full_name]. . . . Kính mong quý thầy cô xem xét trường hợp của em. Cầu xin thành tâm",
+            "Chào bạn. . Anh [full_name] đã gởi lại giải thích qua mail cho bạn. . Bạn vui lòng liên hệ trực tiếp với anh [full_name] qua mail để có câu trả lời chính xác . . Thân",
+            "Kính gửi Phòng Đào Tạo. . kính gửi Ms [full_name],. . . . Cảm ơn chân thành sự giải đáp thắc mắc của quý vị thầy cô. Em sẽ cố gắng hoàn thành môn học này. . . . Chúc quý thầy cô sức khỏe, thành công"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hôm trước em có hỏi về việc xin được khôi phục lại tkb như trong ảnh ạ. Hiện tại em vẫn chưa được cập nhật lại bkel, mong PĐT xem xét khôi phục bkel lại cho em để em được điểm danh khi học online với ạ, hiện tại em không được ghi nhận là có tham gia học ạ, mong PĐT xem xét cho em với ạ. Em cảm ơn ạ.. . . .",
+            "tkb sẽ được cập nhật"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi thầy/cô phụ trách,. . Trong đợt học kỳ hè HK203 em có đăng ký môn học Giải tích 3 (MT2007) và Giải tích 2 (MT1005) nhưng khi kiểm tra kết quả đăng ký thì em không được tham gia 2 môn học này. Em kiểm tra lịch sử đăng ký thì được thông báo không đăng ký được môn do thiếu tác vụ môn trước. Do 2 môn em đăng ký là môn tương đương và có thay đổi mã môn học nên hệ thống không xét đúng trường hợp của em, dẫn đến việc bị từ chối đăng ký này.. . Em mong thầy/cô xem xét và sắp xếp lớp giúp em tham gia được 2 môn học này. Em cảm ơn thầy/cô nhiều ạ!",
+            "Chào em.. . Môn MT2007 đã được bổ sung nhóm DT01, MT1005 nhóm DT04.. . Em liên hệ GV để xin link học trước. . TKB sẽ cập nhật sau. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em đã thanh toán học phí trễ hạn rồi ạ . Mong pdt cứu xét tkb để em tiếp tục học . Em chân thành cảm ơn pdt",
+            "TKB đã được cập nhật"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ thầy cô cho em hỏi là học kỳ 202 VHVL em có thời khóa biểu 2 môn bị trùng tuần-ngày-giờ học thì phải xử lý thế nào ạ?. . Em cảm ơn.",
+            "Chào em.. . PĐT sẽ hủy môn học IM3001 ( do môn IM3001 đăng ký đợt 2). . Lưu ý: lần sau em cần kiểm tra tkb trước khi đăng ký. . Thân",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Hiện tại em đã hoàn tất việc thanh toán tiền học phí trước 15h ngày 14/6.. . Em muốn làm \"Đơn trình bày lý do trễ hạn học phí\" thì có thể được xem xét không ạ?",
+            "tkb đã được cập nhật"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Do gặp một số khó khăn nên em đã thanh toán trễ học phí kì dự thính hè HK203 em đã thanh toán học phí sau đó vào ngày 12 tháng 6 em xin lỗi nhà trường vì sự chậm trễ này và em xin hứa sẽ không để tái phạm những lần sau. Vì vậy em mong muốn được nhà trường xét lại thời khóa biểu HK203 để em có thể tiếp tục học. Em cảm ơn quý thầy, cô đã đọc những lời này của em ạ",
+            "tkb đã đươc cập nhật"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi cô!. . Em tên là [full_name], MSSV [student_id], khoa Công nghệ Vật liệu, khóa K18. Về vấn đề kết quả minh chứng được cập nhật số tín chỉ tích lũy theo phản hồi của khoa thì khoa đã gửi vào mail [email] cho phòng đào tạo rồi ạ. Cô kiểm tra lại giúp em. Kính xin phòng đào tạo sớm cập nhật để em có thể đăng ký được thực tập tốt nghiệp ạ. Dưới đây là danh sách thống kê theo TCTL ngành mà khoa đã gửi đính kèm trong mail ạ.Kèm theo đó là ảnh mà khoa đã gửi mail cho pđt ạ.. . Rất mong sự phản hồi từ cô. Em xin chân thành cảm ơn.",
+            "Chào em,. . Cô đã trả lời câu trước rồi em.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Cô cho em hỏi là em đang thiếu 1 chỉ để đăng kí thực tập tốt nghiệp, vậy bây giờ em xin đơn được của khoa cơ khí cho em được đi thực tập, vậy em có còn được đăng kí môn học ko ạ.",
+            "Chào em,. . Trường hợp của em phải làm đơn ghi rõ mã môn học, tên môn học, thiếu mấy tin chỉ trình bày rõ, ký tên và chụp hình gửi qua BKS để Trưởng phòng xem xét.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi cô!. . Em tên là [full_name], MSSV [student_id], khoa Công nghệ Vật liệu, khóa K18. Như ở mục câu hỏi trước, em đã gửi kèm minh chứng rồi ạ. Kính xin phòng đào tạo cho em đăng kí lại môn thực tập tốt nghiệp. Mã môn học MA3315.. . Lý do: sau khi cập nhật TCTL ngành đã đủ điều kiện nhận thực tập tốt nghiệp ạ. Kính mong sự giúp đỡ và phản hồi từ cô ạ. Em xin chân thành cảm ơn.",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi quý thầy/cô!. . Em tên [full_name] là sinh viên K18 khoa Công Nghệ Vật Liệu.MSSV [student_id]. . Em xin PĐT đăng ký lại giúp em môn \"Thực tập ngoài trường\". MSMH:MA3315. . Lý do: Vì PĐT chưa cập nhật lại số tính chỉ tích lũy ngành (TCTLN) nên em không đủ điều kiện đăng ký do thiếu số tính chỉ ạ.. . Vì trường hợp của em đặt biệt nên khoa đã gửi mail cho PĐT ([email]) đề nghị PĐT cập nhật lại số tính chỉ giúp em. Kính mong thầy/cô kiểm tra lại giúp em ạ.. . Em có đính kèm minh chứng bên dưới gồm: ảnh mà khoa đã gửi mail cho PĐT và danh sách sinh viên được cập nhật lại số tính chỉ. . Mong nhận được phản hồi sớm từ cô.. .",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. .",
+            "Chào bạn. . - Phòng  đào tạo không đăng ký được môn cho bạn. . -  Lý do: số tín chỉ tích lũy 76+21=97  100 =  không đủ điều kiện nhận TTTN. . - Bạn kiểm tra lại có gì sai sót thì gởi lại câu hỏi trên BKSI phản hồi. . Thân. .",
+            "li answer rate: Answer does not suit / Câu trả lời không đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Chào thầy/cô. . . Em là [full_name], mssv [student_id], khoa Công Nghệ Vật Liệu.. . Em muốn được đăng ký lại môn Thực tập ngoài trường (Thực tập tốt nghiệp), MSMH: MA3315.. . Lý do: Vì trước đó em chưa được cập nhật đủ số tín chỉ nên cả ba đợt đăng ký em đều bị hủy kết quả đăng ký. Về minh chứng kết quả được cập nhật số tín chỉ, bạn [full_name], mssv [student_id], đã đại diện cho chúng em gửi file excel minh chứng của khoa, em xin phép không gửi nữa để tránh loãng thông tin ạ. Xin thầy/cô xem xét giúp em đăng ký lại môn.. . Em xin chân thành cảm ơn.. .",
+            "Chào bạn,. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .  . . Em không đăng ký được TTNT Mã MH CH3325 với lý do là không đủ điều kiện nhưng em không biết là điều kiện gì. Vì kì rồi em có thanh toàn trễ học phí. Giờ em phải làm sao để đăng ký được TTNT vậy",
+            "Chào bạn,. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi quý thầy/cô!. . Em tên [full_name] là sinh viên K18 khoa Công Nghệ Vật Liệu.MSSV [student_id]. . Em xin PĐT đăng ký lại giúp em môn \"Thực tập ngoài trường\". MSMH:MA3315. . Lý do: Vì PĐT chưa cập nhật lại số tính chỉ tích lũy ngành (TCTLN) nên em không đủ điều kiện đăng ký do thiếu số tính chỉ ạ.. . Vì trường hợp của em đặt biệt nên khoa đã gửi mail cho PĐT ([email]) đề nghị PĐT cập nhật lại số tính chỉ giúp em. Kính mong thầy/cô kiểm tra lại giúp em ạ.. . Em có đính kèm minh chứng bên dưới gồm: ảnh mà khoa đã gửi mail cho PĐT và danh sách sinh viên được cập nhật lại số tính chỉ. . Mong nhận được phản hồi sớm từ cô.. .",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . .",
+            "Chào bạn,. . - Số tín chỉ tích lũy 58+25    100 =  không đủ điều kiện nhận TTTN.. . - Bạn kiểm tra lại có gì sai sót thì gởi lại câu hỏi trên BKSI phản hồi. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính chào thầy/cô.. . Em là [full_name], mssv [student_id], khoa Công Nghệ Vật Liệu.. . Em muốn được đăng ký lại môn ''Thực tập ngoài trường'' (Thực tập tốt nghiệp), MSMH: MA3315.. . Lý do: Vì trước đó em chưa được cập nhật đủ số tín chỉ nên cả ba đợt đăng ký em đều bị hủy kết quả đăng ký. Về minh chứng kết quả được cập nhật số tín chỉ, bạn [full_name], mssv [student_id], đã đại diện cho chúng em gửi thông tin mail minh chứng của khoa, em xin phép không gửi nữa để tránh loãng thông tin ạ. Em có đính kèm một file excel có tên em trong danh sách được chỉnh số tín chỉ từ khoa ạ. Xin thầy/cô xem xét giúp em đăng ký lại môn.. . Em xin chân thành cảm ơn.",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . .",
+            "Chào em,. . PĐT đã cập nhật số tín chỉ tích lũy ngành, theo file đính kèm. 64+23=87  100 =  không đủ điều kiện nhận TTTN.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Hiện tại em đang làm đề cương luận văn và chưa thi Toeic để đạt chuẩn tiếng anh nhận luận văn.. .   Tuy nhiên từ giữa cuối tháng 5 IIG không tiếp tục nhận đăng kí thi Toeic và hiện tại với tình hình dịch bệnh hiện tại em cũng không rõ khi nào sẽ có dkmh 211 và lịch nhập học.. .    Vậy nên em mong nhà trường hỗ trợ gia hạn chuẩn tiếng anh LVTN để em có thể tiếp tục tiến độ luận văn (đề tài nhóm em bao gồm 2 người).. .    Em cảm ơn và mong sớm được phản hồi từ nhà trường.",
+            "Chào bạn,. . . . Khi nào bạn có chuẩn anh văn thì liên hệ PDT xin đăng kí nhận luận văn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em là [full_name] MSSV: [student_id]. . [full_name] tích lũy của em là 72 và kì 202 e có đăng kí 23 chỉ. Tổng là 95 tín chỉ . Vì không đủ điều kiện đăng kí TTTN. Nên sau kết quả đợt 3 , trường hủy môn TTTN của em với lí do không đủ điều kiện TTTN - [full_name]. Để hạn chế việc trễ tiến độ học nên em muốn hỏi là phòng đào tạo có xem xét cho em được đăng kí môn này không ạ?. . Em cảm ơn ạ.. .   i Đăng ký môn học . Thực tập ngoài trường (GE3325)",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . .",
+            "Chào em,. . Em không đủ điều kiện nhận TTTN.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ em muốn đăng ký thêm môn Công trình trên đất yếu MMH:CI4037 thì có được không ạ? Dạ em cảm ơn pđt ạ",
+            "Chào bạn.. . Môn học CI4037 sẽ được bổ sung nhóm DT01.. . bạn xin link học ở GV trước, tkb sẽ cập nhật sau. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Cho em hỏi, em đã có kết quả Đạt Anh văn 4A, em có cần viết đơn gì để xét đạt Anh văn 4 không hay phòng đào tạo sẽ tự động cập nhật ạ ? Em cảm ơn",
+            "Chào em,. . Em không cần nộp đơn, PĐT tự động xét tương đương.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em chào thầy(cô).. . Em tên là [full_name].. . Hiện tại em bị hủy đăng ký \"Thực tập tốt nghiệp\" vì đăng ký nhầm mã số môn học là CO3315 thay vì CO3313.. . Mong thầy(cô) có thể thêm em vào môn học \"Thực tập tốt nghiệp\" với mã số môn CO3313.. . Mong nhận được phản hồi từ thầy(cô).",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi phòng đào tạo trường ĐHBK Tp.HCM. . . . Em là [full_name]. MSSV [student_id]. sv năm 4 chuyên ngành Cơ Kỹ Thuật. . . . Vừa qua,Em đã đăng kí 4 tín chỉ học hè 2 môn: anh văn 3(LA1007), anh văn 4(LA1009). . . . Do tình hình dịch Covid nên KTX khuyến cáo sv về quê. Vì nhà không có wifi nên chỉ khi học online mới mở 3G. Mỗi lần học xong tắt vội 3G nên đôi khi em đã quên mất đến việc kiểm tra BKpay.. . . . Đến nay em mới mở BKpay mới nhận ra đã quên đóng tiền, và đã chậm mất 7 ngày và bị   B xóa thời khóa biểu  /B  rồi (  I Mặc dù vẫn nhận được mail học của cô giáo  /I ). . . . . Em đã đóng tiền học phí trễ hạn.. . . . Em hiện đang ở quê, cộng thêm việc TP.HCM đang diễn ra dịch Covid phức tạp. Nên không thể trở về trường để làm đơn xin đóng học phí trễ. Đây là 2 môn cuối cùng giúp em hoàn thành chương trình đại học tốt nghiệp cho tháng 11 tới đây, em đã rất mong mỏi ngày được ra trường phụ giúp gia đình. Kính mong nhà trường giúp em mở TKB để em có thể được học HK203 này ạ.. . . . Tiền học phí trễ hạn,em xin được gửi ở file đính kèm/. . . . Em xin chân thành cảm ơn.. . . . Sinh viên: [full_name]",
+            "Chào em.. . em đi học trước,. . TKB sẽ cập nhật sau. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV: [student_id]  /b \t. . . .   i Yêu cầu khác . Dạ em đang là sv năm 4 KHMT, cho em hỏi đăng kí học tiếp thạc sĩ sau khi tốt nghiệp có được giấy miễn nghĩa vụ quân sự trong thời gian học như mọi năm không ạ. . . . Mong nhà trường trả lời giúp em, cảm ơn đã đọc ạ . . . .",
+            "Chào ban,. . Bạn vui lòng liên hệ phòng sau đại học để được hướng dẫn [email]; 028.[student_id]8. . Thân mến.. .",
+            "b MSSV: [student_id]  /b \t. . . .   i Yêu cầu khác . Dạ em đang là sv năm 4 KHMT, cho em hỏi đăng kí học tiếp thạc sĩ sau khi tốt nghiệp có được giấy miễn nghĩa vụ quân sự trong thời gian học như mọi năm không ạ. . . . Mong nhà trường trả lời giúp em, cảm ơn đã đọc ạ . . . .",
+            "Chào em,. . Em vui lòng liên hệ phòng sau đại học để được hướng dẫn [email]; 028.[student_id]8. . Cô [full_name]. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . kính gửi pđt . Em có 1 thắc mắc là nếu tình hình dịch bệnh diễn biến phức tạp như bây giờ , thì nếu hết hk203 vào hk211 thì những môn cần mở theo dạng nộp đơn thì sinh viên có thể lên pđt để nộp đơn xin mở lớp được hay không ? hay làm cách nào để được mở lớp đối với những môn cần nộp đơn ( giành cho những bạn bị trễ )",
+            "Chào em,. . Lịch học vụ HK211 chưa có, em theo dõi email PĐT gửi.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Thưa quý thầy/cô phòng đào tạo.. . Đợt đăng ký môn học vừa rồi em bị thôi học nên bị huỷ kết quả đăng ký môn học. Sau khi được thu nhận lại em đã vào trang đăng ký môn học để đăng ký nhưng vẫn không thể đăng ký môn học do hệ thống chưa cập nhật tình trạng sinh viên của em. Em có nộp đơn xin khôi phục môn học ngày 8/6. Em xin hỏi em vừa được thu nhận lại, nếu học kỳ hè 203 không có thời khoá biểu có bị thôi học vĩnh viễn không?. . . . Môn học em đã đăng ký là Anh văn 4, mã môn học LA1009.. . Rất mong quý thầy/cô phòng đào tạo xem xét và phục hồi thời khóa biểu học kỳ 203 của em.. . Em xin chân thành cảm ơn.",
+            "Chào bạn.. . Môn học LA1009 đã được bổ sung nhóm DT01.. . Em xin link của GV đi học trước, tkb sẽ cập nhật sau. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi phòng đào tạo. . Em có thắc mắc về đăng kí môn thực tập tốt nghiệp (ME3273). Điều kiện đăng kí môn học là số tín chỉ tối thiểu là 96. Hết học kì 191 em đã tích được 65 chỉ, và nộp bằng anh văn và đủ để qua hết 4 anh văn ạ. Học kì này em học 28 chỉ ( 21 chỉ kì chính + 7 chỉ dự thính). Tổng chỉ hiện tại em có là 101 chỉ, nhưng em vẫn không đăng kí được môn thực tập tốt nghiệp (lí do: không đủ số tín chỉ). Em hi vọng phòng đào tạo sẽ xem xét lại để em có thể đăng kí môn ( ME3273) ạ.. .",
+            "Chào bạn,. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào phòng đào tạo ạ. . Em tên [full_name] - MSSV: [student_id]. . Dạ cho em hỏi khi nào trường mới bắt đầu chuyển tiền học bổng ạ. . . Em cảm ơn phòng đạo tào ạ",
+            "Chào em,. . Việc chuyển tiền học bổng do phòng Kế hoạch tài chính phụ trách em nhé.. . Thân mến,. .",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Xin chào anh(chị). Khi xin giấy giới thiệu đăng ký môn giáo dục quốc phòng thì chọn mục \"Bổ sung hồ sơ cho cơ quan\" có đúng hay không ạ? . . . .",
+            "Chào em,. . Em chọn mục như file đính kèm. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi PĐT,. . . . Em là [full_name], MSSV: [student_id], mong nhận được sự hỗ trợ của PĐT.. . . . Do mật khẩu mail bị thay đổi trên web nên ứng dụng mail của em trên điện thoại không cập nhật mail mới nữa (nhưng không bị đăng xuất khiến em không chú ý). Điều này dẫn đến việc check mail của em bị gián đoạn, tạo ra sự trễ nải khi thanh toán học phí.. . . . Em rất mong nhận được sự hướng dẫn của PĐT về quy trình cứu xét cũng như những giấy tờ cần đảm bảo để khi trở lại nhập học tập trung em có thể tham gia kì thi cuối kì.. . . . Cảm ơn.. .",
+            "Chào bạn. . -\tHiện tại, Nếu bạn đã thanh toán học phí HK203 rồi Phòng đào tạo sẽ cứu xét phục hồi lại thời khoá biểu sau thứ 5 ngày 18/6/2021 & không cần nộp đơn trình bày lý do trễ hạn . . -\tLưu ý: Bạn vui lòng thanh toán học phí đúng hạn theo quy định của nhà trường, các trường hợp vi phạm nhiều lần sẽ không được xem xét giải quyết. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi phòng đào tạo. . Em có trình bày trường hợp của em trên diễn đàn (em đủ số tín chỉ quy định để đăng kí môn học(ME3273), nhưng bị xóa môn) và phòng đào tạo có nói xem lại kết quả trên mybk ạ. Hiện em vẫn không thấy trên mybk có kết quả và cho em hỏi là nếu em được đăng kí môn học lại thì đóng học phí sẽ như thế nào ạ.. . Em xin cảm ơn!",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân mến,. . . .",
+            "Đăng ký môn học .",
+            "Chào em,. . Em ghi rõ mã số môn học, tên môn học, lý do.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Vừa rồi em có đóng học phí học kì 203 bị trễ và bị huỷ thời khoá biểu. Mong phòng đào tạo xem xét và khôi phục lại thời khoá biểu giúp em với ạ.",
+            "Chào bạn. . -\tHiện tại, Nếu bạn đã thanh toán học phí HK203 rồi Phòng đào tạo sẽ cứu xét phục hồi lại thời khoá biểu sau thứ 6 ngày 18/6/2021 & không cần nộp đơn trình bày lý do trễ hạn . . -\tLưu ý: Bạn vui lòng thanh toán học phí đúng hạn theo quy định của nhà trường, các trường hợp vi phạm nhiều lần sẽ không được xem xét giải quyết. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào thầy cô ạ, em tên [full_name] là sinh viên K20, Khoa Cơ Khí. . . . Cho em hỏi là thẻ bảo hiểm y tế là trường đã chuyển về ktx cho các bạn ở ktx hết rồi phải không ạ? Vì em ở ktx nhưng đến giờ vẫn chưa nhận được thẻ bảo hiểm y tế ạ.. . . . Dạ thầy/cô có thể kiểm tra lại giúp em xem thẻ em hiện bên nào đang giữ ạ.. . . . Mong thầy/cô đọc được câu hỏi của em.. . Em xin cảm ơn ạ.",
+            "Chào em,. . - Thẻ BHYT của SV nội trú KTX do KTX quản lý và phát thẻ.. . - SV liên hệ trưởng nhà hoặc trạm y tế KTX để nhận thẻ.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ gửi PĐT,. . Em hiện tại [full_name] - [full_name]. PĐT cho em hỏi có cách nào để có thể [full_name] lại không ạ?",
+            "Chào em,. . - Đợt 1 đã hết hạn, sau khi sv đóng tiền xong phải làm đơn trình bày lý do đóng hp trễ hạn và xin phục hồi tkb để lãnh đạo duyệt.. . - Đợt 2 thứ 6 này hết hạn đóng hp.. . - Em chụp đơn này có chữ ký, họ tên rồi gửi qua BKSI đến thứ 6 này hết hạn.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em 9da4 kiểm tra thời khóa biểu nhưng vẫn chưa có môn TTNT mong được giúp đỡ ạ",
+            "Chào bạn. . - Phòng  đào tạo không đăng ký được môn cho bạn. . -  Lý do: số tín chỉ tích lũy 57+24=81  99 =  không đủ điều kiện nhận TTTN. . - Bạn kiểm tra lại có gì sai sót thì gởi lại câu hỏi trên BKSI phản hồi. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi thầy cô, em tên [full_name] MSSV: [student_id] . Em đăng ký học liên thông hệ đại học vừa học vừa làm ngành kỹ thuật điện- điện tử nhưng trên hệ thống thống báo em ngành kỹ thuật điện tử truyền thông . Em kính mong văn phòng sửa đổi lại giúp để em có thể đăng ký môn học đúng với ngành của mình. Em trân thành cảm ơn",
+            "Gửi đến SV. . PĐT đã cập nhật ngành học của SV. . thân chào."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính thưa PĐT. . . . Cho em hỏi khi nào có đợt rút môn học HK203 và cụ thể rút môn sẽ tính học phí hay có đợt nào không tính học phí ạ. . . . Rất mong PĐT cho em thông tin ạ.. . Em xin cảm ơn. .",
+            "Chào em,. . - Rút môn học có tính học phí tuần sau PĐT sẽ gửi email.. . - Rút môn học không tính học phí sv làm đơn trình bày lý do cụ thể và kèm theo minh chứng, chụp hình gửi qua BKSI để lãnh đạo xem xét.. . Thân mến,. . . .",
+            "Kính thưa PĐT,. . . . Em đã làm đơn xin rút môn học không tính học phí, em xin được gửi đính kèm file văn bản đơn xin rút môn học, cùng đường link danh sách chúng em đã lập như trong trình bày ở đơn.. . . . https://docs.google.com/spreadsheets/d/1eXTB98MFYK_ashr_[full_name]UCm751Biouk992aYSypV4nM/edit?fbclid=IwAR0xhJSc94KGtq_jEfJVGgA2t7DCBrckKkU6SFZertisyjOHulo_3T_Afyw&pli=1#gid=0. . . . Rất mong PĐT sớm có quyết định với trường hợp của em.. . Em xin cảm ơn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ em là sinh viên K17, vì bị lẫn lộn ngày tháng và không đọc kĩ thời gian đóng tiền nên đã dẫn đến không tiến hành đóng tiền đúng hạn.. . Đến nay đã trễ hạn hơn 1 tuần, nhưng hiện tại gia đình mới có khả năng trả chi phí.. . Cho em hỏi nếu hiện tại (Vào thứ 5 tuần này) đóng tiền thì em có được cấp lại thời khóa biểu và học tiếp không ạ? Hay kì này của em sẽ bị tướt hoàn toàn ạ?",
+            "Chào em,. . - Đợt 1 đã hết hạn, sau khi sv đóng tiền xong phải làm đơn trình bày lý do đóng hp trễ hạn và xin phục hồi tkb để lãnh đạo duyệt.. . - Đợt 2 thứ 6 này hết hạn đóng hp.. . - Em chụp đơn này có chữ ký, họ tên rồi gửi qua BKSI đến thứ 6 này hết hạn.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ cho em hỏi em quên đóng tiền học dự thính HK203 mấy ngày nên bị huỷ thời khoá biểu. Vậy nay em đóng liền thì em có thể khôi phục thời khoá biểu không ạ",
+            "Chào bạn. . Sau khi bạn đóng học phí xong, viết đơn trình bày lý do đóng trễ học phí, ký tên, gỏi lại lên bksi để Cô trình ban lãnh đạo phòng xem xét. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Học vụ . Kính gửi Thầy Cô,. . Em tên là [full_name](MSSV:[student_id]), em xin rút 2 môn học đã thanh toán học phí đó là. . + Giải tích 1: MT1003. . + [full_name] 1: PH1003. . . . Em xin cảm ơn Thầy Cô.",
+            "Chào em,. . Tuần sau phòng Đào tạo sẽ gửi email về việc rút môn học, em xem rồi làm nhé.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác .  . . Dạ em chào thầy/cô, hiện em có đăng ký giấy chứng nhận sinh viên trong đợt học kỳ 3 năm học 2020-2021 nhằm bổ sung hồ sơ hoãn nghĩa vụ quân sự tại địa phương. Nhưng em nhận được thông báo lỗi từ web (trong hình đính kèm) và không thể đăng ký thành công giấy chứng nhận sinh viên. Mong thầy/cô giúp em giải quyết vấn đề trên, em cảm ơn thầy/cô nhiều ạ.",
+            "Chào bạn. . Bạn đăng ký lại nghen, Pdt đã sửa lỗi. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Mến chào Quý Thầy, Cô.. . Em là sinh viên chuyển hệ từ chính quy sang VHVL ạ.. . Học kỳ hè này em có đăng ký môn học nhưng do tình hình dịch bệnh khiến cho công việc của em gặp khó khăn, dẫn đến tài chính không đảm bảo để đóng học phí, vì vậy em đã bị hủy thời khóa biểu.. . Em xin được hỏi có thể gia hạn thêm giúp em để có thể đảm bảo việc học được không ạ. . . Em chân thành mong mỏi sự hồi đáp của quý Thầy, Cô. . . Em cảm ơn ạ.. .",
+            "Chào bạn. . Gia hạn đến khi nào bạn ơi, vì tình hình hiện tại nhà trường xử lý rất nghiêm về việc thanh toán học phí. .",
+            "QUOTE Chào bạn. . Gia hạn đến khi nào bạn ơi, vì tình hình hiện tại nhà trường xử lý rất nghiêm về việc thanh toán học phí. .   /QUOTE . . Dạ, có thể mở lại thời khoa biểu và gia hạn giúp em đến cuối tháng được không ạ.. . Do việc học đã bắt đầu rồi ấy ạ.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý",
+            "Chào bạn. . Hiện tại Cô chỉ có thể hứa sẽ giải quyết được cho bạn phục hồi học phí nếu bạn thanh toán học phí trước ngày thứ 2(21/6/21), và sau khi thanh toán bạn viết đơn xin phục hồi tkb và lý do đóng trễ học phí để Cô trình ban lãnh đạo duyệt. . - Còn sau đó thì không thể phục hồi được nghen bạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy cô giáo vụ,. . Em tên là Nguyễn Lê Xuân Hòa,. . MSSV: [student_id],. . Ngày đầu tiên em học môn này trúng vào ngày kiểm tra  của môn Kĩ thuật lập trình, bởi vì em đi làm về trễ hơn giờ thi nên em không có thời gian, nên   B không thể nhắn tin xin thầy  /B  được, sau buổi học đầu tiên em bị lỡ kiến thức. Buổi học sau em cũng bị hổng kiến thức và vì quá bận việc, không thể bắt kịp được kiến thức trên lớp. . Em đã cố gắng thêm 1 buổi học nữa. . . Hiện tại thầy cho bài tập mỗi video, em đều không thể làm được bài, điểm thấp không thể vượt qua môn này được.. . Do bận việc làm và bận làm nốt bài lab của môn Kỹ thuật lập trình, nên em không thể học được môn Công nghệ XML và Ứng Dụng. Ngày kiểm tra môn Kĩ thuật lập trình, thầy cũng chỉ báo trước 1 tuần, em đã lên phòng giáo vụ, nhưng đang dịch nên không lên được.. . Hiện tại em mới học có 2 buổi, n  B ay em cần hủy gấp môn Công nghệ XML và Ứng Dụng (mã môn CO4015)  /B , mong thầy cô xét duyệt cho em.. . Em gửi luôn đơn xin hủy môn học này.. . Em xin cảm ơn. . . .",
+            "Chào em.. . PĐT sẽ hủy môn học cho em.. . lưu ý sẽ ko có lần sau. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào Thầy/Cô ạ. Hiện tại em là sinh viên năm 2 của khoa Xây Dựng chuyên ngành Xây Dựng Dân Dụng. Em có nguyện vọng muốn học thêm ngành Kiến trúc . Em không biết là muốn đăng kí học Kiến Trúc thì có yêu cầu gì đặc biệt không ạ. Em cảm ơn! . .",
+            "Chào bạn. . Bạn xem chi tiết quy định tại trang web: aao.hcmut.edu.vn - Quy chế - Quy chế học vụ đại học - Điều 28. . Sau khi đọc xong bạn có thắc mắc gì thêm thì gởi câu hỏi lại nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ, thật làm phiền chị [full_name]. Theo như ảnh đính kèm thì em bị không có thời khóa biểu cho kỳ 3 sắp tới(hiện em đã hoàn thành các môn học nên không đăng ký). Liệu có cách nào giải quyết không chị nhỉ? . . . .",
+            "Chào bạn. . Pdt đã sửa lại chương trình, có tkb hk202 vẫn đăng ký được giấy xác nhận sv nghen. . Bạn vào làm lại nghen"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Vừa rồi em đóng trễ tiền học dư thính học kì 203, nay em đã hoàn thành đóng học phí và mong nhà trường cứu xét và khôi phục thời khóa biểu cho em ạ.. . . .",
+            "Chào bạn. . Bạn đánh máy lại đơn ghi thật rõ lý do, quan trọng là đơn phải có chữ ký. . Sau đó gởi lại BKSI để Cô trình ban lãnh đạo Phòng xem xét. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi BGH trường ĐH Bách Khoa TP.HCM. . Em là sinh viên năm 2 khoa Kỹ Thuật Xây Dựng đang có mong muốn chuyển đến khoa khác thì có được không ạ? Nếu có thì cần những yêu cầu gì ạ?. . Em xin chân thành cảm ơn.",
+            "Chào em,. . Hiện tại trường mình không thấy có quy định chuyển Khoa.. . Thân,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em có đăng kí và đóng tiền học môn giải tích mạch trong học kỳ 203 này giờ không có học làm thế nào để em lấy lại học phí ạ",
+            "Chào bạn. . -\tĐến thời điểm hiện tại, theo quy định không thể huỷ môn học và huỷ học phí Hk203. . -\tNhà trường đã thông báo cụ thể từng quy định và từng mốc thời gian cụ thể qua mail . . -\t. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Phòng đào tạo cho e hỏi về lịch thi của em như vậy là thế nào ạ.. .",
+            "Chào em,. . Lịch thi sẽ công bố sau, khoảng tháng 8, PĐT đã gửi email trước đó rồi, em xem lại nhé.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ địa phương em đang yêu cầu nộp giấy để xác nhận hoãn nghĩa vụ quân sự. Giờ em phải làm sao ạ",
+            "Chào em,. . - Đầu năm học trường in cho tất cả SV còn đang học có thời khóa biểu giấy chứng nhận NVQS, SV liên hệ Khoa để lấy.. . - Bây giờ em đăng ký thì em phải có TKB HK202, vào mục chứng nhận sv, chọn option .... . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . EE3335. . . . Kính mong nhà trường xem xét cho em được đăng kí môn học này để kịp tiến độ môn học, em xin cảm ơn.",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân. .",
+            "Xin chào Phòng đào tạo, sau khi em kiểm tra thì môn EE3335 vẫn chưa cập nhật trong TKB trên Mybk. Kính mong Phòng đào tạo cập nhật giúp em, em xin chân thành cảm ơn.",
+            "Chào bạn. . Cô đã ghi nhận và đang chuyển sang để xử lý và hỏi lý do. . Bạn vui lòng đợi Cô sẽ phản hồi thông tin cho bạn nghen, sau ngày 23/6/21. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ chào quý thầy cô ạ. . Cho em hỏi thời khoá biểu em được khôi phục rồi nhưng môn thực tập tốt nghiệp ci3333(em đăng ký đợt 3)vẫn chưa có trong thời khoá biểu ạ. . Mong thầy cô kiểm tra lại giúp em với ạ. . Em cảm ơn",
+            "Chào bạn. . -\tPhòng đào tạo ghi nhận trường hợp của bạn. . -\tBạn xem kết quả tại trang Mybk - xem TKB sau ngày 18/6/2021. . -\tNếu không thấy kết quả vui lòng phản hồi lại trên kênh BKSI. . Thân. .",
+            "Dạ em xin lỗi cô vì mở lại câu hỏi ạ. . . . Em có coi thời khóa biểu sáng nay và hình như thời khóa biểu chưa được cập nhật.. . Mong cô dành ít thời gian để kiểm tra và cập nhật lại giúp em ạ. . Em cảm ơn !",
+            "Chào bạn. . - Phòng  đào tạo không đăng ký được môn cho bạn. . -  Lý do: số tín chỉ tích lũy 64+26=90  93 =  không đủ điều kiện nhận TTTN. . - Bạn kiểm tra lại có gì sai sót thì gởi lại câu hỏi trên BKSI phản hồi. . Thân",
+            "Dạ em xin lỗi lần nữa vì mở lại câu hỏi ạ. . . . Hôm rồi em có nhận được mail là tính cả số tín chỉ học kỳ 203 đạt để được đăng ký môn thực tập ngoài trường nên em muốn hỏi lại để cô xem xét ạ. . Em gửi đính kèm ảnh bên dưới, em hy vọng rất nhiều, mong cô tạo điều kiện cho em 1 cơ hội, vì nếu em đăng ký trong các học kỳ tiếp theo sẽ không đăng ký được các môn khác . . Em cảm ơn, chúc cô sức khỏe để vượt qua đại dịch!",
+            "Dạ với lại em tính sau dịch xong em sẽ thi để lấy chứng chỉ Toeic sớm nhất có thể á cô, để nộp vào tại vì em bị hoãn do dịch tháng 5 vừa rồi. . Dạ em xin hết ạ.Cảm ơn cô lần nữa. .",
+            "Chào bạn. . - Cô khẳng định lại là không tính tín chỉ của HK203, thông báo là chỉ tính số tín chỉ của HK202 (chính quy và dự thính). . - Trường hợp của bạn, bạn làm đơn cứu xét gởi Ban lãnh đạo Phòng đào tạo: trong đơn ghi rõ nguyện vọng, cứu xét, lý do và kế hoạch . . Sau đó đính kèm gởi lại trên BKSI để Cô gởi ban lãnh đạo phòng xem xét. . Thân",
+            "Dạ em chào cô!. . Em đã đọc lại mail và tá hỏa khi đọc nhầm 202 thành 203 :((. . Em có viết một lá đơn trình bày về nguyện vọng mong cô chuyển giúp em lên quý thầy cô Phòng đào tạo ạ. . . . Chúc cô sức khỏe để vượt qua mùa đại dịch!",
+            "Chào bạn. . Cô ghi nhận trường hợp của bạn, và sẽ trả lời kết qua sau. . Thân",
+            "Dạ em cảm ơn cô vì đã lưu ý trường hợp của em ạ!. . Em có mail cho vài công ty ở ngoài trường và được sắp xếp một vài vị trí để thực tập. . Nếu được đăng ký kỳ này em nghĩ mình sẽ không bị bỏ quá xa với tiến độ. . Em chào cô, chúc cô sức khỏe !",
+            "Chào bạn. . Cô đã trình Thầy Trưởng phòng đào tạo là Thầy [full_name], Thầy không đồng ý với đơn cứu xét của bạn. Cô đính kèm file, bạn xem ý kiến của Thầy nghen. . Thân",
+            "Dạ em chào cô!. . Em đã đọc kỹ phản hồi của thầy [full_name]. . Em xin lỗi vì mở lại câu hỏi nhưng e muốn hỏi lại thêm 1 câu cuối á cô. . Học kỳ 1 sắp tới(21-22) em dự tính sẽ đăng ký môn thực tập tốt nghiệp chung với chương trình đào tạo của ngành (13 tín chỉ là đúng ctdt học kỳ 1 năm 4) nữa là 16,. . Em muốn giảm bớt vì trong quy định như đâu tối đa 12 tín chỉ nhưng không được vì ngành em 1 năm chỉ mở môn chuyên ngành 1 lần, nếu vậy sẽ sang tới năm kế tiếp nữa, mà nếu học kỳ 1 2021-2022 em không đăng ký được sẽ kéo theo đề cương và cả luận văn, em rất bối rối. . Hiện tại thì em đang đi thực tập, được 1 công ty nhận thực tập sinh, em mong mỏi được thầy cô cho phép đăng ký để học kỳ 1 em nộp giấy xác nhận thực tập. . Em cam đoan là mình đang thực tập tốt đẹp và không làm mất uy tín của trường . . Em cảm ơn cô, chúc cô sức khỏe, thời gian qua đã nhiệt tình hỗ trợ e ạ!",
+            "Chào bạn. . - Về vấn đề cứu xét Cô không thể trả lời bạn thêm nữa, vì tất cả đều phải theo quy định nhà trường đã được thông báo- . . - Đơn cứu xét của bạn Thầy Trưởng phòng đã trả lời, . . Thân"
+        ]
+    }
+]

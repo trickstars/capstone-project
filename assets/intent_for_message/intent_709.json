@@ -1,0 +1,380 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ cho em hỏi là hiện tại pđt có thư mục riêng trong mybk là phần chuyển điểm thì khi em kiểm tra lại là chỉ mới đạt chuẩn thể chất năm 2 chưa có chuẩn năm 3. Mà hiện tại em đã học đủ 3 lần thể chất trong năm 2 và sau đó các đợt năm 3 và 4 hiện tại em đkmh vẫn bình thường không có biểu hiện của chưa đủ chuẩn thể chất. Cho e hỏi trường hợp của em như vậy là sao ạ, và nếu đáng lẽ em chưa đủ chuẩn thì hệ thống phải thông báo để em có thể đăng kí học hoàn thành chuẩn. Mong thầy cô có thể kiểm tra lại giúp em được không ạ, và nếu thật sự em chưa đủ chuẩn thể chất năm 3 thì pđt có cách giải quyết gì trong trường hợp của em không ạ. Em xin cảm ơn thầy cô. [full_name] [student_id]",
+            "Chào bạn. . Cô kiểm tra trong dữ liệu gốc là bạn đã pass qua chuẩn GDTC năm 3 rồi nghen. . Pdt sẽ cập nhật lại dữ liệu mới sau tháng 12/2021. . Thân",
+            "Chào bạn. . - Vì bạn học 3 môn GDTC nên được pass qua chuẩn GDTC năm 3. . - Tuy nhiên theo CTDT để tốt nghiệp thì bạn chưa qua 3 môn GDTC theo quy định vì bạn học 2 lần môn PE1023, nên chỉ tính là mới đạt 2 môn GDTC. . - Bạn xem lại quy định nghen. . Thân",
+            "Dạ vậy cho em hỏi là em cần phải hoàn thành thêm 1 môn thể chất để đủ điều kiện xét tốt nghiệp phải không ạ. Em xin cảm ơn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em muốn hủy đăng kí môn Aerobic học phần 1 thì phải làm cách nào ạ. . . .",
+            "Chào em,. . Em làm đơn gửi qua bksi, hoặc email pđt, hoặc nộp trực tiếp PĐT chuyển giúp BLĐ phòng xem xét. . - Đơn em tự làm, không có mẫu. . - Đơn có thông tin:. . + mssv, họ tên. . + mã môn học. . + tên môn học. . + lý do. . + ngày tháng năm. . + họ tên chữ ký của người làm đơn. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy/cô,. . Em tên [full_name], mssv [student_id], kỳ này em có đăng ký học dự thính, đến ngày 15/10/2021 em mới chuẩn bị kịp học phí để nộp, chiều là hết hạn, tuy nhiên cả sáng, chiều hôm qua em không thể vào bkpay được, và bkpay rất lag, do vậy em đã bị nộp trễ học phí! Nếu lỗi này là do hệ thống thì thầy/cô cho em hỏi em có bị trừ điểm rèn luyện không ạ? Và em cần làm những gì tiếp theo ạ?. . Em cảm ơn!",
+            "Học vụ. . . . Em chào thầy/cô,. . Em tên [full_name], mssv [student_id], kỳ này em có đăng ký học dự thính, đến ngày 17/10/2021 em mới chuẩn bị kịp học phí để nộp, chiều là hết hạn, tuy nhiên cả sáng, chiều hôm qua em không thể vào bkpay được, và bkpay rất lag, do vậy em đã bị nộp trễ học phí! Nếu lỗi này là do hệ thống thì thầy/cô cho em hỏi em có bị trừ điểm rèn luyện không ạ? Và em cần làm những gì tiếp theo ạ?. . Em cảm ơn!  /QUOTE . .",
+            "Chào em,. . Hiện tại cô thấy em đã thanh toán lệ phí anh văn rồi, em yên tâm nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em đóng tiền hôm qua đến giờ mà trang web vẫn không hiển thị được( chắc web ngân hàng đang bảo trì ) nên em thông báo cho pdt để giữ tkb cho em và em sẽ đóng học phí khi ngân hàng làm việc ạ.",
+            "Chào em,. . Hiện tại cô thấy em đã thanh toán lệ phí anh văn rồi nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em là [full_name] ([student_id]), hiện em đã đủ các điều kiện tốt nghiệp nhưng không thể đăng ký tốt nghiệp được trên MyBK được. Vậy nên em muốn hỏi PĐT xem liệu lý do em không đăng ký được là do đâu ạ?",
+            "Chào bạn,. . PDT đã ghi nhận yêu cầu về đăng ký xét TN của bạn. SV vui lòng theo dõi email  và đăng ký tốt nghiệp tại trang mybk.hcmut.edu.vn/6.Đăng ký Tốt nghiệp. . Trường hợp sau ngày 26/10/2021 SV vẫn chưa nhận được mail hoặc chưa đăng ký tốt nghiệp được vui lòng gửi lại câu hỏi qua bksi để PDT kiểm tra và trả lời.. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn)    Sinh viên    Lịch học vụ    Lịch tốt nghiệp    tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào thầy/cô, em có đăng kí học dự thính lớp av4a và có hạn đóng học phí là 15h ngày 17/10. Tuy nhiên khi em thực hiện đóng học phí thì xảy ra lỗi trên hệ thống, nên em chưa thanh toán học phí được ạ. Vì vậy cho em hỏi là em gia hạn thời gian đóng học phí được không ạ? Nếu được cho em hỏi quy trình cục thể sao ạ? Em xin cảm ơn thầy/cô nhiều ạ!",
+            "Chào em,. . Hiện tại cô thấy em đã thanh toán lệ phí anh văn rồi nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Chào PĐT,. . Em muốn hỏi về việc môn giáo dục thể chất học đủ 2 học phần rồi thì có phải đăng ký nữa không ?",
+            "Chào em,. . - Em xem chương trình đào tạo để biết nhé, K20 học 2 học phần. . . - Em liên hệ cô [full_name] [phone_number], phòng 520 Nhà điều hành ĐHQG-HCM (khu phố 6, phường Linh trung, Thủ đức). . Email của cô [full_name] : [email]. . (Em cần nói rõ học phần nào) . . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . [full_name] ơi cho em hỏi là hiện tại em có thể hủy hay rút môn học được không ạ",
+            "Chào em,. .",
+            "QUOTE Chào em,. .   /QUOTE . . Sao chỉ có \"chào em\" là sao vậy ạ. . . có bị lỗi gì không ạ",
+            "Chào em,. . Hiện đã hết thời gian hủy và rút môn học nhé bạn, bạn vui lòng trình bày rõ lý do nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .  Dạ em chào thầy/cô.. . Em là [full_name] MSSV [student_id].. . Em có nhận được mail của trường về đăng kí bổ sung lớp thể chất vì lớp em đăng kí ít sỉ số nên bị huỷ. Hiện tất cả các lớp thể chất mã PE1021 đã đầy 50/50 và em không thể đăng kí môn thể chất được ạ.. . . . Mong thầy/cô tạo điều kiện cho em được đăng kí môn thể chất PE1021 lớp L09 ạ.. . . . Hiện em là sinh viên năm 4, em cần hoàn thành được môn thể chất để có thể đủ điều kiện làm LVTN và hoàn thành lộ trình ra trường đúng hạn ạ. Mong thầy/cô tạo điều kiện cho em ạ.. . . . Em cám ơn thầy/cô nhiều vì đã đọc mail này. . . Chúc thầy cô sức khoẻ ạ. . . .",
+            "Chào em,. . Em xem nhóm L nào còn chỗ thì đăng ký nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em tên [full_name] mã số sinh viên [student_id]. Trung tâm đào tạo bảo dưỡng công nghiệp _ Hệ Cao đẳng Chính quy. . . . . Quý Thầy Cô cho em hỏi về việc nộp chuyển điểm chứng chỉ ngoại ngữ. . . . . 1. Nếu em có chứng chỉ ngoại ngữ Anh văn TOEIC Listening và Reading đạt số điểm 500 thì em có được quy đổi điểm đạt các môn AV1, AV2, AV3, AV4 theo hệ Cao đẳng không ạ.. . . . 2. Với Hệ Cao đẳng chính quy thì em cần phải  có chứng chỉ ngoại ngữ TOEIC Listening và Reading đạt 400 thì đạt Chuẩn tiếng anh xét tốt nghiệp đúng không ạ. . . . . Em mong quý thầy cô hỗ trợ và giúp đỡ. Em xin chân thành cảm ơn! . . . . . .",
+            "Chào bạn. . - Về quy định chuẩn tiếng anh trong quá trình học: Bạn vui lòng xem chi tiết tại trang web aao--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Phụ lục 1: Quy định về ngoại ngữ . . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em chào thầy/cô, tuần trước em có tạo câu hỏi với mong muốn được phòng đạo tạo tạo điều kiện cho thanh toán học phí sớm để đăng kí tốt nghiệp và được thầy/cô trả lời là ngày hôm nay, 18/10/2021 sẽ được mở cho thanh toán. Nhưng hôm nay em vẫn chưa được mở để thanh toán học phí, nên em mong thầy cô kiểm tra và phản hồi giúp em. Em xin chân thành cảm ơn!. .   B . . . .",
+            "Chào em,. . Hiện tại cô thấy em đã thanh toán học phí rồi nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ hôm trước em có đăng kí môn giáo dục thể chất mà em k đăng kí được . . Đến nay em có đăng kí lại mà vẫn k đăng kí được mong ad giúp em với ặ",
+            "Chào bạn. . Hiện tại bạn muốn đăng ký bổ sung môn GDTC nào, cho Cô mã số môn học + tên môn, để Cô chuyển bộ phận đăng ký môn học kiểm tra và bổ sung nếu Thời Khóa Biểu của bạn không bị trùng. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ xin chào.. . Em là SV K20, hồi HK202 em có đăng ký học phần 1 môn bóng bàn. HK211 này em đăng ký học phần 1 của môn võ. Như vậy em có được tính là đã hoàn thành 2 học phần không ạ.. . Em cảm ơn",
+            "Chào em,. . - [full_name] ĐĂNG KÝ HỌC HP1 MỚI HỌC HP 2. . . . - Em liên hệ cô [full_name] [phone_number], phòng 520 Nhà điều hành ĐHQG-HCM (khu phố 6, phường Linh trung, Thủ đức). . Email của cô [full_name] : [email]. . . . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em là [full_name] . . MSSV [student_id]. . Em xin phép được đặc cách có bản scan của giấy CNSV sớm được không ạ? Vì ngày 20/10 em phải nộp để có thể hoãn nghĩa vụ quân sự nên không biết các thầy cô có thể giúp được em không :( Em xin cảm ơn ạ",
+            "Chào bạn,. . - [full_name] đã ghi nhận phản hồi của bạn. Vì số lượng đăng ký giấy CNSV tăng đáng kể, PĐT cố gắng xử lý dữ liệu, xong sẽ scan để đưa lên hệ thống ngay. SV vui lòng thông cảm đợi thêm, giải thích với cơ quan yêu cầu về giấy CNSV.. . -Sau khi PĐT cập nhật xong bạn có thể tải bản scan trên trang đăng ký chứng nhận sinh viên.. . Đồng thời PĐT cũng đã gởi bưu điện nếu SV có đăng ký, vui lòng nhận sau.. . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .",
+            "Đăng ký môn học . Dạ chào anh/chị, đợt đăng kí môn GDTC đầu em có đăng kí môn aerobic nhưng do bị trùng tkb nên bị hủy qua đợt thứ 2 thì các lớp còn trống sỉ số đều đã đủ số lượng thì cho em hỏi là còn có đợt đki nào nữa không ạ. Em cảm ơn ạ!",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi Phòng Đào Tạo,. . . . Em là [full_name] ([student_id]), Khoa quản lý công nghiệp - hệ chính quy - chương trình chất lượng cao. . . . . Đến ngày 18.10.21 em đã chính thức có tên trong danh sách dự kiến tốt nghiệp, nhưng em vẫn chưa thể đăng ký tốt nghiệp do hệ thống báo em còn nợ học phí. Nhưng em đã kiểm tra lại các học phí từng học kỳ đã được hoàn thành đóng đầy đủ trên hệ thống BKpay (em có đính kèm ảnh ạ - ảnh chụp vào ngày 18.10.21). . . . . Em mong được anh/ chị trong phòng đào tạo hỗ trợ em trong việc kiểm tra và giúp em đăng ký tốt nghiệp đúng hạn ạ. . . . . Em xin cảm ơn.. . . .",
+            "Về mục BK pay,  . . . . Theo như hệ thống BK pay báo rằng em còn phí in bảng điểm chưa thanh toán, nhưng em đã quá hạn thanh toán và cũng không thể nhấn vào link để thanh toán được ạ. . . . . Em rất mong được phòng đào tạo hỗ trợ em trong trường hợp này",
+            "Chào em,. . Hệ thống vẫn mở cho SV thanh toán dù trễ hạn nhé, em kiểm tra lại đường truyền và tài khoản của em nhé.. . Hoặc em có thể ra ngân hàng OCB để thanh toán, sua khi thanh toán xong em vui lòng phản hồi lại qua bksi để PDT mở khóa cho em đăng ký tốt nghiệp nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Thưa Quý Thầy/Cô,. . . . Em tên là [full_name], MSSV [student_id]. Vừa qua, em có gửi câu hỏi với lý do là em phát hiện mình không có tên trong danh sách dự kiến tốt nghiệp vào tháng 11 năm 2021 và nhận được phản hồi từ phía Thầy/Cô là em chưa tích lũy đủ tối thiểu 12 tín chỉ của các môn học nhóm D.. . . . Em đã kiểm tra lại và phát hiện bên nhà trường đã hủy nhầm việc chuyển điểm môn từ môn \"Học máy và ứng dụng\" bậc cao học xuống môn \"Học máy\" thuộc nhóm D của em.. . . . Cụ thể, ban đầu em dự định chuyển điểm từ môn \"Kỹ thuật Dữ liệu\" xuống môn \"Học máy\" và đã được duyệt. Nhưng do quy định về môn tương đương cho việc chuyển điểm thay đổi, sau đó em có làm đơn để chuyển điểm môn \"Kỹ thuật Dữ liệu\" sang môn \"Công nghệ phần mềm nâng cao\" thuộc nhóm C và chuyển thay thế môn \"Học máy và ứng dụng\" về môn \"Học máy\" cùng với 3 môn khác, 2 đơn này đều đã được duyệt. Sau một thời gian, em phát hiện trên MyBK vẫn còn giữ phần chuyển điểm từ \"Kỹ thuật Dữ liệu\" sang \"Học máy\" nên đã làm đơn hủy việc chuyển điểm đó, để tránh xung đột 1 môn chuyển sang 2 môn khác, và đơn này cũng đã được duyệt. Tuy vậy, vừa qua em mới kiểm tra lại thì phần chuyển điểm từ môn \"Học máy và ứng dụng\" sang \"Học máy\" đã bị hủy nhầm, dẫn đến việc em không đủ chỉ và không đủ điều kiện xét tốt nghiệp.. . . . Em xin gửi kèm các đơn em đã gửi trước đó. Mong quý Thầy/Cô xem xét và cập nhật giúp em.. . . . Chân thành cảm ơn quý Thầy/Cô.",
+            "Chào em,. . - PĐT đã phục hồi lại môn này cho em và xét tốt nghiệp luôn. . . - Em kiểm tra lại danh sách tốt nghiệp cuối tuần này nhé.. . . . môn \"Học máy và ứng dụng\" sang \"Học máy\" . . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi phòng đào tạo. . Em tên là [full_name] mssv: [student_id]. . Hiện tại đăng ký môn học GDTC các nhóm  học đã đủ 50/50 SV nên em không đăng ký được thì phải làm sao ạ.. . Em cảm ơn!. . . .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Cho em hỏi nếu em đã hoàn thành học phần 1 của môn bóng chuyền, thì học kỳ sau em phải em đăng ký học phần 2 của môn bóng chuyền phải k ạ. Không biết em có thể đăng ký học phần 2 cho môn thể chất nào khác được không ạ.. . . .",
+            "Chào em,. . Không biết em có thể đăng ký học phần 2 cho môn thể chất nào khác được không ạ.. . =  Em đăng ký môn nào khác cũng được, miễn sao môn học đó thuộc học phần 2.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Em tên: [full_name] . . MSSV: [student_id]. . . . Dạ em chào phòng đào tạo , hiện tại em đang bị lỗi không đóng được học phí trên trang web BKPay. Mặc dù truy cập đóng học phí trên nhiều thiết bị nhưng kết quả vẫn bị lỗi và không vào đóng học phí được. Do tình trạng hiện tại em đã bị báo lỗi 2 ngày và quá hạn đóng học phí nên em mong quý thầy/cô phòng đào tạo xem xét giúp em trong thời gian sớm nhất ạ",
+            "Chào em,. . Hiện tại cô thấy em đã thanh toán lệ phí anh văn rồi nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Phía nhà trường có bảo cho đăng ký đợt 2 nhưng cả 2 môn võ và aerobic đã đầy và không đăng ký tiếp được.",
+            "Phía nhà trường có bảo cho đăng ký đợt 2 nhưng cả 2 môn võ và aerobic đã đầy và không đăng ký tiếp được. Em hiện đang có nhu cầu dăng ký môn võ nên mong nhà trường có thể giúp em ạ"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính thưa thầy/cô,. . . . Em là [full_name], mã số sinh viên [student_id]. Em xin phép có một số câu hỏi về việc đăng ký xét Tốt nghiệp của em.. . . . Em hiện đã hoàn thành xong Luận văn và tất cả các tín chỉ cũng như ngày CTXH. Tuy nhiên, hiện em không thể đăng ký xét Tốt nghiệp trên myBK được.. . . . Kính mong thầy/cô sớm giải đáp vì theo tiến độ, em sẽ Tốt nghiệp vào tháng 11 này ạ.. . . . Kính thư,. . [full_name]. .   i Tốt nghiệp .",
+            "Chào bạn,. . PDT đã ghi nhận yêu cầu về đăng ký xét TN của bạn. SV vui lòng theo dõi email  và đăng ký tốt nghiệp tại trang mybk.hcmut.edu.vn/6.Đăng ký Tốt nghiệp. . Trường hợp sau ngày 26/10/2021 SV vẫn chưa nhận được mail hoặc chưa đăng ký tốt nghiệp được vui lòng gửi lại câu hỏi qua bksi để PDT kiểm tra và trả lời.. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn)    Sinh viên    Lịch học vụ    Lịch tốt nghiệp    tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi Thầy, Cô. . Em có đăng ký học môn Pháp luật đại cương Việt Nam để duy trì tình trạng sinh viên do lịch 24/10 kết thúc đăng kí tốt nghiệp mà em chưa kịp thi anh văn nói viết. Nay lịch đăng kí tốt nghiệp được dời sang 24/12 nên em xin phép hủy môn học để thi AV và hoàn thành tốt nghiệp ạ.. . Tên [full_name]: Pháp luật đại cương Việt Nam. . Mã [full_name]: SP1007. . Em chân thành cảm ơn!. . Em [full_name]. . . .",
+            "Chào em,. . Đã hết thời gian rút môn học (phải thanh toán học phí), em cần làm theo hướng dẫn sau để gửi BLĐ phòng xem xét. . 1.   Sv tải PHIẾU ĐĂNG KÝ RÚT MÔN HỌC (tại trang web: aao.hcmut.edu.vn biểu mẫu) điền thông tin ký tên chụp hình để có file ảnh tải lên trang bksi.hcmut.edu.vn. . 2.   Sv đăng nhập vào trang bksi.hcmut.edu.vn ¬¬¬ Hỏi/Yêu cầu  Tạo câu hỏi/yêu cầu mới: Rút môn học (phải thanh toán học phí) HK 211: điền thông tin vào CHỦ ĐỀ VÀ NỘI DUNG. . 3.   Click vào choose file để tại file ảnh . . 4.   Click vào GỞI. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em hiện đang gặp vấn đề trong việc đăng kí môn học Giáo dục thể chất.. . Em đã làm theo đúng hướng dẫn đăng kí môn học qua email nhưng em không tìm thấy mục \"đăng kí mới\" mà thay vào đó là \"đăng kí/hiệu chỉnh\" như hình ạ. . . Em cảm ơn ạ . .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em hỏi về vấn đề xét tốt nghiệp ạ. Hiện tại em đã hoàn thành đầy đủ LVTN và các môn, tuy nhiên em chưa chuyển điểm anh văn 1- 2. Bên cạnh đó  em cũng chưa đăng kí tốt nghiệp nhưng không hiểu sao tên em lại có trong danh sách tốt nghiệp dự kiến ạ? Em muốn xem xét hủy danh sách này để chuyển điểm anh văn 1-2 ạ. . . Bên cạnh đó nếu được em muốn dời qua tháng 4 mới tốt nghiệp thì có cần đăng kí môn học duy trì không? Em cảm ơn ạ",
+            "Chào em,. . Môn AV1,2 bạn được miễn sau khi thi AV đầu học lúc mới nhập học,. . Hiện tại bạn đã có tên trong danh sách tốt nghiệp dự kiến, nếu bạn chưa muốn tốt nghiệp thì bạn vui lòng không đăng ký tốt nghiệp nhé.. . Việc đăng ký môn học là tùy sinh viên, và hiện tại HK211 cũng không thể đăng ký môn học được nữa nhé bạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy/cô,. . Em là sinh viên K20. Em muốn hỏi là HK201 em có học thể chất môn bóng chuyền, HK202 em chưa học thể chất. Em muốn hỏi là trong HK211 này em phải đăng ký học phần 1 không ạ? Vì em nghĩ em cần học học phần 2 nhưng chưa thấy mở ạ. Nếu kỳ này học phần 2 không mở thì kỳ sau có thể học không ạ hay em sẽ bị cấm học 1 kỳ. Em cảm ơn ạ",
+            "Chào em,. . Theo quy định là em phải hoàn thành 3 môn GDTC khác mã số môn học.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:   B Học kì 202  /B  em có hoàn thành môn học   B Giải tích 2 (MT1005)  /B  là môn tương đương thay thế cho môn   B Toán 2 (006602)  /B  trong chương trình đào tạo của em, nhưng tới hiện nay vẫn chưa thấy môn này xuất hiện trong bảng chuyển điểm nên em lo là sẽ ảnh hưởng tới việc xin xét tốt nghiệp. PDT kiểm tra lại giúp em. Em cảm ơn.",
+            "Chào em,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Kính thưa Phòng đào tạo, em hiện tại đang là sinh viên năm 3 của trường và em có thắc mắc là sau khi tốt nghiệp chương trình học 4 năm thì khóa của em sẽ nhận được bằng cử nhân, cho em hỏi rằng là sau khi tố nghiệp em có nguyện vọng học tiếp lên kỹ sư thì phải đăng ký như thế nào, điều kiện là gì. Hiện tại, em có biết về chương trình liên thông lên thạc sĩ nhưng nguyên vọng của em chỉ muốn học lên kỹ sư, xin Phòng đào tạo giải đáp thắc mắc.. .",
+            "Chào em,. . Về CTĐT em liên hệ [full_name], GVCN để được hỗ trợ thêm cho đúng, nhằm tránh lãng phí thời gian, công sức .... . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi Phòng đào tạo Đại học Bách khoa TP Hồ Chí Minh. . Em tên là: [full_name], Mssv: [student_id]. . Kính thưa thầy cô phòng đào tạo, do gặp vấn đề sự cố mạng nên em vô trang thanh toán của OCB không được, cho nên tới hôm nay (18/10) em mới vô được và hoàn thành thanh toán học phí ạ. Em kính mong thầy cô xem xét giúp đỡ em không bị xóa thời khóa biểu và cấm thi ạ. Em xin chân thành cảm ơn thầy cô.",
+            "Chào em,. . Hiện tại em đã thanh toán HP Anh văn rồi, em yên tâm nhé.. . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em chào thầy\\cô, trong danh sách tốt nghiệp dự kiến, em tra thì thấy em bị ghi nợ HP là sao ạ? Trong khi e đóng tiền học phí đủ rồi ah.",
+            "Chào em,. . Hiện tại bkpay vẫn còn ghi nợ tiền lệ phí kiểm tra tiếng anh (100.000).. . Bạn vui lòng vào thanh toán sau đó báo lại nhé. . Thân",
+            "Dạ em thanh toán rồi ạ, mong nhà trường kiểm tra và cập nhật giúp em. . . Em cảm ơn ạ.",
+            "Chào em,. . Sau ngày 21/10 bạn vô đăng ký đăng ký tốt nghiệp lại nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   /B Đăng ký môn học . dạ em chà phòng đào tạo. . hiện tại em là sinh viên năm 2 nhưng chỉ mới hoàn thành xong 1 môn giáo dục thể chất,em đăng kí môn 2 nhưng giờ đã hết chỗ thì làm sao ạ ?. . nếu không đăng kí được sẽ không đăng kí được những môn năm 3..em mong pđt mở thêm lớp. .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ em là [full_name] thưa cô, MSSV: [student_id].. . . . Em đã điền thông tin nhưng em không thể nhấp vào mục tải hình lên và tình trạng của em vẫn là \"không tìm thấy trong danh sách dự kiến\" ạ.. . . . Em xin cảm ơn,. . [full_name].. .",
+            "Chào em,. . Em vui lòng vào trang mybk/Đăng ký tốt nghiệp, đăng ký lại, nhớ điền đầy đủ tất cả các bước, xem bị lỗi gì? vui lòng chụp hình và phản hồi lại PDT để kiểm tra và trả lời cho bạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dear [full_name].. . . . Em là [full_name], MSSV: [student_id].. . . . Vừa qua, em đã tham gia kỳ thi kiểm tra 2 kỹ năng  Nói - Viết tiếng Anh và đạt đủ điểm để tốt nghiệp (295).. . . . Tuy nhiên, hiện tại em vẫn chưa có tên trong danh sách tốt nghiệp dự kiến (hoặc mail thông báo đăng ký tốt nghiệp). Và theo em được biết, các bạn thi cùng đợt với em hiện đã nhận được thông tin.. . . . Kính nhờ [full_name] kiểm tra lại giúp em và bổ sung em vào danh sách tốt nghiệp hoặc thông báo giúp em nếu có bất kỳ vấn đề gì.. . . . Em cảm ơn [full_name].. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:",
+            "Chào em,. . Theo quy định là em phải hoàn thành 3 môn GDTC khác mã số môn học. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: pdt cho em hỏi ạ:. . em là k18, khóa của em gồm 3 học phần,  em mới đi học lại thì em mới biết là mã môn học đã bị thay đổi và cấu trúc chỉ còn 2 học phần thể chất. . đầu năm nhất 2018 e có qua giáo dục thể chất 1 mã PE1003 thì bây giờ em có được tính điểm đó không ạ?. . em mới đăng ký giáo dục thể chất kỳ 211 (học phần 1 ) thì có được tính là giáo dục thể chất 2 không ạ ? hay em phải đợi kỳ mới để đk gdtc2 ạ. . Và bây giờ em phải đăng thể chất như thế nào để qua ạ ?",
+            "Chào em,. . Theo quy định là em phải hoàn thành 3 môn GDTC khác mã số môn học.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .  Em chào thầy cô ạ !. . Thầy cô cho em thắc mắc ạ, em còn 1 học phần TDTC nữa để đủ điều kiện năm 3 và em không kịp đăng kí lớp TDTC online đợt 2 này vì hết slot thì có cơ hội học TDTC ở học kì II năm 2 không ạ ?. .  Em cảm ơn ạ.. .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Thưa thầy/cô,. . Hiện em muốn đăng kí thi TOEIC để chuyển điểm, nhằm cải thiện trung bình tích luỹ ngành . . Tuy nhiên, thời hạn cuối xét tốt nghiệp là 24/12/2021, em muốn hỏi thời gian xét chuyển điểm anh văn, để em có thể kịp đợt xét tốt nghiệp này.. . Rất mong nhận được hồi đáp sớm từ các thầy/cô.. . Em xin cảm ơn",
+            "Chào bạn. . Việc này phụ thuộc vào bạn, khi nào bạn thi đạt và nộp CCNN thì Pdt sẽ lấy dữ liệu. . Nên không thể trả lời có kịp tốt nghiệp không ?. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em đăng kí GDTC online đợt 2 bổ sung nhưng sĩ số các lớp đầy mất rồi ạ? Giờ em muốn đăng kí thêm vào liệu có được không ạ?",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ em chào thầy/cô. . . . . Em là [full_name], MSSV [student_id] ạ.. . Em có gửi câu hỏi nhờ thầy cô mở thêm chỗ cho lớp thể chất và nhận được câu trả lời là tìm lớp L còn chỗ để đăng kí ạ.. . . . Nhưng hiện tại tất cả các lớp thể chất kể cả PE1023 và PE1021 em xem đều đã full chỗ 50/50 nên em không thể đăng kí vào bất kì lớp nào được ạ. Mong thầy cô xem xét và mở thêm chỗ cho lớp thể chất để tạo điều kiện cho chúng em được học và hoàn thành các môn thể chất.. . . . . . Hiện em đang năm 4 và cần hoàn thành các môn thể chất để được đăng kí các môn Luận Văn cũng như hoàn thành lộ trình ra trường đúng hạn ạ. Mong thầy/cô giúp đỡ em.. . . . Em cám ơn thầy/cô nhiều ạ.",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . 2 học kì trước em đã học môn Bóng đá(học phần 1) và Bóng rổ(học phần 2). Nếu em đăng kí môn Võ học kì này thì có đạt tiêu chuẩn về phần GDTC chưa ạ, hay em phải đăng kí học học phần còn lại của môn Bóng đá hoặc Bóng rổ ạ?",
+            "Chào em,. . - Em xem CTĐT của Khoa, khóa để học cho đúng nhé.. . - Em liên hệ cô [full_name] [phone_number], phòng 520 Nhà điều hành ĐHQG-HCM (khu phố 6, phường Linh trung, Thủ đức). . Email của cô [full_name] : [email]. . để được hỗ trợ thêm .. . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b . . em có thể đăng kí vào lớp CC11-PE1021 vì các lớp thể dục đã đầy nên em hy vọng được chen vào . Em sợ học kì này không học thể dục thì không đủ chuẩn cho năm sau. Em hy vọng được đăng kí môn ạ\t. . . .   i Đăng ký môn học .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi Phòng đào tạo. . Theo thông báo đăng kí môn học giáo dục thể chất từ 1:00pm 18/10-19/10, em bị huỷ lớp đăng kí đợt 1 và đợt 2 thì em vào lúc 8:00 pm 18/10 đã không còn lớp trống cho 2 mô võ (PE1023) và aerobic (PE1021) để đăng kí. . . Em rất mong Phòng đào tạo có thể mở thêm lớp hoặc có thể tạo điều kiện xếp em vào 1 lớp nào đó ạ. . . Em cảm ơn. . .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em muốn đăng ký môn võ mà tất cả các lớp đã đủ thành viên thì em phải làm sao ạ. .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em tên [full_name]. MSSV: [student_id]. Hiện tại em đã hoàn thành chương trình học và đã có tên trong danh sách tốt nghiệp dự kiến. Nhưng trong quá trình vào Mybk để đăng ký xét tốt nghiệp thì được báo tình trạng là đang nợ học phí. Mong phòng đào tạo xem xét lại giúp em vì em đã hoàn thành học phí đầy đủ ạ. Em xin cảm ơn.",
+            "Chào em,. . Sau ngày 10h ngày 21/10 em vô đăng ký tốt nghiệp lại nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em hiện là sv K19 học 1 kỳ pre , bây giờ đang cuối năm 2 , cho em hỏi nếu thiếu 1 học phần gdtc thì có bị cấm đăng kí môn học năm 3 không ? Em vừa thấy mail kêu đăng kí gdtc hk211 ( tức học kỳ em đang học). Vậy học phí của học phần gdtc này tính như thế nào , gộp chung vào hk em đang học luôn ạ ? Em thấy học kì gdtc học 8 tuần nếu em đã xong các môn hk211 mà vẫn chưa xong gdtc thì có được xem xét đăng kí môn học năm 3 không ? Với em vào trang đăng kí đợt 2 thì các lớp được mở đã trùng lịch với tkb em hiện đang học hết rồi , em phải làm sao ạ ? Có cách nào xem xét cho em được đkmh năm 3 không ạ ? Mong pđt phản hồi.",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ em chào quý thầy cô, hiện em là sinh viên khóa 2017 và đã hoàn thành chương trình đào tạo( 142 chứng chỉ, bằng Toeic) nhưng chưa hoàn thành Anh văn nói viết. Cho tới khi trung tâm mở cho thi AV nói viết thì hiện tại em không còn môn học nên không có thời khóa biểu, đồng nghĩa không còn hiện là sinh viên. Đến khi em đăng kí và thi hoàn thành Anh văn nói viết thì em sẽ phải làm gì để đăng kí tốt nghiệp ạ.. . Em xin cảm ơn.. . . .",
+            "Chào bạn,. . Khi nào bạn đủ điều kiện, có thể gửi câu hỏi qua bksi để xin đăng ký xét tốt nghiệp bổ sung nhé. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn)    Sinh viên    Lịch học vụ    Lịch tốt nghiệp    tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Thân. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi phòng đào tạo . . Em muốn đăng ký môn học giáo dục thể chất nhưng tất cả các lớp gdtc đều đạt sĩ số tối đa khiến em không đăng ký được.. . Nhà trường có thể mở thêm lớp giúp em được không ạ.. . Em xin cảm ơn",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Cho em hỏi các lớp thể chất kì này đã đủ sĩ số, em có thể làm đơn để xin tham gia lớp học được không ạ?",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Chào Thầy/Cô, em là [full_name] mssv [student_id], học kì này em có đăng kí môn dự thính, nhưng vì địa phương đang trong vùng dịch nên gia đình em không ra ngân hàng chuyển tiền được, nên em không thể đống đúng thời hạn, hy vọng pđt xem xét mở cổng cho em đóng lại ạ",
+            "Chào em,. . BKPAY hiện tại thanh toán được rồi nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính thưa Phòng đào tạo Trường Đại Học Bách Khoa TP.HCM,. . Em tên là [full_name], MSSV [student_id] hiện đang theo học chuyên ngành Khoa Học Máy Tính trường Đại học Bách Khoa TP.HCM. Em xin phép được trình bày về việc xin phép được hoãn thi giữa kỳ môn Cấu trúc dữ liệu và giải thuật CO2003 và thi bù vào học kỳ tiếp theo do em đã tham gia cuộc thi Sinh viên an toàn thông tin 2021 cho đội trường mình. Giáo viên bộ môn hiện đã chấp thuận mong muốn của em và đã đề nghị em được thi vào học kỳ tiếp theo. Không rõ là để có thể tham gia được kỳ thi giữa kỳ tiếp theo em cần làm những gì để đúng với quy chế nhà trường do biểu mẫu của nhà trường chỉ là thi cuối kỳ.. . Những câu hỏi chính mà em xin được phép hỏi:. . Mẫu đơn cho việc hoãn thi giữa kỳ.. . Em có cần phải đăng ký môn học cho học kỳ tiếp theo không và học phí sẽ như thế nào.. . Điểm thi giữa học kỳ này của em sẽ được hoãn thế nào ạ.. . Rất mong phòng đào tạo sẽ hồi đáp em.. . Xin cảm ơn.. . Trân trọng",
+            "Chào bạn. . - Về quy định Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . 17.2 Vắng thi có phép và hoãn thi. . a. Vắng các buổi kiểm tra tại lớp: SV liên hệ GV để được xem xét nếu có lý do chính đáng.. . . . b. Vắng các buổi kiểm tra tập trung:. . . . - Trường hợp có quyết định của trường cử đi thi, công tác: SV hoặc đơn vị liên quan đề nghị GV cho lấy một điểm thành phần khác (kể cả điểm thi) làm điểm kiểm tra hoặc GV tổ chức kiểm tra bổ sung và lấy kết quả này làm điểm kiểm tra.. . . . - Trường hợp trùng lịch kiểm tra hoặc khẩn cấp (tang gia, nằm viện, …): SV hoặc người thân làm đơn đề nghị được kiểm tra bổ sung gửi PĐT kèm theo các minh chứng (trường hợp nằm viện phải có giấy nhập viện, không chấp nhận đơn thuốc/sổ khám bệnh/giấy bảo hiểm xã hội/…) trong 5 ngày tính từ ngày vắng kiểm tra (chỉ tính ngày làm việc). PĐT xem xét và thông báo đến GV để tổ chức kiểm tra bổ sung và lấy kết quả này làm điểm kiểm tra.. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dear [full_name].. . . . Em là Trịnh Thành Nam, MSSV: [student_id].. . . . Vừa qua, em đã tham gia kỳ thi kiểm tra 2 kỹ năng  Nói - Viết tiếng Anh và đạt đủ điểm để tốt nghiệp (295).. . . . Tuy nhiên, hiện tại em vẫn chưa có tên trong danh sách tốt nghiệp dự kiến (hoặc mail thông báo đăng ký tốt nghiệp). Và theo em được biết, các bạn thi cùng đợt với em hiện đã nhận được thông tin.. . . . Kính nhờ [full_name] kiểm tra lại giúp em và bổ sung em vào danh sách tốt nghiệp hoặc thông báo giúp em nếu có bất kỳ vấn đề gì.. . . . Em cảm ơn [full_name]."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào Cô.. . Em tên [full_name], mssv [student_id], hiện tại em đã hoàn thành hết chương trình học.. . Cô có thể cho em biết khi nào điểm trung bình tích luỹ ngành của tụi em mới được cập nhật không vậy ạ? Tụi em đã có đủ điểm hết rồi. Và em thấy điểm cập nhật lúc 5/4/2021.. . Em xin lỗi nếu đã làm phiền vì thật sự em rất cần danh sách tốt nghiệp tạm thời trong tuần sau để em có thể được nhận việc vào ngày 1/11.. . Em cảm ơn Cô và chúc Cô một ngày tốt lành.. . Hi vọng sẽ nhận được phản hồi sớm từ Cô.",
+            "Chào em,. . Em đủ tiêu chuẩn tốt nghiệp, em xem danh sách dự kiến TN sau ngày 22/10/2021.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . em muốn đăng kí giáo dục thể chất nhưng tất cả các lớp của 2 môn aeobic và môn võ đều đủ sĩ số các bạn trong 1 lớp rồi, không còn lớp nào còn dư slot để em đăng kí của cả 2 môn luôn ạ. Giờ em phải làm thế nào ạ. Em mong sẽ được giải đáp sớm ạ . . Em cảm ơn. . . . . .",
+            "Chào em,. . - Hiện tại toàn bộ môn học GDTC đã được Phòng Đào tạo tăng sĩ số tối đa theo quy định của TT GDTC (tối đa của nhóm thể dục là 50sv). . - Trường hợp SV bị trùng lịch học, hết chỗ không đăng ký trong HK1 vẫn có thể đăng ký lại ở các HK sắp tới.. . Thân mến. ."
+        ]
+    }
+]

@@ -1,0 +1,380 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Em xin chào ạ!. . . .   Em tên [full_name] , sinh viên khóa 2018 nghành Công Nghệ Vật Liệu của trường.. .   Hiện tại em có khó khăn về học phí và cần mua điện thoại để học, em dự sẽ vay tiền ạ... cho em được hỏi trường có hỗ trợ cho sinh viên vay không, cụ thể có mục nào ạ!Cho em hỏi thêm trường có mức giảm học phí cho sinh viên khó khăn không ạ? . .   Em xin cảm ơn , chúc anh chị nhiều sức khỏe trong mùa dịch , thân!. .  . . . .",
+            "Chào bạn,. . Bạn vui lòng liên hệ tại Phòng Công tác Chính trị sinh viên để được hướng dẫn và hỗ trợ nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . em hỏi là học kì 191 em gia hạn học phí,ngày 10/8/2020 em đã thành toán đầy đủ.Vậy em có bị hủy thời khoá biểu học kì 193 không ạ?Nếu có em xin làm đơn được không ạ?Em xin cảm ơn nhiều ạ.. .",
+            "Chào bạn. . Phòng đào tạo kiểm tra bạn đã đóng học phí đầy đủ, Bạn sẽ không bị hủy tkb 193 nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:  Dạ em chào anh/chị,. . Em SV CQ chuyển sang VHVL,đăng ký năm CTĐT là 2019.Em được tư vấn là đăng ký giống chương trình CQ.Nhưng CTĐT-K19 đổi mới so với khóa cũ 2017.. . Anh/chị cho em hỏi: . . 1.Em đăng ký theo CTĐT 2019 đúng không ạ ?. . 2. Môn Mác (5 chỉ) giờ tách ra 3 học phần.Em đã qua có cần đăng ký học lại ?. . Em cảm ơn !. .",
+            "Chào em;. . PDT đã trả lời qua mail cho em. em kiểm tra lại mail nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]1  /b \t. . . .   i Yêu cầu khác . Chào thầy/cô,. . . . Em muốn đăng ký tốt nghiệp đợt tháng 11 và 30/8 là hết hạn đăng ký, nhưng chứng chỉ toeic (speaking & writing) của em sau 30/8 1 tuần mới trả kết quả (Em đã nộp chứng chỉ listening & reading). Nên thầy/cô cho em hỏi là em có thể đăng ký tốt nghiệp trước và nộp chứng chỉ sau được không ạ. . . . Em xin cám ơn.. . Trân trọng,",
+            "Chào bạn. . Theo quy định không được nghen bạn,. . - Về quy định Công nhận tốt nghiệp: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 20. . Bạn xem thông báo về lịch trình tốt nghiệp của tháng 11/2020 (sẽ có thông báo sau). . Chúc bạn học tập tốt nhé.. . Thân. . . . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi: Quý thầy cô Phòng Đào Tạo trường đại học Bách Khoa TP.HCM.. . . . Em tên: [full_name]. MSSV: [student_id].. . Khoa: Điện - Điện Tử.. . . . Em là sinh viên chính quy khoa Điện - Điện Tử. Do năm học 2019-2020 là năm học cuối trong chương trình đào tạo của em, nhưng em vẫn còn nợ môn \"Cơ sở kỹ thuật điện\" (EE2017) do tới hôm nay em mới biết được điểm tổng kết. Nên em xin Phòng Đào Tạo hỗ trỡ, xem xét giúp em đăng ký học môn \"Cơ sở kỹ thuật điện\" (EE2017) vào HK193 để có thể kịp thời hoàn thành chương trình học.. . . . Em kính xin quý thầy cô Phòng Đào Tạo chấp nhận để em có thể hoàn thành được đúng thời gian chương trình đào tạo. Em xin chân thành cảm ơn quý thầy cô Phòng Đào Tạo.",
+            "Chào bạn,. . . . Bạn vui lòng làm đơn DKMH nộp PDT để ban lãnh đạo phòng phê duyệt (vì thời gian đăng kí môn học đã hết).. . . . Thân.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em là [full_name], Mssv [student_id], học môn Kỹ thuật điều khiển tự động lớp A03. . Do nhóm em nhầm lẫn tên nhóm nên điểm bài tập  bị thiếu, em đã trao đổi với giáo viên bộ môn nhưng thầy nói đã nộp điểm lên Phòng đào tạo nên em cần nộp đơn phúc tra lên Phòng đào tạo để xem xét. Nhưng chỉ có biểu mẫu phúc tra điểm cuối kỳ nên em không rõ bây giờ cần phúc tra điểm bài tập thì em phải làm sao ạ?",
+            "Chào bạn. . Phòng đào tạo là kênh nhận thông tin phúc tra cuối kỳ từ sinh viên để chuyển dữ liệu cho giảng viên. . - Bạn nên hỏi lại giảng viên hình thức sửa điểm để được hỗ trợ. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . cho em hỏi về việc đăng kí môn học của các bạn k18 đo bị trễ anh văn không học được các môn cơ sở ngành theo chương trình đào tạo. theo em được biết chương trình đào tạo của k19 có thay đổi, bỏ một số môn trong chương trình của k18 hoặc đổi mã môn học. vậy k18 muốn đăng kí những môn chưa học kịp mà không đủ số lượng thì sao ạ. em cảm ơn ạ",
+            "Chào bạn,. . . . Trong đợt 2 DKMH học kỳ  201 bạn xin làm đơn mở lớp, trong đơn mở lớp có sự đồng ý của ban chủ nhiệm khoa, giáo viên giảng dạy và  nộp PDT  để ban lãnh đạo phòng cân nhắc phê duyệt cho bạn.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào PĐT. Học kì 192 vừa qua, em đã đăng kí nhầm môn học nhóm A thành nhóm B(học vào buổi tối). Môn học đó em đã đạt rồi và qua 6.5, em đăng kí học cải thiện nhưng lại đăng kí nhóm B của hệ vừa học vừa làm, do nhiều yếu tố nên kết quả môn học đó là 4.5 ảnh hưởng đến bảng điểm HK192 của em. Vì Dịch bệnh nên em không tham gia đầy đủ buổi học nên em bị cấm thi.. . . . Em xin hỏi PĐT có thể cho em hủy kết quả của môn học nhóm B đó được không để không làm ảnh hưởng đến bảng điểm vì hiện tại em đang cần điểm HK192 để xin việc. Em xin cảm ơn PĐT.. .",
+            "Chào bạn. . Bạn vui lòng cung cấp mã số môn học, và thông tin cụ thể hơn để pdt kiểm tra lại. . Thân",
+            "Dạ mã số môn học là CI4037 - nhóm BO1-A. . . Em mong PĐT có thể hủy kết quả môn học giúp em.. . Em xin cảm ơn PĐT!. . . .",
+            "Chào bạn. . - Môn CI4037 nhóm B01-A học theo lớp Bằng 2 (không phải hệ vừa  học vừa làm): hình thức học của bạn gọi là dự thính chuyển hệ. . - Hiện tại theo quy định thì không thể hủy môn học dự thính chuyển hệ trong bảng điểm. Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Một số điểm mới về Quy chế học vụ áp dụng từ HK191 --  Mục 5: điểm dự thính. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1613439  /b \t. . . .   i Đăng ký môn học . Gửi Quý Thầy, Cô. . . . Vì môn học cơ lưu chất em được biết kết quả cuối cùng vào ngày (10/8/2020). Nên hôm nay em muốn đăng ký bổ sung môn học Cơ Lưu Chất (CI2003) để được học trong kỳ hè 193 này. Vì em là sinh viên năm cuối nên hi vọng Quý Thầy, Cô xem xét và giúp cho em đăng ký được môn này để kịp tiến độ tốt nghiệp vào tháng 11.. . Em xin chân thành cảm ơn.. . . . Trân trọng,",
+            "Chào bạn,. . . . Bạn vui lòng làm đơn DKMH nộp PDT để ban lãnh đạo phòng phê duyệt (vì thời gian đăng kí môn học đã hết).. . . . Thân.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Cho em hỏi là trong HK 191 em có VP 2 môn đstt và gt1. . Và trong bảng điểm đc chuyển thành số 22 . . Sau khi em thi xong số 22 đó đổi thành điểm em thi hay là điểm số 21 ạ.. . Nếu đổi thành điểm 21 thì làm sao để em biết điểm để tính điểm TBTL để phân ngành ạ.",
+            "Cô giải đáp giúp em vs ạ hiện tại môn đại số tuyến tính của em trên bảng điểm là 21 như ảnh ạ giờ e đang cần điểm tbtl để xét phân ngành nên em ko biết tính điểm 21 đó như thế nào. Em biết được điểm thi và điểm thành",
+            "Chào bạn,. . Bạn xem quy định về tính điểm 21 tại đây nhé:. . http://aao.hcmut.edu.vn/ sinh viên/quy chế/ Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/sinh viên/Điều 14. Các điểm đặc biệt. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b [full_name]  /b . .   i [student_id] . Hi Thầy cô !. . Em là [full_name] [student_id]. . Bảng điem trên Mybk của em có sai sót ở khâu nhập điểm do nhập sai ạ;. . Môn CNPMNC cột KT thật là 10.00 mà trên hệ thống lại in ra 1.00;. . Em mong PDT xử lí truờng hop của em theo kiểu online để phòng chống covid ạ. . Em cảm ơn . .",
+            "Chào bạn,. . Điểm là do giảng viên nhập điểm và gửi lên Phòng Đào tạo, và chỉ có Giảng viên mới có quyền sửa điểm của sinh viên.. . Bạn vui lòng liên hệ với giảng viên để khiếu nại về việc nhập điểm sai nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .  -Đăng ký môn học. . . . -Chào quý thầy cô ạ ! E có một vấn đề thắc mắc xin được hỏi quý thầy cô ạ . Là em có thể bổ sung môn học vào học kì hè 193 được không ?. . MSMH :(260617) Công nghệ chế tạo máy .. . - Em xin cám ơn ạ ,Mong được quý thầy cô chấp nhận cho phép e tham lớp học , để em có thể kịp tiến độ học tập. .",
+            "Chào bạn,. . . . Bạn vui lòng làm đơn DKMH nộp PDT để ban lãnh đạo phòng phê duyệt (vì thời gian đăng kí môn học đã hết).. . . . Thân.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . khi nào học kì 201 bắt đầu",
+            "Chào bạn. . Ngày bắt đầu học của HK201 từ 21/9/20. . Phòng đào tạo sẽ gởi mail thông báo lịch học vụ vào tuần sau, bạn nhớ kiểm tra mail nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:",
+            "Vào ngày 2/8 em có vắng thi môn ESA do gặp lí do gia đình, và đồng thời em đã trao đổi với giáo viên bộ môn về vấn đề này và thầy đã đồng í hỗ trợ cho em thi lại nếu như bên phía OISP hỗ trợ tổ chức thi lại cho em, liệu không biết bên OISP hôz trợ trường hợp của em như thế nào ạ, em cảm ơn rất nhiều.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý",
+            "Chào bạn,. . Bạn vui lòng liên hệ trực tiếp tại Văn Phòng Đào tạo Quốc tế để được hỗ trợ nhé (lầu 4, nhà A4). . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vắng thi cuối kỳ học kỳ 2/2019-2020 do dịch COVID-19 . cho em hỏi là đợt vừa rồi em váng thi covid thì việc thi lại vào cuố kì sắp xếp sao ạ, và làm sao để em đăng kí thi lại ah",
+            "Chào bạn, . . -\tBạn vui lòng xem thông báo của Nhà trường đã gởi vào ngày 27/7/20 V/v vắng thi cuối kỳ học kỳ 2/2019-2020 do dịch COVID-19 và tham khảo công văn số 2820/UBND-VX ngày 26/7/20 đính kèm để kiểm tra có thuộc đối tượng được phép vắng thi cuối kỳ học kỳ 2/2019-2020 do dịch COVID-19.. . -\tBạn vui lòng bổ sung minh chứng qua công cụ trang bksi.hcmut.edu.vn/Hỏi-Yêu cầu/Vắng thi cuối kỳ học kỳ 2/2019-2020 do dịch COVID-19 để Phòng đào tạo xem xét và ra danh sách chính thức. Sau khi Phòng đào tạo kiểm tra minh chứng nếu bạn thuộc diện được vắng thi theo quy định sẽ gởi kết quả cho bạn qua mail sinh viên .. . Chúc bạn học tập tốt nhé.. . Thân. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            ". . . . Em chào quý thầy/cô ạ!. . Tình hình là em học văn 2 mà bị rớt rồi, bây giờ em thi bằng tiếng anh ở ngoài sau đó chuyển điểm thì môn anh văn 2 của em có được tính là qua không ạ?. . Em xin cảm ơn!. . Trân trọng",
+            "Chào bạn,. . Được tính điểm bình thường nhé bạn, và được cập nhật tại mục điểm chuyển trên mybk/thông tin sinh viên.. . Bạn tham khảo quy về ngoại ngữ:. . http://aao.hcmut.edu.vn/ sinh viên/quy chế/ Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/Phụ lục 1: Quy định về ngoại ngữ (áp dụng cho các chương trình giảng dạy bằng tiếng Việt). . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b . . Dạ cho em hỏi là chuẩn đầu ra của K19 là 550 sẽ được quy đổi điểm ra 4 anh văn. Vậy ví dụ em thi được băng toeic 450 thì có nộp được để tạm thời quy đổi ra av1 av2 được không ạ?\t. . . .   i Yêu cầu khác .",
+            "Chào bạn,. . Được nhé bạn, theo quy định mỗi môn AV chỉ được chuyển điểm 1 lần nhé bạn. Nên bạn cân nhắc kỹ trước khi chuyển điểm nhé!. . Bạn tham khảo quy đinh về CCNN tại đây:. . http://aao.hcmut.edu.vn/ sinh viên/quy chế/ Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/Phụ lục 1: Quy định về ngoại ngữ (áp dụng cho các chương trình giảng dạy bằng tiếng Việt). . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em muốn hỏi là tại sao trang BKEL mục video của môn Cơ học ứng dụng lại ghi hạn để hoàn thành là tháng 6. Trong khi đó, em mới được mở mục video vào đầu tháng 8 này do em có đăng ký dự thính hè.. . . . Mong phòng đào tạo có thể sớm giải quyết. Em cám ơn.. .",
+            "Chào bạn. . Trang video là do giảng viên thiết lập.. . Có bất kỳ vấn đề thắc mắc trong trang thì liên hệ giảng viên.. . . . Trân trọng!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi: PHÒNG ĐÀO TẠO. . . . Em tên: [full_name], MSSV [student_id] khoa KTHH. Em có vấn đề cần sự trợ giúp của PĐT ạ.. . Em có nhận được lịch thi giữa kì môn Vật lí 1 là vào ngày 24/08/2020, do lịch đi thực tập QTTB bị lùi lại hơn so với dự kiến nên tới ngày 26/08/2020 em mới có thể về được, vì em thực tập ở Bình Phước nên trường sắp ở đó 2 tuần không được di chuyển qua lại giữa các tỉnh thành tránh bị lây bệnh. . . Em muốn xin PĐT có thể tạo điều kiện giúp em có thể thi giữa kì môn Vật lí 1 kì hè 193 được không ạ?. . . . Em chân thành cảm ơn PĐT đã đọc thư. Em mong được sự hồi âm sớm từ PĐT ah.. .",
+            "Chào bạn,. . Việc thi giữa kỳ bạn có thể liên hệ trực tiếp với giảng viên để trình bày và xin thì bổ sung vào 1 buổi khác nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tên: [full_name]ỀU   ;    MSSV [student_id]. . em xin đăng kí rút các môn học sau:. . Hệ thống máy tính và ngôn ngữ lập trình :. . EE2009. . Pháp luật Việt Nam đại cương : SP1007. . Vật lí bán dẫn : EE1013. . Lí do : ngày 31/7/2020 em về Quảng Nam, dịch bệnh bùng phát không thể vào lại tp HCM để tiếp tục học tập được ạ.. .",
+            "Môn học đã được hủy. KO tính học phí. . TKB sẽ cập nhật sau. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi văn phòng đào tạo bộ phận quét bài. . . . -Họ tên: [full_name]. . mã lớp: TT01 MSSV [student_id]. . -Tên môn học Pháp luật Việt Nam đại cương, Mã môn học: SP1007. . -Lí do em viết đơn xin biết hình ảnh đáp án bài làm của em với đáp án mã đề của môn Pháp luật Việt Nam đại cương, mã môn SP1007.. . - Ngày thì 26/7 phòng 601 B4. . . . Em mong được sự hồi đáp sớm từ phòng đào tạo.. . . . Em xin trân trọng cảm ơn.. .",
+            "Chào bạn,. . . . Việc này bạn liên hệ với giáo viên dạy môn Pháp luật Việt Nam đại cương nha.. . . . Thân.",
+            "li answer rate: Answer does not suit / Câu trả lời không đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Cho em hỏi về chuẩn tiếng Anh sau mỗi năm học cho chương trình đại trà của K2019 ạ. Em có tìm trên trang aao.hcmut.edu.vn thì phần quy chế của phần này không xem được ạ.. . . . Em cảm ơn.",
+            "Chào bạn,. . . . Bạn xem qui chế học vụ điều 31, phục lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi.. . Hiện em đang ở Quảng Ngãi. Vùng dịch nên khó khăn trong việc di chuyển vào thành phố để tham gia học kì hè 193. . . Em có về quê bằng phương tiện xe khách của nhà xe Chính Nghĩa khởi hành lúc 19h ngày 26/7 từ Sài Gòn về Quảng Ngãi, vì đi xe nên em nên lúc về em đến nơi, em đã thất lạc vé ạ nhưng em có chụp đoạn tin nhắn lúc em về có nhắn tin với bạn ạ.. . Kì này em có đăng kí môn học Triết học [full_name] [full_name] [full_name] (SP1031). . . Mong nhà trường giúp em huỷ môn học này ạ.. . Em chân thành cảm ơn.. . Trân trọng.. . [full_name]. .",
+            "Chào bạn,. . Bạn có thể ra phường xin xác nhận hiện bạn đang ở địa phương nhé!. . Và chụp hình đơn xác nhận đính kèm cho Phòng Đào tạo làm minh chứng nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Rút môn học HK Hè/2019-2020 (có tính học phí) .",
+            "Chào bạn,. . - Phòng Đào tạo đã tiếp nhận yêu cầu về việc xin Rút môn học HK Hè 3/2019-2020 (tính Học Phí). Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 15/09/2020 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . . . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b \t[full_name] [full_name] [full_name] [full_name]   i Học vụ  /i [full_name] [full_name] [full_name] [full_name] Xin chào,[full_name] [full_name] [full_name] [full_name] Em tên là [full_name], mssv [student_id][full_name][full_name] [full_name] Thầy cô cho em hỏi vấn đề như sau:[full_name] [full_name] Lúc trước năm nhất em không đạt môn Giáo dục quốc phòng[full_name] Trong học kì 201 nếu em hoàn tất Luận văn tốt nghiệp thì em hoàn thành toàn bộ các môn học để tốt nghiệp, chỉ trừ Giáo dục quốc phòng[full_name] Em có đọc trong quy chế là cho phép bổ sung chứng chỉ Giáo dục quốc phòng sau thời hạn học tối đa (học kì 201 là học kì cuối cùng của em)[full_name] Vậy em gửi thư này để hỏi lại là nếu em hoàn thành chứng chỉ Giáo dục quốc phòng vào tháng 2,3 năm 2021 là em được công nhận tốt nghiệp loại chính quy phải không ạ?[full_name] [full_name] [full_name] [full_name] Em cảm ơn thầy cô![full_name] [full_name] [full_name] [full_name] [full_name] trong,[full_name] [full_name] [full_name]",
+            "Chào bạn. . - Theo quy định là được nghen bạn, nhưng bạn cố gắng hoàn thành sớm để được cấp bằng tốt nghiệp nghen. . - Về quy định Công nhận tốt nghiệp: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 20. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: cho em hỏi là chương trình đào tạo kỹ năng của k19 bao gồm bao nhiêu tín chỉ ạ?",
+            "Chào bạn,. . Về CTĐT bạn vui lòng liên hệ tại Văn Phòng Khoa - xin gặp thầy Phó Khoa phụ trách về CTĐT để được tư vấn và hướng dẫn nhé!. . Chúc bạn học tốt. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi Quý Thầy/Cô ạ,. . . . Em là [full_name], sinh viên chính quy chuyển sang VHVL. (MSSV: [student_id]). . . . Em có học môn Nhập môn Kỹ thuật học kỳ vừa rồi (HK192), thầy cô có tổng kết điểm rùi mà em dò trên trang xem điểm VHVL của MyBK không có ạ.. . . . Thầy/Cô xem giúp em với ạ.. . . . Em cảm ơn Thầy/Cô.",
+            "Chào bạn;. . bạn hỏi lại giảng viên chấm điểm đã nộp điểm về PDT chưa nhé.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào cô ạ.  Cô cho em hoi hè này đăng kí làm lại thẻ sinh viên được không cô . Em đăng kí tuần rồi mà chưa xử lý xong nữa .",
+            "Chào bạn,. . . . Khi bạn đăng kí làm lại thẻ sinh viên trên Mybk đều có hẹn ngày nhận thẻ nha. Bạn kiểm tra lại.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em là sinh viên khoa Xây Dựng em có chuyển điểm anh văn vào ngày 31/7 và đã thanh toán lệ phí vậy điểm chuyển anh văn đó có được tính vào điểm trung bình tích lũy đó để tính phân ngành chưa ạ ? Em cảm ơn",
+            "Chào bạn. . Phòng đào tạo kiểm tra đã cập nhật điểm chuyển anh văn 1+2 vào ngày 10/8/20. . Bạn kiểm tra lại điểm phân ngành tại Khoa đã được cập nhật mới chưa nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ cho em hỏi là trong học kỳ chính, học kỳ dự thính, học kỳ hè thì sinh viên được đăng ký tối đa bao nhiêu tín chỉ ạ.. . Với lại khi đăng kí thực tập ngoài trường, thực tập tốt nghiệp và luận văn tốt nghiệp vào học kỳ chính thì có được đăng ký các môn khác không ạ và tối đa là bao nhiêu tín chỉ ạ.. . Em cảm ơn ạ!!!",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 9 và điều 10 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Hiện tại em chưa có chứng chỉ giáo dục quốc phòng, vậy bây giờ em đăng kí học giáo dục quốc phòng tại trung tâm giáo dục quốc phòng trường đại học Trần Đại Nghĩa, thì chứng chỉ do trường Trần Đại Nghĩa cấp có được Đại học Bách Khoa chấp nhận để xét tốt nghiệp không ạ?. .",
+            "Chào bạn. . Hiện tại, sinh viên Trường đại học Bách Khoa chỉ đăng ký học tại Trung tâm giáo dục quốc phòng thôi nghen bạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Rút môn học HK Hè/2019-2020 (có tính học phí) . Chào bao giám hiệu nhà trường ạ, em xin rút môn thể dục ở kì hè này vì lí do em đang ở quê và quê em thuộc vùng dịch, vì lí do cộng đồng em ko thể vào lại thành phố để tiếp tục học được, em mong nhà trường cho em rút môn học này ( không phí) ạ. Em cảm ơn.",
+            "Chào bạn, . . . . -Bạn vui lòng bổ sung minh chứng qua công cụ trang bksi.hcmut.edu.vn/Hỏi-Yêu cầu để Phòng đào tạo xem xét hủy thời khóa biểu. . . . . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tên : Đỗ Nguyên. . Mssv : [student_id]. . Ngành : TTĐT Bảo Dưỡng Công Nghiệp. . . . Lí do : Dạ em chào ad ạ, tuần trước em có đăng ký tại phòng đào tạo để xét tốt nghiệp, phòng đào tạo có thông báo là khi nào nhận được mail chúc mừng thì mới lên MyBk đăng ký xét tốt nghiệp, nhưng đến bây giờ thì em vẫn chưa nhận được mail, mà hạn chót đăng ký xét tốt nghiệp là ngày 30/8, hiện tại em đã đủ điều kiện xét tốt nghiệp rồi ạ.. . . . Dạ mong ad xem xét giúp đỡ em ạ, em cám ơn ad nhiều ạ.",
+            "Chào bạn,. . Hiện tại Phòng Đào tạo đang tập hợp danh sách xét TN trước ngày 30/8, và sẽ công bố gửi mail danh sách dự kiến sau 1/9. Sau 1/9 bạn vẫn chưa nhận được mail vui lòng gửi lại phải hồi để Phòng Đào tạo kiểm tra và báo lý do cho bạn nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em là sinh viên khoa Xây Dựng em có chuyển điểm anh văn vào ngày 31/7 và đã thanh toán lệ phí vậy điểm chuyển anh văn đó có được tính vào điểm trung bình tích lũy đó để tính phân ngành chưa ạ ? Em cảm ơn",
+            "Chào bạn. . Phòng đào tạo đã kiểm tra bạn đã được cập nhật điểm miễn anh văn 1+2. . Theo quy định là sẽ được tính điểm khi xét phân ngành. . Bạn liên hệ Khoa để kiểm tra lại nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Dạ cho em hỏi bằng nghề tin học em thi ở cấp 3 có tương đương với bằng ứng dụng CNTT cơ bản không ạ? Em cảm ơn ạ.. .",
+            "Chào bạn,. . Bạn xem quy định về CC CNTT tại đây:. . http://aao.hcmut.edu.vn/ sinh viên/quy chế/ Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/Phụ lục 3:Quy định về kỹ năng ứng dụng Công nghệ thông tin. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1913383  /b \t. . . .   i Yêu cầu khác . Phiếu Đăng Ký Thu Nhận Lại. .",
+            "Chào bạn,. . Thời điểm này bạn làm thu nhận học kỳ hè 193 để làm gì?. . Bạn vui lòng ghi lại thu nhận từ học học 201/2020-2021.. . Và ký tên trên đơn, gửi lại file đơn xin thu nhận lại. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1810230  /b \t. . . .   i Học vụ . Em chào Thầy/Cô ạ,. . Theo thông báo mới của trường thì bắt đầu từ k21 học phí của mỗi học kì sẽ tăng và dao động từ 20-25 triệu. Thầy/Cô cho em hỏi là học phí cho chương trình đào tạo thạc sĩ từ năm 2021 trở đi có thay đổi không ạ? . . Em xin cảm ơn Thầy/Cô rất nhiều.",
+            "Chào bạn. . Bạn liên hệ trực tiếp Phòng đào tao Sau đại học :. . Văn phòng\t: B11 – 268 Lý Thường Kiệt, Q. 10, TP. HCM. . Điện thoại\t: (84.28) [student_id]8. . Website\t:www.pgs.hcmut.edu.vn. . Email\t: [email]. . Thân. .",
+            "Chào bạn,. . . . Bạn liên hệ phòng Đào Tạo sau đại học nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ cho em hỏi về học phí kì hè 193 sẽ thu vào thời gian hè luôn, hay là gộp chung với học phí kì 201 vậy ạ.Em xin chân thành cảm ơn.",
+            "Chào bạn,. . . . -Bạn kiểm tra mail thường xuyên, sắp tới sẽ có thông báo đóng tiền học phí.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Cho em hỏi vô hk 201 em học môn được 1 2 tuần thì có thể rút môn không ạ",
+            "Chào bạn. . . . - Về quy định rút môn : Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 11. . . . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác  . . Dạ em chào PĐT!. . . . Hiện tại em đã hoàn thành xong các môn học của chương trình k16 và trên mybk đã có điểm hết các môn nhưng chưa cập nhật điểm trung bình tích lũy. Bây giờ khi em in bảng điểm thì đã cập nhật điểm tích lũy cho em chưa?. . Bảng điểm in lúc này thể hiện điểm các môn theo từng kì học đăng kí với số môn tương ứng hay thể hiện 1 loạt và 1 lần các môn theo chương trình đào tạo ạ?. . . . Em cảm ơn PĐT! Em mong phản hồi sớm của PĐT!. . . .",
+            "Chào bạn,. . Tại thời điểm bạn đăng ký in bảng, nếu đã có điểm đầy đủ thì trong bảng điểm bạn in ra sẽ cập nhận điểm TB tích lũy cho bạn nhé.. . Còn điểm trên mybk, sau khi có điểm đầy đủ của tất cả các Khoa, mới có thể cập nhật lên mybk nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi Phòng Đào tao,. . . . Sau khi nhận được điểm thi cuối kỳ trên MyBK môn Anh văn 1. Tôi thấy có sự khác biệt giữa năng lực làm bài thi với kết quả, như vậy thì tôi phải làm thế nào để có thể làm yêu cầu xem xét lại việc chấm bài này. Tôi xin cảm ơn! . . . . Trân trọng,. . [full_name]",
+            "Chào bạn,. . Môn của bạn thi trắc nghiệm hay tự luận?. . Thân",
+            "Em chào cô,. . . . Môn của em thi trắc nghiệm.. . . . Thân",
+            "Chào bạn,. . Môn thi trắc nghiệm thì không phúc tra nhé bạn, bạn có thể liên hệ với giáo viên/ bộ môn để xin xem lại  bài thi nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vắng thi cuối kỳ học kỳ 2/2019-2020 do dịch COVID-19 . hôm sáng ngày 28-7 em có đi thi ca sáng phòng 212B1 chung phòng với bạn toàn  người bị tình nghĩ F1 và trưa ngày 31 em được bệnh trường điện báo nghĩ thi môn xữ lý số tín hiệu vì em bị rơi vào tình trạng F 2 , phía dưới là min chứng lịch thi của em vào những ngày hôm đó mong Phòng đào tạo kiểm tra minh chứng của em để em có thể thi lại ah,. . và cho em hỏi thêm là tầm bao lâu trước khi thi thì em sẽ nhận được thông báo ah",
+            "Chào bạn. . Phòng đào tạo đã nhận được minh chứng của bạn. . Sau khi Phòng đào tạo kiểm tra minh chứng nếu bạn thuộc diện được vắng thi theo quy định sẽ gởi kết quả cho bạn qua mail sinh viên .. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em kính chào thầy cô,. . Em tên là [full_name], MSSV [student_id].. . Thầy cô cho em hỏi là lịch nộp chứng chỉ ngoại ngữ 2 kỹ năng nói viết để xét tốt nghiệp vào tháng 11 năm nay hạn chót là khi nào vậy ạ. . . Em cảm ơn ạ.. .",
+            "Chào bạn. . Tuần sau phòng đào tạo sẽ gởi thông báo về lịch học vụ HK201 qua mail sinh viên, bạn nhớ kiểm tra mail thường xuyên nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Cho em hỏi là em lỡ đăng kí nhầm môn vật lý 1 của học kì hè với mã môn học là 007001 là môn dành cho các anh chị khoá k13 về trước, không biết em có thể chuyển lớp hay rút môn được kh ạ ?",
+            "Chào bạn,. . Bạn có thể làm đơn xin rút MH (có tính học phí) theo quy định. Đã gửi mail hướng dẫn nhé.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vấn đề là kì vừa rồi do tình hình covid-19 dẫn đến rút ngắn thời gian học nên em tập trung vào các môn chính đã đăng kí của lớp thường và không tham gia được các yếu cầu của câc môn tài năng đưa ra. Cho em hỏi có vì lý do đó mà em bị tước học bổng theo quy định \"Tất cả các môn trong học kỳ chính đều đạt: Điểm tổng kết ≥ 5,0 (không tính điểm thi lần 2 nếu có); Điểm hoãn thi HT và vắng thi có phép VP được tính là chưa đạt; Không tính điểm học kỳ dự thính.\" không ạ? Em xin cảm ơn.. .   i Yêu cầu khác .",
+            "Chào bạn,. . Bạn vui lòng xem quy định về xét HBKK tại đây:. . http://aao.hcmut.edu.vn/ sinh viên / Học vụ/HỌC BỔNG/QUY ĐỊNH VỀ HỌC BỔNG KHUYẾN KHÍCH. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Đăng ký thu nhận lại",
+            "Chào bạn,. . Bạn là sinh viên chương trình Chất lượng cao, nên đơn thu nhận của bạn vui lòng gửi cho Văn Phòng Đào tạo Quốc tế để được tiếp nhận nhé:. . Địa chỉ: Kiosk OISP, Khu B2, Trường Đại học Bách khoa, 268 Lý Thường Kiệt, P.14, Q.10, TP.HCM. . . . - Điện thoại: (028) 7300.4183 – 03.9798.9798. . . . - E-mail: [email], [email]. . . . - Website: oisp.hcmut.edu.vn, mba-mci.edu.vn. . . . - Facebook: facebook.com/bkquocte. . . . - YouTube: youtube.com/bkoisp. . . . - Trưởng Văn phòng: TS. [full_name]. . . . - E-mail Trưởng Văn phòng: [email]"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . dạ thầy/cô cho em hỏi rằng em đăng ký  môn học nhưng chưa được cập nhật thời khóa biểu là 2 môn hóa đại cương (CH1003) và giải tích 2(MT1005)   em xin phòng đào tạo cập nhật cho em ạ",
+            "Chào bạn. . Phòng đào tạo đã cập nhật tkb của bạn, bạn đăng nhập vào để xem nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ,em là [full_name],sinh viên Khoa Điện,chuyên ngành tự động.Cho em hỏi là khi em rớt môn tự chọn thì em đăng kí học môn tự chọn khác cho đủ yêu cầu số tín chỉ ở các nhóm môn tự chọn mà không học lại môn tự chọn em đã rớt. Vậy thì khi ra trường,điểm của môn tự chọn em đã rớt có tính vào điểm trung bình của em khi ra trường hay không ạ.Em cảm ơn.. .",
+            "Chào bạn,. . Đối với môn tự chọn, ĐTBTL được tính từ điểm cao nhất của số tín chỉ quy định trong nhóm các môn tự chọn.. . Điểm trung bình tích lũy ngành (ĐTBTLN) được tính tương tự điểm trung bình tích lũy nhưng chỉ xét các môn học thuộc CTĐT khóa-ngành/chuyên ngành đang theo học.. . Xem chi tiết quy định tại đây:http://aao.hcmut.edu.vn/ sinh viên/quy chế/ Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/Điều 19. Số tín chỉ tích lũy, điểm trung bình tích lũy. . Về CTĐT bạn vui lòng liên hệ tại Văn Phòng Khoa - xin gặp thầy Phó Khoa phụ trách về CTĐT để được tư vấn và hướng dẫn nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em là Vương Triệu Tước. Mssv:[student_id].Em là sinh viên hệ CQ có đăng ký chuyển sang hệ VHVL vào tháng 7/2020. Vào ngày 21/7/2020, em có hoàn tất việc nộp hồ sơ cho trường và được cấp giấy hoàn thành thủ tục nhập học và chứng nhận sinh viên tạm thời có giá trị trong vòng 30 ngày. Sau đó, em có thực hiện các bước kích hoạt tài khoản mạng BKNETID. Vậy em đã là sinh viên chính thức chưa ? Nếu chưa , em cần thực hiện thêm những bước gì để là sinh viên chính thức? Em cảm ơn quý thầy cô nhiều",
+            "Chào bạn;. . Bạn có giấy hoàn tất thủ tục nhập học thì đã là sinh viên  của trường rồi nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Xin phép gửi minh chứng vắng thi môn xử lý số tín hiệu ( hình ảnh đính kèm bên dưới) . . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Cho em hỏi là em đăng ký môn giải tích 2 vào học kì 3 năm 2 thì học kì 1 năm 3 có được đăng kí môn không ạ vì học kì 2 năm nhất em không đăng kí môn đó",
+            "Chào bạn,. . Về CTĐT bạn vui lòng liên hệ tại Văn Phòng Khoa - xin gặp thầy Phó Khoa phụ trách về CTĐT để được tư vấn và hướng dẫn nhé!. . Chúc bạn học tốt. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . phòng đào tạo cho em hỏi là năm nhất em không đăng ký môn gdtc nào cả mà năm 2 em đăng ký mỗi học kỳ tính luôn kỳ hè 203 thì học kì 1 năm 3 em có được đăng ký môn không ạ",
+            "Chào bạn,. . Chưa hiểu rõ ý câu hỏi của bạn.. . Bạn vui lòng xem quy định về ĐKMH tại đây:. . http://aao.hcmut.edu.vn/ sinh viên/quy chế/ Quy chế đào tạo và học vụ bậc đại học, cao đẳng:/Điều 9. Đăng ký môn học. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi văn phòng đào tạo bộ phận quét bài. . . . -Họ tên: [full_name]. . mã lớp: TT01 MSSV [student_id]. . -Tên môn học Pháp luật Việt Nam đại cương, Mã môn học: SP1007. . -Lí do em viết đơn xin biết hình ảnh đáp án bài làm của em với đáp án mã đề của môn Pháp luật Việt Nam đại cương, mã môn SP1007.. . - Ngày thi 26/7 phòng 601 B4. . - Giáo viên bộ môn bảo em liên hệ với bộ phận chấm bài ạ. . - hình được đính kèm bên dưới. . . . Em mong được sự hồi đáp sớm từ phòng đào tạo.. . . . Em xin trân trọng cảm ơn."
+        ]
+    }
+]

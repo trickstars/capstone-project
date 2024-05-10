@@ -1,0 +1,390 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em bị mất ví có cmnd và thẻ sinh viên trong đó, bên phường nói sau dịch mới có người làm lại được. Bây giờ chỉ còn passport thì có cách nào để thi online không hay phải hoãn?",
+            "Chào bạn. . - Bạn đăng ký in thẻ sinh viên gấp nhé (đăng ký gởi qua bưu cục). . Hiện tại Phòng đào tạo giải quyết in thẻ sinh viên hàng ngày và gởi bưu cục (nếu SV có đăng ký), nhưng vì nhiều lý do bất khả kháng [full_name] vẫn chưa đến SV để kịp Thi. Sinh viên vui lòng trình bày tất cả lý do kèm minh chứng để Cán bộ coi thi ghi nhận vào Danh sách Thi và PDT đối chiếu dữ liệu sau. . Chúc bạn thi tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi thầy cô,. . . . Em là Phụng, sinh viên K16 khoa Xây Dựng.. . . . Em muốn hỏi về việc nhận bảng điểm trong tình hình thành phố HCM bị phong tỏa. Thầy cô cho em hỏi không biết liệu em có thể thanh toán trên bkpay sau đó nhận bản scan qua email được không ạ? Việc nhận bảng điểm này rất quan trọng đối với em do em đang bị kẹt tại nước ngoài không về được và muốn xin học tiếp trong học kì tới.. . . . Em kính xin nhận được sự giải đáp từ thầy cô.. . . . Em kính chúc thầy cô và gia đình thật nhiều sức khỏe, đặc biệt là trong thời gian khó khăn này.. . . . . . Trân trọng,. . [full_name]",
+            "Chào bạn,[full_name] [full_name] Trước tiên bạn phải đăng ký online và chọn nơi nhận tại PĐT, sau khi trên hệ thống báo đã in xong bạn có thể gửi yêu cầu qua bksi nhờ PDT hỗ trợ scan bảng điểm gửi qua mail cho bạn nhé[full_name][full_name] [full_name] [full_name]",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý",
+            "Em chào thầy cô,. . . . Em đã hoàn thành việc đăng ký và hệ thống cũng đã báo in xong. . . . . Xin thầy cô giúp em gửi bản scan giúp em thông qua email [email] . . . . Em xin chân thành cảm ơn và xin lỗi thầy cô vì sự bất tiện này.. . . . Em chúc thầy cô thật nhiều sức khỏe.. . . . Trân trọng,. . [full_name]",
+            "Chào bạn. . pdt đã gởi bảng điểm scan cho bạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ kính thưa Phòng đào tạo, em là sinh viên [full_name], mã số sinh viên [student_id], lớp DT01-A thầy [full_name] ạ. Em đã gặp trục trặc trong ca thi môn PLVNDC, phòng thi số 1, vào lúc 13h00 ngày 01/08/2021 ạ. Do sự cố về đăng nhập vào phòng thi (do một số lỗi mà em không thể đăng nhập được ạ, sau 15 phút liên tục liên hệ đến thầy cô giám thị và Ban kỹ thuật , em đã vào được ạ), em đã rất bối rối sau tình huống đó, em dùng app Camtasia để quay lại màn hình (nhưng trong lúc rối em đã bị delete video, tức là không lưu lại được ạ). Và em cũng đã dùng [full_name] Meet để quay lại màn hình, nhưng chỉ được đoạn đầu lúc điểm danh và cuối video lúc cuối giờ ạ. Đoạn giữa (lúc em làm bài thi, em vẫn dùng [full_name] meet để quay lại đoạn video đó, nhưng khi em kiểm tra lại thì phát hiện chưa bấm ghi màn hình, mà tới khi phát hiện thì em đã nộp bài và đã hoàn thành bài thi. Dạ rất mong Phòng đào tạo xác nhận giúp em với ạ. Em thực sự rất rối, và bài em cũng hoàn thành rồi ạ. Cuối giờ, em đã có trình bày với thầy giám thị thi hôm ấy ạ. Dạ em rất mong nhận được phản hồi từ Phòng đào tạo ạ! Em cảm ơn Phòng đào tạo rất nhiều.",
+            "Chào bạn. . SV nên liên hệ GV của mình để được lưu ý khi chấm bài.. . . . SV cần thực hiện theo hướng dẫn của nhà trường và thực hành để thuần thục các thao tác ghi hình màn hình trước khi thi.. . (Việc quan trọng càng phải luyện tập kỹ). . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Học vụ . Em kính chào thầy cô PĐT.. . Hôm nay em có thắc mắc muốn hỏi về quy chế thi online của PĐT và bộ môn Lý luận chính trị về việc sử dụng camera trước mặt có góc quay rộng bao quát được không gian thi (em đã liên hệ các thầy cô ở bộ môn và được hướng dẫn mail cho PĐT).. . Vì lí do camera trước mặt là camera của laptop (chỉ thấy hình ảnh từ đầu đến vai) nên sẽ không thể có góc rộng được và nếu để laptop ở xa tạo góc quay rộng sẽ gây khó khăn cho việc thao tác trên máy và nhìn vào màn hình khi làm bài, nên em kính mong PĐT cân nhắc phương án phù hợp với sinh viên. . . Kính mong PĐT sớm có lời giải đáp ạ.. . (Ảnh được lấy từ văn bản của bộ môn)",
+            "Chào bạn. . - Bạn vui lòng xem chi tiết hướng dẫn thi trực tuyến nhà trường đã gởi thông báo cho sinh viên. . - Ngay thời điểm thi bạn có thể liên hệ CBCT để hỗ trợ thêm. . - Trong trường hợp không đảm bảo trang thiết bị chỉ cần đăng ký hoãn thi với Phòng đào tạo thông qua công cụ myBK    Hỗ trợ trực tuyến. . Thân. .",
+            "Chào bạn. . Cô sẽ gởi câu hỏi cho Bộ Môn Mác-[full_name] xem Thầy Cô dùng cách bố trí nào? . . Đồng thời bạn cũng liên hệ Bô môn để xác nhận lại nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào PĐT, em là [full_name], mssv [student_id]. Em có ca thi PLĐC vào 13h 01/08/2021, em đã hoàn thành bài thi rồi sau đó em có đăng xuất ra và khi đăng nhập vào lại (để nộp video quay màn hình) thì gặp lỗi này.. . Trong lúc thi phòng em có vài bạn cũng bị trường hợp này và nhờ bên kĩ thuật reset lại mặc định và vào được. Em nhờ PĐT liên hệ bên kĩ thuật reset lại giúp em để em nộp video quay màn hình và thi những môn còn lại.. . Em xin cảm ơn.",
+            "Chào bạn. . Bạn tắt máy, đăng xuất hết các máy khác, rồi khởi động lại, sau đó đăng nhập lại. . Nếu vẫn có lỗi thì vui lòng liên hệ lại. . Thân",
+            "Em đã làm hết mọi cách các bạn trên group fb hướng dẫn nhưng vẫn không thể nào khắc phục được",
+            "Chào bạn. . Hệ thống sẽ tự động phục hồi sau nghen, chắc bạn đăng nhập lại sau nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi Phòng Đào tạo,. . Em là [full_name], MSSV [student_id], học lớp CC20ROB1.. . Em muốn xin nhà trường cho em hoãn thi online cuối kì các môn của HK203 và HK202 vì lí do không đảm bảo trang thiết bị. Em sẽ đăng kí thi bổ sung sau khi quay lại trường học.. . Em cảm ơn ạ!",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em gặp sự cố trong lúc thi nên phải hoãn. Bây giờ em phải làm đơn như thế nào ạ.",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "U Em tên là [full_name] (MSSV: 205 1168), do máy tính của em hiện tại đang bị hỏng và em không có cách nào đê sửa do tình hình dịch Covid-19, nên em xin được hoãn kì thi cuối HK2 và HK3 (2020 -2021) của em.. . Em mong là Nhà Trường có thể sắp xếp cho em thi lại vào thời gian khác.. . . . . .   i Yêu cầu khác .",
+            "Chào bạn,. . PDT đã email cho SV Hướng dẫn tạm thời về kiểm tra/thi theo hình thức trực tuyến.. . Bạn vui lòng kiểm tra email SV nhé!. . Thân. . Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -\tSinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -\tSV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail pdt@hcmut.edu.vn. . -\tRiêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý: . . 1.\tPDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.\tVề kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.\tCác môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.\tVề quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   b MSSV/MSGV: 1915742  /b \t. . Kính thưa thầy/cô!. . Em tên: Nguyễn Vũ Trường. . MSSV: 1915742. . . .   B Em gửi nội dung này mong muốn được xin hoãn thi môn Xác suất thống kê (học kỳ 202) - thi ngày 05/08/2021  /B .. . . . Do nhà em ở vùng quê thuộc tỉnh Bến Tre (mà cụ thể là xã Hưng Khánh Trung A, huyện Mỏ Cày Bắc, tỉnh Bến Tre) đang thực hiện chỉ thị cách ly toàn tỉnh, đặc biệt là xã em đang có các ca nhiễm Covid nên có các chốt chặn và phong tỏa, nên em không thể ra ngoài mượn thiết bị để thi được.. . . . Mặt khác, do đang ở quê, nên không có wifi gần nhà, hiện tại em đang dùng 3G phát mạng cho laptop và do thế nên việc phát mạng dùng khá yếu hay bị lag và rớt mạng bất thường (lỗi thiết bị). . . . . Theo nội dung của file hướng dẫn thi online, điện thoại em dùng hiện đã cũ và nhanh hết pin, dung lượng lưu trữ kém nên không thể đáp ứng yêu cầu vừa dùng điện thoại quay quá trình làm bài, vừa phát wifi dùng cho laptop mà văn bản đã đưa ra đối với các môn được sử dụng tài liệu và thi trắc nghiệm.. . . . Nên em viết đơn này mong Thầy/Cô xem xét cho em được hoãn thi học kỳ này môn Xác suất thống kê.. . . . Sở dĩ em chỉ hoãn thi môn Xác suất thống kê là do đây là môn thi gần nhất, các môn khác còn cách hiện tại từ 18-20 ngày mà hiện tại chỉ thị cách ly đến ngày 05/08 thì chưa hết 14 ngày, nên nếu hết chỉ thị cách ly trước 18-20 ngày sau, em sẽ mượn trang thiết bị đầy đủ để phục vụ cho các môn thi khác.. . . . Em xin cam đoan không nằm trong diện cấm thi môn Xác suất thống kê và tổng điểm quá trình  60%. Nếu có gì không đúng sự thật, em xin chịu hoàn toàn trách nhiệm. . . . . Mong Phòng Đào tạo xem xét cho trường hợp của em.. . . . Em xin chân thành cảm ơn!. . . .   i Yêu cầu khác .",
+            "Em xin bổ sung đơn hoãn thi (giờ thi) ạ.",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: ﻿Dạ em, em muốn hoãn thi môn Nguyên lý ngôn ngữ lập trình CO3005(Lớp L01-B) thì phải làm cách nào ạ. Ngày thi cuối kỳ là 10/8/2021 ạ. Em xin cảm ơn",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Học kỳ này em học 2 môn có nội dung Thí nghiệm là Máy điện và Hệ thống cung cấp điện, hiện tại đã hoàn thành hết nội dung lý thuyết nhưng chưa thí nghiệm, em mới chỉ nhận được chỉ dẫn của trường về nội dung thi online hoặc bảo lưu những chưa nhận được thông tin gì về nội dung thí nghiệm, mong PĐT có phản hồi và hướng dẫn để em hoàn thành nội dung khoá học ạ",
+            "Chào bạn. . Nhà trường có thông báo sẽ tổ chức thi các môn có thí nghiệm sau khi hoàn thành phần thí nghiệm. . Bạn có thể trao đổi thêm thông tin với Giảng viên, . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "XIn hoãn thi. .",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. .  Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Xin phép phòng đào tạo em tên [full_name] mssv [student_id] . . Em muốn xin phòng đào tạo hoãn môn thi địa chất công trình(ci1043) ngày thi 03/08/2021 giờ thi 10h . . Em xin chân thành cảm ơn!! . . . . . . . .",
+            "Chào bạn,. . Vui lòng xem lại câu trả lời trên!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Tên : [full_name]. . MSSV : [student_id]. . Ngày sinh : 19/8/2000. . Lớp : XD18CTGT. . Lý do viết đơn : Em muốn xin được hoãn thi hai môn :. . + Môn : Địa chất công trinh. . MSMH : CI1043 , nhóm : L01-A. . Giờ thi : 10g00  , ngày thi : 03/08/2021. . + Môn : Nền móng. . MSMH : CI3195 , nhóm : A07-A. . Giờ thi : 16g00  , ngày thi : 09/08/2021. . Lý do em xin hoãn thi :. . Do không đảm bảo đầy đủ thiết bị để tham gia thi online .. . Em mong phòng đào tạo xem xét giúp em ạ. . Em cảm ơn ạ",
+            "Chào em,. . Em ghi đầy đủ thông tin: học kỳ, năm học rồi gửi lại nhé.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "hiện tại e k vào được hệ thống thi, nó cứ để như hình ạ, cho dù e đã đăng xuất hết tất cả các thiết bị và xoá cả cookie nhưng vẫn k vào đc ạ . . . .",
+            "Chào bạn. . Bạn đăng nhập lại nghen, hệ thống đã phục hồi. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác .   B [full_name] HK 202  /B . . Họ và tên: [full_name]. . MSSV: [student_id]. . Gmail: [email]. . Xin phép PĐT cho hoãn thi cuối kì 2 môn Giải tích 2 và Đại số tuyến tính học kì 202. . Vì lý do: Trang thiết bị không đủ, trang thiết bị không đảm bảo. . Môn GT2:. . GVBM: [full_name]. . Mã lớp: L28. . Môn ĐSTT:. . GVBM: [full_name]. . Mã lớp: L01. . Mong PĐT xem xét và phê duyệt cho em ạ",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào thầy/cô,. . Em tên là [full_name], mssv là [student_id]. Vào ngày 24/7 em đã đăng kí in thẻ sinh viên và hiện giờ đã qua gần một tuần rồi nhưng em vẫn chưa nhận dược thẻ. Mong thầy cô kiểm tra lại giúp em.. . Mặt khác vào ngày 16 và 17 tháng 8 này em sẽ bảo vệ luận văn. Trong trường hợp xấu nhất là em không nhận được thẻ sinh viên thì bộ môn có thông báo là xin giấy ở phòng đào tạo mới được bảo vệ luận văn. Vậy cho em hỏi em có thể xin giấy như nào ạ",
+            "Chào bạn. . Hiện tại Phòng đào tạo giải quyết in thẻ sinh viên hàng ngày và gởi bưu cục (nếu SV có đăng ký), nhưng vì nhiều lý do bất khả kháng [full_name] vẫn chưa đến SV để kịp Thi. Sinh viên vui lòng trình bày tất cả lý do kèm minh chứng để Cán bộ coi thi ghi nhận vào Danh sách Thi và PDT đối chiếu dữ liệu sau. . Chúc bạn thi tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "p Chào phòng đào tạo,  /p . .   p Em là [full_name] thuộc lớp DT01 môn Pháp Luật Đại Cương. Hôm nay, từ lúc 3h25 cho tới 3h59 em đã cố gắng vào trang BKeX để thi nhưng không được và hiện lỗi như video. Em mong phòng đào tạo cho em hoãn thi môn này để em thi lại vào lúc khác ạ. Em cám ơn.  /p . . . .   p Trân trọng,  /p . .   p Đạt  /p . . . . . .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. .",
+            "Chào phòng đào tạo,. . . . Em là [full_name] thuộc lớp DT01 môn Pháp Luật Đại Cương. Hôm nay, từ lúc 3h25 cho tới 3h59 em đã cố gắng vào trang BKeX để thi nhưng không được và hiện lỗi như video. Em mong phòng đào tạo cho em hoãn thi môn này để em thi lại vào lúc khác ạ. Em cám ơn.. . . . Trân trọng,. .    [full_name]. . . . . .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi PĐT. . Em tên là: [full_name]. . MSSV: [student_id]. . Nay em viết đơn này để đăng ký xin được hoãn thi cuối kì(HK202) môn kết cấu thép 1.. . Kính mong PĐT xem xét giúp em ạ.. . Em xin cảm ơn.. . . .",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. .  Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ chào thầy cô,em là sinh viên k19, em thắc mắc về việc hoãn thi là mình gửi mail từng môn hay là tất cả môn kèm theo xác nhận giảng viên từng môn là được vậy ạ?",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi thầy cô.. . Em tên là: [full_name] . . MSSV: [student_id]. Vì không thể đáp ứng điều kiện trang thiết bị và đường truyền ổn định để thực hiện thi online, nên em kính mong phòng Đào tạo cho phép em hoãn thi cuối kì các môn học sau trong hki 202 ạ : [full_name], [full_name] và [full_name] . Em xin cảm ơn ạ.. .",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên là [full_name] (MSSV: [student_id]).. . Em làm đơn này để yêu cầu được hoãn thi cuối kỳ 202 với hình thức trực tuyến.. . Lý do: Không đảm bảo trang thiết bị cần thiết phục vụ cho buổi thi. .   i Yêu cầu khác .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Đơn xin Hoãn ThiYêu cầu khác: dạ em biết đơn ở đây là do em đã liên hệ nhầm khi liên hệ với nhà trường ở phần trang chủ mà không bấm vào phần hỏi đáp.. . Em nhập Viện và đã gửi yêu câu Hoãn Thi bằng mail tới PĐT([email]) và đăng lên trang chủ bksi. . em viết lại đơn để mong PDsT có thể thấy và xem xét giúp em ạ",
+            "Chào em,. . Em điền đầy đủ thông tin học kỳ, năm học vào phiếu rồi gửi qua bksi nhé.. . Thân mến,. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học Vụ . Kính gửi phòng đào tạo,. . Em tên là [full_name], hệ VHVL. . MSSV: [student_id]. . Em gửi đơn xin phép hoãn thi môn Những nguyên lý cơ bản của chủ nghĩa [full_name]-[full_name], mã môn SP1003 vì laptop em bị hư camera và mạng nhà em không thể đáp ứng nhu cầu thi onl trong thời điểm hiện tại, không thể tham gia thi cuối kì được. Nên Em xin phép hoãn thi.. . Em xin chân thành cảm ơn",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em làm đơn này xin được đăng ký thu nhận lại từ học kỳ 211. . . . Họ tên: [full_name]. . Ngày sinh: 4/3/2001. . Lớp: MT19KH04. . Số đt: [phone_number]. . Đã tạm dừng từ học kỳ 202 năm học 2020-2021. . Lý do: Không đăng ký môn học, Cảnh báo học vụ lần 1. . Quyết định số: 263/QĐ-ĐHBK, 258/QĐ-ĐHBK. . Nay đề nghị được thu nhận lại từ học kỳ . . 211 năm học 2021-2022. . . . Em xin cảm ơn. . . . . .",
+            "Chào bạn. . Bạn tải mẫu đơn thu nhận tại trang web: aao.hcmut.edu.vn gởi tại BKSI để Pdt xử lý thu nhận lại cho bạn. . Thân. .",
+            "Em gửi mẫu đơn thu nhận ạ",
+            "Chào bạn,. . PDT đã tiếp nhận đơn thu nhận của bạn, bạn vui lòng theo dõi tình trạng SV tại Mybk/Thông tin sinh viên được cập nhật sau ngày 10/8. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi PĐT. . Em Tên là: [full_name]. . MSSV:[student_id]. . Nay em viết đơn này để đăng kí xin được hoãn thi cuối kì (HKDT202) môn kết câu thép 1.. . Kính mong PĐT xem xét giúp em ạ. . . Em xin chân thành cảm ơn . . . . . .",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. .  Thân. .",
+            "Kính gửi PĐT. . Em Tên là: [full_name]. . MSSV:[student_id]. . Nay em viết đơn này để đăng kí xin được hoãn thi cuối kì (HKDT202) môn kết câu thép 1.. . Kính mong PĐT xem xét giúp em ạ.. . Em xin chân thành cảm ơn. . . .",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. .  Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gởi phòng Đào tạo.. . Em tên [full_name], MSSV [student_id].. . Tháng 9/2020 em đã bảo vệ luận văn và chỉ còn nợ chứng chỉ anh văn để tốt nghiệp. Đến hiện tại vì tình hình dịch bệnh nên IIG không tổ chứng thi Toeic. Vì vậy em vẫn chưa thi được. Phòng Đào tạo cho em hỏi, em cần làm thủ tục gì để xin nhà trường xem xét, vì hiện tại em đã bị tạm dừng (vì không có thời khóa biểu)và sẽ bị thôi học nếu không có nộp được chứng chỉ trong thời gian tới. em cảm ơn.. .",
+            "Chào bạn. . Bạn tải mẫu đơn thu nhận tại trang web: aao.hcmut.edu.vn gởi tại BKSI để Pdt xử lý thu nhận lại cho bạn. . - Bạn còn nợ Anh văn nói viết phải không, Sau khi hết dịch bạn liên hệ TTNN để đăng ký nghen. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em tên [full_name], MSSV: [student_id]. . Lý do viết đơn: Em muốn xin nhà trường cho hoãn thi môn Địa chất công trình-CI1043- thi 10 giờ ngày 3/8/2020- Học kỳ 202. Vì lí do không đảm bảo trang thiết bị cụ thể là chỗ em rất hay chập điện và cúp điện nên không thi online vào ngày đó được ạ.. . Mong Phòng Đào Tạo xem xét.. . Em cảm ơn.. .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . [full_name]. . mssv:[student_id]. . Em xin hoãn thi cuối kì 202 ba môn: Khoa học trái đất, Giải tích 2 và Đại số tuyến tính. . Lí do:không đủ thiết bị thi. . . . . .",
+            ". . Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "CODE   b MSSV/MSGV: 2012611  /b \t. . . .   i Yêu cầu khác . Em xin hoãn thi môn Giải Tích 2(MT1005). . Họ và tên: Phạm Thị Vân Anh. . MSSV: 2012611. . Nhóm tổ: L28-B. . Ngày thi: 07/08/2021 lúc 16g00",
+            ". . Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em xin hoãn thi môn giải tích 2 (mã môn học: MT1005). . Học và tên: [full_name]. . MSSV: [student_id]. . Nhóm tổ: L19-C. . Ngày thi: 07/08/2021 lúc 07g00. .",
+            ". . Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chào PĐT ạ. Em là [full_name], MSSV [student_id], khoa Cơ Khí, lớp CK19CTM4. Em muốn xin được hoãn thi môn Xác suất thống kê, ngày 5/8/2021 vì lý do không có đủ trang thiết bị cần thiết. Em xin chân thành cảm ơn",
+            ". . Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ cho em hỏi là em có đăng kí in thẻ sinh viên và được nhà trường xác nhận đã in thẻ từ ngày 27/7 mà tại sao đến giờ em vẫn không có bất cứ thông báo gì hết ạ, có cách nào để em có thể liên lạc với bên giao hàng không ạ tại tới 5/8 là em thi on rồi ạ . . . em trân thành cảm ơn!",
+            "Chào bạn. . Hiện tại Phòng đào tạo giải quyết in thẻ sinh viên hàng ngày và gởi bưu cục, nhưng vì nhiều lý do bất khả kháng [full_name] vẫn chưa đến SV để kịp Thi. Sinh viên vui lòng trình bày tất cả lý do kèm minh chứng để Cán bộ coi thi ghi nhận vào Danh sách Thi để PDT đối chiếu sau. . Chúc bạn thi tốt nhé.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . . . thưa thầy(cô) em muốn hỏi là trong khung chương trình đào tạo  môn anh văn 4 sẽ học vào học kì 4,nếu tới học kì 4 em vẫn chưa nộp bằng tiếng anh,và không đăng kí môn anh văn 4 thì có sao không ạ? ( em đã qua  anh văn 1 2 3 ). . em xin cảm ơn",
+            "Chào bạn. . - Về chương trình đào tạo/phân ngành bạn vui lòng liên hệ Khoa (cụ thể là Thầy phó khoa phụ trách chương trình đào tạo) để tư vấn và giải đáp. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi Phòng đào tạo,. . Em là [full_name], MSSV [student_id], hiện đang là sinh viên khóa 2019 ngành kĩ thuật ôtô chương trình đại trà.. . Em có thắc mắc về quy chế thi như sau: Thiết bị chính (laptop) của em bị hỏng camera, em dùng thiết bị phụ ( điện thoại) để quay không gian làm bài thi. Vậy lúc scan giấy làm bài thi để nộp bài, em có thể dùng thiết bị phụ (điện thoại) để scan hay không? . . Em cảm ơn vì Phòng đào tạo đã đọc thắc mắc này và mong đợi câu trả lời sớm nhất.. . Em xin chúc ban cán bộ nhà trường mạnh khỏe, an toàn trong mùa dịch!. . Trân trọng ./.",
+            "Chào bạn. . - Bạn vui lòng xem chi tiết hướng dẫn thi trực tuyến nhà trường đã gởi thông báo cho sinh viên. . - Bạn liên hện CBCT vào trước lúc thi nghen. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Hiện tại em không thể đăng nhập hệ thống Bkex mặc dù đã xóa hết cookie và chưa đăng nhập trên thiết bị nào cả. Mong mọi người hỗ trợ giúp em.. . Cảm ơn mọi người trước!. .",
+            "Chào bạn. . Hệ thống đã phục hồi bạn đăng nhập lại nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Hoãn thi cho các môn học vì không có đủ điều kiện vật chất. . .",
+            "Chào bạn,. . Vui lòng điền đầy đủ thông tin môn học theo hướng dẫn.. . . . Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em đã đăng kí và thanh toán BHYT 12 tháng cho năm 2021, nhưng chưa lên trường nhận, mà bây giờ thì vì dịch bệnh nên không thể lên trường nhận được. . . Cho em hỏi là có cách nào để có thể nhận BHYT mà không cần lên trường được không ạ? Hoặc nếu như cần sử dụng BHYT thì trường có thể xác nhận với bệnh viện hoặc các tổ chức y tế để em có thể sử dụng được không ạ?",
+            "Chào bạn,. . Vấn đề về BHYT, bạn vui lòng liên hệ tại Phòng Y tế - Phòng Công tác Chính trị Sinh viên để được hỗ trợ nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Xin chào quý thầy cô, em là [full_name] MSSV [student_id], em đã nhận được email báo rằng em đã bị hủy lịch thi do chưa hoàn tất học phí HK202, nếu như em muốn khôi phục lại thì em phải hoàn tất học phí và   I \"Làm đơn thu nhận lại bắt đầu từ học kỳ dự thính hè năm học 2020-2021\"  /I . Hiện tại em đã hoàn tất học phí học kỳ HK202, nhưng em không biết cách làm đơn trên, em mong quý thầy cô có thể hướng dẫn em để em có được lịch thi sớm nhất có thể ạ. Em xin chân thành cảm ơn. . . .",
+            "Chào bạn. . Bạn tải đơn thu nhận tại trang aao.hcmut.edu.vn. . ghi rõ thu nhận hk203 vì mới thanh toán học phí HK202 gởi tại BKSI. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ .   U Em tên [full_name] mssv [student_id], ngành kĩ thuật cơ khí chất lượng cao tiếng Anh, khóa 2020 ạ. . Em xin hoãn thi cuối kì các môn Calculus 2, Physics 2, Linear Algebra do không đủ điều kiện về trang thiết bị thi, cụ thể là không có laptop và hỏng máy tính bàn ạ. . . . Mong trường và khoa xem xét giúp em ạ. . Em xin cảm ơn ạ",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác:",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . Thân.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào Thầy/Cô ạ. Cho em xin hỏi là 2 môn em vừa gửi đơn hoãn thi được thông qua chưa ạ",
+            "Chào bạn,. . PDT đã trả lời đơn hoãn thi của bạn, bạn vui lòng vào xem câu trả lời nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi PTD,. . Em là [full_name] - MSSV: [student_id] - thuộc lớp XD19CTXD03.. . Sau khi nhận được hướng dẫn thi trực tuyến cuối kì 202 của trường, nhận thấy mình không đủ điều kiện để dự thi nên em xin được hoãn thi ạ. Ở môn Triết em đã xin được chữ kí của giảng viên phụ trách vào đơn, còn ở môn Giải tích 2 em đã xin xác nhận không bị cấm thi nhưng nhận được mail của giảng viên phụ trách là không cần chữ kí mà chỉ nộp thẳng cho PDT.. . Mong PDT xem xét và xử lí đơn cho em.. . Em xin cảm ơn ạ.. .",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "hiện tại vì không đảm bảo thiết bị để hoàn thành bài thi nên em xin phép PĐT có thể cho phép xin hoãn thi .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi. . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Em xin hoãn thi môn giải tích 2 (Mã môn học: MT1005). . Họ và tên: [full_name] . . MSSV: [student_id]. . Nhóm tổ:L28-C. . Ngày thi: 07/08/2021 lúc 16g00. .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "MSSV: [student_id] học lớp XD19CTXD01. .   i Yêu cầu khác . Em là sv [full_name] mssv [student_id] học lớp XD19CTXD01 . . Hiện tại em không đủ trang thiết bị thi và nơi em ở đang phong tỏa nên em không thể xoay sở được. . Vậy nên em muốn xin PĐT cho em hoãn thi đợt hi onlien này ạ. .",
+            "QUOTE MSSV/MSGV: [student_id]    . . MSSV: [student_id] học lớp XD19CTXD01. . Yêu cầu khác. . Em là sv [full_name] mssv [student_id] học lớp XD19CTXD01. . Hiện tại em không đủ trang thiết bị thi và nơi em ở đang phong tỏa nên em không thể xoay sở được. . Vậy nên em muốn xin PĐT cho em hoãn thi đợt hi onlien này ạ. .   /QUOTE . .",
+            "QUOTE Trích. . MSSV/MSGV: [student_id]    . . MSSV: [student_id] học lớp XD19CTXD01. . Yêu cầu khác. . Em là sv [full_name] mssv [student_id] học lớp XD19CTXD01. . Hiện tại em không đủ trang thiết bị thi và nơi em ở đang phong tỏa nên em không thể xoay sở được. . Vậy nên em muốn xin PĐT cho em hoãn thi đợt hi online này ạ. . . . . .   /QUOTE . .",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em là [full_name], MSSV [student_id], lớp MT20KT02. Em muốn xin hoãn thi cuối kỳ môn Triết học [full_name][full_name][full_name] do không thể đáp ứng yêu cầu về cấu hình với lý do chi tiết bên file dưới. Em đã xin xác nhận không dự kiến cấm thi của GV. Mong PĐT xem xét xác nhận hoãn thi cho em ạ. Em xin cảm ơn.",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi PĐT,. . Em tên là [full_name] - [student_id].. . Em gửi flie hoãn thi môn Quản lý dự án cho kỹ sư nếu còn thiếu gì PĐT nhắc nhở để em bổ sung.. . Em cảm ơn",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào thầy/cô,. . Em tên là [full_name], mã số sinh viên của em là [student_id], hiện tại em đang học lớp CC20KYS1 ạ.. . Dạ em viết mail này để xin phép thầy/cô cho em được hoãn thi cuối kỳ HK202, với lí do là vì mạng nhà em không có ổn định để thi online suôn sẻ ạ (lúc làm bài test trên bkel em hay bị đứng máy và load lại trang ạ). . Em mong thầy/cô sẽ chấp nhận cho em được hoãn thi online cuối kỳ ạ, em vẫn sẽ tiếp tục ôn bài để khi đi học lại và thi tại trường thì em sẽ thi ạ. Em cảm ơn thầy/cô nhiều ạ.. . . . Trân trọng,. . [full_name]",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1814294  /b \t. . . .   i Học vụ . . . Dạ em chào Phòng đào tạo, em tên là Huỳnh Ngọc Bảo Thy, khoá K18, mã số sinh viên là 1814294, học khoa Quản lý công nghiệp, chuyên ngành Quản trị kinh doanh.. . . . Học kì này em có được thông tin là tiến hành thi hình thức online, và cần có thẻ sinh viên. Tuy nhiên, sau khi kiểm tra thì em nhận ra em không có mang thẻ sinh viên về nhà(hiện tại em đang về nhà tránh dịch ở Long An, thẻ sinh viên của em hiện ở TPHCM), em có đọc qua hướng dẫn thi online thì không dùng giấy tờ khác để thay thế thẻ sinh viên được. Theo hướng dẫn, em có thể đăng ký in thẻ sinh viên sau đó giao về nhà, tuy nhiên khu vực của em tình hình dịch bệnh đang căng thẳng, có chốt kiểm tra ở nhiều khu vực, và thực hiện chỉ thị 16 nên không cho phép người dân ra ngoài nếu không có giấy đại diện hộ gia đình để ra ngoài mua thực phẩm cho nên em không ra khỏi nhà được, bên cạnh đó các đơn vị vận chuyển hàng hoá ở khu vực em đang sống đang tạm dừng hoạt động, không giao hàng nữa, cho nên em không thể nhận được thẻ sinh viên sau khi đăng ký in.Em có đính kèm ảnh ạ.. . . . Đồng thời, trước khi viết mail này và được biết là các đơn vị vận chuyển không được giao hàng nữa thì em cùng đã có đăng ký in thẻ sinh viên, tuy nhiên không may đến bước thanh toán lệ phí ở BKPay thì hệ thống báo đang bảo trì.. . Mục đích em viết ra yêu cầu trên trang bksi là mong Phòng đào tạo có thể giải quyết vấn đề thủ tục giúp em về vấn đề thi mà không có thẻ sinh viên. Em mong Phòng đào tạo có thể thông cảm và đồng ý cho em tham gia thi cuối kì có được không ạ ? Nếu được như vậy thì em vô cùng cảm kích.. . . . Về thông tin đầy đủ của em. . . . -Họ và tên: Huỳnh Ngọc Bảo Thy. . . . -Ngày sinh: 14/02/2000. . . . -CMND: 301731262. . . . -Mã số sinh viên: 1814294. . . . -Sinh viên khoá K18-khoa Quản lý công nghiệp-chuyên ngành Quản trị kinh doanh. . . . -Thường trú: huyện Cần Đước, tỉnh Long An. . . . Em cảm ơn Phòng đào tạo đã đọc yêu cầu này của em ạ.. . . . . . Bảo Thy.. . . .  . . . .",
+            "Chào bạn. . - Hiện Bkpay đã phục hồi, bạn nhanh chóng đăng ký in thẻ sv nghen. . Hiện tại Phòng đào tạo giải quyết in thẻ sinh viên hàng ngày và gởi bưu cục (nếu SV có đăng ký), nhưng vì nhiều lý do bất khả kháng [full_name] vẫn chưa đến SV để kịp Thi. Sinh viên vui lòng trình bày tất cả lý do kèm minh chứng để Cán bộ coi thi ghi nhận vào Danh sách Thi và PDT đối chiếu dữ liệu sau. . Chúc bạn thi tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em xin chào,. . Em tên là [full_name] mssv [student_id]. Em muốn đăng ký hoãn thi cuối kỳ 5 môn của học kỳ 202: Quản lý sản xuất, K/tế chính trị [full_name]-[full_name], Đại số tuyến tính, Tài chính doanh nghiệp, Phương pháp định lượng. Lý do là hiện tại em đang ở dưới quê và chưa thể về thành phố Hồ Chí Minh được do chỉ thị mới của chính phủ. Em không có đầy đủ trang thiết bị và đường truyền ổn định để thi trực tuyến. Nên em viết đơn này với mong muốn đăng ký hoãn thi cuối kỳ 202. Mong phòng đào tạo xem xét hỗ trợ em. . . Em cảm ơn ạ. Mong sớm nhận được hồi âm.",
+            "Chào bạn,. . Về việc hoãn thi cuối kỳ của (HK chính 202, DT202 và DT203). . -        Sinh viên vui lòng tải mẫu đơn tại aao.hcmut.edu.vn/ sinh viên/biểu mẫu/Phiếu đăng ký hoãn thi / vắng thi có phép (cuối kỳ). Điền đầy đủ thông tin và trình bày rõ lý do xin hoãn thi (mỗi HK 1/ phiếu). . -        SV gửi qua trang hỗ trợ trực tuyến (BKSI) hoặc mail [email]. . -        Riêng Đối với môn DA, TTNT, DCLV, LVTN: phải có xác nhận của GVHD + Bộ Môn + Khoa về việc dịch Covid-19 ảnh hưởng nghiêm trọng đến kết quả thực hiện đề tài, nêu rõ về việc ảnh hưởng nghiêm trọng như thế nào để được xem xét. (Sv có thể gởi mẫu đơn để GVHD + Bộ Môn + Khoa xác nhận trên mẫu đơn hoặc xác nhận qua email của Sv, sau đó chụp hình gởi kèm đơn hoãn thi. . Lưu ý:. . 1.      PDT sẽ hậu kiểm lại danh sách cấm thi do Khoa gửi lên và sẽ hủy kết quả hoãn thi nếu SV thuộc diện cấm thi.. . 2.      Về kiểm tra giữa kỳ của HK DT202 và 203: SV liên hệ trực tiếp GV và Bộ môn để được xem xét.. . 3.      Các môn có phần thí nghiệm, PĐT sẽ tự hoãn thi cho đến khi TNg xong. Một số MH, Giảng viên sẽ đề nghị cho thi trước, điểm TNg sẽ bù sau, khi đó SV có thể xin hoãn thi.. . 4.      Về quy định (thi xóa điểm VT, cách tính điểm ĐẠT) Vắng thi có phép và hoãn thi: Bạn vui lòng xem chi tiết tại trang web aao.hcmut.edu.vn--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Điều 17.2. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em là sinh viên lớp bằng 2 XD17B2D1. Kì dự thính vừa rồi em học Môn học: Kết cấu thép 2: Mã môn học: CI3211. Nhóm :DT01. giờ thi: 13:00 ngày 30/7/2021. Do bản thân em làm việc tại công trình ở Long An. Hôm đó, ngày 01/07/2021 em có tiếp xúc với chị [full_name] và bản thân bị F1 cách ly tại nhà từ ngày 05/7/2021 đến ngày hôm nay 01/8/2021 nên em đã không thể tham gia kì thi online của Phòng đào tạo. Em rất mong phòng đào tạo xem xét cho em được thi lại. Em thành thật biết ơn. . . Đính kèm là 1 file giấy cách ly của Phường Phú Hòa gửi cho em (chỉ có file chụp do chị y tế chị bị [full_name] nên em không thể lấy bản gốc được). Rất mong Phòng đào tạo xem xét",
+            "Em là sinh viên lớp bằng 2 XD17B2D1. Kì dự thính vừa rồi em học Môn học: Kết cấu thép 2: Mã môn học: CI3211. Nhóm :DT01. giờ thi: 13:00 ngày 30/7/2021. Do bản thân em làm việc tại công trình ở Long An. Hôm đó, ngày 01/07/2021 em có tiếp xúc với chị [full_name] và bản thân bị F1 cách ly tại nhà (từ ngày 05/7/2021 đến ngày hôm nay 01/8/2021) nên em đã không thể tham gia kì thi online của Phòng đào tạo. Em rất mong phòng đào tạo xem xét cho em được thi lại. Em thành thật biết ơn.. . Đính kèm là 1 file giấy cách ly của Phường Phú Hòa gửi cho em (chỉ có file chụp do chị y tế chị bị [full_name] nên em không thể lấy bản gốc được). Kèm theo thẻ Sinh viên và Giấy CMND. Rất mong Phòng đào tạo xem xét",
+            "Em xin bổ sung Đơn xin hoãn thi đã có chữ kí của thầy dạy ạ",
+            "Chào bạn,. . - Phòng Đào tạo đã đồng ý yêu cầu về việc xin Hoãn Thi/Vắng thi của bạn. Bạn vui lòng theo dõi kết quả được cập nhật trên trang Mybk/xem điểm sau ngày 06/09/2021 (nếu sau thời gian trên vẫn chưa được xử lý bạn có thể vào trang bksi.hcmut.edu.vn để khiếu nại).. . - Sau ngày 06/09/2021 bạn liên hệ trực tiếp Phòng đào tạo cơ sở Lý Thường Kiệt để nhận quyết định bảng chính. . Lưu ý: PDT sẽ hậu kiểm lại với danh sách cấm thi của Khoa gửi lên, nếu SV bị cấm thi sẽ bị hủy kết quả hoãn thi theo quy định. . Chúc bạn học tập tốt nhé.. . Thân.. ."
+        ]
+    }
+]
