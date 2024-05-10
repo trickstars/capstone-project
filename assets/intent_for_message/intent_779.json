@@ -1,0 +1,392 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi: Phòng Đào tạo trường ĐH Bách Khoa TP.HCM. . . . Em tên là [full_name], MSSV: [student_id], hiện là sinh viên năm 4, ngành Công nghệ Thực phẩm, khoa Kỹ thuật Hóa học, lớp HC18TP1.. . . . Hiện lớp em hiện đã có lịch học offline môn   B Thí nghiệm Công nghệ Chế biến (CH4001)  /B  vào tuần 50. Tuy nhiên, nhiều bạn mặc dù   U đã điền form đầy đủ  /U  đăng ký học TN tại lab nhưng   U vẫn không có lịch học TN  /U  (mã VL..) trên mybk, một số bạn điền thiếu form,.... . . . Do đó, em đại diện lớp mong PĐT có thể hướng dẫn cách thức   B đăng ký bổ sung học TN offline  /B  tại lab để có thể kết thúc môn học trong kỳ này.. . . . Mong nhận phản hồi của PĐT.. . Em xin chân thành cảm ơn.. . . . Trân trọng,. . [full_name]",
+            "Chào em,. . em đại diện lớp mong PĐT có thể hướng dẫn cách thức đăng ký bổ sung học TN offline t. . =  Mỗi SV sử dụng tài khoản của mình gửi câu hỏi qua bksi ghi rõ thông tin: đăng ký bổ sung học TN offline, mã môn học, tên môn học, học kỳ. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi quý thầy cô phòng đào tạo. . Em tên: [full_name]. . MSSV:[student_id]. . Kì này em có xin hạn học phí có quyết định được gia hạn sao mà vẫn bị xóa lịch thi vậy ạ?(số thứ tự của em là 21 trong file quyết định), mong thầy/cô xem lại giúp em.. . Em xin cảm ơn thầy/cô!",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Em hỏi xem học phí dự thính có được gia hạn không ? Vì quyết định ghi học kỳ chính.. . Thân mến. .",
+            "Chào em,. . Trường hợp của em do đóng trễ học phí học kỳ dự thính HK211 nên bị xóa lịch thi của học kỳ dự thính HK211.. . SV vui lòng theo dõi mail SV đã gửi và yêu cầu thanh toán học phí dự thính.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: G[student_id]  /b \t. . . .   i Đăng ký môn học . Dear anh/ chị,. . Em dự đăng ký môn học nội dung tương đương môn học :   B Tính toán các lưới điện  /B  (Mã MH:  B 401705  /B , hệ Chính Quy Việt Pháp) thì em sẽ đăng ký với môn học nào của hệ VHVL ạ.. . . . Em cảm ơn anh/chị,. .",
+            "Chào bạn,. . Về Chương trình Đào tạo, danh sách môn tương đương…, bạn vui lòng xem tại:. . aao.hcmut.edu.vn/Sinh viên/Chương trình Đào tạo. . Sinh viên thắc mắc về CTĐT vui lòng liên hệ về Khoa xin gặp Thầy/Cô Phụ trách về CTĐT để được tư vấn và hỗ trợ thêm.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Mai em có thi cuối kì lúc 14h, nhưng vì lí do dịch Covid nên em đã thanh toán trễ hạn học phí HK1 năm 2021-2022. Nay em làm đơn trình bày lí do thanh toán học phí trễ hạn. Em mong phòng đào tạo duyệt cho e ạ.",
+            "Chào em,. . PĐT ghi nhận thông tin của em, em chú ý thanh toán đúng thời gian vào các HK sau nhé.. . Thân mến. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào pdt ạ.. . Dạ là em là sinh viên K18 và đợt SHCD vừa rồi em có than gia đẩy đủ 3 chuyên đề.Có điểm danh đẩy đủ.Nhưng em đọc nhầm mail về bài thu hoạch là hạn chót 30/11 nhưng e nhầm 12/12.PDT cho em hỏi em có thể làm lại bài thu hoạch này được không ạ :((.Và em có bị hủy đăng kí môn kì này không?. . Em xin cảm ơn ạ!",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Chào PĐT Đại học Bách Khoa tp.HCM. . Cho mình hỏi hiện tại mình là sinh viên K18, hôm trước đã tham đủ 2 buổi SHCD do trường tổ chức, nhưng bài thu hoạch SHCD mình lại chưa hoàn thành và bị trễ hạn.. . Cho mình hỏi có cách nào giải quyết không ? Kì này mình nhận luận văn tốt nghiệp ạ.. . Hi vọng PĐT giải đáp thắc mắc của mình, mình chân thành cảm ơn.. . . .",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ em tên là [full_name]. Mã số sinh viên là [student_id]. Hiện tại em đã có tên trong danh sách dự kiến tốt nghiệp, nhưng thông tin trên danh sách đó chưa cập nhật điểm TOEIC mới của em. Ngoài ra thì tình trạng sinh viên hiển thị trên trang Mybk của em là \"Tạm dừng\". Dạ [full_name]/Cô có thể cập nhật thông tin chứng chỉ TOEIC giúp em được không ạ, với lại cho em hỏi là em phải làm gì tiếp theo để đăng ký tốt nghiệp được ạ?. . Em xin cảm ơn!",
+            "Chào em,. . Đã mở khóa, e vào đăng ký tốt nghiệp lại nhé. . Về CCNN sẽ lưu ý lấy CCNN điểm lần cao nhất cho bạn nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em đã đăng ký in bảng điểm trên trang phòng đào tạo và trên trang để hẹn là 6/12 in xong và gửi về nhà em qua đường bưu điện nhưng đến nay thì trên trang vẫn để là đang in ạ. Mong phòng đào tạo kiểm tra, giải quyết sớm để em có thể nhận bảng điểm sớm nhất ạ. Em đang cần bảng điểm để nộp hồ sơ gấp ạ. Hình ảnh đính kèm bên dưới",
+            "Chào em,. . Em vui lòng tính theo ngày làm viêc nhé, trừ thứ 7,CN nhé bạn.. . Những bảng điểm gửi qua đường bưu điện thì không được cập nhật qua trạng đã in nhé, và hiện bảng điểm của bạn đã được chuyển cho bưu điện.. . Em dùng số điện thoại của bạn đăng ký để tra cứu mã vận đơn trên trang của viettel post. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: em đóng phí bảo hiểm y tế bị trễ(đã đóng sau đó) không biết có phải làm giấy báo nộp trễ không ạ? và có ảnh hưởng đến quá trình đăng kí môn học tiếp không ạ?",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào quý Thầy, Cô. . . . Em tên [full_name] - Mssv: [student_id]. . . . Em có đăng ký thi anh văn nói viết tại trường , hôm nay em nhận được lịch thi là ngày 16/12. Lịch thi này bị trùng với ngày thi khác của em, em có thể xin đổi ngày thi thành ngày 15/12 được không ạ.. . . . Rất mong nhận được sự hỗ trợ từ Thầy, Cô. . . . Em xin cảm ơn. .   i Yêu cầu khác ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào thầy cô trong PĐT ạ,. . . . Về việc nộp bằng THPT, ở bước đăng ký nộp bằng trên mybk vẫn hiện là chưa mở đợt đăng ký ạ.. .",
+            "Chào em,. . SV đăng ký mà vào không đúng thời gian mở, trước 20/12/2021 và sau 22/01/2022 thì SV sẽ không ấn được nút \"xác nhận đăng ký\".. . Vì vậy SV phải vào đăng ký đúng thời gian PĐT đã thông báo. (PĐT mở từ 0h ngày 20/12/2021 đến 0h ngày 22/01/2022). . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy/cô, em muốn hỏi cách thức bảo lưu và tạm dừng học 1 kì thì cần làm những thủ tục gì ạ?. . Em cảm ơn.. . . .",
+            "Chào em,. . - Em tải mẫu đơn tạm dừng, điền đầy đủ thông tin gửi [email]. . http://www.aao.hcmut.edu.vn/sinh viên/biểu mẫu. . - Em xem quy chế tạm dừng để tham khảo nhé. . http://www.aao.hcmut.edu.vn/quy chế quy định/học vụ/- Quy chế đào tạo và học vụ bậc đại học, cao đẳng. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào phòng đào tạo, em là [full_name], mssv: [student_id] đang là sinh viên năm 3 khoa kỹ thuật giao thông.. . Em có nguyện vọng bảo lưu kết quả học kì 2 năm 2021-2022.. . Em có vài thắc mắc mong được giải đáp như sau ạ.. . 1. Bảo lưu kết quả thì sau khi hết bảo lưu em vẫn có thể học 13 kì, sau đó nếu em đăng kí thạc sĩ thì vẫn là 13 hay là 13 kì + 2 năm =17 kì học thạc sĩ ạ? . . 2. Nếu năm sau em đậu một trường đại học khác thì em có thể học song song 2 trường cùng một lúc được không ạ?. . 3. Về bảo lưu, em còn 1 môn thí nghiệm từ học kì 1 chưa học. Thì qua học kì 2 em có phải đi học môn đó không ạ? Nếu không thì điểm môn đó của em sẽ như thế nào ạ?. . 4. Về kí túc xá đại học quốc gia, khi em bảo lưu nhưng có nguyện vọng ở kí túc xá thì có thể đăng kí ở hay chỉ có thể đến dọn đồ sau Tết thôi ạ?. . Trên đây là 4 câu hỏi của em về vấn đề bảo lưu. Mong phòng đào tạo có thể giải đáp giúp em.. . Em xin chân thành cảm ơn.. . . . [full_name].",
+            "Chào em,. . 1)Bạn vui lòng trình bày rõ là bạn tạm dừng lý do gì nhé? Sinh viên đang theo học tại trường 2)thì mình gọi là tạm dừng nhé bạn, không gọi là bảo lưu.. . 3)Vấn đề học song song 2 trường em vui lòng xem lại quy định của Bộ Giáo dục Đào tạo và cân nhắc sức học của bạn.. . Em vui lòng trình bày rõ là em xin tạm dừng học kỳ nào? cụ thể để được trả lời cho bạn. . 4) vấn đề KTX em vui lòng liên hệ tại KTX để được hỗ trợ trả lời nhé. . Thân",
+            "Dạ em cảm ơn cô ạ,. . 1) Em tạm dừng học với lý do thi lại vào một trường đại học khác. . 2) Em xin tạm dừng học kỳ 2 của năm học 2021-2022. . Sau khi đọc về quy định tạm dừng học và tìm hiểu về quy định thi trung học phổ thông quốc gia cho sinh viên tự do thì em thấy cần có sự xác nhận của hiệu trưởng ạ?. . Em cần hỏi cô em nên làm gì để có thể tạm dừng học và trở thành thí sinh tự do để có thể thi trung học phổ thông quốc gia ạ?. . Em xin cảm ơn cô ạ.",
+            "QUOTE Dạ em cảm ơn cô ạ,. . 1) Em tạm dừng học với lý do thi lại vào một trường đại học khác. . 2) Em xin tạm dừng học kỳ 2 của năm học 2021-2022. . Sau khi đọc về quy định tạm dừng học và tìm hiểu về quy định thi trung học phổ thông quốc gia cho sinh viên tự do thì em thấy cần có sự xác nhận của hiệu trưởng ạ?. . Em cần hỏi cô em nên làm gì để có thể tạm dừng học và trở thành thí sinh tự do để có thể thi trung học phổ thông quốc gia ạ?. . Em xin cảm ơn cô ạ.  /QUOTE . .",
+            "\"Chào bạn,. . Về việc đăng ký tạm dừng học:. . Bạn vui lòng tải mẫu đơn: Tạm dừng tại trang web : aao.hcmut.edu.vn    Sinh viên    biểu mẫu. . Điền đầy đủ thông tin nộp qua mail [email] hoặc BKSI. . Thân. . \""
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ em chào cô,. . Em là [full_name], MSSV: [student_id]. . Em mới nhận được file scan giấy chứng nhận tốt nghiệp tạm thời, và em phát hiện thông tin ngày sinh của em bị ghi sai trong giấy ạ, em mong cô giúp em chỉnh sửa lại với ạ. Em sinh ngày 19/12/1998 ạ cô. Em chân thành cảm ơn cô nhiều ạ.. . Thân ái,. . [full_name].",
+            "Chào em,. . PĐT đã nhận được thông tin của em, sẽ in và gửi lại em.. . Thân mến"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Thưa cô, theo như chương trình đào tạo thì học kì 2 em sẽ có 2 tín chỉ thực tập nhưng theo em được biết thì vào học kì hè mới đi thực tập. Vậy cho em hỏi, là em phải đăng ký 2 tín chỉ đó vào kì chính hay đợi đến kì hè mới đăng ký ạ. Em cảm ơn.",
+            "Chào em,. . Em vui lòng liên hệ [full_name], GVCN để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Nếu bây giờ em thanh toán học phí thì còn được sắp lịch thi không ạ",
+            "Chào bạn. . Bạn đã thanh toán học phí trễ hạn, nhưng hiện tại bạn có thể thi Hk211. . Bạn lưu ý thanh toán học phí lần sau đúng hạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi thầy/cô,. . Em là sinh viên [full_name], MSSV [student_id], khoa Điện - Điện Tử hệ đào tạo đại trà chính quy. Hiện tại em còn 1 môn học từ học kỳ 202 đến nay vẫn chưa có điểm tổng kết và thời khóa biểu học kỳ 211 của em là trống. . . Em vừa kiểm tra tình trạng sinh viên trên Cổng thông tin sinh viên thì trạng thái vẫn đang là \"Đang học\".. . Em đọc mail thấy đề cập việc không có thời khóa biểu trong học kỳ chính sẽ bị tạm dừng. Hiện tại em đã đăng ký đề phòng 2 môn vào học kỳ chính 212 kế tiếp.. . Em xin hỏi là trường hợp của em có được xem là tạm dừng 1 học kỳ và cần làm đơn thu nhận lại không ạ?. . Em cám ơn quý thầy/cô ạ.",
+            "Chào bạn. . Hiện tại trên hệ thống bạn không bị tạm dừng nên bạn dkmh Hk212 bình thường nghen. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1813620  /b \t. . . .   i Yêu cầu khác . THÔNG BÁO QUY ĐỔI NGÀY CTXH CHO CÁC HOẠT ĐỘNG LIÊN QUAN CÔNG TÁC PHÒNG, CHỐNG COVID-19. . . . cho em hỏi theo mail này thì \"nộp lại mẫu đính kèm\" là hình chụp phải không ạ?",
+            "cho em hỏi phần ảnh chứng minh tham gia hoạt động thì trong lúc tham gia em không có chụp ảnh, tuy nhiên em vẫn giữ đồng phục của phường phát thì có thể chụp ảnh mặc động phục rồi gửi không ạ?",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy cô.. . Em tên là [full_name]. MSSV [student_id].. . Dạ thầy cô cho em hỏi là HK202 vừa qua, vì các môn thí nghiệm chưa có điểm nên nhà trường chưa xét học bổng khuyến khích học tập. Vậy trường sẽ xét khi tất cả sinh viên đều hoàn thành chương trình của học kì hay là sau đợt học thí nghiệm sớm sẽ xét ạ.. . Em xin cảm ơn.",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy cô,. . . . Em là [full_name], mssv [student_id], khoa Công nghệ Vật liệu.. . Học kì 212 này theo dự định sẽ là kì thực hiện luận văn của em. Tuy nhiên do suy nghĩ sẽ thi chứng chỉ Toeic để chuyển điểm cho 8 tín chỉ anh văn nên em không học các môn AV1, 2, 3, 4 trong trường, nhưng do tình hình dịch bệnh kéo dài đến hiện tại em vẫn chưa thi chứng chỉ Toeic để chuyển điểm được, và trường cũng chưa quyết định cho sv đi TTTN nên dẫn đến em đang nợ đến 11 tín chỉ so với 7 tín chỉ được phép nợ để đăng kí LVTN (122/126) . . Vậy em có thể đăng kí LVTN và sau đó nộp chứng chỉ toeic để chuyển điểm av trong kì sau không ạ?. . Em cảm ơn thầy cô.",
+            "Chào em,. . Em vui lòng xem lại email PĐT đã gửi:. . \"Nhắc V/v Đăng ký môn học HK Chính + Dự thính 212 + VLVH. . Hộp thư đến. . . . - Ho Tro SV   [email] . . 15:02, Th 6, 3 thg 12 (5 ngày trước). . tới stu.all,\". . . . \"- Nhà trường tạm thời không xét điều kiện: chuẩn tiếng Anh sau mỗi năm học (chuẩn Anh văn hàng năm), xét chuẩn CCAV quốc tế khi xét LVTN, chuẩn Giáo dục thể chất cho riêng HK chính 212 và HK dự thính 212.. . =  Nghĩa là phía sau dấu hai chấm là tạm thời không xét.\". . Thân mến. . . . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV[full_name] [student_id]  /b \t. . . .   i Tốt nghiệp . Kính gửi Quý Thầy (Cô) Phòng Đào tạo!. . Em tên là[full_name] [full_name] - MSSV[full_name] [student_id].. . Hiện tại em đã hoàn thành chương trình Đào tạo, tuy nhiên đến nay vẫn chưa được phép đăng ký xét tốt nghiệp.. . Hôm trước em có tạo mẫu hỏi/ yêu cầu trên BKSI và nhận được phản hồi là \"PĐT đã ghi nhận yêu cầu về đăng ký xét TN\" nhưng đến nay em vẫn chưa nhận được mail.. . Mong Quý Thầy (Cô) kiểm tra lại giúp em, em xin chân thành cảm ơn!",
+            "Chào em,. . Trường hợp e đã đủ điều kiện, em đợi mail thông báo sau ngày 10/12 này nhé. . Thân",
+            "Dạ thưa Cô, em đã nhận được mail rồi ạ! Nhưng tình trạng sinh viên của em vẫn đang bị tạm dừng nên em không vào mục \"Đăng ký Tốt nghiệp\" được ạ.",
+            "\"Chào em,. . Hiện tại PDT đang ra Quyết định thu nhận lại cho SV để đăng ký xét tốt nghiệp, em theo dõi tình trạng trên mybk/Thông tin Sinh viên, khi nào chuyển qua trạng thái đang học, em vào đăng ký tốt nghiệp lại nhé.. . Thân\""
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác .  . .    Em tên [full_name], K18 khoa Cơ Khí của trường. Lúc trước trường có gửi mail đăng ký nguyện vọng học TN tại trường (nếu đủ yêu cầu về phòng chống covid), tuy nhiên lúc đó em chưa đủ 2 mũi nên em không đăng kí học đợt đó.. .    Nay thầy bên môn MT&CN đăng danh sách đi TN lại (thầy có dặn đủ điều kiện và phải điền thông tin trong mail trước đó từ nhà trường). . thì mới được đi TN lại. Em có trình bày với thầy về trường hợp của em (cũng có nhiều bạn khác giống em) thì thầy bảo hỏi lại nhà trường về vấn đề này.. .           Nên em gửi mail này mong quý thầy cô xem xét xem em có được đi TN không ạ (hiện tại đã đủ 2 mũi và trên 14 ngày) (ngày TN: 14 và 15/12).. .           Em xin cảm ơn quý thầy cô và mong nhận được hồi đáp. Nếu được mong thầy cô phản hồi xác nhận để em nhắn lại với thầy.. .                                                  . .              -  [full_name] cảm ơn  -. .",
+            "Chào em,. . Phòng Đào tạo đã tiếp nhận thông tin đăng ký học thí nghiệm trực tiếp của em, dự kiến TKB sẽ cập nhật trước ngày 13/12/2021.. . SV vui lòng theo dõi mail và thời khóa biểu được cập nhật Mybk/Thông tin sinh viên/Xem thời khóa biểu. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi Phòng đào tạo,. . . . Em là [full_name]_MSSV: [student_id], sau khi có thông báo về việc học offline các môn thí nghiệm, em đã đăng kí học off tại trường để hoàn thành môn học Môi trường và con người (ME2020) ở học kì này, nhưng không biết tại sao trên Thời khóa biểu của em lại có thêm lịch Thí nghiệm môn Hóa đại cương (CH1004) của kì dự thính vừa rồi nữa ạ. . . . . Kì vừa rồi do tình hình dịch bệnh nên cô [full_name] dạy thí nghiệm Hóa đại cương đã đồng ý cho nhóm lớp của tụi em (DT01) làm \"Đơn xin kết thúc môn học qua hình thức onl\" (em có kèm file bên dưới) lên PĐT và tụi em cũng đã có bảng điểm tổng kết môn Hóa đại cương trên MyBK rồi ạ. . . . . Tuy nhiên không hiểu tại sao trên Thời khóa biểu của em lại có lịch học thí nghiệm Hóa vào tuần 50. Em có hỏi cô [full_name] thì cô bảo liên hệ với PĐT. Xin các thầy/cô ban chuyên môn có thể giải đáp thắc mắc giúp em để em có sự chuẩn bị tốt nhất cho lịch học tuần sau.. . . . Em xin chân thành cảm ơn. . Trân trọng . . [full_name]",
+            "Chào em,. . Trường hợp các môn CH1004 dù đã có điểm nhưng Bộ môn vẫn đề nghị dạy TN trực tiếp, PĐT đã báo Chủ nhiệm Bộ môn để thông báo cho các GV trả lời cho sv.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Tài khoản mail của em bị disabled, kính mong nhà trường mở lại tài khoản để sử dụng dịch vụ mail ạ.. . [full_name] MSSV: [student_id]. . mail cũ: thinh.chau[phone_number]@hcmut.edu.vn. . Em xin cảm ơn",
+            "Chào em,. . Tổ Kỹ thuật đã gửi câu trả lời qua email em rồi nhé.. . Thân mến",
+            "dạ nhưng email em bị disabled không thể xem được ạ. Email liên lạc hiện tại của em:. . [email]",
+            "Chào em,. . PĐT đang liên hệ Ban QL mạng, trả lời em sau nhé.. . Thân mến. .",
+            "dạ em sắp thi mà đăng nhập mail không được, trường có cách giải quyết nào để em được đăng nhập vào meet không ạ. Em cảm ơn",
+            "Chào em,. . Email của sv bị google khoá mãi mãi do Vi phạm điều khoản dịch vụ của Google thì Google khóa rồi, Ban Quản lý mạng không thể mở được.. . SV sử dụng email nhà trường không đúng mục đích : em làm gì trên tài khoản email nhà trường  (đào tiền ảo, sách lậu, phim đen, ..). . Thân mến. . . .",
+            "dạ em cũng hay down phần mềm lậu, rom lậu trữ trên đó cũng nhiều, chắc nó khóa vì mấy này, trường có cách nào để em đăng nhập lại vô phòng meet không ạ. . Em cảm ơn",
+            "Chào em,. . - SV bị google khoá mãi mãi do Vi phạm điều khoản dịch vụ của Google thì Google khóa rồi. Ban Quản lý mạng không thể mở được như đã trả lời em ở câu trước.. . - Do google khoá nên trường đâu có cách nào mở khoá do dùng không đúng mục đích giáo dục.. . Thân mến. .",
+            "Có thể cấp cho em mail mới không ạ. Chứ vào thi không được vì  lí do này thì cũng không hợp lý lắm ạ.. . Em cảm ơn. .",
+            "Chào em,. . SV vui lòng liên hệ Trung tâm Dữ liệu và Công nghệ thông tin để được hỗ trợ và giải đáp thắc mắc về tài khoản mail của bạn.. . . . Điện thoại\t: (84.28) 38.647.256 - Ext:5200. . Website\t: www.netadm.hcmut.edu.vn. . Email\t:  [email]. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Vào tháng 6/2021 em đã từng đăng kí nộp bằng tốt nghiêp THPT trên MyBK một lần nhưng đã chọn xóa. Em gửi thư này muốn hỏi PĐT rằng hiện tại em muốn đăng kí nộp bằng tốt nghiệp THPT lại trên MyBK nhưng nhấn chọn ô \"Xác nhận đăng kí\" không được thì phải làm sao ạ?. . Em xin cảm ơn!",
+            "Chào em,. . SV đăng ký mà vào không đúng thời gian mở, trước 20/12/2021 và sau 22/01/2022 thì SV sẽ không ấn được nút \"xác nhận đăng ký\".. . Vì vậy SV phải vào đăng ký đúng thời gian PĐT đã thông báo. (PĐT mở từ 0h ngày 20/12/2021 đến 0h ngày 22/01/2022). . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em chào thầy cô,. . Em đã đọc kĩ quy chế thi kì 211 tại mục 5 và em đã vào mybk để tiến hành hoãn thi nhưng môn thi của em lại không hiện trên danh sách thi mà do khoa tổ chức nên em không làm thủ tục hoãn trên mybk được. Tại mục 12 đã nói rõ nếu môn của em có thí nghiệm thì sẽ liên hệ với giảng viên bộ môn, em đã liên hệ với giảng viên bộ môn rồi ạ.. . Được sự đồng ý của giảng viên dạy bộ môn CH2009 , đã kí vào đơn nên em xin phép nộp đơn này lên pdt và mong pdt xét duyệt đơn của em ạ.. . Lí do hoãn của em là địa phương em hiện bị Covid rất căng, gia đình em cũng bị ảnh hưởng và ngày test 4/12 cho thấy gia đình em đang bị dương tính, xuất hiện triệu chứng và hiện đang điều trị nên không đủ sức khỏe để ôn thi và đạt kết quả như ý muốn ạ.. . Em chân thành cảm ơn thầy, cô thương tình xét duyệt đơn, em chúc thầy cô có nhiều sức khỏe.",
+            "Yêu cầu khác: Em xin gửi lại bản đã điều chỉnh ngày thi do bảo trì bên bkel nên cập nhật ngày thi lại là lúc 18h30 ngày 12/12/2021",
+            "Chào bạn. . Về vấn đề Hoãn thi của HK211 bạn vui lòng xem chi tiết: Thông báo kế hoạch tổ chức thi HK211 Pdt đã gởi qua mail  vào ngày 22/11/2021- Mục 5.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào PĐT, em muốn hỏi trong phần tính điểm TBTL có câu \"Đối với môn tự chọn, ĐTBTL được tính từ điểm cao nhất của số tín chỉ quy định trong nhóm các môn tự chọn.\" . . . . Câu đó em chưa hiểu rõ về việc tính từ điểm cao nhất của số tín chỉ quy định là sao ạ? Nếu em học dư số tc quy định thì có được tính tất cả vô điểm TBTL không ạ? em cám ơn",
+            "Chào em,. . Đtbtl là tính hết, học bao nhiêu môn tính bấy nhiêu. Còn đtbtl ngành chỉ tính những môn có trong chương trình đào tạo ngành mà sv theo học suốt khoá học và lấy điểm cao nhất tính.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em đã thanh toán học phí học kỳ chính, mong phòng đào tạo mở lại lịch thi cho em ạ, em xin cảm ơn.",
+            "Chào em,. . Cô thấy em còn nợ HP của HK dự thính HK211 nhé bạn. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học  /i .. . Em xin chào ạ,. . Em muốn hủy đăng ký học thí nghiệm offline thì em cần làm gì ạ.. . Em xin cảm ơn.",
+            "Chào em,. . Phòng Đào tạo đã tiếp nhận thông tin xin hủy đăng ký học thí nghiệm trực tiếp của em.. . SV vui lòng theo dõi mail và thời khóa biểu được cập nhật Mybk/Thông tin sinh viên/Xem thời khóa biểu sau khi trường được hoạt động lại bình thường (dự kiến trong tháng 3/2022). . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em là [full_name], MSSV: [student_id]. Em có đăng ký học offline các học phần thực hành, thí nghiệm, thực tập offline tại trường. Nhưng sau khi xem lịch thi và lịch học em nhận thấy lịch học và lịch thi trùng nhau (2 môn). Em có mail cho thầy nhưng thầy thực tập vẫn chưa trả lời mail của em. Trong trường hợp xấu nhất thì em có thể hủy học offline không ạ? Và cách hủy là như thế nào? Em xin cảm ơn!. .   i Yêu cầu khác .",
+            "Chào em,. . Phòng Đào tạo đã tiếp nhận thông tin xin hủy đăng ký học thí nghiệm trực tiếp của em.. . SV vui lòng theo dõi mail và thời khóa biểu được cập nhật Mybk/Thông tin sinh viên/Xem thời khóa biểu sau khi trường được hoạt động lại bình thường (dự kiến trong tháng 3/2022). . Thân mến. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . em là [full_name]. . MSSV: [student_id]. . chị cho em hỏi là hệ VHVL có xét chuẩn anh văn speaking và writing (nói và viết) không ạ.. . . . em xin chân thành cảm ơn!. . . .",
+            "Chào bạn. . Không nghen bạn. . - Về quy định chuẩn tiếng anh trong quá trình học: Bạn vui lòng xem chi tiết tại trang web aao--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Phụ lục 1: Quy định về ngoại ngữ"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   I Tốt nghiệp . Em xin được đăng kí xét tốt nghiệp, do em chưa thấy tên mình trong danh sách tốt nghiệp dự kiến. . . . . Mong nhà trường xem xét kiểm tra lại giúp em.",
+            "\"Chào bạn,. . PDT đã ghi nhận yêu cầu về đăng ký xét TN của bạn. SV vui lòng theo dõi email  và đăng ký tốt nghiệp tại trang mybk.hcmut.edu.vn/6.Đăng ký Tốt nghiệp. . Trường hợp sau ngày 21/12/2021 SV vẫn chưa nhận được mail hoặc chưa đăng ký tốt nghiệp được vui lòng gửi lại câu hỏi qua bksi để PDT kiểm tra và trả lời.. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn)    Sinh viên    Lịch học vụ    Lịch tốt nghiệp    tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Thân. . \""
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào thầy cô.. . Cho em hỏi trang đăng kí tốt nghiệp của em có bị lỗi không ạ. Em đã hỏi về thời gian nhận giấy tốt nghiệp tạm thời và đã được cô [full_name] giải đáp là sau ngày 7/12 là có thể tải file pdf trên trang đăng kí tốt nghiệp. Nhưng hiện tại trên trang của em không hiện ô tải file giấy tốt nghiệp tạm thời ạ, thậm chí vẫn còn hiện \"không thể đăng kí (tạm dừng)\" ạ.. . Em cảm ơn thầy cô ạ.",
+            "Chào em,. . Cô gửi em file scan giấy CN tốt nghiệp tạm thời, bản giấy sẽ được gửi qua đường bưu điện theo địa chỉ SV đăng ký nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào ad ạ, em đang là sv năm 3 của khóa K19, thì theo em biết là muốn đk môn năm 4 thì em phải qua mốc 550, em muốn hỏi là em cần qua mốc đó vào cuối kì 2 năm 3 hay là cuối kì hè của năm 3 (miễn là trước đợt đăng kí môn năm 4) ạ? Em xin cảm ơn",
+            "Chào em,. . Việc đăng ký môn là tùy sinh viên nhé bạn, em có thể liên hệ với [full_name] và [full_name] để được tư vấn về CTĐT.. . Vấn đề khi em muốn đăng ký môn học năm 4 ở HK nào thì bạn phải đảm bảo điều kiện trước thời gian đăng ký MH nhé.. . SV có thể nộp CCNN hoặc thi các đợt AV do trường tổ chức (nếu có) hoặc hoàn thành các môn AV theo quy định. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi PĐT trường ĐH Bách Khoa - ĐH Quốc Gia TPHCM.. . Em tên là: [full_name]       MSSV: [student_id]. . Vì trong thời gian chờ xét tốt nghiệp, em không đăng ký môn học và bị tạm dừng học. Do đó em muốn gửi đơn thu nhận lại để em có thể đăng kí tốt nghiệp trong học kì 211 (hạn chót 24/12/2021).. . Kính mong PĐT xem xét giúp em! Em xin chân thành cảm ơn!",
+            "Chào em,. . Đơn em ghi không đúng HK, em sửa lại thu nhận từ HK212.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ e chưa nhận thấy chỗ tải file giấy CN tốt nghiệp trong Mybk ạ!. . Nhưng trang thông tin hiện tại của em như thế này ạ: hệ vẫn VHVL và tìm thấy mã 2 bằng ( cô xem chi tiết file ảnh ạ ). . . . Em sợ Pđt chưa update thông tin thôi ạ. . Em xin cám ơn",
+            "Em gửi file ảnh nhé cô",
+            "Chào em,. . Thông tin của em đã update nhé, cô gửi em file scan giấy CN tốt nghiệp tạm thời.. . SV đã đăng ký tốt nghiệp thành công, vui lòng đợi cập nhật Quyết định tốt nghiệp chính thức và mail thông báo lên nhận bằng từ Phòng Đào tạo. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em Tên: [full_name]. . Hệ: [full_name]. . MSSV: [student_id]. . Em muốn hỏi Học kỳ 212 mình học online hay lên cơ sở Lý Thường Kiệt học!!! Nếu trường hợp em muốn tiếp tục học online thì phải làm sau ạ!!",
+            "Chào em,. . Sẽ học online đến khi trường được hoạt động lại bình thường (dự kiến trong tháng 3/2022). . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  [full_name] \t. . . .   i Học vụ . Dạ chào cô,. . Em có lịch học trực tiếp môn Dung sai và kỹ thuật đo (TN) tại CS1 vào tuần sau (tuần 50). . Nhưng em đang ở quê và dương tính với [full_name]-19, hiện đang được cách ly tại nhà ạ. . . Em muốn hủy học trực tiếp tại trường được không ạ.",
+            "Chào em,. . Phòng Đào tạo đã tiếp nhận thông tin xin hủy đăng ký học thí nghiệm trực tiếp của em.. . SV vui lòng theo dõi mail và thời khóa biểu được cập nhật Mybk/Thông tin sinh viên/Xem thời khóa biểu sau khi trường được hoạt động lại bình thường (dự kiến trong tháng 3/2022). . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi phòng Đào tạo,. . . . Kính thưa quý thầy cô! Em tên là [full_name], sinh viên khóa 2018, khoa Cơ khí, lớp CK18CTM2. Hôm nay em viết thư này để xin phòng Đào tạo cho em Rút môn học 3 môn đã xin Hoãn thi ở học kỳ 202. Vì lý do tình trạng sức khỏe của em bây giờ không thể nào học tập được, có vào thi em cũng chỉ biết đánh may rủi thôi. Em bị đau đầu suy nhược thần kinh mà nó không bớt, nay nó đau nặng cộng thêm đau mắt nữa, thời gian đau cả ngày và mất ngủ, cái đầu của em bây giờ không đọc nổi một trang sách, em không ngồi màn hình laptop và điện thoại nổi, trước đó em đã xin Rút môn học 11/14 tín chỉ ở học kỳ 211. Xin phòng Đào tạo cho em Rút 3 môn học này, khi nào em có sức khỏe rồi em sẽ học lại, dù có chậm trễ ra trường đến cỡ nào em cũng không bỏ cuộc. Em không phải là người lười biếng, em ham học và khát khao được học tập, em có ước mơ trở thành Kĩ sư Cơ khí để giúp ích cho đất nước Việt Nam. Thật sự là em có hơi làm phiền phòng Đào tạo nhưng hoàn cảnh gia đình em đã khó khăn rồi mà bây giờ em bệnh tật thế này nữa nên em không còn cách nào khác. Em đã vào được ngôi trường mơ ước rồi thì em cũng xin là phòng Đào tạo tạo được điều kiện tốt nhất để khi em ra trường nhìn cái bằng nó cũng dễ coi một chút, chứ điểm số trong quá trình học tập mà kém quá thì doanh nghiệp chắc họ không tuyển dụng em. Em kính mong phòng Đào tạo xem xét trường hợp bất khả kháng của em và có thể chấp thuận. Em xin chân thành cảm!. . . . Trân trọng,. . [full_name]",
+            "Chào bạn. . Về vấn đề Hoãn thi của HK211 bạn vui lòng xem chi tiết: Thông báo kế hoạch tổ chức thi HK211 Pdt đã gởi qua mail  vào ngày 22/11/2021- Mục 5.. . -\tTrường hợp PĐT đã xếp Lịch thi nhưng SV không thể Thi để xóa điểm HT trong HK211 này: SV sẽ đăng ký tại trang Mybk.hcmut.edu.vn    Ứng dụng cho Sinh viên    12. Đăng ký hoãn thi Cuối kỳ. . . •\tLưu ý: SV cân nhắc khi đăng ký không thi ở HK211, vì PĐT đã cố gắng xếp Lịch thi cho tất cả SV diện có Quyết định Hoãn thi để SV có kết quả kịp tiến độ theo Chương trình đào tạo, HK212 khả năng dự kiến khó mở lớp những môn này, đồng thời theo quy định SV phải đăng ký thi cuối kỳ trong thời hạn một năm học để lấy kết quả này làm điểm tổng kết thay thế cho điểm HT.. . -\tQuy định hoãn thi (HT): xem chi tiết tại khoản 17.2 điều 17 trong Quy chế đào tạo và học vụ (aao.hcmut.edu.vn    Sinh viên   Quy chế-quy định   Học vụ).. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Kính gửi nhà trường ạ. Em là [full_name] SV K17 Khoa Môi trường. Hiện tại em đã bổ sung đầy đủ các yêu cầu tốt nghiệp nhưng lại chưa đăng ký tốt nghiệp trên mybk do em chủ quan rằng ngày 24/12 mới hết hạn đăng ký tốt nghiệp. Nhưng sáng nay khi em vào kiểm tra thì em không thể truy cập được mục 18 ( đăng ký tốt nghiệp) trên mybk vì tình trạng đã là tạm dừng vào ngày 18/11. Em khộng biết có cách nào để em có thể truy cập lại vào mục này để có thể đăng ký ạ. Ngoài ra em cũng đã chuẩn bị phiếu thu nhận nếu cần thiết rồi ạ. Em xin chân thành cảm ơn",
+            "\"Chào bạn,. . PDT đã ghi nhận yêu cầu về đăng ký xét TN của bạn. SV vui lòng theo dõi email  và đăng ký tốt nghiệp tại trang mybk.hcmut.edu.vn/6.Đăng ký Tốt nghiệp. . Trường hợp sau ngày 21/12/2021 SV vẫn chưa nhận được mail hoặc chưa đăng ký tốt nghiệp được vui lòng gửi lại câu hỏi qua bksi để PDT kiểm tra và trả lời.. . Xem chi tiết lịch học vụ (lịch trình tốt nghiệp) tại trang web PĐT (aao.hcmut.edu.vn)    Sinh viên    Lịch học vụ    Lịch tốt nghiệp    tháng 11/2021 (cập nhật mới gia hạn thời gian xử lý tốt nghiệp). . Thân. . \""
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy/cô ạ,. . Em là sinh viên hệ VLVH, MSSV [student_id].. . Học kỳ vừa rồi em có đăng ký học môn Phương pháp phần tử hữu hạn (mã MH CI3061) và đã thi cuối học kỳ online.. . Hiện giờ em đã thấy được điểm môn học trên trang web 'Đăng ký phúc tra điểm bài thi cuối kỳ' và em định đăng ký phúc tra để cải thiện điểm.. . Nhưng sau khi nhấn chọn môn muốn phúc khảo thì nút 'Xác nhận đăng ký' không sáng lên để chọn được ạ.. . Em còn có thể đăng ký phúc khảo điểm thi bằng cách nào nữa không ạ?. . Em cảm ơn nhiều ạ.",
+            "Chào em,. . Em vui lòng xem quy chế về phúc tra. . http://www.aao.hcmut.edu.vn/quy chế quy định/học vụ/- Quy chế đào tạo và học vụ bậc đại học, cao đẳng/điều 16. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Yêu cầu khác:",
+            "QUOTE  MSSV/MSGV: [student_id]    . . . . Yêu cầu khác. . . .   /QUOTE . .",
+            "\"Chào em,. . Phòng Đào tạo đã tiếp nhận đơn tạm dừng HK212 của bạn, Sinh viên theo dõi tình trạng sinh viên được cập nhật trên mybk/Thông tin Sinh viên/tình trạng. . chuyển qua trạng thái từ \"\"đang học\"\" sang \"\"tạm dừng\"\", dự kiến sẽ cập nhật trước ngày 3/1/2022 và gửi mail Quyết định qua email cho sinh viên. . SV vui lòng theo dõi lịch học vụ và mail SV để làm đơn thu nhận lại để đăng ký MH cho học kỳ tiếp theo. . Thân\""
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em muốn đăng ký tốt nghiệp nhưng bị tạm dừng học. Nay em làm đơn xin thu nhận lại mong pđt nhanh chóng thu hồi quyết định để em có thể đăng ký tốt nghiệp vì em đang cần bằng cần rất gấp ạ.. . Em cảm ơn",
+            "Chào em,. . Đơn thu nhận từ HK212, em sửa và gửi lại nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ em tên là [full_name] MSSV [student_id]. . Tuần rồi vào thứ 3 tuần rồi em có đăng kí tốt nghiệp và đăng kí nhận giấy tốt nghiệp tạm thời nhưng đến nay em vẫn chưa nhận được mong PDT kiểm tra giúp em là em đã đăng kí tốt nghiệp thành công chưa và giấy tốt nghiệp tạm thời của em đã được chuyển chưa, hiện em đang cần gấp để bổ sung hồ sơ việc làm nên mong PDT kiểm tra giúp em ạ.",
+            "Chào em;. . Vietel post vẫn còn đang giao, gửi em mã vận đơn nhé: PDT[student_id]. . Thân",
+            "Dạ em tên là [full_name] MSSV [student_id]. . Vào ngày 9/12 em đã nhận được giấy tốt nghiệp tạm thời của PĐT chuyển về ạ, vậy PĐT cho em hỏi sao bao lâu em nhận được bằng chính thức và cách thức nhận như thế nào ạ, mong PĐT hỗ trợ giúp em ạ.. . Em xin cảm ơn ạ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Xin chào admin,. . . . Em hiện đã đủ điều kiện để đăng ký xét tốt nghiệp, nhưng nay bị chuyển tình trạng sinh viên sang \"Tạm dừng\" nên không vào trang Đăng ký tốt nghiệp được. Em đã gửi yêu cầu hỗ trợ một lần và được hướng dẫn theo dõi mail và trang đăng ký tới hết 7/12, và đến giờ em vẫn chưa đăng ký được. Mong nhận được hướng dẫn tiếp theo sớm.. . . . Em cảm ơn.. .",
+            "Chào em,. . Gửi em file xét tốt nghiệp, em kiểm tra lại về điều kiện nhé. . Thân",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em chào cô.. . Em vào đăng kí tốt nghiệp, em đã điền đầy đủ thông tin yêu cầu. Tuy nhiên, em bị lỗi như hình đính kèm. Em không biết lỗi gì ạ. Cô xem và giúp em với ạ.. . Em cảm ơn cô.",
+            "Em chào cô/thầy.. . Em có tạo câu hỏi từ ngày 8/12. Mà chưa được trả lời và em vẫn đang bị lỗi khi đăng kí môn học (em có đính kèm ảnh ở hình trên). Mong cô/thầy trả lời giúp em.. . Em xin chân thành cảm ơn.",
+            "li answer rate: Answer is not complete / Câu trả lời chưa hoàn chỉnh",
+            "Em chào cô.. . Chiều nay em nhấn đăng kí được rồi. Em cũng thanh toán tiền BKpay rồi ạ. Nhưng trang đăng kí tốt nghiệp vẫn bị lỗi như hình và vẫn chưa cập nhật thanh toán. Mong cô sớm giúp em với ạ.. . Em cảm ơn cô ạ.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "thưa thầy cô, em bị mất thẻ bảo hiểm y tế em cần làm thủ tục nào để được cấp lại BHYT ạ. em cảm ơn thầy cô đã xem.. .",
+            "Chào em,. . Em liên hệ phòng Công tác chính trị sv qua email [email] để được hướng dẫn nhé.. . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Kính gửi Phòng đào tạo. . . . Em là [full_name]. . MSSV: [student_id]. . . . Những ngày trước em có liên hệ phòng đào tạo về việc không đăng ký tốt nghiệp được do tình trạng sinh viên \"tạm dừng\" (do không đăng ký môn học học kỳ 1 năm học 2021 - 2022 theo quyết định số 2869/QĐ-ĐHBK). Phòng đào tạo đã phản hồi đợi ra quyết định mới. Nhưng hiện tại em vẫn không đăng ký tốt nghiệp được.. . . . Nay em làm đơn thu nhận lại sinh viên để em đăng ký tốt nghiệp (file đính kèm theo).. . . . Hiện tại em đang cần bằng Tốt nghiệp rất gấp theo yêu cầu của Công ty. Mong nhận được sự hỗ trợ nhanh chóng từ Phòng đào tạo.. . . . Em xin cảm ơn.. . . . Trân trọng./.. . [full_name]. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Hiện tại em đã đủ điều kiện xét tốt nghiệp nhưng khi vào đăng ký tốt nghiệp thì trang web hệ thống đang báo lỗi, kính mong thầy cô có thể giúp em khắc phục sự cố này",
+            "\"Chào bạn,. . Lỗi Đăng ký tốt nghiệp đã được khắc phục, em vui lòng vào đăng ký lại nhé. . Thân\""
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Kính gửi thầy/cô phòng đào tạo.. . Em tên [full_name]. MSSV: [student_id]. Khóa 2020. Học ngành Khoa Học Máy Tính (Hệ VLVH).. . Em muốn hỏi vấn đề:   B chuyển điểm từ trường Cao đẳng  /B  lên ạ. Đợt trước do tình hình dịch bệnh nên em không thể lên trường để hỏi cụ thể. Nay em xin phép thầy/cô có thể giải đáp giúp em vấn đề về giấy tờ liên quan đến việc chuyển điểm bao gồm những giấy tờ gì, để em có thể chuẩn bị ạ. Em xin chân thành cám ơn",
+            "Chào em,. . Em vui lòng email đến [email]. Em làm đơn, chụp hình những giấy tờ liên quan đến việc em cần. . . Thân mến. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Cho e hỏi là kì 202 e có hoãn thi Môn Cơ sở điều khiển tự động nhưng e bị điểm 13 phần thí nghiệm, nhưng trên hệ thống thi cuối kì e vẫn có lịch thi. Vậy cho e hỏi nếu e thi trên 5 điểm vào đợt thi này thì e vẫn sẽ qua môn, hay là dù e có thi trên 5 điểm thì vẫn sẽ không qua môn do điểm thí nghiệm là điểm 13."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào ad ạ, trước kia em có đổi điểm toeic (em thi toeic ở ngoài rồi nộp bằng vào), và giờ làm cách nào để em có thế xem điểm em đã đổi vậy ạ, em ko thấy có trong bảng điểm. Em cảm ơn!",
+            "Chào em,. . Em xem điểm được cập nhật tại mybk/Thông tin sinh viên/Điểm chuyển nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em tên [full_name]. Nay em làm đơn gửi pđt thu nhận lại để em có thể đăng ký tốt nghiệp. Mong bên pđt giải quyết gấp giúp em vì em đang cần bằng gấp.. . Em cảm ơn",
+            "Chào em,. . Phòng Đào tạo đã tiếp nhận đơn thu nhận của em.. . SV theo dõi tình trạng và quyết định sẽ cập nhật tại mybk/Thông tin Sinh viên (dự kiến cập nhật QD trong tháng 12/2021). . SV vui lòng theo dõi lịch học vụ và mail sinh viên để biết thời gian đăng ký môn học cho học kỳ tiếp theo.(SV ĐKMH vào đợt 2, 13 giờ ngày 23/12/21). . Thân mến. ."
+        ]
+    }
+]

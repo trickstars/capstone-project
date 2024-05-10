@@ -1,0 +1,387 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được .",
+            "Chào bạn.. . Hiện tại PĐT đã cập nhật tạm điểm môn SV_N2 lên hệ thống đăng ký môn học.. . Bạn vào đăng ký lại môn học nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Lớp L01 IM2019 thứ 6 tiết 4,5,6. .",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Hết kì hè vừa rồi em được 88 chỉ.Kì 1 năm 2019-2020 đk 11 chỉ chính và 5 chỉ dự thính. Theo quy chế để đăng kí THỰC TẬP TN phải đủ 95 chỉ tính cả kì đang học dù chưa có kết quả. Vậy thì em phải đăng kí được TTTN khi có 88+11=99 chỉ . Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được .",
+            "QUOTE Hết kì hè vừa rồi em được 88 chỉ.Kì 1 năm 2019-2020 đk 11 chỉ chính và 5 chỉ dự thính. Theo quy chế để đăng kí THỰC TẬP TN phải đủ 95 chỉ tính cả kì đang học dù chưa có kết quả. Vậy thì em phải đăng kí được TTTN khi có 88+11=99 chỉ .MSSV/MSGV: [student_id]    . . . . Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được. . . .   /QUOTE . . Chào [full_name], Em lên đăng ký lại môn TTTN nhe!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chương trình đào tạo - Đại học - Cao đẳng chính quy   Khác ... . kế học giảng dạy của khóa 2019 khoa hóa học trước 12h vẫn còn \"môn vật lý 2\", giờ đã thay đổi đột ngột thành \"kinh tế học đại cương\". . . . Cho em hỏi sự thay đổi này có chính xác không và k19 khoa hóa sau này có cần học vật lý 2 không ạ, nếu có em có thể đây giờ đăng ký học bây giờ luôn không ạ",
+            "Chào Bạn. . Về Chương trình đào tạo bạn vui lòng liên hệ Thầy [full_name] phụ trách đào tạo để được tư vấn chính xác thông tin"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Môn dai số tuyến tính MT1007 lớp L03-L06 lên  5 suất . . Môn giải tích 2 MT1005 lớp L09-L16 lên 5 suất",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em tên là [full_name]. MSSV [student_id]. . Em xin Phòng đào tạo tăng sĩ số lớp môn: Cơ sở điều khiển quá trình CH3031 - nhóm A05, chiều thứ 4 tiết 789. . Em mong Phòng đào tạo đáp ứng. . Em xin cảm ơn!",
+            "đã tăng sĩ số.. . bạn vào đăng ký nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "E tên Phạm Tấn Nhất Mssv:[student_id]. . Vừa rồi e đã nộp bằng anh [full_name] 355đ (đạt Av1) trên Mybk và đã được xác nhận.. . Nhưng sao kì này [full_name]192 e đăng kí học môn AV2 không được ạ?",
+            "Chào bạn,. . Khi bạn đăng ký nộp chứng chỉ ngoại ngữ online, phòng đào tạo tự xét pass các chuẩn anh văn của từng năm, LVTN và tốt nghiệp từ chứng chỉ của bạn theo quy định.. . Bạn không đăng ký chuyển điểm môn AV1 từ chứng chỉ thì hiển nhiên bạn chưa có điểm đạt môn AV1 nhé.. . Thân. . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học .",
+            "bạn cần tăng sĩ số môn gì. cung cấp mã môn, mã nhóm học để kiểm tra nhé. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em xinh chào phòng đào tạo, em xin được yêu cầu tăng sỉ số lớp Vi sinh vật vì hiện lớp 18BSH có 67 người nhưng trường chỉ mở 2 lớp vi sinh vật với tổng sỉ số là 60 nên em và một số bạn vì lí do cập nhật số tính chỉ tích lũy nên đăng kí trễ và hết slot rồi ạ.Mong phòng đào tạo xem xét giúp chúng em. Chúng em xin chân thành cảm ơn ạ.. . . .",
+            "bạn cung cấp mã môn học nhé. .",
+            "Mã môn học: CH3003. . Tên môn học: Vi sinh vật . . Hiện lớp em có làm đơn xin tăng sỉ số cho mỗi lớp L01 và L02 thêm 5 slot và thầy [full_name] đã ký duyệt tồi ạ.Mong phòng đào tạo xem xét giúp chúng em. Em xin cảm ơn.",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. .",
+            "Hiện hệ thống báo lỗi không đăng kí được ạ. Cho em hỏi khi nào mới có thể đăng kí ạ.",
+            "Thật tình là em không muốn làm phiền phòng đào tạo nhưng như em đã trình bày ở trên để yêu cầu mở thêm slot có danh sách là 7 sinh viên đang chờ mở slot mà phòng đào tạo chỉ mở mỗi lớp thêm 2 slot là thêm 4 sinh viên vậy còn 3 bạn còn lại phải học trễ 1 năm sao ạ. Phòng đào tạo có thể nào mở thêm cho chúng em được không ạ. Chỉ vì đăng kí môn mà tụi em lao đao mấy ngày nay, em chỉ mong phòng đào tạo xem xét lần nữa cho chúng em. Em xin chân thành cảm ơn."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Dạ em chào thầy/cô PĐT,. . Cho em hỏi em xin mở lớp môn cơ sở ngành thì sỉ số 30 bạn đủ điều kiện mở không ạ?. . Em cám ơn nhiều ạ!",
+            "Chào em,. . . . Em cứ làm đơn lên, nếu 30 sv thì vẫn mở lớp được."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: V[student_id]  /b \t. . . .   i Học vụ - Đại học - Cao đẳng chính quy   Thu nhận lại . Em đã làm đơn xin thu nhận lại và đang chờ xử lý. Cho em hỏi sau khi được thu nhận lại em có cần đăng kí môn học cho học kì 192 không ạ. Vì em đã hoàn thành đủ điều kiện tốt nghiệp chỉ thiếu tiếng anh 2 kỹ năng Writting and speaking. Em dự tính sẽ tốt nghiệp vào tháng 4/2020."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chương trình đào tạo - Đại học - Cao đẳng chính quy   Khác ... . cho em hỏi là theo quy chế mới về số tín chỉ theo từng năm ,thì hết năm nhất phải đủ 28 chỉ thì được đ kí môn cho năm 2 phải không ạ ? nếu dưới 28 tín chỉ thì có sao không ạ , em cảm ơn. .",
+            "1. Xếp năm đào tạo cho SV. . - SV năm thứ nhất: dưới 28 tín chỉ. . - SV năm thứ hai: từ 28 đến dưới 56 tín chỉ. . - SV năm thứ ba: từ 56 đến dưới 80 tín chỉ. . - SV năm thứ tư: từ 80 đến dưới 128 tín chỉ. . - SV năm thứ năm (đối với các CTĐT trên bốn năm):. . từ 108 tín chỉ. . . . Nếu không thỏa điều kiện thì sẽ không được đăng đăng ký các môn học của năm sau đó. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp CC01 môn học Cấu trúc rời rạc cho KHMT CO1007 . Kính chào ban giám hiệu nhà trường. . . . Em là [full_name], sinh viên khoá K19, khoa Khoa Học Máy Tính chương trình chất lượng cao. Do có vô ý mà em đã huỷ đăng kí môn học \"Cấu trúc rời rạc cho KHMT\", mã môn học CO1007 nhóm CC01, nhưng ngay sau đó em không thể đăng kí lại được do đã đủ sỉ số.. . . . Em có nguyện vọng đăng kí lại môn \"Cấu trúc rời rạc cho KHMT\" nhóm CC01, em hi vọng nhà trường có thể gia tăng sỉ số lớp.. . . . Rất mong nhận được phản hồi từ nhà trường, em cảm ơn nhà trường vì đã đọc.",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Chào phòng đào tạo,. . Hiện em là sinh viên năm 3 của khoa Môi trường. Kì này em có đăng kí các môn theo chương trình nhưng bị hủy do thiếu tín chỉ theo chuẩn sinh viên năm 3. Cho em hỏi là chuẩn đó áp dụng cho cả những khóa trước luôn hay chỉ K19 trở đi. Nếu áp dụng cho cả khóa trước thì nếu e thiếu 1 chỉ (55 so với 56) thì em có thể xin nợ lại 1 chỉ để đăng kí tiếp không? . . Em xin cảm ơn.",
+            "Chào bạn.. . Hiện tại PĐT đã cập nhật tạm điểm môn SV_N3 lên hệ thống đăng ký môn học.. . Bạn vào đăng ký lại môn học nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1611585  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Chương trình đào tạo (thiếu môn tiên quyết, song hành...) . Ở đợt đkmh lần 1 em đã đăng kí được môn LVTN, do em chưa hoàn thành yêu cầu về ccnn nên có hiện warning, nhưng vẫn đăng kí được. Qua đợt 2 này thì môn LVTN bị mất, em vào đăng kí lại thì bị báo là thiếu ccnn và không đăng kí được. Bằng Anh Văn thì em đã nộp và được xác nhận vào ngày 11/12 (giữa 2 đợt đkmh). Vậy cho em hỏi em không thể đkmh vào đợt 2 này mà phải đợi qua đợt khác ạ? Em cảm ơn!. . . .",
+            "QUOTE MSSV/MSGV: 1611585    . . . . Đăng ký môn học - Đại học - Cao đẳng chính quy   Chương trình đào tạo (thiếu môn tiên quyết, song hành...). . Ở đợt đkmh lần 1 em đã đăng kí được môn LVTN, do em chưa hoàn thành yêu cầu về ccnn nên có hiện warning, nhưng vẫn đăng kí được. Qua đợt 2 này thì môn LVTN bị mất, em vào đăng kí lại thì bị báo là thiếu ccnn và không đăng kí được. Bằng Anh Văn thì em đã nộp và được xác nhận vào ngày 11/12 (giữa 2 đợt đkmh). Vậy cho em hỏi em không thể đkmh vào đợt 2 này mà phải đợi qua đợt khác ạ? Em cảm ơn!. . . .   /QUOTE . . Chào Khiêm, Nếu không đăng ký được đợt này thì còn đợt ngày 02/01- 06/01/20 em nhớ đăng ký.",
+            "Chào thầy/cô ạ. . Cuối đợt 2 em có thử đăng kí lại môn lvtn thì đã đăng kí được, và chỉ còn warning thiếu ccnn.. . Tuy nhiên kết quả đăng kí môn học đợt 2 của em lại không có môn nào cả.. . Qua đợt 3 em đăng kí lại thì hiện thông báo không đăng kí được vì thiếu ccnn.. . Trong khi ccnn của em đã được xác nhận từ ngày 11/12.. . Mong thầy cô kiểm tra giúp em ạ.. . Em cảm ơn",
+            "Bạn vui lòng vào kiểm tra TKB nhé!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Cho em hỏi Tại sao trong lần đăng kí môn học đợt 2 này không kèm theo tên giảng viên đứng lớp vậy ạ?. .  Em cảm ơn",
+            "có một số môn khoa chưa phân công cán bộ kịp. vì vậy nên mới chưa có thông tin em nhé. . Thân",
+            "Vậy liệu trong đợt 2 này có cập nhật kịp không ạ? Hay trong đợt đăng kí đợt 3 mới cập nhật ạ?. . Em cảm ơn.",
+            "chắc ko kịp."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B kính gửi pdt em tên là [full_name] mssv [student_id] hiện em đã nộp chứng chỉ ngoại ngữ 310 em k17 theo quy định là 300-345 học av1. nhưng sao em đăng kí thì báo chưa qua av cơ bản . hiện tại av quy định theo năm hay theo khóa vậy a",
+            "Chào bạn . . . . Theo quy chế học vụ mới áp dụng từ HK192 điểm để học AV1 là từ 400 – 445. . . . Bạn tham khảo tại mục quy chế -  phụ lục 1"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tên [full_name]. . MSSV [student_id]. . Lớp VP17CDT. . Trình bày lý do: Xin PĐT đăng kí cho em học môn Anh Văn 2 (LA1005) nhóm A01. . . Vì em là sinh viên VP không thể đăng kí các môn nhóm A của đại trà. . . Em chưa học Anh văn 1 nhưng điểm kiểm tra AVĐV của em là 370. Vì các lớp AV có mã MH của VP không còn mở nữa nên em không thể đăng kí. . . Mong PĐT xét duyệt cho em học môn học này để đủ điều kiện tiên quyết học chương trình năm thứ 4.. . Em xin chân thành cảm ơn. . . [full_name].",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. .",
+            "Thưa, em là sinh viên Việt Pháp như đã trình bày rằng  Em không thể đăng kí vào nhóm A. Xin PĐT tụe đăng kí giúp em môn Anh Văn 2 nhóm A01. . . Xin cảm ơn.",
+            "Chào em, . . . . Em vào mục chuyển hệ đăng kí http://apps.aao.hcmut.edu.vn/qlgd_man/home.action;jsessionid=2B6D2949E5BD34924E6C370B3526A164;jsessionid=F34CDFD79C54E8717ABBE544BAFEF19C"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi cuối năm 1 em nộp CCNN ( TOEIC 550 chẳng hạn) thì đến năm 3 em có cần nộp lại CCNN khác (do CCNN nộp trước đó đã hết hạn) để làm LVTN không ạ.",
+            "Chào bạn,. . Khi bạn đăng ký nộp chứng chỉ ngoại ngữ online, phòng đào tạo đã tự xét pass các chuẩn anh văn của từng năm, LVTN và tốt nghiệp từ chứng chỉ của bạn theo quy định. Không truy hồi lại khi bạn làm LVTN và tốt nghiệp, nên bạn không cần thi lại bạn nhé.. . Thân. . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b . . Pđt cho em hỏi em đăng ký môn aerobic và huỷ để hiệu chỉnh lại giờ học nhưng đăng ký lại thì không được như hình. (Không bị trùng lịch và chưa học aerobic). . . . Trước đó em thuộc chương trình pfiev nhóm P nhưng đã xin chuyển ra ngoài và pđt đã xác nhận & nộp bản sao cho văn phòng khoa.. . . . Mong thầy cô phản hồi sớm để em kịp đợt đăng ký môn.. . Em xin cảm ơn.",
+            "QUOTE MSSV/MSGV: [student_id]. . . . Trong đợt đăng ký đầu tiên, em đăng ký thì không có vấn đề gì, vẫn được và thỏa mãn điều kiện đăng ký. Chỉ khi hủy để chọn lớp khác thì hệ thống mới báo lỗi, vì em thấy lớp có mỗi 1 2 người.. . . .   /QUOTE . .",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em hiện là sinh viên K19 nhưng được chuyển  và đã học một số môn  nên  hiện tại số tín chỉ của em đã lớn hơn 28 tín chỉ rồi ạ ( đã được pđt công nhận). . Học kì này e dự định học thêm mấy môn năm 2 nữa mới đủ tín chỉ qui định (15-17 chỉ) nhưng lại không thể đăng kí được, em đã lên phòng đào tạo và cô bảo lên bksi hỏi. Em mong sớm nhận được câu trả lời. . Em xin cảm ơn ạ.",
+            "Chào em, . . . . Em muốn đăng môn nào ? mã số môn học."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . tăng sỹ số môn học MT1005",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Dạ em chào phòng đào tạo, em có vài câu hỏi muốn phòng đào tạo trả lời giúp ạ. . . . Em là SV khóa K2016 chuẩn toeic là 500 để ra trường. . Chuẩn tiếng anh để học được năm 4 là Av2. . Hiện tại e chưa học AV3 và AV4 em dự định nộp bằng toeic để chuyển điểm Av3 và AV4.. . Giả sử em nộp bằng toeic vừa đủ 500 để ra trường nhưng em nộp vào học kì 201 thì em sẽ ko đủ điều kiện để quy đổi điểm AV3 và AV4.. . Như vậy bằng toeic 500 là đủ điều kiện tốt nghiệp. và sau đó em phải nộp bằng toeic tối thiểu 600 để quy đổi AV3 và AV4 thì mới ra được trường đúng không ạ. . Dạ em cảm ơn ạ.. . . .",
+            "đúng rồi bạn, bạn phải nộp bằng toeic tối thiểu 600 để quy đổi AV3 và AV4 vào HK201."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Xin mở thêm 2 sĩ số môn AS2007 Cơ ứng dụng cho sinh viên HC18KSTN:. . _ [full_name] [student_id]. . _ [full_name] [student_id]",
+            ". . Chào em,. . . . PDT đã tăng sỉ số, em đăng kí lại nhé.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chuyển thời khóa biểu và xin vào lớp học . Dạ em tên [full_name] MSSV [student_id],. . Khi sáng là em có bị lỗi về đăng ký môn học EE3017 ( môn bắt buộc trong kỳ này ). . Khi trưa vì lỡ bấm nhầm out môn EE3079 ( Điện tử công suất ứng dụng ). . Nên em mong muốn được chuyển đổi của môn học EE3017 ( Đo lường và điều khiển  bằng máy tính ) từ lớp A01_A01 sang A01_A05. . Và xin được vào lớp môn EE3079 ( Điện tử công suất ứng dụng ) lớp A01 . . Mong được chấp thuận ạ. . Em xin chân thành cảm ơn.  . . . .",
+            "Chào bạn.. . Bạn tự hiểu chỉnh môn học, PĐT đa tăng sĩ số lê n tối đa.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   /B Đăng ký môn học - Đại học - Cao đẳng chính quy   Chương trình đào tạo (thiếu môn tiên quyết, song hành...) . dạ học kì 191 em học anh văn 1 thì đợt đăng kí học ký 192 em có được đăng kí các môn của năm 2 không ạ ?. .",
+            "Chào em,. . . . Môn anh văn 1 là môn học trước anh văn 2 em đăng kí được nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Thưa Thầy(Cô). . Do lần đăng kí đợt 1 học kì 192 em bị lỗi chuẩn sinh viên năm 2 nên bị xóa hết môn cho đến khi đăng kí lại được thì đã full lớp, nay em muốn xin phòng đào tạo tăng sĩ số lớp Vẽ cơ khí (ME2021) ạ.. . Em chân thành cám ơn Thầy(Cô) đã đọc.",
+            "đã tăng ss lên 1. . bạn vào đk liền nhé",
+            "Thưa Thầy(Cô). . Do em không nhận được thông báo mở ss trên bksi nên khi em thấy thông báo thì lớp lại full rồi ạ, em biết chuyện của em phiền phức nhưng em xin PĐT giúp em thêm 1 lần nữa ạ và trước khi mở ss PĐT có thể hẹn giờ giúp em không ạ .. . Em chân thành cám ơn Thầy(Cô).",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số lên 35. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Trong phần cấu trúc môn học trên trang web http://www.aao.hcmut.edu.vn không yêu cầu môn học trước của anh văn 3 nhưng khi đăng kí thì hệ thống yêu cầu môn anh văn 2 là môn học trước",
+            "Chào em,. . . . PDT chưa cập nhật về vấn đề này, nhưng xưa nay môn anh văn 2 có môn học trước là av3, av3 có môn học trước là av4 nha em."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chương trình đào tạo - Đại học - Cao đẳng chính quy   Khác ... . Cho em hỏi khoa hoá hk192 có học vật lí 2 không ạ. .",
+            "Chào bạn,. . Bạn vui lòng tham khảo về CTDT của bạn tại:. . http://aao.hcmut.edu.vn/sinh viên/CHƯƠNG TRÌNH ĐÀO TẠO. . Hoặc xin gặp GVCN hoặc ban chủ nhiệm khoa để xin tư vấn thêm về CTDT. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ thầy cô ơi!. . Em mong thầy cô xem xét và mở rộng sỉ số môn học hả. . Mã MH: EE1013. . Lớp: A02",
+            "Dạ thầy cô ơi!. . Em mong thầy cô xem xét và mở rộng sỉ số môn học Vật Lý Bán dẫn. . Mã MH: EE1013. . Lớp: A02  /QUOTE . .",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Theo quy chế mới của trường sinh viên cần tích luỹ đủ 28 tín chỉ để có thể đkmh. Em mong nhà trường có thể cộng số tín chỉ của học kì 191 để có thể đủ số tín chỉ và đkmh ạ.",
+            "Chào bạn.. . Hiện tại PĐT đã cập nhật tạm điểm môn SV_N2 lên hệ thống đăng ký môn học.. . Bạn vào đăng ký lại môn học nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em chào thầy cô ạ.. . Em có một thắc mắc mong thầy cô xem xét và giải đáp thắc mắc giúp em ạ: Về trường hợp của em, em đang học môn anh văn 1 ở trường, nhưng đến ngày 6/1 mới thi cuối kì, thì sẽ bị trễ đăng kí môn học đợt 3 của kì sau, em đang ôn tập và dự định nộp bằng toiec vào kì tới. Như vậy kì sau của em sẽ không đăng kí các môn của năm hai được. Vậy trường hợp các môn anh văn học ở trường có được tính vào trường hợp lúc đăng kí môn học, các môn đang học sẽ được xem như đạt và tính vào TCTL không ạ. Để em có thể đăng kí môn học ở kì sau ạ.. . Em cảm ơn thầy cô rất nhiều ạ",
+            "Chào bạn. . . . Đối với các môn đang học mặc dù chưa có điểm vẫn được tính vào số TCTL tổng để xếp hạng sinh viên sau các năm.. . . . Đối với chuẩn AV sau các năm bạn phải nộp chuyển điểm hoặc thi và qua các môn AV 1234"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Em là [full_name], MSSV: [student_id]. Em đăng ký môn học Thực tập điện tử 1 (EE2023) nhóm A01. Em không hề xóa môn đó và bây giờ em kiểm tra thì đã bị mất môn này.. . . . Mong PĐT giải quyết giúp em và thêm em lại vào nhóm A01 môn EE2023.. . . .",
+            "kiểm tra thấy môn học đã có trong tkb của bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chương trình đào tạo (thiếu môn tiên quyết, song hành...) . Em xin chào thầy/cô,. . Em tên [full_name], sinh viên K16 khoa Cơ Khí, MSSV [student_id].. . . . Khi đăng ký môn học đợt 1 cho HK192, em đăng ký làm LVTN (ME4089), lúc ra kết quả thì em bị mất môn LVTN. Khi đăng ký LVTN ở đợt 2, hệ thống báo lỗi em thiếu CCAV nhưng em đã nộp và chuyển điểm các môn AV vào 2017. (có hình ảnh đính kèm). . . . Xin thầy/cô xem và giúp em giải quyết.",
+            "Chào bạn,. . . . Do quy chế mới ra có thay đổi về chuẩn anh văn  nên dữ liệu anh văn đang được cập nhật lại.. . . . Bạn vui lòng đợi đợt DKMH đợt 3 mở từ 02/01/2020 để đăng ký lại LVTN nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Sinh viên : [full_name] -[student_id]. . Câu hỏi số 1: Em là sinh viên đang học bằng 2, học kỳ 1 (2019-2020) này, em sẽ hoàn thành chương trình đào tạo bằng 1, em muốn đăng ký Luận Văn Tốt Nghiệp bằng 2 ( CI4343) cho hk2 (2019-2020) thì em cần phải làm gì ạ? Em đã hoàn thành các môn học đi trước, các môn tiên quyết để nhận Luận Văn Tốt Nghiệp bằng 2. . Câu hỏi số 2: Khi Em đăng ký Luận Văn tốt nghiệp bằng 2 (CI4343) thì bị Vi phạm loại hình sinh viên, loại hình đào tạo.. . . . Câu hỏi số 3:Em có cần phải làm đơn học bằng 2 gửi PĐT (đơn có ý kiến đồng ý của khoa đào tạo bằng 2 ) không ạ?. . Em xin cảm ơn!",
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được. . . . Sinh viên : [full_name] -[student_id]. . Câu hỏi số 1: Em là sinh viên đang học bằng 2, học kỳ 1 (2019-2020) này, em sẽ hoàn thành chương trình đào tạo bằng 1, em muốn đăng ký Luận Văn Tốt Nghiệp bằng 2 ( CI4343) cho hk2 (2019-2020) thì em cần phải làm gì ạ? Em đã hoàn thành các môn học đi trước, các môn tiên quyết để nhận Luận Văn Tốt Nghiệp bằng 2. . Câu hỏi số 2: Khi Em đăng ký Luận Văn tốt nghiệp bằng 2 (CI4343) thì bị Vi phạm loại hình sinh viên, loại hình đào tạo.. . . . Câu hỏi số 3:Em có cần phải làm đơn học bằng 2 gửi PĐT (đơn có ý kiến đồng ý của khoa đào tạo bằng 2 ) không ạ?. . Em xin cảm ơn!  /QUOTE . . Chào [full_name], . . 1. Em đăng ký LVTN (CI4343) bình thường nhe.. . 2.Do em đăng ký sai nhóm nên mới bị báo lỗi.Em nên đăng ký nhóm A hoặc L.. . 3.Em không cần làm đơn gửi PĐT.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chương trình đào tạo (thiếu môn tiên quyết, song hành...) .     1 Dạ em muốn hỏi một vấn đề, em học khoa hóa kì này có môn kinh tế đại cương ghi là bắt buộc nhưng em vô đăng kí thì không còn lịch trống, mà các môn khác cũng không thể thay đổi thời gian khác được vì đều đủ lớp hết rồi, cho nên em muốn hỏi kì này không đăng kí được môn bắt buộc thì có ảnh hưởng gì không ạ. Nếu có thể thì làm cách nào để đăng kí được ạ.. .     2 Câu thứ hai em muốn hỏi là quy chế mới năm nhất dưới 28 chỉ thì bắt buộc vậy ạ, vì em  chọn môn MAC 5 chỉ thì lỡ lên cả năm 30 chỉ rồi ạ.",
+            "em cung cấp mã môn học để kiểm tra sĩ số nhé. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hiện tại do thay đổi chương trình đào tạo nên em phải đăng kí môn Kinh tế học đại cương khác với trước đó là môn Vật lý 2, nhưng thời khóa biểu tạm thời bị trùng khiến em không đăng kí được. Vì vậy em mong Phòng đào tạo có thể giúp em thay đổi lịch hoặc mở thêm lớp vào các ngày khác. Em cảm ơn!. .",
+            "Chào bạn. . . . Bạn phải thực hiện chuyển nhóm trên phần mềm ĐKMH. PĐT không thể mở lớp hoặc can thiệp vào đkmh của bạn được."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1915121  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . dạ, cho em hỏi là tại sao em không đăng kí được môn ANH VĂN 1 mặc dù không bị trùng lịch ạ. Em gửi thêm 1 ảnh chụp màn hình về thắc mắc của em.. .",
+            "Chào em,. .  Em đăng kí lại nhé.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào thầy cô ạ. E là sinh viên năm 2 và e không đăng ký được môn học để đủ tín chỉ cho học kì tới. E mong thầy cô giúp tụi em ạ. E xin chân thành cảm ơn. . .",
+            "Chào em,. . . .  Em muốn đăng kí môn hoc nào? mã số môn học."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được. . . . Thưa thầy/cô, em đang là sinh viên năm 2. Hiện tại em đăng ký 8 môn theo chương trình đào tạo nhưng lại bị hủy AV3 và kì sau em bắt buộc phải qua được AV3 để đăng kí ngành năm 3. Lịch học theo trường xếp cho em 7 môn nhưng đã full từ thứ 2 đến thứ 6 làm em không thể chèn AV3 vào ngày nào được. Em thấy có 2 môn Xử lý số tín hiệu và Cơ sở kỹ thuật điện học lý thuyết và thí nghiệm nhưng lại có 3 buổi học ( dù là khác tuần học những như vậy vẫn không thể đăng ký môn khác nữa ). Thầy/Cô cho e hỏi là do lỗi hệ thống hiển thị hay lịch của em như vậy ạ ? Và nếu như vậy thì có cách nào để em đăng ký AV3 không ạ ?. . . .",
+            "Lịch học hệ thống đã hiện thị đúng rồi nhé em.Em chú ý nhìn tuần học sẽ thấy khác biệt. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi là môn học có mã là   B EE3145  /B  xem trong chương trình đào tạo là không yêu cầu môn học trước nhưng khi vào đăng ký môn học lại bắt buộc phải học các môn học trước.. . . . Em có đính kèm hai hình ảnh bên dưới ạ.. . . . Rất mong nhận được sự phản hổi của PĐT ạ.. . . . Xin chân thành cám ơn.",
+            "Chào bạn. . . . Khoa Điện đã điều chỉnh một số đề cương môn học áp dụng từ HK191, nhưng do trong quá trình các khoa đang hoàn thiện đề cương nên PĐT chưa update cấu trúc môn học trên web, sinh viên vui lòng liên hệ khoa Điện, nếu khoa có điều chỉnh lại điều kiện ràng buộc đăng ký môn học, thì khoa gởi yêu cầu điều chỉnh đến PĐT, PDT sẽ cập nhật để sinh viên đăng ký online."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . cho em xin tăng sĩ số môn Phương pháp tính - lớp L08 cơ sở 2 ạ",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học .    Lời đầu cho e gửi lời chào Thầy Cô cán bộ viên chức, giảng viên bộ môn và những ai trực tiếp làm việc với yêu cầu này ạ.. .   Em xin trình bày lí do: Do môn học Giải tích mạch( mã môn học EE1011) là môn học tiên quyết kéo theo rất nhiều môn quan trọng sau đó . Nhưng học kì 192 khoá K19 không học môn này, trong khi đó e và nhiều bạn khác  chưa qua môn GTM. Ở đợt 1 đăng kí môn học em có đăng kí nhưng không hiểu lí do vì sao bị out ra ở đợt 2, sau đó e vào đăng kí lại thì thấy chỉ có 1 lớp mở ở cs1 nhưng sĩ số đã đầy 34/34. Vậy em viết thư này xin phép thầy cô xem xét có thể tăng sĩ số lớp để e và các bạn khác có thể đăng kí học ạ!!! Đây là môn học quan trọng nên rất mong là yêu cầu được thông qua ạ.. . Em xin chân thành cảm ơn!!!. . [full_name]- [student_id]",
+            ". . Chào bạn,. . Môn học hiện tại đã vượt sức chưa tối đa cho phép.. . Nếu bạn môn đăng ký môn học thì bạn liên hệ VP Khoa xin mở thêm lớp, hoặc chờ đăng ký trong đợt Dự thính.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . cho em xin tăng sĩ số môn tư tưởng HCM lớp L04 cơ sở 2 được không ạ",
+            "Chào bạn. . Hiện PĐT đã tăng sĩ số môn học lên mức tối đa có thể. . Bạn vào đăng ký liền nhé. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em muốn đăng kí học gdtc mà bị báo lỗi như vầy ạ? Mong sớm giúp em khắc phục để em trả nợ để đủ điều kiện học tiếp ạ",
+            "Chào bạn. . . . Bạn là sinh viên VP bạn chọn đợt chuyển hệ để đăng ký cùng nhóm với SV chính quy"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chào thầy cô, em tên Lê Mậu Duy [student_id] muốn hỏi một vấn đề nữa là, hiện tại em đang đợt hiệu chỉnh đăng ký môn học.. . . . Theo quy chế mới, em hiện tại chưa đủ tín chỉ để đăng ký một số môn học cho ở kỳ sau HK192, đăng ký thì hệ thống báo lỗi chưa đủ tiên quyết chuẩn sinh viên năm 2, năm 3.. . Nhưng nếu tính thêm tín chỉ của học kỳ hiện tại HK191 (chính+dự thính) thì em đủ điều kiện đăng ký các môn đó. Trong khi quy chế mới áp dụng từ HK192. . . Vậy PĐT có thể xem xét lại tính thêm cả tín chỉ của HK191 này để em có thể hợp lệ đăng ký thêm các môn cho HK192 để không bị ảnh hưởng đến chương trình tiến độ học không ạ?. . . . Em xin cám ơn.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Em tên là [full_name] sinh khoa hóa k19. Chiều này em mới nhận thông báo trường thay đổi chương trình đào tạo học Kinh tế đại cương, nhưng khi em vào đăng kí môn thì đã chậm hơn các bạn khác một xíu thành ra những lớp học phù hợp thì đã hết còn những lớp khác thì lại bị trùng lịch. Em rất mong có thể tăng sĩ số lớp (các lớp em đã chụp ở file đính kèm) để em có thể có được lớp học phù hợp ạ.Em xin chân thành cảm ơn",
+            "em cung cấp mã môn học để kiểm tra nhé. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Điểm thi - Đại học - Cao đẳng chính quy   Điểm môn học . Chào Ad, cho em hỏi là kì 4 em có đăng kí 3 môn thể dục khác nhau và đã đạt hết. Nhưng lên xem tiến độ học tập trên mybk thì em lại chưa đạt thể chất 2,3. Em có hình bản điểm và tiến độ học tập ở dưới. Kính mong Ad có thể giải quyết giúp em. Em xin cảm ơn!",
+            "Chào bạn,. . Phần tiến độ học tập sẽ cập nhật sau, điểm môn GDTC sẽ được cập nhật trong bảng điểm chuyển. Bạn có bị vướng gì về môn GDTC khi đăng ký MH hay không?"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em thuộc khoá k17 và hiện đang có 55 tín chỉ, em mong rằng pdt có thể tính thêm số tín chỉ HK 191 để em có thể đăng ký môn học năm 3. Em xin cảm ơn ạ",
+            "Chào bạn,. . Hiện tại Phòng Đào tạo đã cập nhật lại số tín chỉ (cộng cả số TC HK191) và chuẩn về giáo dục thể chất, bạn vui lòng vào kiểm tra email và đăng ký lại nhé!. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Xét miễn môn anh văn (chuyển điểm) . Dạ em đã xin chuyển điểm và đóng phí xác nhận thủ tục xong từ học kì 182 mà trên bảng điểm cá nhân không được cập nhật ạ. Em hi vọng sớm đc hồi đáp ạ. .",
+            "Chào bạn,. . Bạn vui lòng xem lại trên  web có ghi rõ điểm chuyển 4 av của bạn Hk182 nhé.. . xem file đính kèm.. . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Kính gửi quý thầy cô phòng đào tạo.. . Em tên: Đoàn Đức Tài - MSSV: [student_id]. . Hiện tại dữ liệu về số tín chỉ tích lũy của em đang bị sai, và em không thể đăng kí môn học cho HK2 năm 2. Mong quý thầy cô xem xét giúp em.",
+            "Chào bạn,. . Hiện tại Phòng Đào tạo đã cập nhật lại số tín chỉ (cộng cả số TC HK191) và chuẩn về giáo dục thể chất, bạn vui lòng vào kiểm tra email và đăng ký lại nhé!. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em tên [full_name], khoá k2018, khoa Kỹ thuật Giao thông. Vừa rồi vì nộp học phí trễ hạn nên em bị xoá các môn học đã đăng ký. Ngay sau đó em đã nhanh chóng hoàn tất nộp học phí đầy đủ. Đây hoàn toàn là lỗi của em, em xin rút kinh nghiệm và mong pđt có thể cứu xét mở lại cho em được đăng ký môn học. Em cảm ơn!",
+            "các trường hợp đóng học phí trễ hạn bạn phải lên PĐT trình bày lý do đóng trễ để được mở khóa ĐKMH nhé.",
+            "Chào bạn,. . Trường hợp thanh toán học phí trễ/ cập nhật thông tin, . . Bạn vui lòng vào thanh toán học phí và cập nhất thông tin, cuối ngày (16h hàng ngày) Phòng Đào tạo sẽ lấy dữ liệu và cập nhật cho các bạn đăng ký MH vào 13h ngày hôm sau nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Em là [full_name], sinh viên chính quy Khoá 2019. . Vào tháng 9/2019, trường có tổ chức cho tân sinh viên kì kiểm tra Chuẩn Anh văn đầu vào và có 3 lựa chọn (như trong hình). Lúc đó em đăng ký CHON3, tức là chỉ thi nhưng không xếp lớp. Bây giờ em muốn đăng ký các môn Anh văn cho học kỳ 192 thì có được không? Nếu được thì em có cần làm đơn gì hay không, hay chỉ cần đăng ký?. . . .",
+            "Chào bạn,. . Bạn tự đăng ký môn av trên web nhé.. . Thân.. ."
+        ]
+    }
+]
