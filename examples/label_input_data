@@ -1,6 +1,8 @@
 import json
 
-with open('intent_for_message/intent_2.json', 'r', encoding='utf-8') as f:
+input_file = 'intent_for_message/intent_1.json'
+
+with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # print(data)
@@ -9,25 +11,18 @@ with open('intent_entities.json', 'r', encoding='utf-8') as f:
     map = json.load(f)
 
 # print(map)
-
+# index = -1
 for component in data:
-    if component['intent'] == "": 
+    # index += 1
+    if component['intent'] in ["", "other"]: 
         continue
     key = component['intent']
     new_label = {}
     for entity in map[key]['entities']:
         new_label[entity] = ""
+    component['entities'] = new_label
 
-print(data)
-    # triple["message"] = component['message']
-    # triple["intent"] = component['intent'] 
-    # for key, value in question_data.items():
-    #     if key == component['intent']:
-    #         question = question_data[key]
-    #         entity = {}
-    #         for q in question:
-    #             QA_input = {'question': q, 'context': message}
-    #             respond = nlp(QA_input)
-    #             entity[get_entity(q,component['intent'])] = respond['answer']
-    #         triple["entities"] = entity       
-    # answer.append(triple)
+# print(data)
+with open(input_file, 'w', encoding='utf-8') as f:
+    json.dump(data, f, ensure_ascii = False, indent=4)
+

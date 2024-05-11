@@ -5,14 +5,14 @@ import json
 
 # HUGGING_FACE_API_KEY = os.environ.get("HUGGING_FACE_API_KEY")
 
-with open('intent_for_message/intent_1.json', 'r', encoding='utf-8') as f:
+with open('intent_for_message/intent_5.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 with open('template.json', 'r', encoding='utf-8') as f:
     question_data = json.load(f)
 
 def get_entity(question, intent):
-    words_to_remove = ["nào", "gì", "bao nhiêu"]
+    words_to_remove = ["nào", "gì", "bao nhiêu", "mấy"]
     index = question.find("với") 
     entity = question[index + 3 + 1:-1]
     for word in words_to_remove:
@@ -40,6 +40,6 @@ for component in data:
             triple["entities"] = entity       
     answer.append(triple)
 
-with open('answer1.json', 'w', encoding='utf-8') as f:
+with open('answer5.json', 'w', encoding='utf-8') as f:
     json.dump(answer, f, ensure_ascii = False, indent=4)
 
