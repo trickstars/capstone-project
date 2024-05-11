@@ -1,6 +1,12 @@
 [
     {
         "message": [
+            "Yêu cầu khác:"
+        ],
+        "intent": ""
+    },
+    {
+        "message": [
             "b MSSV/MSGV: [student_id]4  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . phòng đào tạo trả lời giúp em thắc mắc này. Em khóa 2011 hiện tại em còn nợ môn cơ lưu chất msmh 802015 ,2 tín chỉ.nhưng hiện môn này không còn mở nữa vậy cho em hỏi em học môn cơ lưu chất msmh CI2003 ,3 tín chỉ vậy có đc chuyển điểm không ạ. hay phải bắt buộc đăng kí cơ lưu chất mshm 802015 ạ. em xin cảm ơn",
             "Chào em,. . . . 1. Về môn tương đương/thay thế, em xem ở web PDT    Sinh viên    Chương trình đào tạo, mục Môn tương đương, thay thế.. . 2. Nếu học môn tương đương và đạt thì sẽ được miễn môn gốc trong CTDT, không chuyển điểm.. ."
         ],
@@ -183,6 +189,12 @@
     },
     {
         "message": [
+            "b MSSV/MSGV: [student_id]6  /b \t. . . . Kính gửi phòng đào tạo, em là sinh viên k13 khoa Kỹ thuật xây dựng em có một chút thắc mắc về điểm TBTLN như sau ạ. Phòng đào tạo cho em hỏi là điểm TBTLN có tính điểm các môn học đại cương như giải tích 1, giải tích 2 không ạ hay là chỉ tính điểm của những môn chuyên ngành có mã 8. Em xin chân thành cảm ơn."
+        ],
+        "intent": ""
+    },
+    {
+        "message": [
             "Yêu cầu khác . Em đã làm mất mật khẩu của tài khoản [email] mà nhà trường cấp cho em từ đầu năm. Em rất mong có được sự hỗ trợ từ nhà trường có thể giúp em tìm lại được mật khẩu để em tiếp tục sử dụng tài khoản này ạ. Em xin cám ơn nhà trường. . ."
         ],
         "intent": "khôi phục mật khẩu",
@@ -214,6 +226,13 @@
             "học kỳ": "ngày 3/10",
             "lớp học": "Đại học - Cao đẳng chính quy"
         }
+    },
+    {
+        "message": [
+            "Em chào Cô,. . . . Em muốn hỏi vê số tín chỉ tích luỹ ngành, em là sinh viên bằng 2 ngành tự động hoá, hiện em chưa nộp bằng tiếng anh, Cô cho em hỏi khi em nộp bằng tiếng anh toeic 500 thì em có được cộng thêm 8 tín chỉ tiếng anh vào tổng tín chỉ tích luỹ không ạ.. . . . Em cảm ơn Cô!. . . .",
+            "Kính chào Quý Thầy Cô,. . . . Kính mong Thầy, Cô giải đáp dùm em câu hỏi phía trên ạ, em cần thông tin để phân phối lịch học cho phù hợp với công việc (Em học bằng 2 ban ngày).. . . . Em xin cảm ơn"
+        ],
+        "intent": ""
     },
     {
         "message": [
@@ -284,6 +303,12 @@
             "mã môn học": "Tư tưởng",
             "lý do": "không được chuyển điểm môn này"
         }
+    },
+    {
+        "message": [
+            "Kính gửi PĐT,. . . . Em có BHYT rồi giờ chỉ muốn đóng BH tai nạn. Em không tìm được hướng dẫn để thực hiện việc này. Mong được hướng dẫn.. . . . EM CÓ GÓP Ý THẾ NÀY! Lúc đầu \"hỗ trợ trực tuyến\" mở ra còn hỗ trợ trả lời thắc mắc SV rất nhanh chóng, giờ em gửi hỏi nhiều lần cũng không được trả lời.. . . . Nếu PĐT đóng hỗ trợ thì hãy thông báo cho SV biết để không phải mất thời gian lên đây hỏi và đợi được trả lời nữa.. . . . Em xin cảm ơn!. . . ."
+        ],
+        "intent": ""
     },
     {
         "message": [
@@ -399,6 +424,12 @@
             "khoá": "Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
         }
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Tốt nghiệp - Đại học - Cao đẳng chính quy   Cập nhật ngày CTXH, điểm ... . Kính thưa thầy cô,. . Em là [full_name], mssv: [student_id]8 thuộc khoa Khoa học và kỹ thuật máy tính. Vừa rồi em đã có điểm và đậu môn thi vét: Mật mã và An ninh mạng. Thầy cô cho em hỏi: em đã đủ điều kiện để tốt nghiệp đại học chưa (công tác xã hội, môn học, khám sức khỏe...)? Nếu còn thiếu, xin thầy cô chỉ dẫn giúp em để em bổ sung. Cám ơn thầy cô và chúc sức khỏe.. . . . Chân thành!. . . . [full_name]"
+        ],
+        "intent": ""
     },
     {
         "message": [
