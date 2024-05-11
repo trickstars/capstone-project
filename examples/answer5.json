@@ -1,6 +1,12 @@
 [
     {
         "message": [
+            "Yêu cầu khác:"
+        ],
+        "intent": ""
+    },
+    {
+        "message": [
             "b MSSV/MSGV: [student_id]4  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . phòng đào tạo trả lời giúp em thắc mắc này. Em khóa 2011 hiện tại em còn nợ môn cơ lưu chất msmh 802015 ,2 tín chỉ.nhưng hiện môn này không còn mở nữa vậy cho em hỏi em học môn cơ lưu chất msmh CI2003 ,3 tín chỉ vậy có đc chuyển điểm không ạ. hay phải bắt buộc đăng kí cơ lưu chất mshm 802015 ạ. em xin cảm ơn",
             "Chào em,. . . . 1. Về môn tương đương/thay thế, em xem ở web PDT    Sinh viên    Chương trình đào tạo, mục Môn tương đương, thay thế.. . 2. Nếu học môn tương đương và đạt thì sẽ được miễn môn gốc trong CTDT, không chuyển điểm.. ."
         ],
@@ -58,7 +64,7 @@
             "mã môn học": "MSSV/MSGV: G[student_id]",
             "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: G[student_id]",
-            "đợt mấ": "Đăng ký môn học - Đại học - Cao đẳng chính quy"
+            "đợt": "Đăng ký môn học - Đại học - Cao đẳng chính quy"
         }
     },
     {
@@ -164,7 +170,7 @@
         "entities": {
             "loại điểm": "các môn học đại cương như giải tích 1, giải tích 2",
             "khoá": "Kỹ thuật xây dựng",
-            "hệ số mấ": "8."
+            "hệ số": "8."
         }
     },
     {
@@ -180,6 +186,12 @@
             "thời gian": "khóa 2010",
             "lý do": "để có được bằng đi làm"
         }
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]6  /b \t. . . . Kính gửi phòng đào tạo, em là sinh viên k13 khoa Kỹ thuật xây dựng em có một chút thắc mắc về điểm TBTLN như sau ạ. Phòng đào tạo cho em hỏi là điểm TBTLN có tính điểm các môn học đại cương như giải tích 1, giải tích 2 không ạ hay là chỉ tính điểm của những môn chuyên ngành có mã 8. Em xin chân thành cảm ơn."
+        ],
+        "intent": ""
     },
     {
         "message": [
@@ -217,13 +229,20 @@
     },
     {
         "message": [
+            "Em chào Cô,. . . . Em muốn hỏi vê số tín chỉ tích luỹ ngành, em là sinh viên bằng 2 ngành tự động hoá, hiện em chưa nộp bằng tiếng anh, Cô cho em hỏi khi em nộp bằng tiếng anh toeic 500 thì em có được cộng thêm 8 tín chỉ tiếng anh vào tổng tín chỉ tích luỹ không ạ.. . . . Em cảm ơn Cô!. . . .",
+            "Kính chào Quý Thầy Cô,. . . . Kính mong Thầy, Cô giải đáp dùm em câu hỏi phía trên ạ, em cần thông tin để phân phối lịch học cho phù hợp với công việc (Em học bằng 2 ban ngày).. . . . Em xin cảm ơn"
+        ],
+        "intent": ""
+    },
+    {
+        "message": [
             "b MSSV/MSGV: [student_id]6  /b \t. . . . Dạ kính thưa PDT, em là [full_name]. MSSV [student_id]6. Em xin hỏi PDT về vấn đề sau: Em đã nộp chứng chỉ anh văn, và đã đăng kí quy đổi điểm cho môn anh văn 4. Nhưng trong đợt dkmh vừa rồi em được đăng kí vào lớp anh văn 4 bắt buộc( vì lúc đó chưa quy đổi điểm). Vậy cho em hỏi bây giờ em không đi học, hoặc học mà   5.0 thì có ảnh hưởng gì tới điểm anh văn em đã quy đổi hay không, và chỉ tích lũy của môn anh văn khi đã quy đổi có bị ảnh hưởng gì không ạ? . . Em xin cảm ơn!"
         ],
         "intent": "hỏi cách tính điểm",
         "entities": {
             "loại điểm": "chứng chỉ anh văn,",
             "khoá": "môn anh văn",
-            "hệ số mấ": "4."
+            "hệ số": "4."
         }
     },
     {
@@ -236,7 +255,7 @@
             "mã môn học": "MSSV/MSGV: 1620022",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "1620022",
-            "đợt mấ": "Môn Cơ"
+            "đợt": "Môn Cơ"
         }
     },
     {
@@ -249,7 +268,7 @@
             "mã môn học": "HK171",
             "học kỳ": "không đăng ký được LVTN cho HK172..",
             "mã nhóm/lớp": "HK171",
-            "đợt mấ": "không đăng ký được LVTN cho HK172.."
+            "đợt": "không đăng ký được LVTN cho HK172.."
         }
     },
     {
@@ -287,6 +306,12 @@
     },
     {
         "message": [
+            "Kính gửi PĐT,. . . . Em có BHYT rồi giờ chỉ muốn đóng BH tai nạn. Em không tìm được hướng dẫn để thực hiện việc này. Mong được hướng dẫn.. . . . EM CÓ GÓP Ý THẾ NÀY! Lúc đầu \"hỗ trợ trực tuyến\" mở ra còn hỗ trợ trả lời thắc mắc SV rất nhanh chóng, giờ em gửi hỏi nhiều lần cũng không được trả lời.. . . . Nếu PĐT đóng hỗ trợ thì hãy thông báo cho SV biết để không phải mất thời gian lên đây hỏi và đợi được trả lời nữa.. . . . Em xin cảm ơn!. . . ."
+        ],
+        "intent": ""
+    },
+    {
+        "message": [
             "b MSSV/MSGV: [student_id]8  /b \t. . . . Dạ, học kì vừa rồi em đóng trễ học phí  dự thính và học phí tạm ứng học kì 1, em đã đóng tiền và làm đơn nhưng đến nay vẫn chưa khôi phục TKB và lịch thi dự thính cho em. . Em mong nhận được sự giúp đỡ của thầy/cô."
         ],
         "intent": "cập nhật thời khoá biểu",
@@ -306,7 +331,7 @@
             "mã môn học": "MSSV/MSGV: [student_id]9",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]9",
-            "đợt mấ": "MSSV/MSGV: [student_id]9"
+            "đợt": "MSSV/MSGV: [student_id]9"
         }
     },
     {
@@ -319,7 +344,7 @@
             "mã môn học": "MSSV/MSGV: [student_id]9",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]9",
-            "đợt mấ": "MSSV/MSGV: [student_id]9"
+            "đợt": "MSSV/MSGV: [student_id]9"
         }
     },
     {
@@ -346,7 +371,7 @@
             "mã môn học": "MSSV/MSGV: 21302889",
             "học kỳ": "nhiệt động lực học",
             "mã nhóm/lớp": "MSSV/MSGV: 21302889",
-            "đợt mấ": "MSSV/MSGV: 21302889"
+            "đợt": "MSSV/MSGV: 21302889"
         }
     },
     {
@@ -359,7 +384,7 @@
             "mã môn học": "CO1003",
             "học kỳ": "CO1003",
             "mã nhóm/lớp": "CO1003",
-            "đợt mấ": "Không dk được môn học mã CO1003"
+            "đợt": "Không dk được môn học mã CO1003"
         }
     },
     {
@@ -372,7 +397,7 @@
             "mã môn học": "MSSV/MSGV: [student_id]8",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]8",
-            "đợt mấ": "MSSV/MSGV: [student_id]8"
+            "đợt": "MSSV/MSGV: [student_id]8"
         }
     },
     {
@@ -402,6 +427,12 @@
     },
     {
         "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Tốt nghiệp - Đại học - Cao đẳng chính quy   Cập nhật ngày CTXH, điểm ... . Kính thưa thầy cô,. . Em là [full_name], mssv: [student_id]8 thuộc khoa Khoa học và kỹ thuật máy tính. Vừa rồi em đã có điểm và đậu môn thi vét: Mật mã và An ninh mạng. Thầy cô cho em hỏi: em đã đủ điều kiện để tốt nghiệp đại học chưa (công tác xã hội, môn học, khám sức khỏe...)? Nếu còn thiếu, xin thầy cô chỉ dẫn giúp em để em bổ sung. Cám ơn thầy cô và chúc sức khỏe.. . . . Chân thành!. . . . [full_name]"
+        ],
+        "intent": ""
+    },
+    {
+        "message": [
             "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Kính gởi Phòng Đào Tạo,. . Em là sinh viên năm 4, khoa Khoa Học Và Kỹ Thuật Máy Tính.. . Kỳ này em có đăng ký môn Hệ Phân Bố - MSMH: CO3071, do em chỉ còn 1 môn nữa là đủ tín chỉ nên em không có đăng ký thêm môn khác. Nhưng môn này vừa bị hủy môn học vì không đủ sĩ số.. . Kính mong PĐT có thể xem xét trường hợp của em, cho phép em đăng ký môn học khác để có thể kịp tiến độ học tập.. . Em xin chân thành cảm ơn!",
             "Bạn cần đăng ký bổ sung môn học nào vui lòng nộp đơn về PĐT nhé."
         ],
@@ -411,7 +442,7 @@
             "mã môn học": "Hệ Phân Bố - MSMH: CO3071,",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Hệ Phân Bố - MSMH: CO3071,",
-            "đợt mấ": "năm 4,"
+            "đợt": "năm 4,"
         }
     },
     {
@@ -424,7 +455,7 @@
             "mã môn học": "MSSV/MSGV: [student_id]7",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]7",
-            "đợt mấ": "MSSV/MSGV: [student_id]7"
+            "đợt": "MSSV/MSGV: [student_id]7"
         }
     },
     {
@@ -526,7 +557,7 @@
             "mã môn học": "anh văn",
             "học kỳ": "kì 181",
             "mã nhóm/lớp": "k15",
-            "đợt mấ": "năm 3"
+            "đợt": "năm 3"
         }
     },
     {
@@ -539,7 +570,7 @@
             "mã môn học": "LVTN",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "LVTN",
-            "đợt mấ": "2018-2019,"
+            "đợt": "2018-2019,"
         }
     },
     {
@@ -575,7 +606,7 @@
             "mã môn học": "Đại học - Cao đẳng chính quy",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
-            "đợt mấ": "2"
+            "đợt": "2"
         }
     }
 ]
