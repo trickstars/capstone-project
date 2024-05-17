@@ -9,20 +9,8 @@
             "mã môn học": "Nhiễuxạ tiaX",
             "khoá": "Nhiễuxạ tiaX",
             "hệ đào tạo": "Nhiễuxạ tiaX"
-        }
-    },
-    {
-        "message": [
-            "b MSSV/MSGV: V1103409  /b \t. . . .   i Yêu cầu khác . Em có học môn tương đương Nhiễuxạ tiaX &các ppncvl Mã MH:MA3003 của chương trình đào tạo k14 tương đương với môn P/pháp đánh giá vật liệu Mã MH:215003 .Em đã đạt được môn Mã MH:MA3003.Như vậy PĐT có tự động tính tín chỉ vào cho em không?Hay em phải cần làm đơn gì không?"
-        ],
-        "intent": "hỏi thông tin môn học",
-        "entities": {
-            "môn học": "Nhiễuxạ tiaX",
-            "mã môn học": "MSSV/MSGV: V1103409",
-            "học kỳ": "Nhiễuxạ tiaX",
-            "khoa": "Nhiễuxạ tiaX",
-            "khoá": "Nhiễuxạ tiaX"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -34,7 +22,8 @@
             "khoa": "ngoại ngữ",
             "học kỳ": "2017-2018",
             "hệ đào tạo": "Chứng chỉ ngoại ngữ"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -47,7 +36,8 @@
             "học kỳ": "HKI 2017-2018",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]3",
             "đợt": "MSSV/MSGV: [student_id]3"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -58,7 +48,8 @@
             "dịch vụ": "chuyển điểm anh văn.",
             "loại lỗi": "chuyển điểm anh văn.",
             "quá trình": "đóng 2 lần chuyển điểm anh văn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -72,7 +63,8 @@
             "mã môn học": "anh văn",
             "học kỳ": "IELTS,",
             "lý do": "điểm Anh văn 4 lại có chênh lệch"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -84,7 +76,8 @@
             "khoa": "Tốt nghiệp - Đại học - Cao đẳng chính quy",
             "khoá": "Tốt nghiệp - Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "i Tốt nghiệp - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -96,7 +89,8 @@
             "khoa": "nộp bằng toeic trước ngày 7/8",
             "học kỳ": "học kì 1 năm 2017",
             "hệ đào tạo": "nộp bằng toeic trước ngày 7/8"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -107,7 +101,8 @@
         "entities": {
             "lĩnh vực": "Thẩm tra chứng chỉ (nộp chứng chỉ)",
             "lý do": "tập tin hình em quá lớn,"
-        }
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -120,7 +115,8 @@
             "hệ đào tạo": "dự",
             "học kỳ": "đóng học phí",
             "khoá": "đóng học phí"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -134,7 +130,8 @@
             "hình thức": "in bảng điểm học GDQP",
             "thời gian": "cuối tháng 8 hoặc đầu tháng 9",
             "lý do": "phòng Đào Tạo có thể tạo điều kiện giúp em"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -148,7 +145,8 @@
             "hệ đào tạo": "Học phí - Đại học - Cao đẳng chính quy",
             "học kỳ": "Học phí - Đại học - Cao đẳng chính quy",
             "khoá": "Học phí - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -158,7 +156,8 @@
         "entities": {
             "loại thông tin": "thông tin cá nhân trên myBK",
             "lý do": "thông tin nơi sinh của em không đúng với dữ liệu hiện tại"
-        }
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -169,7 +168,8 @@
             "khoa": "Đại học - Cao đẳng chính quy",
             "khoá": "Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -180,7 +180,8 @@
             "môn học": "văn",
             "mã môn học": "văn",
             "hệ đào tạo": "Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -194,7 +195,8 @@
             "khoa": "Điện tử,",
             "khoá": "Em bảo vệ luận văn",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -207,7 +209,8 @@
             "hình thức": "làm đơn",
             "thời gian": "trường hợp của bạn, tôi nghĩ bạn nên đăng ký môn học 171",
             "lý do": "do em chưa có chứng chỉ ngoại ngữ ANh Văn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -219,7 +222,8 @@
             "lý do": "nhận đồ án tốt nghiệp,",
             "thời gian": "trước thời hạn bảo vệ đồ án được không?",
             "học kỳ": "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -229,7 +233,8 @@
         "entities": {
             "loại biểu mẫu": "1 giấy xác nhận đang làm luận văn tốt nghiệp.",
             "mục đích": "xin được xác nhận các loại văn bản trên?."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -242,7 +247,8 @@
             "hình thức": "thông báo tốt nghiệp cụ thể",
             "thời gian": "tháng 8/2017",
             "lý do": "vừa hoàn thành Luận văn tốt nghiệp trong HK162"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -254,7 +260,8 @@
             "học kỳ": "anh văn",
             "mã môn học": "anh văn",
             "lý do": "miễn môn anh văn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -265,7 +272,8 @@
             "khoa": "nộp CCNN trước thời điểm đăng ký LVTN ít nhất 01 ngày.",
             "khoá": "nộp CCNN trước thời điểm đăng ký LVTN ít nhất 01 ngày.",
             "hệ đào tạo": "nộp CCNN trước thời điểm đăng ký LVTN ít nhất 01 ngày."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -277,7 +285,8 @@
             "khoa": "Số TCTL nghành của em để nhận LVTN là 139.",
             "khoá": "Số TCTL nghành của em để nhận LVTN là 139.",
             "hệ đào tạo": "Số TCTL nghành của em để nhận LVTN là 139."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -288,7 +297,8 @@
             "khoa": "Đại học - Cao đẳng chính quy",
             "khoá": "Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -301,7 +311,8 @@
             "mã môn học": "môn vật lí",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "đợt thi": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -313,9 +324,9 @@
         ],
         "intent": "hỏi về thủ tục",
         "entities": {
-            "loại thủ tục": "đăng ký môn học,",
-            "mục đích": "em phải đăng ký môn học,"
-        }
+            "loại thủ tục": "đăng ký môn học,"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -327,7 +338,8 @@
             "nguyên nhân": "Học kỳ vừa qua em có một số việc đột xuất vào cuối kỳ",
             "khoa": "trang thông tin sinh viên",
             "khoá": "học kỳ rồi em có bị cảnh cáo học vụ không"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -336,9 +348,9 @@
         ],
         "intent": "hỏi về thủ tục",
         "entities": {
-            "loại thủ tục": "thôi học",
-            "mục đích": "thôi học"
-        }
+            "loại thủ tục": "thôi học"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -352,7 +364,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
             "đợt": "171"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -366,7 +379,8 @@
             "học kỳ": "Tái chế vật liệu.",
             "lý do": "Tái chế vật liệu.",
             "hình thức": "Tái chế vật liệu."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -379,7 +393,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "anh văn 2",
             "đợt": "2"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -399,7 +414,8 @@
             "học kỳ": "5),",
             "mã nhóm/lớp": "21",
             "đợt": "21"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -412,7 +428,8 @@
             "khoa": "Đại học - Cao đẳng chính quy",
             "học kỳ": "162",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -425,7 +442,8 @@
             "mã môn học": "quản trị kinh doanh",
             "học kỳ": "2",
             "lý do": "môn quản trị kinh doanh cho kĩ sư"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -438,7 +456,8 @@
             "học kỳ": "DAMH 2",
             "mã nhóm/lớp": "400009",
             "đợt": "DAMH 2 của K13"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -450,7 +469,8 @@
             "loại giấy tờ": "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy",
             "thời gian": "MSSV/MSGV: [student_id]8",
             "lý do": "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -462,7 +482,8 @@
             "loại điểm": "điểm TB tích lũy ngành hay là điểm TB tất cả các môn:",
             "khoá": "Cao đẳng chính quy",
             "hệ số": "8"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -475,7 +496,8 @@
             "loại giấy tờ": "Giấy xác nhận sinh viên",
             "thời gian": "Giấy xác nhận sinh viên",
             "lý do": "Giấy xác nhận sinh viên"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -489,7 +511,8 @@
             "mã môn học": "lập phân tích dự án",
             "học kỳ": "Đại học - Cao đẳng chính quy   Khác",
             "lý do": "Em muốn tốt nghiệp là phải qua môn này"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -502,7 +525,8 @@
             "hình thức": "Khi đăng ký, cứ đăng ký bình thường.",
             "thời gian": "trường hợp em đậu môn đó hay không",
             "lý do": "trường hợp em đậu môn đó hay không"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -512,7 +536,8 @@
         "entities": {
             "loại thông tin": ".",
             "mục đích": "biết điểm rèn luyện hiện tại của mình"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -526,7 +551,8 @@
             "học kỳ": "ngành công nghệ may",
             "mã nhóm/lớp": "ngành công nghệ may k14,",
             "đợt": "3 môn tự chọn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -541,7 +567,8 @@
             "mã môn học": "môn tin học đại cương",
             "học kỳ": "tin học đại cương",
             "lý do": "Em muốn tốt nghiệp là phải qua môn này"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -552,7 +579,8 @@
             "khoa": "Máy tính",
             "khoá": "Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -566,7 +594,8 @@
             "mã môn học": "môn nguyên lý máy,",
             "học kỳ": "môn nguyên lý máy,",
             "lý do": "các lớp đều để 0/-1 nê em không đăng ký được."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -579,7 +608,8 @@
             "mã môn học": "môn Thực tập kĩ thuật",
             "khoá": "môn Thực tập kĩ thuật",
             "hệ đào tạo": "Học vụ - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -593,6 +623,7 @@
             "học kỳ": "TTTN",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]8",
             "đợt": "MSSV/MSGV: [student_id]8"
-        }
+        },
+        "accuracy": 0
     }
 ]

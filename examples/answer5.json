@@ -3,7 +3,8 @@
         "message": [
             "Yêu cầu khác:"
         ],
-        "intent": ""
+        "intent": "",
+        "accuracy": 0
     },
     {
         "message": [
@@ -16,7 +17,8 @@
             "mã môn học": "Môn tương đương, thay thế..",
             "khoá": "cơ lưu",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -29,7 +31,8 @@
             "mã môn học": "Hóa vô cơ,",
             "khoá": "Chương trình đào tạo - Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -41,7 +44,8 @@
             "khoá": "kỹ thuật hóa học.",
             "khoa": "khoa Hóa, ngành Hóa hữu cơ",
             "hệ đào tạo": "khoa Hóa, ngành Hóa hữu cơ"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -52,7 +56,8 @@
         "entities": {
             "loại giấy tờ": "giấy chứng nhận TN và bảng điểm",
             "thời gian": "ngày 30/8 nộp đơn đăng kí"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -65,7 +70,8 @@
             "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: G[student_id]",
             "đợt": "Đăng ký môn học - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -77,7 +83,8 @@
             "môn học": "Anh văn",
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "lớp học": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -90,7 +97,8 @@
             "học kỳ": "cơ sở 2",
             "mã môn học": "có thể chuyển lớp xuống cơ sở 2",
             "lý do": "đăng kí môn giáo dục thể chất 1 ở cs2"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -102,7 +110,8 @@
             "học kỳ": "MSSV/MSGV: [student_id]4",
             "khoá": "khóa K12 chuyên ngành Điện tử - Viễn thông.",
             "khoa": "Điện tử - Viễn thông."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -113,7 +122,8 @@
         "entities": {
             "loại giấy tờ": "giấy cntttam thời",
             "thời gian": "nộp đơn cấp bằng hay chỉ cần đăng kí lí lịch tốt nghiệp"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -126,7 +136,8 @@
             "mã môn học": "b",
             "học kỳ": "khóa 2000",
             "đợt thi": "thi vét khóa 2000"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -136,7 +147,8 @@
         "entities": {
             "loại giấy tờ": "Giấy chứng nhận tốt nghiệp",
             "thời gian": "thứ 6 hàng tuần"
-        }
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -149,7 +161,8 @@
             "học kỳ": "A01.",
             "mã môn học": "A01.",
             "lý do": "học kỳ cuối em được gia hạn để hoàn thành nốt chương trình học.."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -160,7 +173,8 @@
             "dịch vụ": "thông tin đăng nhập.",
             "loại lỗi": "thông tin đăng nhập.",
             "quá trình": "thông tin đăng nhập."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -171,7 +185,8 @@
             "loại điểm": "các môn học đại cương như giải tích 1, giải tích 2",
             "khoá": "Kỹ thuật xây dựng",
             "hệ số": "8."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -185,23 +200,8 @@
             "hình thức": "đóng qua bkpay",
             "thời gian": "khóa 2010",
             "lý do": "để có được bằng đi làm"
-        }
-    },
-    {
-        "message": [
-            "b MSSV/MSGV: [student_id]6  /b \t. . . . Kính gửi phòng đào tạo, em là sinh viên k13 khoa Kỹ thuật xây dựng em có một chút thắc mắc về điểm TBTLN như sau ạ. Phòng đào tạo cho em hỏi là điểm TBTLN có tính điểm các môn học đại cương như giải tích 1, giải tích 2 không ạ hay là chỉ tính điểm của những môn chuyên ngành có mã 8. Em xin chân thành cảm ơn."
-        ],
-        "intent": ""
-    },
-    {
-        "message": [
-            "Yêu cầu khác . Em đã làm mất mật khẩu của tài khoản [email] mà nhà trường cấp cho em từ đầu năm. Em rất mong có được sự hỗ trợ từ nhà trường có thể giúp em tìm lại được mật khẩu để em tiếp tục sử dụng tài khoản này ạ. Em xin cám ơn nhà trường. . ."
-        ],
-        "intent": "khôi phục mật khẩu",
-        "entities": {
-            "loại mật khẩu": "tài khoản [email]",
-            "lý do": "làm mất mật khẩu của tài khoản"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -213,7 +213,8 @@
             "hình thức": "để có bằng đi làm,",
             "thời gian": "tháng 11 tới",
             "lý do": "để có bằng đi làm,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -225,14 +226,8 @@
             "môn học": "CO1007 - Cấu trúc",
             "học kỳ": "ngày 3/10",
             "lớp học": "Đại học - Cao đẳng chính quy"
-        }
-    },
-    {
-        "message": [
-            "Em chào Cô,. . . . Em muốn hỏi vê số tín chỉ tích luỹ ngành, em là sinh viên bằng 2 ngành tự động hoá, hiện em chưa nộp bằng tiếng anh, Cô cho em hỏi khi em nộp bằng tiếng anh toeic 500 thì em có được cộng thêm 8 tín chỉ tiếng anh vào tổng tín chỉ tích luỹ không ạ.. . . . Em cảm ơn Cô!. . . .",
-            "Kính chào Quý Thầy Cô,. . . . Kính mong Thầy, Cô giải đáp dùm em câu hỏi phía trên ạ, em cần thông tin để phân phối lịch học cho phù hợp với công việc (Em học bằng 2 ban ngày).. . . . Em xin cảm ơn"
-        ],
-        "intent": ""
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -243,7 +238,8 @@
             "loại điểm": "chứng chỉ anh văn,",
             "khoá": "môn anh văn",
             "hệ số": "4."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -256,7 +252,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "1620022",
             "đợt": "Môn Cơ"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -269,7 +266,8 @@
             "học kỳ": "không đăng ký được LVTN cho HK172..",
             "mã nhóm/lớp": "HK171",
             "đợt": "không đăng ký được LVTN cho HK172.."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -278,7 +276,8 @@
         "intent": "cập nhật dữ liệu",
         "entities": {
             "loại dữ liệu": "chưa cập nhật."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -290,7 +289,8 @@
             "khoa": "sức khỏe",
             "học kỳ": "khóa k12",
             "hệ đào tạo": "sinh viên khóa k12"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -302,13 +302,15 @@
             "học kỳ": "Tư tưởng",
             "mã môn học": "Tư tưởng",
             "lý do": "không được chuyển điểm môn này"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
             "Kính gửi PĐT,. . . . Em có BHYT rồi giờ chỉ muốn đóng BH tai nạn. Em không tìm được hướng dẫn để thực hiện việc này. Mong được hướng dẫn.. . . . EM CÓ GÓP Ý THẾ NÀY! Lúc đầu \"hỗ trợ trực tuyến\" mở ra còn hỗ trợ trả lời thắc mắc SV rất nhanh chóng, giờ em gửi hỏi nhiều lần cũng không được trả lời.. . . . Nếu PĐT đóng hỗ trợ thì hãy thông báo cho SV biết để không phải mất thời gian lên đây hỏi và đợi được trả lời nữa.. . . . Em xin cảm ơn!. . . ."
         ],
-        "intent": ""
+        "intent": "",
+        "accuracy": 0
     },
     {
         "message": [
@@ -319,7 +321,8 @@
             "môn học": "MSSV/MSGV:",
             "học kỳ": "MSSV/MSGV: [student_id]8",
             "lớp học": "MSSV/MSGV: [student_id]8"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -332,7 +335,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]9",
             "đợt": "MSSV/MSGV: [student_id]9"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -345,7 +349,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]9",
             "đợt": "MSSV/MSGV: [student_id]9"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -359,7 +364,8 @@
             "học kỳ": "VP2014 viễn thông,",
             "lý do": "hiện đang học lớp VP2014 viễn thông,",
             "số lượng": "3"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -372,7 +378,8 @@
             "học kỳ": "nhiệt động lực học",
             "mã nhóm/lớp": "MSSV/MSGV: 21302889",
             "đợt": "MSSV/MSGV: 21302889"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -385,7 +392,8 @@
             "học kỳ": "CO1003",
             "mã nhóm/lớp": "CO1003",
             "đợt": "Không dk được môn học mã CO1003"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -398,7 +406,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]8",
             "đợt": "MSSV/MSGV: [student_id]8"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -412,7 +421,8 @@
             "học kỳ": "Giải tích 2",
             "lý do": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "số lượng": "2"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -423,13 +433,8 @@
             "khoa": "Khoa học và kỹ thuật máy tính.",
             "khoá": "Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
-    },
-    {
-        "message": [
-            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Tốt nghiệp - Đại học - Cao đẳng chính quy   Cập nhật ngày CTXH, điểm ... . Kính thưa thầy cô,. . Em là [full_name], mssv: [student_id]8 thuộc khoa Khoa học và kỹ thuật máy tính. Vừa rồi em đã có điểm và đậu môn thi vét: Mật mã và An ninh mạng. Thầy cô cho em hỏi: em đã đủ điều kiện để tốt nghiệp đại học chưa (công tác xã hội, môn học, khám sức khỏe...)? Nếu còn thiếu, xin thầy cô chỉ dẫn giúp em để em bổ sung. Cám ơn thầy cô và chúc sức khỏe.. . . . Chân thành!. . . . [full_name]"
-        ],
-        "intent": ""
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -443,7 +448,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Hệ Phân Bố - MSMH: CO3071,",
             "đợt": "năm 4,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -456,7 +462,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]7",
             "đợt": "MSSV/MSGV: [student_id]7"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -467,7 +474,8 @@
             "khoa": "Đại học - Cao đẳng chính quy",
             "khoá": "Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -478,7 +486,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "khoá": "Đại học - Cao đẳng chính quy",
             "khoa": "Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -489,7 +498,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "khoá": "Đại học - Cao đẳng chính quy",
             "khoa": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -500,7 +510,8 @@
             "môn học": "Kỹ thuật xây dựng",
             "mã môn học": "MSSS:",
             "hệ đào tạo": "Hệ VLVH"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -511,7 +522,8 @@
             "nguyên nhân": "Tra cứu tình trạng sinh viên buộc thôi học",
             "khoa": "Học vụ - Đại học - Cao đẳng chính quy",
             "khoá": "Học vụ - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -521,7 +533,8 @@
         "entities": {
             "loại giấy tờ": "giấy \"chứng nhận tốt nghiệp tạm thời\"",
             "thời gian": "27/2/2018"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -532,7 +545,8 @@
         "entities": {
             "hệ đào tạo": "hệ VLVH",
             "lý do": "Đại học Vừa Làm Vừa Học nhé"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -544,7 +558,8 @@
             "hình thức": "đăng ký thông tin tốt nghiệp",
             "thời gian": "ít ngày",
             "lý do": "Do hạn đăng ký tốt nghiệp chỉ còn có ít ngày"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -558,7 +573,8 @@
             "học kỳ": "kì 181",
             "mã nhóm/lớp": "k15",
             "đợt": "năm 3"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -571,7 +587,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "LVTN",
             "đợt": "2018-2019,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -582,7 +599,8 @@
             "dịch vụ": "email sinh viên,",
             "loại lỗi": "email sinh viên,",
             "quá trình": "email sinh viên, khi đang nhập google không cho đăng nhập nữa"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -594,7 +612,8 @@
             "mục đích": "có cần qua năm 3 phải đạt anh văn 2",
             "khoá": "khóa K15,",
             "hệ đào tạo": "Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -607,6 +626,7 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
             "đợt": "2"
-        }
+        },
+        "accuracy": 0
     }
 ]

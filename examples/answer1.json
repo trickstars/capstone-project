@@ -8,7 +8,8 @@
             "khoa": "đủ điều kiện tốt nghiệp",
             "khoá": "đủ điều kiện tốt nghiệp",
             "hệ đào tạo": "đủ điều kiện tốt nghiệp"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -22,7 +23,8 @@
             "học kỳ": "bài thi \"Tư tưởng [full_name]\"",
             "lý do": "Mã sinh viên",
             "hình thức": "chấm"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -33,7 +35,8 @@
             "số tín chỉ": "cau 1",
             "khoá": "sinh vien",
             "hệ đào tạo": "sinh vien"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -44,7 +47,8 @@
             "số tín chỉ": "HP",
             "khoá": "HP",
             "hệ đào tạo": "HP"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -57,7 +61,8 @@
             "thời gian": "in 2 bang",
             "lý do": "in 2 bang",
             "học kỳ": "in 2 bang"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -68,9 +73,9 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "đăng kí nộp bằng tốt nghiệp",
-            "loại lỗi": "ô nơi sinh không cho phép nhập,",
-            "quá trình": "đăng kí nộp bằng tốt nghiệp"
-        }
+            "loại lỗi": "ô nơi sinh không cho phép nhập,"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -82,7 +87,8 @@
             "dịch vụ": "Học khoa Điện-Điện tử, bộ môn Điện tử.",
             "loại lỗi": "Học khoa Điện-Điện tử, bộ môn Điện tử.",
             "quá trình": "đăng xuất hết,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -96,7 +102,8 @@
             "loại điểm": "Điểm thi &gt  Điểm môn học",
             "khoá": "nếu trong một list môn tự chọn chuyên ngành,",
             "hệ số": "6 môn tự chọn cao nhất"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -105,13 +112,11 @@
         ],
         "intent": "phúc khảo điểm",
         "entities": {
-            "loại điểm": "chấm lại bài",
             "môn học": "phương pháp tính",
             "mã môn học": "phương pháp",
-            "học kỳ": "học kì 162,",
-            "lý do": "xin thầy chấm lại bài",
-            "hình thức": "nếu xin thầy chấm lại bài"
-        }
+            "học kỳ": "học kì 162,"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -124,9 +129,9 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "thông tin đăng nhập",
-            "loại lỗi": "thông tin đăng nhập sai",
-            "quá trình": "thông tin đăng nhập sai"
-        }
+            "loại lỗi": "thông tin đăng nhập sai"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -139,7 +144,8 @@
             "học kỳ": "av",
             "mã môn học": "toeic 340",
             "lý do": "xét miễn anh văn đầu vào,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -151,7 +157,8 @@
         "entities": {
             "hệ đào tạo": "Hệ Tại chức hoặc Hệ Vừa học vừa làm..",
             "lý do": "cảm thấy tình hình học tập không ổn"
-        }
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -164,17 +171,9 @@
         "intent": "chuyển điểm",
         "entities": {
             "môn học": "anh văn",
-            "học kỳ": "học kì 171",
-            "mã môn học": "anh văn",
-            "lý do": "tốt nghiệp đúng đợt vào HK172.."
-        }
-    },
-    {
-        "message": [
-            "MSSV/MSGV: [student_id]8  / \t. . . .    Tốt nghiệp &gt  Khác ... . Em là sv K12, hiện đã hoàn thành chương trình học và sẽ tốt nghiệp vào tháng 11 tới. Em muốn hỏi về việc em đã nộp bằng TOEIC từ 2 năm trước, đã thực hiện chuyển điểm nhưng bằng TOEIC chỉ có giá trị 2 năm, em xin hỏi là có cần phải thi lại TOEIC và nộp để được tốt nghiệp hay không ạ. Nếu có thì thời gian em phải nộp là khi nào để có thể tốt nghiệp vào tháng 11 tới ?",
-            "Chào bạn, bạn đã đủ chuẩn TOEIC để tốt nghiệp"
-        ],
-        "intent": "hỏi về chuẩn tiếng Anh"
+            "học kỳ": "học kì 171"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -187,20 +186,8 @@
             "thời gian": "sinh viên &gt  Đăng ký in bảng điểm .",
             "lý do": "Dịch vụ cho sinh viên",
             "học kỳ": "Dịch vụ cho sinh viên &gt"
-        }
-    },
-    {
-        "message": [
-            "MSSV/MSGV: G[student_id]  / \t. . . .    Chứng chỉ ngoại ngữ &gt  Xét miễn môn anh văn (chuyển điểm) . Kính gửi Phòng đào tạo, . . . . Em là [full_name], MSSV G[student_id]. Ngày 13/6 em đã đăng ký miễn điểm các môn Anh văn 1,2,3,4 và đã đóng lệ phí. Nhưng tới nay em vẫn chưa thấy Điểm chuyển trên trang Thông tin sinh viên. Mong các thầy/cô xem giúp em có thiếu sót gì không? Và trong bao lâu sẽ có điểm chuyển.. . . . Em xin chân thành cảm ơn.",
-            "Chào em,. . Đợt chuyển điểm các môn Av trong HK163 là ngày 28/07/2017, em vui lòng đợi. Điểm chuyển sẽ tính vào điểm tích lũy trung bình chung vào cuối kỳ 163.. . Thân",
-            "Vâng, em cảm ơn cô!"
-        ],
-        "intent": "báo lỗi",
-        "entities": {
-            "dịch vụ": "Chứng chỉ ngoại ngữ",
-            "loại lỗi": "miễn môn anh văn",
-            "quá trình": "chuyển điểm các môn Av trong HK163"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -213,7 +200,8 @@
             "hình thức": "yên tâm không bị trễ hạn nghen",
             "thời gian": "tháng 8 này",
             "lý do": "có điểm và đủ điều kiện tốt nghiệp."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -226,7 +214,8 @@
             "mục đích": "duy trì",
             "khoá": "B&gt",
             "hệ đào tạo": "B&gt"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -235,9 +224,9 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "Chứng chỉ ngoại ngữ &gt  Xét miễn môn anh văn",
-            "loại lỗi": "vô danh sách xét miễn chỉ có anh văn 1",
-            "quá trình": "vô danh sách xét miễn chỉ có anh văn 1"
-        }
+            "loại lỗi": "vô danh sách xét miễn chỉ có anh văn 1"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -249,7 +238,8 @@
             "hình thức": "phiếu miễn môn học tạm thời",
             "thời gian": "tháng 8 tới",
             "lý do": "học xong hết các môn còn thiếu và đã thi đạt toeic 400"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -262,7 +252,8 @@
             "khoa": "Tốt nghiệp",
             "học kỳ": "Tốt nghiệp",
             "hệ đào tạo": "Tốt nghiệp"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -275,7 +266,8 @@
             "học kỳ": "Đại học Bách Khoa",
             "mã môn học": "TOEIC",
             "lý do": "bằng TOEIC của em đã được xét là hợp lệ"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -289,7 +281,8 @@
             "khoa": "đầu tháng 8",
             "khoá": "đầu tháng 8",
             "hệ đào tạo": "đầu tháng 8"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -301,7 +294,8 @@
             "mã môn học": "Quản lý và sử dụng năng lượng",
             "khoá": "Quản lý và sử dụng năng lượng",
             "hệ đào tạo": "Quản lý và sử dụng năng lượng"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -314,7 +308,8 @@
             "học kỳ": "môn anh văn",
             "mã môn học": "anh văn",
             "lý do": "Điểm chuyển chỉ tính vào tích lũy chung khi cuối kỳ.."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -328,7 +323,8 @@
             "học kỳ": "kì 1 năm 2017",
             "mã nhóm/lớp": "HK211",
             "đợt": "đợt 2"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -341,7 +337,8 @@
             "khoa": "Khoa Điện-Điện tử.",
             "khoá": "có",
             "hệ đào tạo": "có"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -353,13 +350,15 @@
             "lĩnh vực": "&gt  Khác",
             "thời gian": "đầu tháng 9",
             "lý do": "nộp   B&gt CCNG để xét TỐT NGHIỆP"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
             "Em tên [full_name], mã số sinh viên:[student_id], lớp BC14X_D. Hiện tại điểm thi toeic của em chưa đạt 350 chưa đủ điều kiện nhận luận văn tốt nghiệp. Em không tìm thấy lịch đăng ký av350 để học. Thầy/Cô cho em hỏi tại trường mình hiện tại có mở lớp học av350 không ạ? Nếu có thì bây giờ thủ tục đăng ký như thế nào ạ? . . Chân thành cảm ơn!",
             "Chào bạn , bạn liên hệ tổ đào tạo thường xuyên 201A4"
         ],
-        "intent": "đăng ký môn học"
+        "intent": "đăng ký môn học",
+        "accuracy": 0
     }
 ]

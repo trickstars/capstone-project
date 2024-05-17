@@ -7,7 +7,7 @@ with open(input_file, 'r', encoding='utf-8') as f:
 
 # print(data)
 
-with open('intent_entities.json', 'r', encoding='utf-8') as f:
+with open('intent_entities_no_q.json', 'r', encoding='utf-8') as f:
     map = json.load(f)
 
 # print(map)

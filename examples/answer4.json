@@ -10,20 +10,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]8",
             "đợt": "MSSV/MSGV: [student_id]8"
-        }
-    },
-    {
-        "message": [
-            "b MSSV/MSGV: [student_id]4  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Cho em hỏi sao môn học mã ME2005 các nhóm L không có nút chọn đăng ký và sĩ số -1 là sao ạ?. . Cho em hỏi khi nào thì có thể đăng ký môn này ạ? Do em là sinh viên năm cuối còn nợ 1 môn này thôi ạ.. . em cảm ơn. ."
-        ],
-        "intent": "đăng kí môn học",
-        "entities": {
-            "môn học": "Đại học - Cao đẳng chính quy",
-            "mã môn học": "MSSV/MSGV: [student_id]4",
-            "học kỳ": "Đại học - Cao đẳng chính quy",
-            "mã nhóm/lớp": "MSSV/MSGV: [student_id]4",
-            "đợt": "MSSV/MSGV: [student_id]4"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -35,7 +23,8 @@
             "học kỳ": "vẽ kỹ thuật ở chương trình PFIEV em đạt",
             "mã môn học": "vẽ kỹ thuật ở chương trình PFIEV em đạt",
             "lý do": "-Môn vẽ kỹ thuật ở chương trình PFIEV em đạt"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -49,7 +38,8 @@
             "học kỳ": "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy",
             "khoa": "Chứng chỉ ngoại ngữ",
             "khoá": "Chứng chỉ ngoại ngữ"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -62,7 +52,8 @@
             "học kỳ": "học kì làm luận văn",
             "mã nhóm/lớp": "0 chỉ",
             "đợt": "học kì làm luận văn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -76,7 +67,8 @@
             "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "lý do": "thiếu 2 tín chỉ mà giờ chưa được tốt nghiệp.",
             "số lượng": "51202448"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -89,7 +81,8 @@
             "lý do": "nhận LVTN HK171",
             "thời gian": "07/08-- 08/08",
             "học kỳ": "LVTN HK171"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -102,7 +95,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]9",
             "đợt": "MSSV/MSGV: [student_id]9"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -116,7 +110,8 @@
             "học kỳ": "môn học",
             "lý do": "để em có thể đăng kí môn học mong sớm tốt nghiệp nhất có thể..",
             "số lượng": "án-700200\"."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -130,7 +125,8 @@
             "học kỳ": "Nhập môn công nghệ da giày",
             "lý do": "kế hoạch học tập của em sẽ chậm trễ..",
             "số lượng": "MSSV/MSGV: [student_id]2"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -143,7 +139,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
             "đợt": "25 tín chỉ."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -157,7 +154,8 @@
             "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "lý do": "ngày thứ 3 em trùng học với các môn khác",
             "số lượng": "MSSV/MSGV: [student_id]1"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -171,7 +169,8 @@
             "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "lý do": "ngày thứ 3 em trùng học với các môn khác",
             "số lượng": "MSSV/MSGV: [student_id]1"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -184,7 +183,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "L",
             "đợt": "MSSV/MSGV: [student_id]4"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -197,7 +197,8 @@
             "loại giấy tờ": "TOEIC",
             "thời gian": "7/08-- 08/08..",
             "lý do": "đăng ký làm LVTN"
-        }
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -210,7 +211,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Việt Pháp.",
             "đợt": "SP1005"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -223,7 +225,8 @@
             "mã môn học": "kĩ thuật lập trình",
             "học kỳ": "kĩ thuật lập trình",
             "lý do": "kĩ thuật lập trình thì cần phải có bao nhiêu sinh viên"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -236,7 +239,8 @@
             "học kỳ": "luận văn",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]1",
             "đợt": "khóa 2013.."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -249,7 +253,8 @@
             "mã môn học": "Quản Lý Chất Lượng",
             "học kỳ": "Quản Lý Chất Lượng",
             "lý do": "không cập nhật tín chỉ tích lũy và điểm TBTL."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -263,7 +268,8 @@
             "học kỳ": "lớp shcd",
             "mã môn học": "không",
             "lý do": "sinh viên khóa 2011 mà chưa tham gia lớp sinh hoạt công dân cuối khóa"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -277,7 +283,8 @@
             "khoa": "Khoa Học Máy Tính.",
             "khoá": "thiếu ngày công tác xã hội",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -290,7 +297,8 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
             "đợt": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -303,7 +311,8 @@
             "thời gian": "đầu tháng 9",
             "học kỳ": "MSSV/MSGV: [student_id]2",
             "lý do": "thiếu anh văn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -317,7 +326,8 @@
             "thời gian": "MSSV/MSGV: [student_id]7",
             "học kỳ": "MSSV/MSGV: [student_id]7",
             "lý do": "thiếu CCNN để đăng ký luận văn tốt nghiệp."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -330,7 +340,8 @@
             "học kỳ": "LVTN",
             "mã nhóm/lớp": "LVTN được không",
             "đợt": "ngày 18/8 còn đăng ký LVTN được không"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -343,7 +354,8 @@
             "mục đích": "TOEIC 450..",
             "khoá": "TOEIC 450..",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -355,7 +367,8 @@
         "entities": {
             "loại thủ tục": "xin giấy vay tiền sinh viên là gì",
             "mục đích": "xin giấy vay tiền sinh viên"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -367,7 +380,8 @@
             "khoa": "đủ số tín chỉ môn tự chọn",
             "khoá": "hoàn thành môn tự chọn bị 0 điểm đó hay có thể học môn khác",
             "hệ đào tạo": "đủ số tín chỉ môn tự chọn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -382,7 +396,8 @@
             "học kỳ": "Học vụ - Đại học - Cao đẳng chính quy",
             "lý do": "không đủ 500 điểm toeic (và chưa học môn anh văn),",
             "hình thức": "anh văn"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -393,7 +408,8 @@
             "môn học": "Học kì 163",
             "học kỳ": "Học kì 163",
             "mã môn học": "Học kì 163"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -405,7 +421,8 @@
             "mã môn học": "EE1015",
             "học kỳ": "học kì 1",
             "lý do": "để đăng kí môn học khác trong đợt đăng kí bổ sung sắp tới"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -419,7 +436,8 @@
             "học kỳ": "môn học",
             "lý do": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "số lượng": "60/60"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -430,7 +448,8 @@
             "môn học": "Học vụ - Đại học - Cao đẳng chính quy",
             "mã môn học": "Học vụ - Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Học vụ - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -443,7 +462,8 @@
             "học kỳ": "SP1005 - Tư tưởng HCM",
             "mã nhóm/lớp": "SP1005 - Tư tưởng HCM",
             "đợt": "SP1005"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -456,7 +476,8 @@
             "học kỳ": "Thực tập kỹ thuật",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]0",
             "đợt": "MSSV/MSGV: [student_id]0"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -470,7 +491,8 @@
             "học kỳ": "bỏ đi để thêm lại môn khác",
             "lý do": "đăng kí nhầm 1 môn không cần thiết trong tiến độ học tập",
             "hình thức": "đăng kí nhầm 1 môn không cần thiết trong tiến độ học tập"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -483,7 +505,8 @@
             "mã môn học": "anh văn",
             "học kỳ": "học kì 163.Tuy",
             "lý do": "do phòng đào tạo đang cập nhật"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -494,7 +517,8 @@
             "khoa": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "khoá": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "hệ đào tạo": "Đăng ký môn học - Đại học - Cao đẳng chính quy"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -505,7 +529,8 @@
             "loại điểm": "tính là qua môn hoặc không qua môn",
             "khoá": "Nhóm B01 (Chủ nhật)",
             "hệ số": "A01"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -519,7 +544,8 @@
             "học kỳ": "Xây Dựng Cầu",
             "lý do": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "số lượng": "MSSV/MSGV: [student_id]0"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -529,7 +555,8 @@
         "entities": {
             "loại thông tin": "lỡ điền sai số hiệu bằng tốt nghiệp THPT trên mybk,",
             "lý do": "lỡ điền sai số hiệu bằng tốt nghiệp THPT trên mybk,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -541,7 +568,8 @@
             "mã môn học": "003001 - Anh văn",
             "học kỳ": "Môn học tự thêm vào trong đợt đăng ký bổ sung.",
             "lý do": "Em sẽ chuyển đổi điểm Toeic sang nên không muốn học ạ."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -555,7 +583,8 @@
             "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
             "lý do": "sinh viên K16, khoa Máy tính..",
             "số lượng": "sinh viên K16, khoa Máy tính.."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -565,7 +594,8 @@
         "entities": {
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "lý do": "không đủ tín chỉ,"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -578,7 +608,8 @@
             "học kỳ": "Kỹ Thuật Điện",
             "mã môn học": "Kỹ Thuật Điện",
             "lý do": "2 mã này đều học nội dung môn học y hệt nhau.."
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -587,9 +618,9 @@
         ],
         "intent": "huỷ đơn",
         "entities": {
-            "loại đơn": "tạm dừng",
-            "lý do": "có được không ạ."
-        }
+            "loại đơn": "tạm dừng"
+        },
+        "accuracy": 1
     },
     {
         "message": [
@@ -600,7 +631,8 @@
         "entities": {
             "lĩnh vực": "Quản lí công nghiệp.",
             "học kỳ": "học kì 1"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -613,7 +645,8 @@
             "học kỳ": "LVTN",
             "mã nhóm/lớp": "LVTN",
             "đợt": "LVTN"
-        }
+        },
+        "accuracy": 0
     },
     {
         "message": [
@@ -626,6 +659,7 @@
             "học kỳ": "Đại học - Cao đẳng chính quy",
             "mã nhóm/lớp": "MSSV/MSGV: [student_id]4",
             "đợt": "MSSV/MSGV: [student_id]4"
-        }
+        },
+        "accuracy": 0
     }
 ]
