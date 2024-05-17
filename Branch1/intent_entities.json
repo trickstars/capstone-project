@@ -355,6 +355,13 @@
             "hệ đào tạo nào"
         ]
     },
+    "hỏi thông tin phân ngành": {
+        "entities": [
+            "thời gian nào",
+            "khoá nào",
+            "khoa nào"
+        ]
+    },
     "hỏi thông tin tuyển sinh": {
         "entities": [
             "thời gian nào",
@@ -463,6 +470,12 @@
             "vấn đề gì"
         ]
     },
+    "hỏi thủ tục đóng bảo hiểm tai nạn": {
+        "entities": [
+            "thời gian nào",
+            "khoá nào"
+        ]
+    },
     "hỏi thủ tục nhập học": {
         "entities": [
             "phương thức xét tuyển gì",
@@ -470,6 +483,19 @@
             "khoa nào",
             "khoá nào",
             "hệ đào tạo nào"
+        ]
+    },
+    "hỏi thủ tục thôi học": {
+        "entities": [
+            "khoa nào",
+            "khoá nào",
+            "hệ đào tạo nào"
+        ]
+    },
+    "hỏi thủ tục vay tiền": {
+        "entities": [
+            "thời gian nào",
+            "số tiền bao nhiêu"
         ]
     },
     "hỏi tình trạng tốt nghiệp": {
@@ -672,10 +698,11 @@
             "thời gian nào"
         ]
     },
-    "***nộp đơn": {
+    "nộp đơn cứu xét": {
         "entities": [
-            "loại đơn gì",
             "thời gian nào",
+            "khoá nào",
+            "học kỳ nào",
             "lý do gì"
         ]
     },
