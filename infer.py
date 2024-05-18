@@ -70,7 +70,7 @@ def data_collator(samples, tokenizer):
 
 
 def extract_answer(inputs, outputs, tokenizer):
-    plain_result = []
+    plain_result = {}
     for sample_input, start_logit, end_logit in zip(inputs, outputs.start_logits, outputs.end_logits):
         sample_words_length = sample_input['words_lengths']
         input_ids = sample_input['input_ids']
@@ -89,11 +89,11 @@ def extract_answer(inputs, outputs, tokenizer):
 
         score_start = torch.max(torch.softmax(start_logit, dim=-1)).cpu().detach().numpy().tolist()
         score_end = torch.max(torch.softmax(end_logit, dim=-1)).cpu().detach().numpy().tolist()
-        plain_result.append({
+        plain_result = {
             "answer": answer,
             "score_start": score_start,
             "score_end": score_end
-        })
+        }
     return plain_result
 
 

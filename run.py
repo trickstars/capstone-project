@@ -1,14 +1,24 @@
-import os
+# import os
 from transformers import pipeline
 import json
 # from huggingface_hub import hf_hub_download
 
 # HUGGING_FACE_API_KEY = os.environ.get("HUGGING_FACE_API_KEY")
 
-with open('intent_for_message/intent_5.json', 'r', encoding='utf-8') as f:
+from infer import tokenize_function, data_collator, extract_answer
+from model.mrc_model import MRCQuestionAnswering
+from transformers import AutoTokenizer
+import nltk
+# nltk.download('punkt')
+
+file_index = 1
+input_file = 'examples/intent_for_message/intent_'+ str(file_index) +'.json'
+output_file = 'answers' + str(file_index) + '.json'
+
+with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
-with open('template.json', 'r', encoding='utf-8') as f:
+with open('ontology/generated_questions.json', 'r', encoding='utf-8') as f:
     question_data = json.load(f)
 
 def get_entity(question, intent):
@@ -19,14 +29,23 @@ def get_entity(question, intent):
         entity = entity.replace(word, "")
     return entity[0:-1]
 
-model_checkpoint = "C:\\Users\\Dell\\.cache\\huggingface\\hub\\models--nguyenvulebinh--vi-mrc-base"
-nlp = pipeline('question-answering', model=model_checkpoint, tokenizer=model_checkpoint)
+# model_checkpoint = "C:\\Users\\Dell\\.cache\\huggingface\\hub\\models--nguyenvulebinh--vi-mrc-base"
+model_checkpoint = "nguyenvulebinh/vi-mrc-large"
+# nlp = pipeline('question-answering', model=model_checkpoint, tokenizer=model_checkpoint)
+
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
+model = MRCQuestionAnswering.from_pretrained(model_checkpoint)
+
 answer = []
 for component in data:
-    if component['intent'] == "": 
+    if component['intent'] == "":
+        answer.append(component) 
         continue
-    message = "".join(component['message'])
+    # message = "\n".join(component['message'])
+    message = component['message'][0]
     triple = {}
+    if ('comment')  in component: 
+        triple['comment'] = component['comment']
     triple["message"] = component['message']
     triple["intent"] = component['intent'] 
     for key, value in question_data.items():
@@ -35,11 +54,19 @@ for component in data:
             entity = {}
             for q in question:
                 QA_input = {'question': q, 'context': message}
-                respond = nlp(QA_input)
+
+                # respond = nlp(QA_input)
+                inputs = [tokenize_function(QA_input, tokenizer)]
+                inputs_ids = data_collator(inputs, tokenizer)
+                outputs = model(**inputs_ids)
+                respond = extract_answer(inputs, outputs, tokenizer)
+
                 entity[get_entity(q,component['intent'])] = respond['answer']
-            triple["entities"] = entity       
+                print(respond)
+            triple["entities"] = entity 
+    # print(triple)      
     answer.append(triple)
 
-with open('answer5.json', 'w', encoding='utf-8') as f:
+with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(answer, f, ensure_ascii = False, indent=4)
 
