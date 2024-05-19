@@ -28,7 +28,7 @@
         ],
         "intent": "phúc khảo điểm",
         "entities": {
-            "môn học": "Tư tưởng",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
@@ -40,7 +40,7 @@
         ],
         "intent": "hỏi học phí",
         "entities": {
-            "số tín chỉ": "",
+            "số tín chỉ": "1",
             "khoá": "",
             "hệ đào tạo": "",
             "vấn đề": ""
@@ -108,7 +108,7 @@
         ],
         "intent": "đăng kí in bảng điểm",
         "entities": {
-            "số lượng": "2",
+            "số lượng": "",
             "thời gian": "",
             "lý do": "",
             "học kỳ": "",
@@ -123,8 +123,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "đăng kí nộp bằng tốt nghiệp",
-            "lỗi": "ô nơi sinh bắt điền mà không điền được"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -134,8 +134,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "BKpay",
-            "lỗi": "sau khi đăng nhập OCB thì không thấy khoản thanh toán đâu cả"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -188,7 +188,7 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "",
-            "lỗi": "thông tin đăng nhập sai"
+            "lỗi": ""
         }
     },
     {
@@ -216,7 +216,7 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "anh văn",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "khoá": "",
@@ -238,8 +238,8 @@
         "intent": "chuyển hệ",
         "entities": {
             "hệ đào tạo": "Hệ Tại chức hoặc Hệ Vừa học vừa làm",
-            "lý do": "do em đi công tác thường xuyên",
-            "khoá": ""
+            "lý do": "",
+            "khoá": "lớp XD15B2D1-Lớp xây dựng bằng 2"
         }
     },
     {
@@ -253,9 +253,9 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "anh văn",
-            "mã môn học": "",
-            "học kỳ": "171",
+            "môn học": "",
+            "mã môn học": "K13",
+            "học kỳ": "K13",
             "khoá": "K13",
             "lý do": ""
         }
@@ -275,7 +275,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "Toeic"
+            "chứng chỉ": ""
         }
     },
     {
@@ -305,8 +305,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "Thông tin sinh viên",
-            "lỗi": "chưa thấy Điểm chuyển"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -324,7 +324,7 @@
         ],
         "intent": "hỏi về chuẩn ngoại ngữ",
         "entities": {
-            "ngoại ngữ": "Toeic",
+            "ngoại ngữ": "",
             "điểm chuẩn": "450",
             "khoá": "",
             "hệ đào tạo": ""
@@ -337,19 +337,19 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "danh sách xét miễn",
-            "lỗi": "chỉ có anh văn 1 2 3 4 không có muc anh văn đầu vào"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
-        "comment":  "hơi không rõ ràng",
+        "comment": "hơi không rõ ràng",
         "message": [
             "Kính chào PĐT. . . . . Em là [full_name]; MSSV: [student_id] . . Chuyển hệ từ Chính Quy sang VLVH tháng 6 năm 2016,(MSSV cũ : K[student_id]).. . . . Em xin hỏi là: Đã hết hai kỳ học nhưng em vẫn chưa nhận được phiếu miễn môn học tạm thời (em đã trực tiếp đến PĐT hỏi nhiều lần và được trả lời là chưa có, nên em vẫn đang đợi...). . . . . Hiện tại, em đã học xong hết các môn còn thiếu và đã thi đạt toeic 400 (đã hoàn thành đăng ký nộp chứng chỉ ngoại ngữ). Xin PĐT hướng dẫn em cần làm gì để hoàn tất chương trình học và đăng ký tốt nghiệp vào tháng 8 tới ạ. Xin hỏi thêm là vào kỳ 171 sắp tới em có cần ĐKMH để duy trì tình trạng sinh viên không ạ?.. . . . Em xin chân thành cảm ơn."
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "Đã hết hai kỳ học nhưng em vẫn chưa nhận được phiếu miễn môn học tạm thời",
-            "thời gian": "tháng 8",
+            "vấn đề": "Xin hỏi thêm là vào kỳ 171 sắp tới em có cần ĐKMH để duy trì tình trạng sinh viên không ạ ? ..",
+            "thời gian": "",
             "khoá": "",
             "khoa": ""
         }
@@ -395,8 +395,8 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "Quản lý và sử dụng năng lượng",
-            "mã môn học": "",
+            "môn học": "",
+            "mã môn học": "Quản lý",
             "khoá": "",
             "hệ đào tạo": ""
         }
@@ -408,7 +408,7 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "anh văn",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "khoá": "",
@@ -429,7 +429,7 @@
         ],
         "intent": "hỏi thời gian đăng kí môn học",
         "entities": {
-            "học kỳ": "1 năm 2017",
+            "học kỳ": "",
             "đợt": ""
         }
     },
@@ -455,9 +455,9 @@
         ],
         "intent": "hỏi điều kiện nhận luận văn",
         "entities": {
-            "khoa": "Khoa Điện-Điện tử",
-            "khoá": "",
-            "hệ đào tạo": "Sau ĐH"
+            "khoa": "",
+            "khoá": "Sau ĐH",
+            "hệ đào tạo": ""
         }
     },
     {
@@ -467,9 +467,9 @@
         ],
         "intent": "hỏi thông tin học bổng",
         "entities": {
-            "khoa": "Hóa",
+            "khoa": "",
             "khoá": "K14",
-            "học kỳ": ""
+            "học kỳ": "K14"
         }
     },
     {
@@ -480,9 +480,9 @@
         "intent": "gia hạn nộp chứng chỉ",
         "entities": {
             "học kỳ": "học kì 171",
-            "thời gian": "",
-            "lý do": "chưa có bằng Anh văn để xét tốt nghiệp",
-            "chứng chỉ": "bằng Anh văn"
+            "thời gian": "7/6-8/8",
+            "lý do": "",
+            "chứng chỉ": ""
         }
     },
     {
@@ -491,7 +491,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "CCNN"
+            "chứng chỉ": ""
         }
     },
     {
@@ -501,8 +501,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "av350",
-            "mã môn học": "av350",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",

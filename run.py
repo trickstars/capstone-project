@@ -11,9 +11,9 @@ from transformers import AutoTokenizer
 import nltk
 # nltk.download('punkt')
 
-file_index = 5
-input_file = 'examples/intent_for_message/intent_'+ str(file_index) +'.json'
-# input_file = 'labeled_inputs/input'+ str(file_index) +'.json'
+file_index = 2
+# input_file = 'examples/intent_for_message/intent_'+ str(file_index) +'.json'
+input_file = 'labeled_inputs/input'+ str(file_index) +'.json'
 
 with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -25,6 +25,14 @@ def get_entity(question, intent):
     for word in words_to_remove:
         entity = entity.replace(word, "")
     return entity[0:-1]
+
+def get_entity2(question):
+    words_to_remove = ["nào", "gì", "bao nhiêu", "mấy"]
+    # index = question.find("với") 
+    # entity = question[index + 3 + 1:-1]
+    for word in words_to_remove:
+        question = question.replace(word, "")
+    return question[0:-2]
 
 # model_checkpoint = "C:\\Users\\Dell\\.cache\\huggingface\\hub\\models--nguyenvulebinh--vi-mrc-base"
 model_checkpoint = "nguyenvulebinh/vi-mrc-large"
@@ -42,11 +50,14 @@ def ques_temp(stategy):
     elif (stategy == 2):
         with open('ontology/temp2.json', 'r', encoding='utf-8') as f:
             questions = json.load(f)
+    elif (stategy == 3):
+        with open('ontology/temp3.json', 'r', encoding='utf-8') as f:
+            questions = json.load(f)
     return questions
 
 def run_with_temp(temp_stategy):
     question_data = ques_temp(temp_stategy)
-    # print(question_data)
+    print(question_data)
     for component in data:
         if component['intent'] == "":
             answer.append(component) 
@@ -76,6 +87,8 @@ def run_with_temp(temp_stategy):
                         entity[get_entity(q,component['intent'])] = respond['answer']
                     elif(temp_stategy == 2):
                         entity[q] = respond['answer']
+                    elif(temp_stategy == 3):
+                        entity[get_entity2(q)] = respond['answer']
 
                     print(respond)
                 triple["entities"] = entity 
@@ -88,5 +101,5 @@ def run_with_temp(temp_stategy):
         json.dump(answer, f, ensure_ascii = False, indent=4)
 
 #run
-temp = 1
+temp = 3
 run_with_temp(temp)

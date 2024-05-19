@@ -1,7 +1,7 @@
 import json
 
 number_of_answer_files = 2
-number_of_temps = 2
+number_of_temps = 3
 # num_of_corrects = 0
 # num_of_data_points = 0
 

@@ -6,9 +6,9 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "Nhiễuxạ tiaX",
-            "mã môn học": "MA3003",
-            "khoá": "k14",
+            "môn học": "",
+            "mã môn học": "",
+            "khoá": "",
             "hệ đào tạo": ""
         }
     },
@@ -18,7 +18,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "anh văn"
+            "chứng chỉ": ""
         }
     },
     {
@@ -33,10 +33,10 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "LVTN",
-            "mã môn học": "",
-            "học kỳ": "HKI 2017-2018",
-            "đợt": "đăng ký bổ sung",
+            "môn học": "HKI",
+            "mã môn học": "HKI",
+            "học kỳ": "",
+            "đợt": "",
             "hệ đào tạo": "",
             "khoá": ""
         }
@@ -60,10 +60,10 @@
         "intent": "khiếu nại điểm",
         "entities": {
             "loại điểm": "",
-            "môn học": "Anh văn",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
-            "lý do": "chênh lệch lớn và khác với chuẩn đã quy định của trường"
+            "lý do": ""
         }
     },
     {
@@ -100,8 +100,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "nộp chứng chỉ",
-            "lỗi": "trang web không cho đính kèm file"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -169,7 +169,7 @@
         ],
         "intent": "xét miễn",
         "entities": {
-            "môn học": "a văn",
+            "môn học": "",
             "mã môn học": "",
             "khoá": ""
         }
@@ -207,28 +207,27 @@
         ],
         "intent": "gia hạn nộp chứng chỉ",
         "entities": {
-            "học kỳ": "",
+            "học kỳ": "K13",
             "thời gian": "",
-            "lý do": "để nhận đồ án tốt nghiệp",
-            "chứng chỉ": "toiec"
+            "lý do": "",
+            "chứng chỉ": ""
         }
     },
     {
-        "comment": "bỏ thời gian đi",
         "message": [
             "Kính gửi Phòng dào tạo. . . . Em hiện là sinh viên khoá 2012 vừa hoàn thành Luận văn tốt nghiệp trong HK162 và đã đủ các điều kiện về số TC và ngày CTXH.. . . . Em có tham khảo thông tin aao.hcmut.edu.vn ở thì cuối tháng 8 đầu tháng 9 mới có đợt đăng ký tốt nghiệp. Tuy nhiên theo email em vừa nhận được thì đợt ĐKMH học kỳ này sẽ kết thúc vào cuối tháng 7, vậy khả năng cao là em sẽ bị xét không có TKB.. . . . Cho em hỏi trong trường hợp này quy trình là như thế nào.. . . . Em xin chân thành cảm ơn.. .",
             "nếu bạn đã đủ TCTN thì bạn đợi thông báo tốt nghiệp cụ thể vào tháng 8/2017"
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "khả năng cao là em sẽ bị xét không có TKB",
-            "thời gian": "",
+            "vấn đề": "",
+            "thời gian": "cuối tháng 8 đầu tháng 9",
             "khoá": "khoá 2012",
             "khoa": ""
         }
     },
     {
-        "comment":"vấn đề",
+        "comment": "vấn đề",
         "message": [
             "Chào cô, . . . . Em là [full_name]. MSSV là [student_id]. Thuộc lớp CK14HT2.. . . . Cô cho em hỏi, em đã đăng ký chuyển điểm từ rất lâu, và cũng đã đóng tiền để chuyển điểm cách đây gần 1 tháng nhưng tại sao em vẫn chưa hiện lên dấu Xác nhận đăng ký ( như hình ). . . . . Mong cô xem xét và hồi âm sớm cho em. Vì hiện tại em đang đi thực tập tốt nghiệp nên không thể thường xuyên lên pđt được. Mong cô thông cảm. . . . . Có gì cô liên hệ với em qua email [email] hoặc qua số điện thoại : [phone_number]0. . . . . Em cảm ơn cô. Chào cô. . . . [full_name]"
         ],
@@ -236,9 +235,9 @@
         "entities": {
             "môn học": "",
             "mã môn học": "",
-            "học kỳ": "",
-            "khoá": "",
-            "lý do": ""
+            "học kỳ": "CK14HT2",
+            "khoá": "CK14HT2",
+            "lý do": "Vì hiện tại em đang đi thực tập tốt nghiệp nên không thể thường xuyên lên pđt được"
         }
     },
     {
@@ -247,7 +246,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "NN"
+            "chứng chỉ": "CCNN"
         }
     },
     {
@@ -268,7 +267,7 @@
         ],
         "intent": "hỏi điều kiện tốt nghiệp",
         "entities": {
-            "khoa": "",
+            "khoa": "K13",
             "khoá": "K13",
             "hệ đào tạo": ""
         }
@@ -280,7 +279,7 @@
         ],
         "intent": "hỏi lịch thi",
         "entities": {
-            "môn học": "vật lí 1",
+            "môn học": "vật lí",
             "học kỳ": "",
             "thời gian": ""
         }
@@ -341,7 +340,7 @@
         "intent": "hỏi thủ tục thôi học",
         "entities": {
             "khoa": "Cơ Khí",
-            "khoá": "",
+            "khoá": "năm 2 khoa Cơ Khí",
             "hệ đào tạo": ""
         }
     },
@@ -353,12 +352,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "Kỹ Thuật Hàng Không",
+            "mã môn học": "Kỹ Thuật Hàng Không",
             "học kỳ": "HK2 năm 2016-2017",
             "đợt": "",
-            "hệ đào tạo": "",
-            "khoá": ""
+            "hệ đào tạo": "Kỹ Thuật Hàng Không",
+            "khoá": "GT1503"
         }
     },
     {
@@ -367,8 +366,8 @@
         ],
         "intent": "rút môn học",
         "entities": {
-            "môn học": "Tái chế vật liệu",
-            "mã môn học": "ME4511",
+            "môn học": "ME4511 : Tái chế vật liệu .",
+            "mã môn học": "ME4511 : Tái chế vật liệu .",
             "học kỳ": "",
             "lý do": ""
         }
@@ -379,8 +378,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "tkb",
-            "lỗi": "mất 1 môn học"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -424,8 +423,8 @@
         "entities": {
             "loại điểm": "",
             "môn học": "quản trị kinh doanh",
-            "mã môn học": "",
-            "học kỳ": "học kì 2 (2016-2017)",
+            "mã môn học": "quản trị kinh doanh",
+            "học kỳ": "học kì 2",
             "lý do": ""
         }
     },
@@ -435,8 +434,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "DAMH 2",
-            "mã môn học": "",
+            "môn học": "",
+            "mã môn học": "DAMH 2 của K13",
             "học kỳ": "HK I 2017-2018",
             "đợt": "",
             "hệ đào tạo": "",
@@ -450,8 +449,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "nộp chứng chỉ ngoại ngữ",
-            "lỗi": "không đăng kí được"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -462,10 +461,10 @@
         ],
         "intent": "hỏi cách tính điểm",
         "entities": {
-            "môn học": "",
+            "môn học": "K12",
             "loại điểm": "",
             "khoá": "K12",
-            "hệ số": ""
+            "hệ số": "K12"
         }
     },
     {
@@ -476,8 +475,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "Đăng kí in giấy xác nhận sinh viên",
-            "lỗi": "như tệp đính kèm"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -488,9 +487,9 @@
         ],
         "intent": "xin mở lớp",
         "entities": {
-            "môn học": "lập phân tích dự án",
-            "mã môn học": "700200",
-            "học kỳ": "",
+            "môn học": "",
+            "mã môn học": "",
+            "học kỳ": "k12",
             "lý do": ""
         }
     },
@@ -515,7 +514,7 @@
         ],
         "intent": "hỏi thông tin sinh viên",
         "entities": {
-            "thông tin": "điểm rèn luyện"
+            "thông tin": ""
         }
     },
     {
@@ -543,8 +542,8 @@
         "intent": "xin mở lớp",
         "entities": {
             "môn học": "tin học đại cương",
-            "mã môn học": "501001",
-            "học kỳ": "",
+            "mã môn học": "tin học đại cương",
+            "học kỳ": "k11",
             "lý do": ""
         }
     },
@@ -555,7 +554,7 @@
         "intent": "hỏi điều kiện tốt nghiệp",
         "entities": {
             "khoa": "Máy tính",
-            "khoá": "2010",
+            "khoá": "",
             "hệ đào tạo": ""
         }
     },
@@ -568,9 +567,9 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "nguyên lý máy",
-            "mã môn học": "",
-            "học kỳ": "",
-            "đợt": "",
+            "mã môn học": "nguyên lý máy",
+            "học kỳ": "K14",
+            "đợt": "K14",
             "hệ đào tạo": "",
             "khoá": "K14"
         }
@@ -583,8 +582,8 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "Thực tập kĩ thuật mã mới và mã cũ",
-            "mã môn học": "",
+            "môn học": "Thực tập kĩ thuật mã",
+            "mã môn học": "Thực tập kĩ thuật",
             "khoá": "K13",
             "hệ đào tạo": ""
         }
@@ -597,12 +596,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "LVTN",
-            "mã môn học": "",
-            "học kỳ": "",
+            "môn học": "Địa chất dầu K13",
+            "mã môn học": "Địa chất dầu K13",
+            "học kỳ": "sinh viên Địa chất dầu K13",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "K13"
+            "khoá": "Địa chất dầu K13"
         }
     }
 ]
