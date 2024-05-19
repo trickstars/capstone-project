@@ -1,7 +1,7 @@
 import json
 
 # Đọc dữ liệu từ file JSON
-with open('intent_entities.json', 'r', encoding='utf-8') as f:
+with open('../ontology/intent_entities_with_wh.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
@@ -18,5 +18,5 @@ for key, value in data.items():
     output_data[key] = questions
 
 # Ghi dữ liệu mới ra file JSON
-with open('template.json', 'w', encoding='utf-8') as f:
+with open('../ontology/temp1_gq.json', 'w', encoding='utf-8') as f:
     json.dump(output_data, f, ensure_ascii = False, indent=4)

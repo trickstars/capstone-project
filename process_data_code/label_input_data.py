@@ -6,14 +6,14 @@ import json
 # print(type(str))
 # print(os.path.dirname(__file__))
 
-input_file = 'examples/intent_for_message/intent_1.json'
+input_file = '../examples/intent_for_message/intent_3.json'
 
 with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # print(data)
 
-with open('ontology/intent_entities.json', 'r', encoding='utf-8') as f:
+with open('../ontology/intent_entities.json', 'r', encoding='utf-8') as f:
     map = json.load(f)
 
 # print(map)

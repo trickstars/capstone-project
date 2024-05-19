@@ -1,24 +1,24 @@
 [
     {
         "comment": "not sure về ý định",
-        "intent": "hỏi môn tương đương",
         "message": [
             "Em có học môn tương đương Nhiễuxạ tiaX &các ppncvl Mã MH:MA3003 của chương trình đào tạo k14 tương đương với môn P/pháp đánh giá vật liệu Mã MH:215003 .Em đã đạt được môn Mã MH:MA3003.Như vậy PĐT có tự động tính tín chỉ vào cho em không?Hay em phải cần làm đơn gì không?"
         ],
+        "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
-            "khoá": "",
+            "môn học": "Nhiễuxạ tiaX",
+            "mã môn học": "MA3003",
+            "khoá": "k14",
             "hệ đào tạo": ""
         }
     },
     {
-        "intent": "hỏi thời gian nộp chứng chỉ",
         "message": [
             "Kính gửi phòng đào tạo,. . Em muốn hỏi phòng đào tạo là hạn chót để nộp anh văn xét luận văn tốt nghiệp ( kể cả đợt vét) cho học kì 1 năm học 2017-2018 là ngày nào ạ. Em chân thành cảm ơn và mong nhận được phản hồi sớm nhất từ phòng đào tạo.. . Trân trọng,"
         ],
+        "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": ""
+            "chứng chỉ": "anh văn"
         }
     },
     {
@@ -28,41 +28,42 @@
         ]
     },
     {
-        "intent": "đăng kí môn học",
         "message": [
             "Cho em hỏi ngoài đợt đăng ký môn học HKI 2017-2018 để nhận LVTN còn có đợt đăng ký bổ sung LVTN để được làm LVTN trong HKI 2017-2018 không ạ.. . . . Em xin cảm ơn."
         ],
+        "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "LVTN",
             "mã môn học": "",
-            "học kỳ": "",
-            "đợt": "",
+            "học kỳ": "HKI 2017-2018",
+            "đợt": "đăng ký bổ sung",
             "hệ đào tạo": "",
             "khoá": ""
         }
     },
     {
-        "intent": "báo lỗi",
         "message": [
             "Kính gởi Phòng Đào tạo Trường Đại học Bách khoa TP HCM . . . . Em là [full_name] MSSV [student_id]5. Hôm 1/7/2017 em có đăng ký chuyển điểm anh văn. Nhưng lúc đầu chuyển điểm em xác nhận nó báo bị lỗi. Em nghĩ do lỗi không sao, nên lát sau em làm lại thì nó báo thành công. Qua bên BKpay thì nó báo là em phải đóng 2 lần chuyển điểm anh văn (Như hình đính kèm). Nên em đành phải đóng cả 2 cái mới được chuyển điểm (mặc dù chuyển cùng môn anh văn). Em thắc mắc nếu quy định chỉ cho chuyển anh văn 1 lần thì lần thứ 2 em xác nhận thì nó phải báo lỗi cho em biết chứ.. . Và em có nhận lại được 150.000đ không? . . Em chân thành cảm ơn."
         ],
+        "intent": "",
         "entities": {
-            "dịch vụ": "",
+            "dịch vụ": "đăng ký chuyển điểm anh văn",
             "lỗi": ""
         }
     },
     {
-        "intent": "khiếu nại điểm",
+        "comment": "hk thành năm oke hơn",
         "message": [
             "Kính gửi Phòng đào tạo Trường Đại học Bách khoa - ĐHQG TPHCM[full_name][full_name] [full_name] Em hiện là sinh viên khóa 2015, chương trình đào tạo Chất lượng cao của trường[full_name] [full_name] [full_name] Trong năm 2015, em đã nộp chứng chỉ ngoại ngữ IELTS 6[full_name]5 cho phòng đào tạo và có kết quả hợp lệ[full_name] Vào ngày 25/4/2017, em đã dùng chứng chỉ này để xét miễn 4 môn Anh văn tăng cường trong chương trình đào tạo và có đóng đủ chi phí[full_name] Nay kết quả điểm miễn đã có và được cập nhật vào hệ thống[full_name] [full_name] [full_name] Theo như em được biết, các quy định về chuẩn tiếng Anh của Nhà trường từ học kì 1 năm học 2016-2017 có áp dụng cho chứng chỉ IELTS, với thang điểm 6[full_name]5, điểm quy đổi cho 4 môn Anh văn tăng cường đều là 10[full_name][full_name] [full_name] Tuy nhiên, khi em xem bảng điểm chuyển bằng ứng dụng Cổng thông tin sinh viên, Điểm Anh văn 4 của em lại là 7[full_name]5 trong khi các môn Anh văn 1,2,3 đều là 10[full_name] Em thắc mắc vì sao điểm Anh văn 4 lại có chênh lệch lớn và khác với chuẩn đã quy định của trường như vậy[full_name] Mong phòng đào tạo giúp đỡ em giải đáp thắc mắc này[full_name] Em xin cảm ơn! [full_name] [full_name]",
             "Chào bạn,. . . . Bạn  vui lòng liên hệ văn phòng Đào tạo quốc tế  để tư vấn cho bạn nha.. . . . . . Thân. ."
         ],
+        "intent": "khiếu nại điểm",
         "entities": {
             "loại điểm": "",
-            "môn học": "",
+            "môn học": "Anh văn",
             "mã môn học": "",
             "học kỳ": "",
-            "lý do": ""
+            "lý do": "chênh lệch lớn và khác với chuẩn đã quy định của trường"
         }
     },
     {
@@ -72,11 +73,11 @@
         ]
     },
     {
-        "intent": "hỏi điều kiện nhận luận văn",
         "message": [
             "Em chào PĐT, cho em hỏi trường có quy định bao nhiêu ngày CTXH mới được nhận luận văn không ạ?. . em cảm ơn PĐT ạ",
             "bạn xem quy chế học vụ : điều 10. . . .  http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=843"
         ],
+        "intent": "hỏi điều kiện nhận luận văn",
         "entities": {
             "khoa": "",
             "khoá": "",
@@ -84,23 +85,23 @@
         }
     },
     {
-        "intent": "hỏi thời gian nộp chứng chỉ",
         "message": [
             "EM xin chào quý thầy cô của PĐT. EM đang là sinh viên năm 4. Em có thắc mắc về thời hạn nộp chứng chỉ toeic để được xét luận văn. Theo em được biết là đăng kí môn học học kì 1 năm 2017 đợt bổ sung là từ ngày 7-8/8. vì vậy phải nộp bằng toeic trước ngày 7/8 để được xét làm luận văn phải không ạ? Trường hợp nếu như không nộp kịp trước ngày 7/8 thì có còn đợt đăng kí luận văn vét không ạ? nếu có thì hạn cuối có thể đăng kí là khi nào? EM xin chân thành cảm ơn quý thầy cô đã giải đáp thắc mắc! . .   Trân trọng!"
         ],
+        "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": ""
+            "chứng chỉ": "toeic"
         }
     },
     {
-        "intent": "báo lỗi",
         "message": [
-            "Kính gửi Phòng Đào Tạo. . Em là [full_name],   b MSSV/MSGV: [student_id]1  /b , nay em nộp chứng chỉ nhưng trên trang web không cho đính kèm file. Em mong PĐT hướng dẫn cho em.\t. . . .   i Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Thẩm tra chứng chỉ (nộp chứng chỉ) .",
+            "Kính gửi Phòng Đào Tạo. . Em là [full_name],   b MSSV/MSGV: [student_id]1  /b , nay em nộp chứng chỉ nhưng trên trang web không cho đính kèm file. Em mong PĐT hướng dẫn cho em.",
             "Do tập tin hình em quá lớn, dịch vụ chỉ cho phép upload ảnh    1MB, em drop (thông tin điểm) & resize file cho phù hợp nhé."
         ],
+        "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "",
-            "lỗi": ""
+            "dịch vụ": "nộp chứng chỉ",
+            "lỗi": "trang web không cho đính kèm file"
         }
     },
     {
@@ -141,12 +142,12 @@
         }
     },
     {
-        "intent": "cập nhật thông tin sinh viên",
         "message": [
             "Dạ em chào quý thầy cô. Năm ngoái vào đợt nộp bằng tốt nghiệp phổ thông em có phát hiện ra là thông tin nơi sinh của em không đúng với dữ liệu hiện tại (Quảng Ngãi thay vì TP.HCM) nên em có lên PĐT làm đơn xin thay đổi thông tin nơi sinh và được cô [full_name] báo là chỉ đổi thông tin trên hệ thống online nên không cần phải lên PĐT lấy kết quả. Nay em lên xem lại trên trang nộp bằng tốt nghiệp và thông tin cá nhân trên myBK vẫn chưa thấy cập nhật nên em muốn hỏi liệu nó có ảnh hưởng sai lệch tới bằng tốt nghiệp của em sau này không ạ? Em xin cảm ơn."
         ],
+        "intent": "cập nhật thông tin sinh viên",
         "entities": {
-            "thông tin": "",
+            "thông tin": "nơi sinh",
             "lý do": ""
         }
     },
@@ -162,12 +163,13 @@
         }
     },
     {
-        "intent": "xét miễn",
+        "comment": "khóa  có thể được suy ra từ svnawm 2",
         "message": [
             "Cô ơi em rớt a văn đầu vào , mà em thi ở ngoài vừa đúng 255 điểm vậy em nộp vô có xét miễn a văn không cô, em năm 2 sắp dk môn học ạ. ."
         ],
+        "intent": "xét miễn",
         "entities": {
-            "môn học": "",
+            "môn học": "a văn",
             "mã môn học": "",
             "khoá": ""
         }
@@ -200,35 +202,36 @@
         }
     },
     {
-        "intent": "gia hạn nộp chứng chỉ",
         "message": [
             "Kính gửi Phòng Đào Tạo.. . Em là sinh viên K13, khoa Kỹ thuật xây dựng.. . Em muốn hỏi là việc nộp chứng chỉ ngoại ngữ toiec 450 để nhận đồ án tốt nghiệp. Hiện tại em có thể gia hạn việc nộp chứng chỉ ngoại ngữ toiec 450 để nhận đồ án tốt nghiệp, sau đó em sẽ nộp chứng chỉ ngoại ngữ toiec 450 trước thời hạn bảo vệ đồ án được không?"
         ],
+        "intent": "gia hạn nộp chứng chỉ",
         "entities": {
             "học kỳ": "",
             "thời gian": "",
-            "lý do": "",
-            "chứng chỉ": ""
+            "lý do": "để nhận đồ án tốt nghiệp",
+            "chứng chỉ": "toiec"
         }
     },
     {
-        "intent": "hỗ trợ tốt nghiệp",
         "message": [
             "Kính gửi Phòng dào tạo. . . . Em hiện là sinh viên khoá 2012 vừa hoàn thành Luận văn tốt nghiệp trong HK162 và đã đủ các điều kiện về số TC và ngày CTXH.. . . . Em có tham khảo thông tin aao.hcmut.edu.vn ở thì cuối tháng 8 đầu tháng 9 mới có đợt đăng ký tốt nghiệp. Tuy nhiên theo email em vừa nhận được thì đợt ĐKMH học kỳ này sẽ kết thúc vào cuối tháng 7, vậy khả năng cao là em sẽ bị xét không có TKB.. . . . Cho em hỏi trong trường hợp này quy trình là như thế nào.. . . . Em xin chân thành cảm ơn.. .",
             "nếu bạn đã đủ TCTN thì bạn đợi thông báo tốt nghiệp cụ thể vào tháng 8/2017"
         ],
+        "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "",
+            "vấn đề": "khả năng cao là em sẽ bị xét không có TKB",
             "thời gian": "",
-            "khoá": "",
+            "khoá": "khoá 2012",
             "khoa": ""
         }
     },
     {
-        "intent": "chuyển điểm",
+        "comment":"vấn đề",
         "message": [
             "Chào cô, . . . . Em là [full_name]. MSSV là [student_id]. Thuộc lớp CK14HT2.. . . . Cô cho em hỏi, em đã đăng ký chuyển điểm từ rất lâu, và cũng đã đóng tiền để chuyển điểm cách đây gần 1 tháng nhưng tại sao em vẫn chưa hiện lên dấu Xác nhận đăng ký ( như hình ). . . . . Mong cô xem xét và hồi âm sớm cho em. Vì hiện tại em đang đi thực tập tốt nghiệp nên không thể thường xuyên lên pđt được. Mong cô thông cảm. . . . . Có gì cô liên hệ với em qua email [email] hoặc qua số điện thoại : [phone_number]0. . . . . Em cảm ơn cô. Chào cô. . . . [full_name]"
         ],
+        "intent": "chuyển điểm",
         "entities": {
             "môn học": "",
             "mã môn học": "",
@@ -238,20 +241,20 @@
         }
     },
     {
-        "intent": "hỏi thời gian nộp chứng chỉ",
         "message": [
             "Thầy cô cho em hỏi em đọc quy chế có ghi : SV phải đăng ký nộp CCNN trước thời điểm đăng ký LVTN ít nhất 01 ngày. Đợt đăng kí bổ sung môn học hk171 là từ ngày 7/8-8/8.NHư vậy là ngày 6/8 em nộp chứng chỉ NN vẫn được phải không ạ?"
         ],
+        "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": ""
+            "chứng chỉ": "NN"
         }
     },
     {
-        "intent": "hỏi điều kiện nhận luận văn",
         "message": [
             "Thầy cô cho em hỏi Số TCTL nghành của em để nhận LVTN là 139. Em đang tích lũy được 136 và đang thực tập TN (3 chỉ). Như vậy em có đủ điều kiện để đăng kí LVTN không ạ.",
             "Chào bạn, bạn đăng ký môn lvtn vào ngày 18/07/17 sau đó phòng đào tạo sẽ hậu kiểm kết quả và trả lời vào ngày 04/08/2017"
         ],
+        "intent": "hỏi điều kiện nhận luận văn",
         "entities": {
             "khoa": "",
             "khoá": "",
@@ -259,24 +262,24 @@
         }
     },
     {
-        "intent": "hỏi điều kiện tốt nghiệp",
         "message": [
             "Kính chào phòng đạo tạo,. . . . Em khóa K13 đã được phát bằng quốc phòng vào năm 1 và trên bảng điểm trên web cũng đã xác nhận đạt môn QP.. . . . Vậy cho em hỏi là khi đến lúc tốt nghiệp em có phải nộp lại bằng quốc phòng cho trường nữa không?. . . . Mong nhân được hồi đáp của ban hỗ trợ. Em cảm ơn"
         ],
+        "intent": "hỏi điều kiện tốt nghiệp",
         "entities": {
             "khoa": "",
-            "khoá": "",
+            "khoá": "K13",
             "hệ đào tạo": ""
         }
     },
     {
-        "intent": "hỏi lịch thi",
         "message": [
             "Cho em hỏi về lịch thi môn vật lí 1 nhóm DT03-AB, em tìm mãi mà không thấy. Xin cảm ơn. . .",
             "Chào em , thi dự thính chỉ có lịch thi cuối kỳ thôi nghen"
         ],
+        "intent": "hỏi lịch thi",
         "entities": {
-            "môn học": "",
+            "môn học": "vật lí 1",
             "học kỳ": "",
             "thời gian": ""
         }
@@ -310,11 +313,11 @@
         ]
     },
     {
-        "intent": "hỏi về cảnh cáo học vụ",
         "message": [
             "Kính gửi Phòng Đào Tạo. . Em là [full_name], MSSV [student_id]0.. . . . Học kỳ vừa qua em có một số việc đột xuất vào cuối kỳ nên em không có thi 1 môn trong học kỳ dự thính và 2 môn trong học kỳ chính, cho em hỏi là học kỳ rồi em có bị cảnh cáo học vụ không và em muốn biết là em có còn được tối đa là 14 học kỳ để học không ạ, do em còn môn đồ án quá trình thiết bị và luận văn tốt nghiệp, mà em đã sử dụng hết 12 học kỳ rồi ạ.. . . . Em chân thành cảm ơn.",
             "- bạn vào trang thông tin sinh viên để biết thời gian học tối đa của mình . . - - hiện chưa có dữ liệu xét cảnh cáo học vụ, bạn theo dõi khoảng giữa tháng 09/2017 sẽ có danh sách cụ thể và sẽ gởi email thông báo cho sinh viên"
         ],
+        "intent": "hỏi về cảnh cáo học vụ",
         "entities": {
             "vấn đề": "",
             "học kỳ": "",
@@ -330,53 +333,53 @@
         ]
     },
     {
-        "intent": "hỏi thủ tục thôi học",
         "message": [
             "Dạ thầy cô ơi, cho em hỏi về vấn đề thôi học ạ. Hiện em đang học năm 2 khoa Cơ Khí, em muốn thôi học để có thế làm thủ tục nhập học ở trường khác ạ. Thầy cô cho em hỏi em phải làm thủ tục như thế nào ạ.",
             "- Bạn tải mẫu đơn tại : web phòng đào tạo --  biểu mẫu --  mẫu thôi học. . - điền và nộp đơn tại cửa số 4"
         ],
+        "intent": "hỏi thủ tục thôi học",
         "entities": {
-            "khoa": "",
+            "khoa": "Cơ Khí",
             "khoá": "",
             "hệ đào tạo": ""
         }
     },
     {
         "comment": "báo lỗi<",
-        "intent": "đăng kí môn học",
         "message": [
             "Em tên [full_name], MSSv [student_id], lớp GT1503, nghành Kỹ Thuật Hàng Không. Hôm bữa đóng học phí HK2 năm 2016-2017 hệ chính quy em có đóng học phí trễ hạn và em làm đơn thanh toán học phí trễ hạn nhưng tới nay vẫn chưa thể đăng ký môn học được. Mong PDT giải quyết dùm em. Em xin cám ơn.",
             "Đề nghị bạn xem lại chính xác thời gian bắt đầu đkmh 171"
         ],
+        "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
             "mã môn học": "",
-            "học kỳ": "",
+            "học kỳ": "HK2 năm 2016-2017",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": ""
         }
     },
     {
-        "intent": "rút môn học",
         "message": [
             "Em xin rút 1 môn học là ME4511: Tái chế vật liệu. . . Em cần xử lý sao ạ."
         ],
+        "intent": "rút môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "Tái chế vật liệu",
+            "mã môn học": "ME4511",
             "học kỳ": "",
             "lý do": ""
         }
     },
     {
-        "intent": "báo lỗi",
         "message": [
             "Trong đăng ký môn học sơ bộ em đã đăng kí anh văn 2 rồi. Tại sao trong tkb em lại có thêm anh văn 3 và mất 1 môn học của mình vậy là một học kì em vừa học anh văn 2 và 3 ạ. Mong PĐT giải đáp thắc mắc giúp em, liệu em có hủy anh văn 3 để đăng kí lại môn học mà em đã mất được không.. ."
         ],
+        "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "",
-            "lỗi": ""
+            "dịch vụ": "tkb",
+            "lỗi": "mất 1 môn học"
         }
     },
     {
@@ -402,90 +405,90 @@
         }
     },
     {
-        "intent": "hỏi thời gian xét tốt nghiệp",
         "message": [
             "Chào thầy/cô.. . Em muốn hỏi là sắp tới đợt xét tốt nghiệp là vào tháng nào? và khi nào thì có bảng điểm hoàn chỉnh cho học kỳ 162 vừa rồi ạ?",
             "Đã có thông báo , bạn xem chi tiết tại : http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitiettn&path=68&tid=1525"
         ],
+        "intent": "hỏi thời gian xét tốt nghiệp",
         "entities": {
             "khoa": "",
             "đợt": ""
         }
     },
     {
-        "intent": "khiếu nại điểm",
         "message": [
             "Chào thầy (cô) ạ, em là [full_name]. MSSV: [student_id]8, trên bảng điểm học kì 2 (2016-2017), môn quản trị kinh doanh cho kĩ sư có cột điểm giữa kì là 7.96, điểm cuối kì là 6.54 nhưng tổng kết có 5. Mong thầy cô kiểm tra lại giùm em ạ. Cảm ơn thầy (cô)"
         ],
+        "intent": "khiếu nại điểm",
         "entities": {
             "loại điểm": "",
-            "môn học": "",
+            "môn học": "quản trị kinh doanh",
             "mã môn học": "",
-            "học kỳ": "",
+            "học kỳ": "học kì 2 (2016-2017)",
             "lý do": ""
         }
     },
     {
-        "intent": "đăng kí môn học",
         "message": [
             "Kính gửi PĐT, cho em hỏi là để đăng ký được môn DAMH 2 của K13 em cần phải có giấy đồng ý giảng dạy của thầy hướng dẫn đồ án 2 của em và nộp lên PĐT là được đăng ký ở HK I 2017-2018 phải không ạ.. . Tại kỳ này em k thấy mở DAMH 2 MÃ 400009 ạ. . Em xin cảm ơn. . . ."
         ],
+        "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "DAMH 2",
             "mã môn học": "",
-            "học kỳ": "",
+            "học kỳ": "HK I 2017-2018",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": ""
+            "khoá": "K13"
         }
     },
     {
-        "intent": "báo lỗi",
         "message": [
             "em nộp chứng chỉ ngoại ngữ nhưng vào phần đăng kí thì bị lỗi không đăng kí được",
             "chào em,. .  em liên hệ trực tiếp p.đào tạo để được hỗ trợ trực tiếp.. .  Thân"
         ],
+        "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "",
-            "lỗi": ""
+            "dịch vụ": "nộp chứng chỉ ngoại ngữ",
+            "lỗi": "không đăng kí được"
         }
     },
     {
         "comment": "lại tính điểm tctd",
-        "intent": "hỏi cách tính điểm",
         "message": [
             "Em là sinh viên K12, trong chương trình thì em phải học 8 chỉ tự chọn, nhưng em lại đăng kí tới 12 chỉ tự chọn và đã đậu 10 chỉ, vậy PDT cho em hỏi điểm các môn đó của em sẽ được tính như thế nào, có phải lấy điểm của các môn cao nhất để tính vào điểm tích lũy hay không hay tính hết cả ạ.. . Với cho em hỏi điểm ghi trên bằng tốt nghiệp tạm thời là điểm TB tích lũy ngành hay là điểm TB tất cả các môn.",
             "Chào bạn: trả lời câu hỏi của bạn như sau:. . . . Em là sinh viên K12, trong chương trình thì em phải học 8 chỉ tự chọn, nhưng em lại đăng kí tới 12 chỉ tự chọn và đã đậu 10 chỉ, vậy PDT cho em hỏi điểm các môn đó của em sẽ được tính như thế nào, có phải lấy điểm của các môn cao nhất để tính vào điểm tích lũy hay không hay tính hết cả ạ:- SẼ CỘNG 8 [full_name] [full_name] ĐIỂM TBLT NGÀNH. . . . Với cho em hỏi điểm ghi trên bằng tốt nghiệp tạm thời là điểm TB tích lũy ngành hay là điểm TB tất cả các môn: - [full_name] GHI [full_name] . ."
         ],
+        "intent": "hỏi cách tính điểm",
         "entities": {
             "môn học": "",
             "loại điểm": "",
-            "khoá": "",
+            "khoá": "K12",
             "hệ số": ""
         }
     },
     {
-        "intent": "báo lỗi",
         "message": [
             "Kính gửi PĐT, 2 hôm liên tiếp em vào web Mybk vào chọn mục Đăng kí in giấy xác nhận sinh viên nhưng lại ra link lỗi như tệp đính kèm. Em phải làm sao ạ? Vì thời hạn nộp về xã cũng gấp nữa. Em mong phòng đào tạo giúp đỡ.. .",
             "Chào bạn, hiện trang mạng của phòng đào tạo đã phục hồi, bạn đăng ký lại nghen",
             "Dạ em thấy rồi. Em cảm ơn PĐT."
         ],
+        "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "",
-            "lỗi": ""
+            "dịch vụ": "Đăng kí in giấy xác nhận sinh viên",
+            "lỗi": "như tệp đính kèm"
         }
     },
     {
         "comment": "giải quyết môn học (tiên quyết?) bị bỏ;",
-        "intent": "xin mở lớp",
         "message": [
             "Thầy Cô cho em hỏi. . . Em là sinh viên k12 và giờ em còn nợ môn lập phân tích dự án (700200) và môn này đã bị bỏ từ k14. . . Em muốn tốt nghiệp là phải qua môn này nhưng hiện giờ môn đó không mở lớp nữa, . . Em mong Thầy Cô cho Em hướng giải quyết. Em cảm ơn ạ . .",
             "Chào bạn, bạn liên hệ thầy [full_name] ( phó khoa  Điện - Điện tử) phụ trách về đào tạo, để thầy cho ý kiến nghen"
         ],
+        "intent": "xin mở lớp",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "lập phân tích dự án",
+            "mã môn học": "700200",
             "học kỳ": "",
             "lý do": ""
         }
@@ -506,12 +509,12 @@
     },
     {
         "comment": "thắc mắc đrl",
-        "intent": "hỏi thông tin sinh viên",
         "message": [
             "Kính gửi phòng đào tạo, em đang có thắc mắc về vấn đề điểm rèn luyện, làm sao để biết điểm rèn luyện hiện tại của mình ạ.. ."
         ],
+        "intent": "hỏi thông tin sinh viên",
         "entities": {
-            "thông tin": ""
+            "thông tin": "điểm rèn luyện"
         }
     },
     {
@@ -531,74 +534,74 @@
         }
     },
     {
-        "intent": "xin mở lớp",
         "message": [
             "Thầy Cô cho em hỏi. . . Em là sinh viên k11 và giờ em còn nợ môn tin học đại cương (501001) và môn này đã bị bỏ từ k14. . . Em muốn tốt nghiệp là phải qua môn này nhưng hiện giờ môn đó không mở lớp nữa, . . Em mong Thầy Cô cho Em hướng giải quyết. Em cảm ơn ạ",
             "Em xem ở. . . . web PDT (aao.hcmut.edu.vn)    Sinh viên    Chương trình đào tạo    Môn học tương đương, thay thế. .",
             "em đã xem rồi ạ nhưng môn này không có môn thay thế thì phải làm sao ạ?.Em cảm ơn !"
         ],
+        "intent": "xin mở lớp",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "tin học đại cương",
+            "mã môn học": "501001",
             "học kỳ": "",
             "lý do": ""
         }
     },
     {
-        "intent": "hỏi điều kiện tốt nghiệp",
         "message": [
             "Thưa thầy cô, . . Em tên là [full_name], MSSV:[student_id]8, Khoa: Máy tính khóa 2010. Em đã hoàn thành khóa học với số tín chỉ 151 tín chỉ. Cho em hỏi ngoài lý do em thiếu ngày công tác xã hội ra còn lý do gì mà em không được xét tốt nghiệp không ạ? Em có xem môn chuyên ngành tự chọn là 15 tín chỉ(em đã hoàn thành 12 tín chỉ) nhưng em đã đủ số tín chỉ là 148 tín chỉ để tốt nghiệp(đã hoàn thành luận văn) thì sau khi hoàn thành công tác xã hội em có được xét tốt nghiệp bổ sung không? Cám ơn thầy cô.. . . ."
         ],
+        "intent": "hỏi điều kiện tốt nghiệp",
         "entities": {
-            "khoa": "",
-            "khoá": "",
+            "khoa": "Máy tính",
+            "khoá": "2010",
             "hệ đào tạo": ""
         }
     },
     {
         "comment": "báo lỗi< -> lại vấn đề đlmh",
-        "intent": "đăng kí môn học",
         "message": [
             "thầy cô phòng đạo tạo cho em hỏi. Em là K14 em còn nợ môn nguyên lý máy, lúc đăng ký kế hoạch học tập thì em có đăng ký, nhưng lúc ra lịch thì lại không có, em muốn đăng ký thì các lớp đều để 0/-1 nê em không đăng ký được. Vậy, giờ em muốn đăng ký thì phải lên phòng đào tạo mở thêm xỉ sổ lớp mới đăng ký được phải không ạ?. .",
             "Em có thể xem trong Lịch sử đăng ký để xem thử có ghi lý do gì về môn mà em đăng ký trong KHHT hay không. Ví dụ như: \"PĐT không đăng ký ...\". ."
         ],
+        "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "nguyên lý máy",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": ""
+            "khoá": "K14"
         }
     },
     {
         "comment": "mã mới mã cũ, xác nhận tương đương",
-        "intent": "hỏi môn tương đương",
         "message": [
             "Thưa thầy cô, em là Phạm Phú [full_name], mssv: V[student_id]. Cho em hỏi môn Thực tập kĩ thuật mã mới và mã cũ có được chuyển tương đương không ạ ? Em xem trên danh sách ở aao thì không có ghi môn học này.. . . . Do em là khóa K13, năm ngoái không đăng kí môn Thực tập kĩ thuật nên vừa rồi em phải đăng kí lại mã mới môn này và đã có điểm đạt rồi ạ.. . . . Em xin cám ơn thầy cô.",
             "- Bạn liên hệ văn phòng [full_name] tư vấn Thầy [full_name]"
         ],
+        "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "",
+            "môn học": "Thực tập kĩ thuật mã mới và mã cũ",
             "mã môn học": "",
-            "khoá": "",
+            "khoá": "K13",
             "hệ đào tạo": ""
         }
     },
     {
         "comment": "báo lỗi< -> lại vấn đề đlmh",
-        "intent": "đăng kí môn học",
         "message": [
             "Kính chào thầy/cô,. . Em là sinh viên Địa chất dầu K13, muốn hỏi phòng đào tạo về việc đăng ký LVTN.. . Hôm nay, em vào đăng ký LVTN thì báo là thiếu môn tiên quyết thực tập tốt nghiệP (TTTN). Trong khi đó môn TTTN em vừa đăng ký kỳ rồi và vẫn đang đi thực tập chưa có điểm. Thêm vào đó, em không đăng ký Kế hoạch cho môn LVTN nên phần lịch sử đăng ký không có hiển thị như hình.. . Mong Pdt hướng dẫn giúp em.. . Xin cảm ơn!",
             "Chào em,. . . . Hy vọng hệ thống đã cập nhật kết quả tạm môn TTTN đúng hạn để em đăng ký môn LVTN.. ."
         ],
+        "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "LVTN",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": ""
+            "khoá": "K13"
         }
     }
 ]
