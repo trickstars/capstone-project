@@ -11,7 +11,7 @@ from transformers import AutoTokenizer
 import nltk
 # nltk.download('punkt')
 
-file_index = 3
+file_index = 4
 input_file = 'examples/intent_for_message/intent_'+ str(file_index) +'.json'
 # input_file = 'labeled_inputs/input'+ str(file_index) +'.json'
 

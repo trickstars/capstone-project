@@ -6,7 +6,7 @@ import json
 # print(type(str))
 # print(os.path.dirname(__file__))
 
-input_file = '../examples/intent_for_message/intent_3.json'
+input_file = '../examples/intent_for_message/intent_4.json'
 
 with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
