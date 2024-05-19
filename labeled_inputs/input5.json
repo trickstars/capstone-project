@@ -7,8 +7,8 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "cơ lưu chất",
+            "mã môn học": "802015",
             "khoá": "",
             "hệ đào tạo": ""
         }
@@ -21,7 +21,7 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "",
+            "môn học": "Hóa vô cơ",
             "mã môn học": "môn Hóa vô cơ mã cũ : 604009. . môn Hóa vô cơ mã mới : CH2013",
             "khoá": "",
             "hệ đào tạo": "Đại học - Cao đẳng chính quy"
@@ -36,9 +36,9 @@
         "intent": "hỏi chương trình đào tạo",
         "entities": {
             "thông tin": "",
-            "khoá": "",
+            "khoá": "Hoá",
             "khoa": "",
-            "hệ đào tạo": ""
+            "hệ đào tạo": "bằng 2"
         }
     },
     {
@@ -58,12 +58,14 @@
         "message": [
             "Xin chào phòng đào tạo,. . Em tên là [full_name], MSSV G[student_id],. . Theo lịch đăng kí môn học, ngày 8/8 vừa rồi là kết thúc quá trình đăng kí môn học cho HK171. Tuy nhiên phải tới ngày 11/8 em mới nhận được bằng TOEIC để đăng kí làm luận văn.Xin cho em hỏi bây giờ còn có cách nào để đăng kí luận văn cho đúng hạn không ạ? Em đã đậu tất cả các môn, AV thỏa điều kiện.Em xin cám ơn phòng đào tạo."
         ],
-        "intent": "hỗ trợ luận văn",
+        "intent": "đăng kí môn học",
         "entities": {
-            "vấn đề": "",
-            "học kỳ": "",
-            "khoá": "",
-            "khoa": ""
+            "môn học": "luận văn",
+            "mã môn học": "",
+            "học kỳ": "HK171",
+            "đợt": "",
+            "hệ đào tạo": "",
+            "khoá": ""
         }
     },
     {
@@ -75,7 +77,7 @@
         "intent": "cập nhật thời khoá biểu",
         "entities": {
             "môn học": "Anh văn 3",
-            "học kỳ": "",
+            "học kỳ": "HK171",
             "lớp học": ""
         }
     },
@@ -87,7 +89,7 @@
         "intent": "chuyển nhóm",
         "entities": {
             "nhóm": "",
-            "môn học": "",
+            "môn học": "giáo dục thể chất 1",
             "học kỳ": "",
             "lý do": ""
         }
@@ -98,7 +100,7 @@
             "Gửi Thầy/Cô,Em là [full_name] - MSSV: [student_id]4, là sinh viên khóa K12 chuyên ngành Điện tử - Viễn thông. Theo như trong danh sách tốt nghiệp dự kiến được cung cấp vào tháng 7/2017, em chưa đủ điều kiện tốt nghiệp do còn thiếu ngày CTXH theo quy định của trường, nhưng đến thời điểm đầu tháng 8 thì em đã bổ sung ngày CTXH theo đúng quy định, và đã được cập nhật trên trang Hoạt động Sinh viên trên MyBK, thế nhưng trong trang tốt nghiệp thì các thông tin này vẫn chưa được cập nhật. Vậy nên thầy/cô cho em hỏi là làm thế nào để có thể cập nhật thông tin này để em kịp thời đăng kí tốt nghiệp và nhận giấy chứng nhận tạm thời do một số yêu cầu bên ngoài. Em xin cảm ơn",
             "phòng đào tạo đã kiểm tra ngày công tác xã hội của bạn đã đủ 15 ngày, đến thứ 6 (25/8/18) sẽ cập nhật lại danh sách tốt nghiệp trên web, bạn theo dõi thông tin nghen"
         ],
-        "intent": "hỗ trợ tốt nghiệp",
+        "intent": "",
         "entities": {
             "vấn đề": "",
             "thời gian": "",
@@ -147,9 +149,9 @@
         "intent": "chuyển nhóm",
         "entities": {
             "nhóm": "A01",
-            "môn học": "",
+            "môn học": "Lập Trình Web",
             "học kỳ": "",
-            "lý do": ""
+            "lý do": "thuận tiện hơn trong việc học"
         }
     },
     {
@@ -159,7 +161,7 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "",
-            "lỗi": ""
+            "lỗi": "sai thông tin đăng nhập"
         }
     },
     {
@@ -170,7 +172,7 @@
         "entities": {
             "môn học": "",
             "loại điểm": "TBTLN",
-            "khoá": "Kỹ thuật xây dựng",
+            "khoá": "k13",
             "hệ số": ""
         }
     },
@@ -185,7 +187,7 @@
         "entities": {
             "vấn đề": "",
             "thời gian": "",
-            "khoá": "học kỳ 171",
+            "khoá": "",
             "khoa": ""
         }
     },
@@ -205,7 +207,7 @@
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "",
+            "vấn đề": "nợ học phí",
             "thời gian": "",
             "khoá": "",
             "khoa": ""
@@ -218,7 +220,7 @@
         ],
         "intent": "cập nhật thời khoá biểu",
         "entities": {
-            "môn học": "",
+            "môn học": "Cấu trúc rời rạc cho KHMT",
             "học kỳ": "",
             "lớp học": ""
         }
@@ -233,7 +235,7 @@
             "khoa": "",
             "khoá": "",
             "môn học": "",
-            "hệ đào tạo": ""
+            "hệ đào tạo": "bằng 2"
         }
     },
     {
@@ -242,7 +244,7 @@
         ],
         "intent": "hỏi cách tính điểm",
         "entities": {
-            "môn học": "",
+            "môn học": "anh văn 4",
             "loại điểm": "",
             "khoá": "",
             "hệ số": ""
@@ -250,17 +252,15 @@
     },
     {
         "comment": "một vấn đề trong đkmh",
-        "intent": "",
         "message": [
             "Kính gửi PDT,. . Hiện đã trong thời gian mở đăng ký KHHT Đăng ký môn học HK172 (2017 - 2018). Tuy nhiên, em và các bạn trong lớp (XD16B2D1) hiện không đăng ký được.Đợt KHHT Đăng ký môn học HK172 (2017 - 2018) này không có thể hiện lịch học,như vậy sinh viên bằng 2 không thể biết những nhóm/lớp nào mở buổi tối hoặc cuối tuần để có thể sắp xếp thời khóa biểu hợp lý. Ngoài ra khi đăng ký môn học thì có nhiều bạn bằng 1 đăng ký vào các lớp buổi tối của bằng 2, gây nên hết sĩ số. Sinh viên bằng 2 không thể đăng ký lớp đó và cũng rất khó để đăng ký học các môn ban ngày ( do phần lớn sinh viên bằng 2 đã đi làm) , làm cho tiến độ học tập bị gián đoạn, chậm trễ so với kế hoạch bình thường. Vậy PDT có nên dành riêng các lớp đó cho sinh viên băng 2 đăng ký trước rồi mới cho sinh viên bằng 1 đăng ký bổ sung sau không ?Vì hiện tại em đang đăng ký môn học theo TIẾN ĐỘ HỌC TẬP, nên cho em hỏi : \"Chỉ cần hoàn thành những môn trong TIẾN ĐỘ HỌC TẬP là hoàn thành chương trình đào tạo dành cho văn bằng 2 hay sao ? Có những môn trong tiến độ học tập không có nhưng vẫn xuất hiện yều cầu khi đăng ký môn học.. . VD: Môn Cơ lưu chất ( Hiện tại môn này không mở vào buổi tối , gây khó khăn cho sinh viên văn bằng hai đi học ).Kính mong PTD có thể giải đáp thắc mắc dùm em.. . Xin chân thành cảm ơn.Trân trọng,. . Nguyễn Hà Bảo Hoàng . ."
         ],
+        "intent": "xin mở lớp",
         "entities": {
             "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
-            "đợt": "",
-            "hệ đào tạo": "",
-            "khoá": ""
+            "lý do": ""
         }
     },
     {
@@ -270,7 +270,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "LVTN",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -285,8 +285,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "",
-            "lỗi": ""
+            "dịch vụ": "thanh toán học phí xong",
+            "lỗi": "bên BKPAY thì vẫn chưa cập nhật"
         }
     },
     {
@@ -306,7 +306,7 @@
         "intent": "chuyển điểm",
         "entities": {
             "môn học": "Tư tưởng",
-            "mã môn học": "Tư tưởng",
+            "mã môn học": "",
             "học kỳ": "",
             "khoá": "",
             "lý do": ""
@@ -314,10 +314,14 @@
     },
     {
         "comment": "phàn nàn?, hỏi về  bhtn",
-        "intent": "",
         "message": [
             "Kính gửi PĐT,Em có BHYT rồi giờ chỉ muốn đóng BH tai nạn. Em không tìm được hướng dẫn để thực hiện việc này. Mong được hướng dẫn.EM CÓ GÓP Ý THẾ NÀY! Lúc đầu \"hỗ trợ trực tuyến\" mở ra còn hỗ trợ trả lời thắc mắc SV rất nhanh chóng, giờ em gửi hỏi nhiều lần cũng không được trả lời.Nếu PĐT đóng hỗ trợ thì hãy thông báo cho SV biết để không phải mất thời gian lên đây hỏi và đợi được trả lời nữa.Em xin cảm ơn!. . . ."
-        ]
+        ],
+        "intent": "hỏi thủ tục đóng bảo hiểm tai nạn",
+        "entities": {
+            "thời gian": "",
+            "khoá": ""
+        }
     },
     {
         "message": [
@@ -338,7 +342,7 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "thiết kế thí nghiệm và xử lí",
-            "mã môn học": "",
+            "mã môn học": "CH3309",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -346,10 +350,11 @@
         }
     },
     {
+        "comment": "trùng với đoạn trên",
         "message": [
             "em là sinh viên k11. Em muốn đăng kí môn thiết kế thí nghiệm và xử lí số liệu MSMH CH3309 nhưng khi đăng kí bị báo là thiếu môn tiên quyết giải tích 1 trong khi em đã qua môn đó rồi. Xin PDT xem xét giúp em với ạ"
         ],
-        "intent": "đăng kí môn học",
+        "intent": "",
         "entities": {
             "môn học": "",
             "mã môn học": "thiết kế thí nghiệm và xử lí số liệu",
@@ -367,7 +372,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "",
-            "mã môn học": "VP2014 viễn thông",
+            "mã môn học": "",
             "học kỳ": ""
         }
     },
@@ -377,8 +382,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "PH1003",
+            "môn học": "nhiệt động lực học",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -407,7 +412,7 @@
         "entities": {
             "môn học": "Xác suất và thống kê",
             "mã môn học": "",
-            "học kỳ": "k12",
+            "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": "k12"
@@ -444,11 +449,11 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "Hệ Phân Bố - MSMH : CO3071",
-            "mã môn học": "Hệ Phân Bố - MSMH : CO3071",
-            "học kỳ": "Hệ Phân Bố - MSMH : CO3071",
+            "mã môn học": "CO3071",
+            "học kỳ": "",
             "đợt": "",
-            "hệ đào tạo": "Hệ Phân Bố - MSMH : CO3071",
-            "khoá": "Hệ Phân Bố - MSMH : CO3071"
+            "hệ đào tạo": "",
+            "khoá": ""
         }
     },
     {
@@ -542,7 +547,7 @@
         ],
         "intent": "chuyển hệ",
         "entities": {
-            "hệ đào tạo": "",
+            "hệ đào tạo": "VHVL",
             "lý do": "",
             "khoá": ""
         }
@@ -553,9 +558,9 @@
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "",
+            "vấn đề": "phần khai lý lịch tốt nghiệp bị mờ đi không điền được",
             "thời gian": "",
-            "khoá": "K13 khoa Quản Lý Công Nghiệp",
+            "khoá": "K13",
             "khoa": "Quản Lý Công Nghiệp"
         }
     },
@@ -569,7 +574,7 @@
         "entities": {
             "môn học": "",
             "mã môn học": "",
-            "học kỳ": "",
+            "học kỳ": "hk181",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": "k15"
@@ -583,11 +588,11 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "LVTN",
-            "mã môn học": "LVTN",
+            "mã môn học": "",
             "học kỳ": "LVTN cho HK1 năm 2018-2019",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "LVTN"
+            "khoá": ""
         }
     },
     {
@@ -597,7 +602,7 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "google",
-            "lỗi": ""
+            "lỗi": "không cho đăng nhập nữa và thông báo là đã bị disable"
         }
     },
     {
@@ -606,7 +611,7 @@
         ],
         "intent": "hỏi về chuẩn ngoại ngữ",
         "entities": {
-            "ngoại ngữ": "",
+            "ngoại ngữ": "anh văn",
             "điểm chuẩn": "",
             "khoá": "K15",
             "hệ đào tạo": ""
@@ -620,7 +625,7 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "EE4321-Đề cương luận văn tn",
-            "mã môn học": "EE4321-Đề cương luận văn tn",
+            "mã môn học": "EE4321",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
