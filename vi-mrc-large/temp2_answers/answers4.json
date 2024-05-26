@@ -36,7 +36,7 @@
         "intent": "chuyển điểm",
         "entities": {
             "môn học": "",
-            "mã môn học": "",
+            "mã môn học": "-Tin học đại cương",
             "học kỳ": "",
             "khoá": "",
             "lý do": ""
@@ -50,7 +50,7 @@
         ],
         "intent": "huỷ môn học",
         "entities": {
-            "môn học": "AV2",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
@@ -63,7 +63,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "giáo dục thể chất",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -79,7 +79,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "KINH TẾ HỌC ĐẠI CƯƠNG",
-            "mã môn học": "",
+            "mã môn học": "KINH TẾ HỌC ĐẠI CƯƠNG",
             "học kỳ": ""
         }
     },
@@ -90,7 +90,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "CCNN"
+            "chứng chỉ": ""
         }
     },
     {
@@ -99,7 +99,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "Luận văn tốt nghiệp",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -115,7 +115,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "Lập và phân tích dự án-700200",
-            "mã môn học": "700200",
+            "mã môn học": "Lập và phân tích dự án-700200",
             "học kỳ": ""
         }
     },
@@ -126,8 +126,8 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "Nhập môn công nghệ da giày - ME4515 ..",
-            "mã môn học": "ME4515",
+            "môn học": "",
+            "mã môn học": "Nhập môn công nghệ da giày - ME4515",
             "học kỳ": ""
         }
     },
@@ -153,7 +153,7 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "CI1053 ( Quản lý dự án xây dựng",
+            "môn học": "",
             "mã môn học": "CI1053",
             "học kỳ": ""
         }
@@ -165,7 +165,7 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "Me2005",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -189,7 +189,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "TOEIC"
+            "chứng chỉ": ""
         }
     },
     {
@@ -200,7 +200,7 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "SP1005",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -214,7 +214,7 @@
         ],
         "intent": "xin mở lớp",
         "entities": {
-            "môn học": "kĩ thuật lập trình",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
@@ -227,7 +227,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "luận văn tốt nghiệp",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -237,13 +237,13 @@
     },
     {
         "comment": "không cập nhật tín chỉ cho môn tương đương",
-        "intent": "báo lỗi",
         "message": [
             "Chào thầy/Cô.. . Em tên Nguyễn Văn Min/ MSSV:[student_id]8.. . Kỳ vừa rồi em có học lại môn Quản Lý Chất Lượng với mã số mới. Môn này có trong danh sách môn học thay thế/tương đương, nhưng chỉ thấy cập nhật điểm mà không cập nhật tín chỉ tích lũy và điểm TBTL. Mong thầy/cô giải đáp.. . Em xin cảm ơn."
         ],
+        "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "",
-            "lỗi": "không cập nhật tín chỉ tích lũy và điểm TBTL"
+            "lỗi": ""
         }
     },
     {
@@ -297,7 +297,7 @@
         ],
         "intent": "tạm dừng học",
         "entities": {
-            "khoá": "K12",
+            "khoá": "",
             "khoa": "",
             "học kỳ": "",
             "lý do": ""
@@ -353,7 +353,6 @@
             "thời gian": "",
             "số tiền": ""
         }
-
     },
     {
         "message": [
@@ -386,9 +385,9 @@
         ],
         "intent": "cập nhật điểm",
         "entities": {
-            "môn học": "av 123",
+            "môn học": "",
             "mã môn học": "",
-            "học kỳ": "Học kì 163",
+            "học kỳ": "",
             "số tín chỉ": ""
         }
     },
@@ -412,8 +411,8 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "Đàn hồi ứng dụng",
-            "mã môn học": "809028",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": ""
         }
     },
@@ -436,8 +435,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "SP1005 - Tư tưởng HCM",
-            "mã môn học": "SP1005",
+            "môn học": "",
+            "mã môn học": "SP1005 - Tư tưởng HCM",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -451,12 +450,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "luận văn",
+            "môn học": "cơ khí",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "K13"
+            "khoá": ""
         }
     },
     {
@@ -518,7 +517,7 @@
         "entities": {
             "môn học": "Đàn Hồi Ứng Dụng",
             "loại điểm": "",
-            "khoá": "Khóa 2013",
+            "khoá": "",
             "hệ số": ""
         }
     },
@@ -529,8 +528,8 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "Xây Dựng Cầu",
-            "mã môn học": "CI4003",
+            "môn học": "ĐAMH thiết kế cầu thép",
+            "mã môn học": "ĐAMH thiết kế cầu thép",
             "học kỳ": ""
         }
     },
@@ -540,8 +539,8 @@
         ],
         "intent": "cập nhật thông tin sinh viên",
         "entities": {
-            "thông tin": "số hiệu bằng tốt nghiệp THPT",
-            "lý do": "lỡ điền sai"
+            "thông tin": "",
+            "lý do": ""
         }
     },
     {
@@ -550,10 +549,10 @@
         ],
         "intent": "huỷ môn học",
         "entities": {
-            "môn học": "Anh văn 1",
-            "mã môn học": "003001",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": "",
-            "lý do": "Môn học tự thêm vào trong đợt đăng ký bổ sung"
+            "lý do": ""
         }
     },
     {
@@ -563,8 +562,8 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "Máy tính",
+            "mã môn học": "Máy tính",
             "học kỳ": ""
         }
     },
@@ -586,11 +585,11 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "Kỹ Thuật Điện",
-            "mã môn học": "EE2027",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": "",
-            "khoá": "",
-            "lý do": ""
+            "khoá": "có cách nào để chuyển điểm môn Kỹ Thuật Điện từ mã EE2027 về mã 406009",
+            "lý do": "có cách nào để chuyển điểm môn Kỹ Thuật Điện từ mã EE2027 về mã 406009 vì em thấy 2 mã này đều học nội dung môn học y hệt nhau.Em"
         }
     },
     {
@@ -616,8 +615,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "LVTN",
-            "mã môn học": "602303",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -631,10 +630,10 @@
         ],
         "intent": "hỗ trợ luận văn",
         "entities": {
-            "vấn đề": "đợt bổ sung em đã bị xóa mất luận văn",
+            "vấn đề": "",
             "học kỳ": "",
             "khoá": "",
-            "khoa": "cơ khí"
+            "khoa": "khoa cơ khí chuyên ngành thiết kế máy"
         }
     }
 ]

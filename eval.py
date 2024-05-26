@@ -1,7 +1,8 @@
 import json
 
-number_of_answer_files = 2
+number_of_answer_files = 5
 number_of_temps = 3
+model_use = "vi-mrc-large"
 # num_of_corrects = 0
 # num_of_data_points = 0
 
@@ -16,7 +17,7 @@ for k in range(number_of_temps):
 
     for i in range(number_of_answer_files):
         file_in = 'labeled_inputs/input' + str(i+1) + '.json'
-        file_out = 'temp' + str(k+1) + '_answers/answers' + str(i+1) + ".json"
+        file_out = model_use + '/temp' + str(k+1) + '_answers/answers' + str(i+1) + ".json"
 
         with open(file_out, 'r', encoding="utf-8") as f:
             answers = json.load(f)

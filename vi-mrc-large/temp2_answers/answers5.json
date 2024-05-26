@@ -7,8 +7,8 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "cơ lưu chất",
-            "mã môn học": "802015",
+            "môn học": "",
+            "mã môn học": "",
             "khoá": "",
             "hệ đào tạo": ""
         }
@@ -21,10 +21,10 @@
         ],
         "intent": "hỏi môn tương đương",
         "entities": {
-            "môn học": "Hóa vô cơ",
+            "môn học": "",
             "mã môn học": "",
             "khoá": "",
-            "hệ đào tạo": "Đại học - Cao đẳng chính quy"
+            "hệ đào tạo": ""
         }
     },
     {
@@ -36,7 +36,7 @@
         "intent": "hỏi chương trình đào tạo",
         "entities": {
             "thông tin": "",
-            "khoá": "Hoá",
+            "khoá": "",
             "khoa": "",
             "hệ đào tạo": ""
         }
@@ -60,9 +60,9 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "luận văn",
+            "môn học": "",
             "mã môn học": "",
-            "học kỳ": "HK171",
+            "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": ""
@@ -76,8 +76,8 @@
         ],
         "intent": "cập nhật thời khoá biểu",
         "entities": {
-            "môn học": "Anh văn 3",
-            "học kỳ": "HK171",
+            "môn học": "",
+            "học kỳ": "",
             "lớp học": ""
         }
     },
@@ -89,7 +89,7 @@
         "intent": "chuyển nhóm",
         "entities": {
             "nhóm": "",
-            "môn học": "giáo dục thể chất 1",
+            "môn học": "",
             "học kỳ": "",
             "lý do": ""
         }
@@ -139,7 +139,7 @@
         "intent": "nhận giấy chứng nhận tốt nghiệp tạm thời",
         "entities": {
             "địa điểm": "",
-            "thời gian": "thứ 6 hàng tuần"
+            "thời gian": ""
         }
     },
     {
@@ -148,10 +148,10 @@
         ],
         "intent": "chuyển nhóm",
         "entities": {
-            "nhóm": "A01",
+            "nhóm": "",
             "môn học": "Lập Trình Web",
             "học kỳ": "",
-            "lý do": "thuận tiện hơn trong việc học"
+            "lý do": ""
         }
     },
     {
@@ -161,7 +161,7 @@
         "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "",
-            "lỗi": "sai thông tin đăng nhập"
+            "lỗi": ""
         }
     },
     {
@@ -170,9 +170,9 @@
         ],
         "intent": "hỏi cách tính điểm",
         "entities": {
-            "môn học": "",
-            "loại điểm": "TBTLN",
-            "khoá": "k13",
+            "môn học": "Kỹ thuật xây dựng",
+            "loại điểm": "",
+            "khoá": "",
             "hệ số": ""
         }
     },
@@ -207,7 +207,7 @@
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "nợ học phí",
+            "vấn đề": "",
             "thời gian": "",
             "khoá": "",
             "khoa": ""
@@ -220,7 +220,7 @@
         ],
         "intent": "cập nhật thời khoá biểu",
         "entities": {
-            "môn học": "Cấu trúc rời rạc cho KHMT",
+            "môn học": "",
             "học kỳ": "",
             "lớp học": ""
         }
@@ -244,7 +244,7 @@
         ],
         "intent": "hỏi cách tính điểm",
         "entities": {
-            "môn học": "anh văn 4",
+            "môn học": "",
             "loại điểm": "",
             "khoá": "",
             "hệ số": ""
@@ -270,7 +270,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "LVTN",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -285,8 +285,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "thanh toán học phí xong",
-            "lỗi": "bên BKPAY thì vẫn chưa cập nhật"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -306,7 +306,7 @@
         "intent": "chuyển điểm",
         "entities": {
             "môn học": "Tư tưởng",
-            "mã môn học": "",
+            "mã môn học": "Tư tưởng",
             "học kỳ": "",
             "khoá": "",
             "lý do": ""
@@ -341,12 +341,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "thiết kế thí nghiệm và xử lí",
-            "mã môn học": "CH3309",
+            "môn học": "thiết kế thí nghiệm",
+            "mã môn học": "thiết kế thí nghiệm",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "k11"
+            "khoá": ""
         }
     },
     {
@@ -370,9 +370,9 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
-            "môn học": "",
-            "mã môn học": "",
+            "lớp học": "VP2014 viễn thông",
+            "môn học": "VP2014 viễn thông",
+            "mã môn học": "VP2014 viễn thông",
             "học kỳ": ""
         }
     },
@@ -382,7 +382,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "nhiệt động lực học",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -415,7 +415,7 @@
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "k12"
+            "khoá": ""
         }
     },
     {
@@ -426,7 +426,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "",
-            "mã môn học": "Giải tích 2",
+            "mã môn học": "",
             "học kỳ": ""
         }
     },
@@ -449,7 +449,7 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "Hệ Phân Bố - MSMH : CO3071",
-            "mã môn học": "CO3071",
+            "mã môn học": "Hệ Phân Bố - MSMH : CO3071",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -462,12 +462,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "Luận văn tốt nghiệp",
-            "mã môn học": "",
+            "môn học": "Luận văn",
+            "mã môn học": "Luận văn",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "khoa cơ khí - chế tạo máy"
+            "khoá": ""
         }
     },
     {
@@ -536,7 +536,7 @@
         ],
         "intent": "nhận giấy chứng nhận tốt nghiệp tạm thời",
         "entities": {
-            "địa điểm": "phòng khoa",
+            "địa điểm": "",
             "thời gian": ""
         }
     },
@@ -547,7 +547,7 @@
         ],
         "intent": "chuyển hệ",
         "entities": {
-            "hệ đào tạo": "VHVL",
+            "hệ đào tạo": "",
             "lý do": "",
             "khoá": ""
         }
@@ -558,10 +558,10 @@
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "phần khai lý lịch tốt nghiệp bị mờ đi không điền được",
+            "vấn đề": "",
             "thời gian": "",
-            "khoá": "K13",
-            "khoa": "Quản Lý Công Nghiệp"
+            "khoá": "",
+            "khoa": ""
         }
     },
     {
@@ -574,7 +574,7 @@
         "entities": {
             "môn học": "",
             "mã môn học": "",
-            "học kỳ": "hk181",
+            "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": "k15"
@@ -588,8 +588,8 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "LVTN",
-            "mã môn học": "",
-            "học kỳ": "LVTN cho HK1 năm 2018-2019",
+            "mã môn học": "LVTN",
+            "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": ""
@@ -601,8 +601,8 @@
         ],
         "intent": "báo lỗi",
         "entities": {
-            "dịch vụ": "google",
-            "lỗi": "không cho đăng nhập nữa và thông báo là đã bị disable"
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -611,7 +611,7 @@
         ],
         "intent": "hỏi về chuẩn ngoại ngữ",
         "entities": {
-            "ngoại ngữ": "anh văn",
+            "ngoại ngữ": "",
             "điểm chuẩn": "",
             "khoá": "K15",
             "hệ đào tạo": ""
@@ -624,8 +624,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "EE4321-Đề cương luận văn tn",
-            "mã môn học": "EE4321",
+            "môn học": "",
+            "mã môn học": "EE4321-Đề cương luận văn tn",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",

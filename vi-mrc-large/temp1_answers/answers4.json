@@ -20,7 +20,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "ME2005",
             "mã môn học": "ME2005",
             "học kỳ": "",
             "đợt": "",
@@ -63,7 +63,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "giáo dục thể chất",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -79,7 +79,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "KINH TẾ HỌC ĐẠI CƯƠNG",
-            "mã môn học": "",
+            "mã môn học": "KINH TẾ HỌC ĐẠI CƯƠNG",
             "học kỳ": ""
         }
     },
@@ -99,7 +99,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "Luận văn tốt nghiệp",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -115,7 +115,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "Lập và phân tích dự án-700200",
-            "mã môn học": "700200",
+            "mã môn học": "Lập và phân tích dự án-700200",
             "học kỳ": ""
         }
     },
@@ -127,7 +127,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "Nhập môn công nghệ da giày - ME4515 ..",
-            "mã môn học": "ME4515",
+            "mã môn học": "",
             "học kỳ": ""
         }
     },
@@ -154,7 +154,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "CI1053 ( Quản lý dự án xây dựng",
-            "mã môn học": "CI1053",
+            "mã môn học": "",
             "học kỳ": ""
         }
     },
@@ -165,7 +165,7 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "Me2005",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -189,7 +189,7 @@
         ],
         "intent": "hỏi thời gian nộp chứng chỉ",
         "entities": {
-            "chứng chỉ": "TOEIC"
+            "chứng chỉ": ""
         }
     },
     {
@@ -227,7 +227,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "luận văn tốt nghiệp",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
@@ -237,13 +237,13 @@
     },
     {
         "comment": "không cập nhật tín chỉ cho môn tương đương",
-        "intent": "báo lỗi",
         "message": [
             "Chào thầy/Cô.. . Em tên Nguyễn Văn Min/ MSSV:[student_id]8.. . Kỳ vừa rồi em có học lại môn Quản Lý Chất Lượng với mã số mới. Môn này có trong danh sách môn học thay thế/tương đương, nhưng chỉ thấy cập nhật điểm mà không cập nhật tín chỉ tích lũy và điểm TBTL. Mong thầy/cô giải đáp.. . Em xin cảm ơn."
         ],
+        "intent": "báo lỗi",
         "entities": {
             "dịch vụ": "",
-            "lỗi": "không cập nhật tín chỉ tích lũy và điểm TBTL"
+            "lỗi": ""
         }
     },
     {
@@ -323,7 +323,7 @@
         ],
         "intent": "hỏi thời gian đăng kí môn học",
         "entities": {
-            "học kỳ": "",
+            "học kỳ": "LVTN",
             "đợt": ""
         }
     },
@@ -353,7 +353,6 @@
             "thời gian": "",
             "số tiền": ""
         }
-
     },
     {
         "message": [
@@ -386,7 +385,7 @@
         ],
         "intent": "cập nhật điểm",
         "entities": {
-            "môn học": "av 123",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "Học kì 163",
             "số tín chỉ": ""
@@ -400,7 +399,7 @@
         "intent": "huỷ môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "EE1015",
+            "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
         }
@@ -437,11 +436,11 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "SP1005 - Tư tưởng HCM",
-            "mã môn học": "SP1005",
-            "học kỳ": "",
+            "mã môn học": "SP1005 - Tư tưởng HCM",
+            "học kỳ": "SP1005 - Tư tưởng HCM",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": ""
+            "khoá": "SP1005 - Tư tưởng HCM"
         }
     },
     {
@@ -451,12 +450,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "luận văn",
+            "môn học": "cơ khí",
             "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "K13"
+            "khoá": "K13 khoa cơ khí"
         }
     },
     {
@@ -528,10 +527,10 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
+            "lớp học": "Xây Dựng Cầu",
             "môn học": "Xây Dựng Cầu",
-            "mã môn học": "CI4003",
-            "học kỳ": ""
+            "mã môn học": "Xây Dựng Cầu",
+            "học kỳ": "Xây Dựng Cầu"
         }
     },
     {
@@ -540,8 +539,8 @@
         ],
         "intent": "cập nhật thông tin sinh viên",
         "entities": {
-            "thông tin": "số hiệu bằng tốt nghiệp THPT",
-            "lý do": "lỡ điền sai"
+            "thông tin": "",
+            "lý do": ""
         }
     },
     {
@@ -550,7 +549,7 @@
         ],
         "intent": "huỷ môn học",
         "entities": {
-            "môn học": "Anh văn 1",
+            "môn học": "",
             "mã môn học": "003001",
             "học kỳ": "",
             "lý do": "Môn học tự thêm vào trong đợt đăng ký bổ sung"
@@ -562,7 +561,7 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
+            "lớp học": "KSTN",
             "môn học": "",
             "mã môn học": "",
             "học kỳ": ""
@@ -574,8 +573,8 @@
         ],
         "intent": "hỗ trợ thực tập",
         "entities": {
-            "học kỳ": "",
-            "lý do": "không đăng kí thực tập tốt nghiệp được do không đủ tín chỉ"
+            "học kỳ": "K11",
+            "lý do": ""
         }
     },
     {
@@ -586,8 +585,8 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "Kỹ Thuật Điện",
-            "mã môn học": "EE2027",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": "",
             "khoá": "",
             "lý do": ""
@@ -616,8 +615,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "LVTN",
-            "mã môn học": "602303",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -631,10 +630,10 @@
         ],
         "intent": "hỗ trợ luận văn",
         "entities": {
-            "vấn đề": "đợt bổ sung em đã bị xóa mất luận văn",
+            "vấn đề": "",
             "học kỳ": "",
             "khoá": "",
-            "khoa": "cơ khí"
+            "khoa": "khoa cơ khí chuyên ngành thiết kế máy"
         }
     }
 ]

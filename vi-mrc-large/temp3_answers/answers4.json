@@ -35,10 +35,10 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "",
+            "môn học": "Việt Pháp",
             "mã môn học": "",
-            "học kỳ": "",
-            "khoá": "",
+            "học kỳ": "Việt Pháp",
+            "khoá": "Việt Pháp",
             "lý do": ""
         }
     },
@@ -50,7 +50,7 @@
         ],
         "intent": "huỷ môn học",
         "entities": {
-            "môn học": "AV2",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
@@ -77,10 +77,10 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
+            "lớp học": "KINH TẾ HỌC ĐẠI CƯƠNG",
             "môn học": "KINH TẾ HỌC ĐẠI CƯƠNG",
             "mã môn học": "KINH TẾ HỌC ĐẠI CƯƠNG",
-            "học kỳ": ""
+            "học kỳ": "Học kì sau"
         }
     },
     {
@@ -113,7 +113,7 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
+            "lớp học": "Lập và phân tích dự án-700200",
             "môn học": "Lập và phân tích dự án-700200",
             "mã môn học": "Lập và phân tích dự án-700200",
             "học kỳ": ""
@@ -125,9 +125,9 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
-            "môn học": "Nhập môn công nghệ da giày - ME4515 ..",
-            "mã môn học": "",
+            "lớp học": "văn bằng 2",
+            "môn học": "",
+            "mã môn học": "Nhập môn công nghệ da giày - ME4515 ..",
             "học kỳ": ""
         }
     },
@@ -152,9 +152,9 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "",
-            "môn học": "CI1053 ( Quản lý dự án xây dựng",
-            "mã môn học": "",
+            "lớp học": "CI1053",
+            "môn học": "Quản lý dự án xây dựng",
+            "mã môn học": "CI1053",
             "học kỳ": ""
         }
     },
@@ -199,8 +199,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "SP1005",
+            "môn học": "Việt Pháp",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -214,7 +214,7 @@
         ],
         "intent": "xin mở lớp",
         "entities": {
-            "môn học": "kĩ thuật lập trình",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
@@ -228,25 +228,22 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "",
-            "học kỳ": "",
-            "đợt": "",
+            "mã môn học": "ngoại ngữ",
+            "học kỳ": "khóa 2013",
+            "đợt": "khóa 2013",
             "hệ đào tạo": "",
             "khoá": "khóa 2013"
         }
     },
     {
         "comment": "không cập nhật tín chỉ cho môn tương đương",
-        "intent": "",
         "message": [
             "Chào thầy/Cô.. . Em tên Nguyễn Văn Min/ MSSV:[student_id]8.. . Kỳ vừa rồi em có học lại môn Quản Lý Chất Lượng với mã số mới. Môn này có trong danh sách môn học thay thế/tương đương, nhưng chỉ thấy cập nhật điểm mà không cập nhật tín chỉ tích lũy và điểm TBTL. Mong thầy/cô giải đáp.. . Em xin cảm ơn."
         ],
+        "intent": "báo lỗi",
         "entities": {
-            "loại điểm": "",
-            "môn học": "",
-            "mã môn học": "",
-            "học kỳ": "",
-            "lý do": ""
+            "dịch vụ": "",
+            "lỗi": ""
         }
     },
     {
@@ -301,8 +298,8 @@
         "intent": "tạm dừng học",
         "entities": {
             "khoá": "K12",
-            "khoa": "",
-            "học kỳ": "",
+            "khoa": "K12",
+            "học kỳ": "K12",
             "lý do": ""
         }
     },
@@ -313,9 +310,9 @@
         ],
         "intent": "tạm dừng học",
         "entities": {
-            "khoá": "",
-            "khoa": "",
-            "học kỳ": "",
+            "khoá": "anh văn 4",
+            "khoa": "anh văn 4",
+            "học kỳ": "anh văn 4",
             "lý do": ""
         }
     },
@@ -326,7 +323,7 @@
         ],
         "intent": "hỏi thời gian đăng kí môn học",
         "entities": {
-            "học kỳ": "LVTN",
+            "học kỳ": "",
             "đợt": ""
         }
     },
@@ -346,12 +343,16 @@
     },
     {
         "comment": "vay vốn sinh viên, hỏi thủ tục vay tiền -> không cần entities",
-        "intent": "",
         "message": [
             "Cho em hỏi thủ tục cần để xin giấy vay tiền sinh viên là gì ạ?",
             "Cho em hỏi thủ tục để xin giấy vay vốn sinh viên ạ?. .",
             "Chào em,. . Em vui lòng liên hệ phòng công tác chính trị sinh viên để được hỗ trợ.. . Thân"
-        ]
+        ],
+        "intent": "hỏi thủ tục vay tiền",
+        "entities": {
+            "thời gian": "",
+            "số tiền": ""
+        }
     },
     {
         "message": [
@@ -398,8 +399,8 @@
         "intent": "huỷ môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "",
-            "học kỳ": "",
+            "mã môn học": "EE1015",
+            "học kỳ": "học kì 1",
             "lý do": ""
         }
     },
@@ -411,7 +412,7 @@
         "entities": {
             "lớp học": "",
             "môn học": "Đàn hồi ứng dụng",
-            "mã môn học": "809028",
+            "mã môn học": "Đàn hồi ứng dụng",
             "học kỳ": ""
         }
     },
@@ -436,10 +437,10 @@
         "entities": {
             "môn học": "SP1005 - Tư tưởng HCM",
             "mã môn học": "SP1005 - Tư tưởng HCM",
-            "học kỳ": "SP1005 - Tư tưởng HCM",
-            "đợt": "",
+            "học kỳ": "kỳ dự thính 143",
+            "đợt": "143",
             "hệ đào tạo": "",
-            "khoá": "SP1005 - Tư tưởng HCM"
+            "khoá": ""
         }
     },
     {
@@ -454,7 +455,7 @@
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "K13 khoa cơ khí"
+            "khoá": "K13"
         }
     },
     {
@@ -499,14 +500,13 @@
     },
     {
         "comment": "huỷ tạm dừng?",
-        "intent": "",
         "message": [
             "Chào Thầy/Cô.. . Em thiếu chứng chỉ ngoại ngữ để đăng ký môn học ( 440đ), và em đã nộp đơn tạm dừng học 1 học kỳ.. . Hiện tại em lên đăng ký môn học bổ sung để xem thì em đăng ký được Luận Văn tốt nghiệp dù thiếu 10đ CCNN.. . Vậy có phải lỗi hệ thống trong việc xét điều kiện chứng chỉ ngoại ngữ ko ạ.. . Nếu ko phải lỗi thì em có thể hủy tạm dừng học đã nộp trước đó ko ạ. . . cảm ơn Thầy/ Cô đã giúp đỡ"
         ],
+        "intent": "huỷ bảo lưu",
         "entities": {
-            "khoa": "",
-            "khoá": "",
-            "hệ đào tạo": ""
+            "học kỳ": "",
+            "lý do": ""
         }
     },
     {
@@ -518,7 +518,7 @@
             "môn học": "Đàn Hồi Ứng Dụng",
             "loại điểm": "",
             "khoá": "Khóa 2013",
-            "hệ số": ""
+            "hệ số": "hệ D2"
         }
     },
     {
@@ -527,10 +527,10 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "Xây Dựng Cầu",
-            "môn học": "Xây Dựng Cầu",
-            "mã môn học": "Xây Dựng Cầu",
-            "học kỳ": "Xây Dựng Cầu"
+            "lớp học": "ĐAMH thiết kế cầu thép",
+            "môn học": "ĐAMH thiết kế cầu thép",
+            "mã môn học": "ĐAMH thiết kế cầu thép",
+            "học kỳ": "ĐAMH thiết kế cầu thép"
         }
     },
     {
@@ -552,7 +552,7 @@
             "môn học": "",
             "mã môn học": "003001",
             "học kỳ": "",
-            "lý do": "Môn học tự thêm vào trong đợt đăng ký bổ sung"
+            "lý do": ""
         }
     },
     {
@@ -562,9 +562,9 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "KSTN",
-            "môn học": "",
-            "mã môn học": "",
-            "học kỳ": ""
+            "môn học": "Máy tính",
+            "mã môn học": "Máy tính",
+            "học kỳ": "KSTN"
         }
     },
     {
@@ -574,7 +574,7 @@
         "intent": "hỗ trợ thực tập",
         "entities": {
             "học kỳ": "K11",
-            "lý do": ""
+            "lý do": "do không đủ tín chỉ"
         }
     },
     {
@@ -585,11 +585,11 @@
         ],
         "intent": "chuyển điểm",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
-            "học kỳ": "",
+            "môn học": "kỹ thuật điện",
+            "mã môn học": "EE2027",
+            "học kỳ": "học kì 162",
             "khoá": "",
-            "lý do": ""
+            "lý do": "có cách nào để chuyển điểm môn Kỹ Thuật Điện từ mã EE2027 về mã 406009 vì em thấy 2 mã này đều học nội dung môn học y hệt nhau.Em"
         }
     },
     {
@@ -628,14 +628,12 @@
         "message": [
             "kính gửi pdt!. .  Em tên [full_name] học khoa cơ khí chuyên ngành thiết kế máy. Em đã đăng ký luận văn vào đợt đăng ký thứ nhất và có đủ 2 dấu tích đăng kí thành công. Nhưng không biết vì lý do gì mà đến đợt bổ sung em đã bị xóa mất luận văn, nên em đã đăng ký lại và vẫn đủ điều kiện đăng ký . Em lên coi thời khóa biểu được cập nhật lần cuối vào 12/08/2017 thì vẫn không thấy có môn luận văn. Em muốn hỏi là do luận văn em đăng ký vẫn chưa được cập nhật hay do em bị lỗi ạ. Rất mong được sự giúp đỡ của pdt . . . Em xin cảm ơn"
         ],
-        "intent": "đăng kí môn học",
+        "intent": "hỗ trợ luận văn",
         "entities": {
-            "môn học": "cơ khí chuyên ngành thiết kế máy",
-            "mã môn học": "cơ khí chuyên ngành thiết kế máy",
+            "vấn đề": "",
             "học kỳ": "khoa cơ khí chuyên ngành thiết kế máy",
-            "đợt": "",
-            "hệ đào tạo": "",
-            "khoá": "khoa cơ khí chuyên ngành thiết kế máy"
+            "khoá": "khoa cơ khí chuyên ngành thiết kế máy",
+            "khoa": "khoa cơ khí chuyên ngành thiết kế máy"
         }
     }
 ]

@@ -11,7 +11,7 @@
         "entities": {
             "loại điểm": "",
             "môn học": "Mật mã và an ninh mạng",
-            "mã môn học": "Mật mã và an ninh mạng",
+            "mã môn học": "",
             "học kỳ": "",
             "lý do": ""
         }
@@ -41,12 +41,12 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
+            "môn học": "Sv K12",
             "mã môn học": "Sv K12",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "Sv K12"
+            "khoá": ""
         }
     },
     {
@@ -85,8 +85,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "môn học nền móng",
+            "mã môn học": "Công trình trân nền đất yếu",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -100,9 +100,9 @@
         ],
         "intent": "cập nhật điểm",
         "entities": {
-            "môn học": "HK162",
-            "mã môn học": "HK162",
-            "học kỳ": "HK162",
+            "môn học": "Kỹ thuật thi công",
+            "mã môn học": "Kỹ thuật thi công",
+            "học kỳ": "",
             "số tín chỉ": ""
         }
     },
@@ -152,8 +152,8 @@
         "intent": "cập nhật điểm",
         "entities": {
             "môn học": "Công Nghệ Thông tin",
-            "mã môn học": "",
-            "học kỳ": "Công Nghệ Thông tin",
+            "mã môn học": "Công Nghệ Thông tin",
+            "học kỳ": "",
             "số tín chỉ": ""
         }
     },
@@ -188,7 +188,7 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "",
+            "môn học": "ỹ thuật điện-điện tử",
             "mã môn học": "",
             "học kỳ": ""
         }
@@ -231,7 +231,7 @@
         "entities": {
             "môn học": "",
             "mã môn học": "",
-            "học kỳ": "k16",
+            "học kỳ": "",
             "lý do": ""
         }
     },
@@ -242,7 +242,7 @@
         "intent": "nộp giấy tờ",
         "entities": {
             "giấy tờ": "",
-            "thời gian": "",
+            "thời gian": "2016",
             "lý do": ""
         }
     },
@@ -258,7 +258,7 @@
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "K13"
+            "khoá": ""
         }
     },
     {
@@ -276,8 +276,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "VP2015/1",
+            "mã môn học": "VP2015/1",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -291,7 +291,7 @@
         ],
         "intent": "hỏi điều kiện nhận luận văn",
         "entities": {
-            "khoa": "",
+            "khoa": "K13",
             "khoá": "K13",
             "hệ đào tạo": ""
         }
@@ -320,8 +320,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "khoa học - kỹ thuật máy tính",
+            "mã môn học": "khoa học - kỹ thuật máy tính",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -337,7 +337,7 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "",
+            "môn học": "KH & KT máy tính",
             "mã môn học": "",
             "học kỳ": ""
         }
@@ -350,9 +350,9 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "Nguyên lý biên dịch 501703 và Điều biến tt & đbiến số 405701",
-            "mã môn học": "VP2014 viễn thông",
-            "học kỳ": "VP2014 viễn thông"
+            "môn học": "",
+            "mã môn học": "Nguyên lý biên dịch 501703 và Điều biến tt & đbiến số 405701",
+            "học kỳ": ""
         }
     },
     {
@@ -361,7 +361,7 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "A76",
+            "lớp học": "",
             "môn học": "",
             "mã môn học": "",
             "học kỳ": ""
@@ -374,8 +374,8 @@
         ],
         "intent": "xin mở lớp",
         "entities": {
-            "môn học": "TK hệ thống cơ điện tử",
-            "mã môn học": "TK hệ thống cơ điện tử",
+            "môn học": "",
+            "mã môn học": "TK hệ thống cơ điện tử - 218014",
             "học kỳ": "",
             "lý do": ""
         }
@@ -387,9 +387,9 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "CO3049",
-            "môn học": "CO3049",
-            "mã môn học": "CO3049",
+            "lớp học": "",
+            "môn học": "",
+            "mã môn học": "",
             "học kỳ": ""
         }
     },
@@ -403,8 +403,8 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "Hóa học đại cương B 604002",
-            "mã môn học": "Hóa học đại cương B 604002",
+            "môn học": "Hóa học",
+            "mã môn học": "",
             "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
@@ -420,8 +420,8 @@
         "entities": {
             "loại điểm": "",
             "môn học": "",
-            "mã môn học": "TDHSX",
-            "học kỳ": "162",
+            "mã môn học": "",
+            "học kỳ": "",
             "lý do": ""
         }
     },
@@ -432,7 +432,7 @@
         "intent": "tăng sĩ số lớp",
         "entities": {
             "lớp học": "",
-            "môn học": "ngôn ngữ lập trình",
+            "môn học": "",
             "mã môn học": "",
             "học kỳ": ""
         }
@@ -447,19 +447,18 @@
             "lớp học": "",
             "môn học": "Khai Phá Dữ Liệu",
             "mã môn học": "Khai Phá Dữ Liệu",
-            "học kỳ": "Khai Phá Dữ Liệu"
+            "học kỳ": ""
         }
     },
     {
-        "comment": "có cần chuyển điểm và mẫu đơn chuyển điểm khoogb -> thắc mắc vấn đề; ý định ở đây là môn tương dduonr, đkmh?",
-        "intent": "",
         "message": [
             "Thầy (Cô) Phòng Đào Tạo cho hỏi em hỏi là học kỳ vừa rồi em có học môn Cơ Học Máy là môn học thay thế cho môn Cơ Học Vật Liệu, em có cần phải làm đơn chuyển điểm không và mẫu đơn chuyển điểm em có thể tìm thấy ở đâu ạ?. . Và hôm qua giờ em tìm môn học Luận Văn Tốt Nghiệp mã 216303 trong đăng ký môn học mà không thấy, mong Phòng Đào Tạo trả lời thắc mắc giúp em với ạ.. . Em xin cảm ơn.",
             "- mã môn 216303 đã mở, sv đăng ký lại nghen. . - về môn tương đương bạn xem chi tiết tại : http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=59_201&tid=447"
         ],
+        "intent": "chuyển điểm",
         "entities": {
-            "môn học": "",
-            "mã môn học": "",
+            "môn học": "Cơ Học Máy",
+            "mã môn học": "Luận Văn Tốt Nghiệp",
             "học kỳ": "",
             "khoá": "",
             "lý do": ""
@@ -472,7 +471,7 @@
         "intent": "nhận giấy xác nhận sinh viên",
         "entities": {
             "địa điểm": "",
-            "thời gian": "17/07/2017"
+            "thời gian": ""
         }
     },
     {
@@ -492,8 +491,8 @@
         "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
-            "mã môn học": "Luận Văn Tốt Nghiệp",
-            "học kỳ": "Luận Văn Tốt Nghiệp",
+            "mã môn học": "",
+            "học kỳ": "",
             "đợt": "",
             "hệ đào tạo": "",
             "khoá": ""
@@ -505,9 +504,9 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "Kinh Tế Kỹ Thuật ( IM2003 )",
+            "lớp học": "",
             "môn học": "",
-            "mã môn học": "",
+            "mã môn học": "Kinh Tế Kỹ Thuật",
             "học kỳ": ""
         }
     },
@@ -518,8 +517,8 @@
         ],
         "intent": "tăng sĩ số lớp",
         "entities": {
-            "lớp học": "HÓa cô cơ - CH2013",
-            "môn học": "HÓa cô cơ - CH2013",
+            "lớp học": "",
+            "môn học": "",
             "mã môn học": "HÓa cô cơ - CH2013",
             "học kỳ": ""
         }
@@ -536,32 +535,32 @@
             "học kỳ": "171",
             "đợt": "",
             "hệ đào tạo": "",
-            "khoá": "171"
+            "khoá": ""
         }
     },
     {
-        "comment": "hỏi về tctd",
-        "intent": "",
         "message": [
             "Kính gửi phòng đào tạo, em là sinh viên k13 em có một chút thắc mắc về các môn học tự chọn như sau ạ. Hiện em đã học 7 môn tự chọn trong đó em bị rớt 2 môn, nhưng theo yêu cầu của trường thì em chỉ cần học 5 môn. Vậy em muốn hỏi là em có cần trả nợ 2 môn kia không, và điểm của 2 môn kia có tính vào điểm tích lũy sau cùng không ạ. Em xin chân thành cảm ơn.",
             "- chào bạn điểm 2 môn dư trong chương trình đào tạo chỉ tính vào điểm tbhk và tbtlchung. . - chĩ tính vào TBTLNgành 5 môn tự chọn có điểm cao nhất"
         ],
+        "intent": "hỏi cách tính điểm",
         "entities": {
-            "môn học": "",
+            "môn học": "k13",
             "loại điểm": "",
-            "khoá": "",
-            "hệ số": ""
+            "khoá": "k13",
+            "hệ số": "k13"
         }
     },
     {
-        "comment": "báo lỗi? hay hỗ trợ luận văn?",
         "message": [
             "thưa PDT em  đã qua hết các môn tiên quyết , sao em đăng ký luận văn thì báo là bạn chưa đạt 1 môn tiên quyết"
         ],
-        "intent": "báo lỗi",
+        "intent": "hỗ trợ luận văn",
         "entities": {
-            "dịch vụ": "",
-            "lỗi": ""
+            "vấn đề": "",
+            "học kỳ": "",
+            "khoá": "",
+            "khoa": ""
         }
     },
     {
@@ -573,10 +572,10 @@
         ],
         "intent": "hỗ trợ tốt nghiệp",
         "entities": {
-            "vấn đề": "",
+            "vấn đề": "tại sao em không có tên trong danh sách tốt nghiệp dự kiến vừa upload ngày 17/07/2017 ạ ?",
             "thời gian": "",
             "khoá": "",
-            "khoa": "Khoa học và Kỹ thuật Máy Tính"
+            "khoa": ""
         }
     },
     {
@@ -593,10 +592,10 @@
         ],
         "intent": "tạm dừng học",
         "entities": {
-            "khoá": "171",
+            "khoá": "",
             "khoa": "",
-            "học kỳ": "171",
-            "lý do": "do lý do gia đình"
+            "học kỳ": "",
+            "lý do": ""
         }
     },
     {
@@ -608,8 +607,8 @@
         "intent": "phúc khảo điểm",
         "entities": {
             "môn học": "Phân tích và thiết kế giải thuật",
-            "mã môn học": "CO3031",
-            "học kỳ": "Phân tích và thiết kế giải thuật",
+            "mã môn học": "Phân tích và thiết kế giải thuật",
+            "học kỳ": "",
             "lý do": ""
         }
     },
@@ -648,7 +647,7 @@
         ],
         "intent": "đăng kí môn học",
         "entities": {
-            "môn học": "LVTN",
+            "môn học": "",
             "mã môn học": "LVTN",
             "học kỳ": "",
             "đợt": "",
@@ -657,8 +656,6 @@
         }
     },
     {
-        "comment": "lỗi -> cần nộp ccav?",
-        "intent": "",
         "message": [
             "Kính gửi Phòng đào tạo.. . Em tên là [full_name] K14 . . . Em chưa qua môn tiên quyết \"Anh văn đầu vào\". . em có đăng kí thi ở trung tâm để lấy bằng nộp vô nhưng do chứng minh bị lỗi nên em phải làm lại chứng minh do đó em thi không kịp nộp bằng vô . Kinh mong phòng đào tạo xem xét cho em được đăng kí môn học học kì 171 và em sẽ bổ xung bằng vào thời gian nộp anh văn kế tiếp .Nếu không đăng kí được em sẽ trễ thêm 1 năm nữa em phải nghỉ 1 năm do bệnh phát nặng em rất mong được phòng đào tạo xem xét để em có thể đăng kí và được học trong học kì tới.. . Em xin chân thành cảm ơn.",
             "Trường hợp này không thể giải quyết giúp bạn được. Phải có CCAV mới xét được .",
@@ -666,6 +663,7 @@
             "Lúc đó em có thể làm đơn xin đăng ký bổ sung để được xem xét nhé. Cố gắng càng sớm càng tốt",
             "dạ . em cảm ơn Thầy"
         ],
+        "intent": "đăng kí môn học",
         "entities": {
             "môn học": "",
             "mã môn học": "",
@@ -677,16 +675,19 @@
     },
     {
         "comment": "chưa rõ ràng",
-        "intent": "",
         "message": [
             "Em chào thầy/cô,. . Em là [full_name], MSSV [student_id]1. . . . . Khi tiến hành đăng ký môn Luận văn tốt nghiệp, mã 701303 cho học kỳ 171, em gặp phải lỗi này: . . . . \"Thiếu môn học tiên quyết CCAV_1 - Chứng chỉ ngoại ngữ_LVTN\" . . . . Cho em hỏi là có phải do em chưa nộp chứng chỉ ngoại ngữ nên chưa đăng ký được môn này phải không ạ? . . Do em đọc mail thấy PĐT cho phép nộp chứng chỉ ngoại ngữ trước 16g ngày 28/07/2017, mà đợt đăng ký môn học hk 171 đến 26/07/2017 03:00 PM là hết hạn rồi ạ.. . . . Em mong là thầy cô sẽ phản hồi sớm cho em vể vấn đề này để em sắp xếp đăng ký môn học ạ. Em cám ơn ạ.. . . . Trân trọng, . . [full_name].. .",
             "Em phải nộp CCAV để được xét LVTN nhé.",
             "Em chào thầy/cô,. . . . Em đã nộp chứng chỉ anh văn vào cuối ngày 24/7 và đang được thẩm tra. Tuy nhiên hiện tại em vẫn chưa đăng ký được môn Luận văn tốt nghiệp ạ.. . . . Em muốn hỏi là có đợt đăng ký bổ sung cho môn Luận văn tốt nghiệp không ạ? . . Vì em thấy thông báo đợt đăng ký bổ sung ngày 18/8 chỉ dành cho các môn học chung với K17.. . . . Em mong là thầy cô sẽ phản hồi sớm cho em vể vấn đề này để em sắp xếp đăng ký môn học ạ. Em cám ơn ạ.. . . . Trân trọng, . . [full_name]."
         ],
+        "intent": "đăng kí môn học",
         "entities": {
-            "khoa": "",
-            "khoá": "",
-            "hệ đào tạo": ""
+            "môn học": "",
+            "mã môn học": "",
+            "học kỳ": "",
+            "đợt": "",
+            "hệ đào tạo": "",
+            "khoá": ""
         }
     },
     {
@@ -697,7 +698,7 @@
         "entities": {
             "môn học": "",
             "lớp học": "",
-            "học kỳ": "171"
+            "học kỳ": ""
         }
     },
     {

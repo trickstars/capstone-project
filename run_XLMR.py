@@ -11,7 +11,8 @@ from transformers import AutoTokenizer
 import nltk
 # nltk.download('punkt')
 
-file_index = 2
+file_index = 5
+temp = 3
 # input_file = 'examples/intent_for_message/intent_'+ str(file_index) +'.json'
 input_file = 'labeled_inputs/input'+ str(file_index) +'.json'
 
@@ -36,6 +37,7 @@ def get_entity2(question):
 
 # model_checkpoint = "C:\\Users\\Dell\\.cache\\huggingface\\hub\\models--nguyenvulebinh--vi-mrc-base"
 model_checkpoint = "nguyenvulebinh/vi-mrc-large"
+model_use = "vi-mrc-base"
 # nlp = pipeline('question-answering', model=model_checkpoint, tokenizer=model_checkpoint)
 
 tokenizer = AutoTokenizer.from_pretrained(model_checkpoint)
@@ -95,11 +97,10 @@ def run_with_temp(temp_stategy):
         # print(triple)      
         answer.append(triple)
 
-    output_file = 'temp' + str(temp_stategy) + '_answers/answers' + str(file_index) + '.json'
+    output_file = model_use + '/temp' + str(temp_stategy) + '_answers/answers' + str(file_index) + '.json'
 
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(answer, f, ensure_ascii = False, indent=4)
 
 #run
-temp = 3
 run_with_temp(temp)
