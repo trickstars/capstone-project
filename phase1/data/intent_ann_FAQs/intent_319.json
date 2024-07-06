@@ -1,0 +1,380 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Thầy cô cho em xin tất cả lịch dậy học của môn [full_name] (EE3005) KỲ 1 năm 2020-2021 được không ạ.. . em chân thành cảm ơn.",
+            "Chào bạn,. . . . Bạn vào kết quả DKMH đợt 3 để tra cứu nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Chào thầy cô. Em muốn hỏi là em đã nhận giấy xác nhận sinh viên nhưng làm mất. Em muốn xin phép thầy cô in lại thì có được không ạ? Em là tân sinh viên. .",
+            "Chào bạn,. . Bạn vui lòng trình bày rõ, hiện tại khóa 2020 chưa được cấp giấy xác nhận sinh viên!. . Không biết bạn nhận giấy xác nhận sinh viên khi nào?. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . -Dạ em muốn hỏi thầy cô là các môn AV1,AV2.. của trường là có bắt buộc phải học hay không ạ?. . -Nếu như em đạt điểm chuẩn anh văn từng năm bằng cách thi anh văn định kì do trường tổ chức thì khi có điểm em có cần làm thủ tục gì để được xét chuẩn anh văn từng năm hay không ạ? . . -ví dụ em thi anh văn định kì năm nay(năm 2)  được 575 điểm thì chuẩn anh văn của em chỉ được xét cho năm nay hay có được dùng điểm đó làm kết quả xét chuẩn anh văn cho những năm tiếp theo không ạ?",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b  [student_id]  /b \t. . . .   i Yêu cầu khác . Em là k18 đã có điểm anh văn 1 là 8 điểm và anh văn 2 là 6.5đ và chưa có điểm môn anh văn 3, anh văn 4. Em thi Toeic 2 kĩ năng (nghe và đọc) ngày 20/9/2020 và được 525 điểm, nếu bây giờ em nộp CCNN và đăng kí chuyển điểm cho Anh Văn 1 và 2 thì điểm anh văn 1 và  anh văn 2 của em sẽ được thay thế là 10 điểm hết đúng không ạ (mặt dù trước đó em đã có điểm)?",
+            "Cũng vậy nếu như bây giờ em chuyển điểm cho anh văn 4 là 5.5đ thì tương lai em không được cải thiện điểm môn này phải không ạ? Mặc dù em đã đọc quy chế nhưng em muốn hỏi cụ thể cho chắc thôi ạ. Xin cảm ơn.",
+            "Em thi CCNN ngày 20/9 thì ngoài thời hạn 1/11/2020 có còn được áp dụng quy định chuyển điểm cũ hay không ạ? Hay là sau 1/11 thì áp dụng quy định chuyển điểm mới kể cả  các CCNN thi trước 21/9 ạ? . . Hoặc nếu một bạn nào đó thi CCNN sau 21/9 thì trong thời hạn này này có áp dụng quy định chuyển điểm cũ cho bạn ấy không ạ? . . Em có nhận e-mail của trường nhưng không hiểu lắm ạ, mong chuyên viên trả lời giúp em. Xin cảm ơn ạ.",
+            "Chào bạn,. . Chỉ dành cho bạn thi CCNN trước ngày 21/9 và phải nộp CCNN, đăng ký chuyển điểm và thanh toán tiền trước ngày 1/11/2020. Sau thời gian này tất cả các trường hợp đều áp theo quy định của bảng quy đổi điểm mới (áp dụng từ học kỳ 201/2020-2021).. . Bạn vui lòng xem lại mail thông báo của PDT đã gửi. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b . . Em thuộc sinh viên K18, cho e hỏi điều kiên tiếng anh tốt nghiệp ,e thi được bằng toeic 2 kỹ năng (reading + listening ) đạt rồi. Vậy em k18 thì có được chấp nhận chứng chỉ toeic speaking & writing đạt 200 của trung tâm anh ngữ đại học Bách Khoa không ạ ?\t. . Chứng chỉ Speaking & Writing (với mức Đạt) của Trung tâm Ngoại ngữ của Trường Đại học Bách Khoa (áp dụng từ khóa 2013 đến khóa 2017)",
+            "Chào bạn, . . . . Bạn xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . Trong mục 3, phần b có qui định:. . . . b) Quy định về kỹ năng tiếng Anh:. . . . - Chuẩn tiếng Anh nhận LVTN chấp nhận các chứng chỉ tiếng Anh 2 kỹ năng và chứng chỉ tiếng Anh 4 kỹ năng.. . . . - Chuẩn tiếng Anh xét tốt nghiệp (Áp dụng cho bậc đại học chính quy từ khóa 2013 trở đi): phải đạt 4 kỹ năng (Reading, Listening, Speaking, Writing). . . . + Các chứng chỉ tiếng Anh 4 kỹ năng được chấp nhận: TOEFL iBT, IELTS, KET, PET, FCE, CAE, VNU-EPT. . . . + Các chứng chỉ tiếng Anh 2 kỹ năng (Listening & Reading) TOEIC, TOEFL ITP, BULATS được chấp nhận với điều kiện phải đạt thêm một trong các chứng chỉ sau:. . . . * Chứng chỉ TOEIC Speaking & Writing với mức điểm tối thiểu là 200. Riêng chương trình tài năng là 245.. . . . * Chứng chỉ BULATS Speaking & Writing với mức điểm tối thiểu là 6.0. . . . * Đồi với các khóa từ 2013 đến 2017, cho phép dự thi kỹ năng Speaking & Writing của Trung tâm Ngoại ngữ của Trường Đại học Bách Khoa với mức Đạt, tương đương mức điểm 200, riêng chương trình tài năng là mức “Đạt TN”, tương đương mức điểm 245.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: PĐT cho e hỏi về kỳ thi anh văn do IIG tổ chức vừa rồi vào ngày 19 20-09. Kỳ thi vừa rồi e đã qua hết chuẩn AV4, thì sang năm sau em có phải thi lại nữa không ạ? . . E thấy giờ trên facebook khá nhiều thông tin nên không rõ ạ. . . E cảm ơn.",
+            "Chào bạn,. . . . Bạn xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ thầy (cô) ơi, một vài lý do cá nhân em muốn xin được chuyển đổi lớp ạ. Hiện nay phòng đào tạo còn cho phép chuyển không ạ. . . Em cảm ơn.. .",
+            "Chào bạn,. . . . Đã hết thời gian chuyển lớp nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . em chào PĐT, em muốn hỏi là cấu trúc môn học ở trang web aao http://www.aao.hcmut.edu.vn/index.php?route=catalog/chuongtrinhdaotao này khi nào cập nhật lại ạ (lần cập nhật gần nhất là 21/9/2020), vì có mấy môn đã bỏ điều kiện học trước rồi",
+            "Chào bạn,. . . . Trong tuần này PDT sẽ cập nhật lại phần cấu trúc môn học, cuối tuần này bạn kiểm tra lại nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . em chào cô/thầy ạ,  em có học 1 môn của ctđt trước và đã có điểm. em có liên hệ với giáo viên bộ môn thì môn đó được chuyển điểm thành 1 môn của ctđt của em. vậy cho em hỏi về thủ tục chuyển điểm như thế nào ạ. em xin cảm ơn. .",
+            "Chào bạn,. . . . Việc làm thủ tục chuyển điểm là khoa và giáo viên giảng dạy làm công văn gởi PDT nha bạn.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học  /i    B  em chào thầy cô, cho em hỏi là nếu các môn chuyên ngành của ngành kĩ thuật oto thì sỉ số bao nhiêu là được mở lớp trong kì dự thính ban đêm v ạ. . . .",
+            "Chào bạn,. . . . Khoản   25sv, dự thính còn tuỳ khoa có đồng ý mở lớp hay không?. . . . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Chào thầy/cô,. . Em là sv k19 đại trà, theo thông tin trên trang web của Pđt, thì nhà trường sẽ tổ chức một lần duy nhất, miễn phí kỳ kiểm tra kỹ năng ứng dụng CNTT nội bộ. . . Em muốn hỏi là kỳ thi này dự kiến sẽ được tổ chức vào thời gian nào? Để em có thể có kế hoạch ôn tập tốt nhất.. . Em cảm ơn ạ.. .",
+            "Chào em,. . . . 1. Quy định về Kỹ năng ứng dụng CNTT xin xem trong Phụ lục 3 của Quy chế đào tạo và học vụ của trường (aao.hcmut.edu.vn    Sinh viên    Quy chế). . . . 2. Hiện nay, do hình hình dịch Covid-19, nhà trường chưa tổ chức kiểm tra đánh giá để giúp SV đạt chuẩn. Việc tổ chức đánh giá sẽ được thông báo sau.. . . . 3. SV có thể nộp các chứng chỉ theo quy định về trường để được xét đạt chuẩn. Loại Chứng chỉ ứng dụng CNTT, xem quy định của Bộ Thông tin truyền thông (Thông tư số 03/2014/TT-BTTTT ngày 11/3/2014 của Bộ trưởng Bộ Thông tin và Truyền thông). . Danh sách các đơn vị được cấp chứng chỉ có thể xem ở đây. . (https://thanhnien.vn/giao-duc/danh-sach-cac-don-vi-duoc-to-chuc-thi-va-cap-chung-chi-ngoai-ngu-tin-hoc-[student_id].html). . Trường ĐHBK có tên trong danh sách này (Trung tâm Kỹ thuật Điện toán là nơi tổ chức thi).. . . . 4. Thời hạn ràng buộc: Phụ lục 3 nói trên, Khoản 2 (hết năm 1 để được đăng ký môn của năm 2). Tuy nhiên, HK201, trường chưa ràng buộc. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Kính chào quý thầy/cô,. . . . Em là sinh viên Văn bằng 2, khóa 2017.. . . . Theo em tự kiểm tra đối chiếu với quy chế thì đã thấy mình đủ các điều kiện tốt nghiệp rồi ạ. Em có 2 câu hỏi:. . . . 1. Quý thầy/cô giúp em kiển tra trên hệ thống là em còn điều kiện nào chưa cập nhật không ạ?. . . . 2. Danh sách tốt nghiệp dự kiến sẽ được cập nhật định kỳ vào thời điểm nào ạ?. . . . Cảm ơn quý thầy/cô.. . . . . .",
+            "Chào bạn,. . . .    Phòng đào tạo đã ghi nhận trường hợp xét tốt nghiệp bổ sung của sinh viên, sau ngày 16/106  Phòng Đào Tạo sẽ thông báo danh sách tốt nghiệp cập nhật mới : . . -          Sinh viên xem kết quả xét lại tốt nghiệp trên: www.aao.hcmut.edu.vn  tốt nghiệp  thông tin tốt nghiệp  danh sách tốt nghiệp 11/2020. . -          Trường hợp không có tên trong danh sách tốt nghiệp bổ sung sinh viên liên hệ trực tiếp phòng đào tạo để kiểm tra lại lý do.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào phòng đào tạo, em tên là: [full_name], MSSV:[student_id]. Hiện tại điểm luận văn của em đã được cập nhật. Cùng với đó, em đã có số ngày công tác xã hội là 15 ngày và đã chứng chỉ tiếng anh IELTS 7.0. Tuy nhiên, hiện tại trong mục đăng ký tốt nghiệp vẫn chưa cập nhật danh sách tốt nghiệp dự kiến. Cho em hỏi tình trạng của em bao giờ đăng ký được ạ",
+            "Phòng đào tạo đã ghi nhận trường hợp xét tốt nghiệp bổ sung của sinh viên, sau ngày 14/10/20 phòng đào tạo sẽ thông báo danh sách tốt nghiệp cập nhật mới :. . - Sinh viên xem kết quả xét lại tốt nghiệp trên: www.aao.hcmut.edu.vn    tốt nghiệp    thông tin tốt nghiệp    danh sách tốt nghiệp 11/2020 - Trường hợp không có tên trong danh sách tốt nghiệp bổ sung sinh viên vui lòng phản hồi tại trang bksi.hcmut.edu.vn để để phòng đào tạo kiểm tra lý do.. .  Thân . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi : Phòng Đào Tạo Trường Đại Học Bách Khoa.. . Em tên là : [full_name] , MSSV:[student_id].. . lớp DD14DV2 của thầy [full_name].. . . . Học kì này của em không đăng kí được Đề Cương Luận Văn được vì mã GS3 chuẩn GDTC sau 3 năm học . Kì trước em vẫn đăng kí được nên em không biết kì này sẽ không được vì em không biết có sự thay đổi quy chế. Em xin hỏi PĐT có cách nào giúp em đăng kí được môn học không ạ ? Em xin lỗi vì đã làm phiền . . . Mong sự phản hồi của PĐT.. . Sinh viên [full_name],. .",
+            "Chào bạn,. . . . Bạn làm đơn đặc cách nộp PDT.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác  /i  Em muốn hỏi địa điểm học môn Cầu Lông ở cs1 . . . .",
+            "Chào bạn,. . Trong TKB có ghi rõ nhé bạn: B12-SAN1\t. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Cho em hỏi em đã đăng ký xét tốt nghiệp thành công,đã đóng tiền 95k trên BKPay,và cũng đã nhận được mail từ phòng đào tạo xác nhận đã đăng lý thành công tốt nghiệp.Vậy cho em hỏi em cần làm gì tiếp theo ak,và khi nào em biết được lịch trình cụ thể ngày tốt nghiệp (mướn áo,thời gian,ngày giờ cụ thể).Em xin cảm ơn",
+            "Chào bạn,. . . . Thông tin (mượn áo,thời gian,ngày giờ cụ thể) PDT sẽ gởi thông báo sau đó. Bạn thường xuyên theo dõi mail nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em k16. Nhưng vẫn còn một số môn chưa xong và chưa tốt nghiệp. Cho em hỏi là trường có phát giấy miễn nghĩa vụ không và nếu có thì e có thể nhận giấy tại đâu. E cám ơn",
+            "Chào bạn,. . . . Bạn vào Mybk in giấy xác nhận sinh viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Cho em hỏi về vấn đề bằng tin học là mình có bắc buộc phải thi bằng mos hay ic3 bên trung tâm IIG để lấy bằng nộp cho trường không ạ hay chỉ cần đăng kí thi trong trường là được ạ em cảm ơn",
+            "1. Quy định về Kỹ năng ứng dụng CNTT xin xem trong Phụ lục 3 của Quy chế đào tạo và học vụ của trường (aao.hcmut.edu.vn    Sinh viên    Quy chế). . 2. Hiện nay, do hình hình dịch Covid-19, nhà trường chưa tổ chức kiểm tra đánh giá để giúp SV đạt chuẩn. Việc tổ chức đánh giá sẽ được thông báo sau.. . 3. SV có thể nộp các chứng chỉ theo quy định về trường để được xét đạt chuẩn. Loại Chứng chỉ ứng dụng CNTT, xem quy định của Bộ Thông tin truyền thông (Thông tư số 03/2014/TT-BTTTT ngày 11/3/2014 của Bộ trưởng Bộ Thông tin và Truyền thông). . Danh sách các đơn vị được cấp chứng chỉ có thể xem ở đây. . (https://thanhnien.vn/giao-duc/danh-sach-cac-don-vi-duoc-to-chuc-thi-va-cap-chung-chi-ngoai-ngu-tin-hoc-[student_id].html). . Trường ĐHBK có tên trong danh sách này (Trung tâm Kỹ thuật Điện toán là nơi tổ chức thi).. . 4. Thời hạn ràng buộc: Phụ lục 3 nói trên, Khoản 2 (hết năm 1 để được đăng ký môn của năm 2). Tuy nhiên, HK201, trường chưa ràng buộc.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Cho em hỏiem thi toeic bên trung tâm iig được 610 điểm em có xét miễn av 1 2 3 rồi thì khi nào cập nhật điểm ạ tại em chờ 1 tuần hơn rồi mà chưa thấy gì ạ tại em cần để phân ngành ạ",
+            "Chào bạn,. . . . Đã xét miễn rồi nha bạn, cổng thông tin sinh viên sẽ cập nhật sau.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . trong kỳ hè 193 em có tham gia thi toeic trên trường do trung tâm IIG tổ chức và em đạt được 575 điểm, cho em hỏi là hiện tại em đã được miễn xét AV4 luôn chưa? hay chỉ miễn xét AV3 cho lần đăng kí môn học tiếp theo, em thuộc K19",
+            "Chào bạn. . - Sinh viên đăng ký dự kỳ kiểm tra tiếng Anh định kỳ (theo định dạng TOEIC) do PĐT phối hợp cùng trung tâm IIG tổ chức không dùng để miễn môn các môn anh văn 1234 chỉ dùng để đạt chuẩn tiếng Anh sau mỗi năm học. . - Về quy định chuẩn tiếng anh trong quá trình học: Bạn vui lòng xem chi tiết tại trang web aao--  sinh viên --  Quy chế --  Quy chế đào tạo và học vụ bậc đại học và cao đẳng -- Phụ lục 1: Quy định về ngoại ngữ --  điều 2-c. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Gửi thầy, cô. . Kì hè 2019-2020 em không qua được môn Mạch điện tử (EE2007) nhưng em muốn giữ điểm để có môn học trước ạ. Xin thầy, cô giúp em.. . Em xin cảm ơn",
+            "Chào bạn,. . . . Từ học kỳ 191 điểm học kỳ hè  vẫn có trong bảng điểm (kể cả rớt lẫn đậu).. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em xin chào ạ.. . Em tên [full_name]-[student_id], sinh viên năm 3 khoa CNVL.. . . . Em có dự tuyển học bổng Power on ạ. Trong hồ sơ học bổng có yêu cầu thư đề đạt nguyện vọng có   B xác nhận của đoàn thanh niên - hội sinh viên trường  /B . Cho em được hỏi em có thể xin xác nhận ở đâu, gặp ai để được xin xác nhận ạ!?. . Em chân thành cảm ơn!. . . . . . . .   I Hoang Quoc Thai - [student_id]. . Faculty of Materials Technology HoChiMinh City University of Technology - Materials of Silicate. . ---------------------. . Add: A dormitory , Dong Hoa - Di An -[full_name] province. . Mobile phone: +84-562-933-886. .  .",
+            "Chào bạn,. . Bạn có thể liên hệ tại Văn phòng Đoàn Trường để được hướng dẫn (114B1). . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào PĐT,. . Em đã đăng ký xét tốt nghiệp đợt 2 năm học 2019-2020 trên trang mybk.hcmut.edu.vn. Bởi vì tên em quá dài nên phần thông tin cá nhân chỗ \"Họ và tên\" ghi tên em là \"[full_name]\", nhưng tên em ghi đầy đủ là \"[full_name]\". Do phía dưới có ghi chú là \"Thông tin này sẽ được dùng để in bằng tốt nghiệp & bảng điểm...\" nên em sợ khi in bằng tốt nghiệp sẽ bị lỗi tên. Vậy kính mong PĐT cập nhật lại tên giúp em hoặc cho em biết là tên như vậy thì sau khi in bằng tốt nghiệp có bị lỗi không ạ? Mong nhận được phản hồi sớm từ PĐT. Em xin cảm ơn.. . [full_name]",
+            "Chào bạn,. . Bạn có thể liên hệ nhận giấy chứng nhận tốt nghiệp tạm thời xem tên có bị lỗi không nhé!. . Nếu không bị lỗi thì thông tin trên giấy CN tốt nghiệp tạm thời sẽ được in lên bằng TN.. . Thân. .",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Gửi PĐT,. . Em tên là [full_name] mssv [student_id]. . Vào ngày 25/9 em có lên cơ sở 1 trình bày lí do môn học bị xoá và được PĐT chấp nhận đăng kí môn CI3141 giúp em, và có hẹn vào ngày 1/10 môn này sẽ được cập nhật trên thời khoá biểu ạ. Nhưng em đợi mấy bữa nay thì chưa thấy cập nhật ạ.. . Em hi vọng được giải quyết sớm để em được học theo đúng chương trình với các bạn khác ạ.. . Em xin cảm ơn.. . . .",
+            "Chào bạn,. . . . Bạn không đăng kí môn CI3141 do thiếu môn tiên quyết CI1021. . . . . Thân.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác  /i em chào thầy cô ạ,. . Em là sinh viên K19 khoa Hóa mới phân ngành. Hiện em có 1 vấn đề mong thầy cô giúp em ạ. lúc phân ngành ĐTBTL em là 7.47, lúc đó thầy [full_name] có kêu tuyển bổ sung KSTN và có nêu tên em trong danh sách nên em đã đăng kí vô lớp đó. Hôm qua, pđt đã mail cho em là em ko đủ điều kiện học KSTN, em liên hệ với thầy và thầy trả lời em có 2 phương hướng: một là tiếp tục học lớp của KSTN thi bằng tiếng anh, hai là chuyển về lớp đại trà ở cs2. Em lựa chọn là quay về lớp đại trà ở cs2. thầy cô ơi, bây giờ em còn được chuyển lớp ko ạ? Quy trình thủ tục để chuyển lớp gồm những gì ạ.. . em cám ơn thầy cô rất nhiều, mong thầy cô giải quyết giúm em vấn đề này ạ.. . . .",
+            "Chào bạn,. . . . Đã giải quyết đơn cho bạn rồi, kết quả DKMH sẽ cập nhật trên cổng thông tin sinh viên.. . . . Thân",
+            "Chào bạn,. . Bạn có thể làm đơn trình bày (có xác nhận của [full_name] về lớp KSTN) và nộp tại Phòng Đào tạo. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ .  . . Em là [full_name] [student_id]. . Em đã nộp đơn chuyển lớp Hóa phân tích L03 của hệ kĩ sư tài năng qua L04 đại trà mà sao vẫn chưa thấy cập nhật gì trên bkel hay bkhcmut vậy ạ ?. . Em cảm ơn nhiều ạ.",
+            "Chào bạn,. . . . Bạn vui lòng kiểm tra DKMH trên công thông tin sinh viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   b MSSV/MSGV: [student_id]  /b   /B \t. . Vào đợt thi ngày 20/09/2020 e có thi tại trường được số điểm 520, vậy e có được chuyển điểm là đã pass av3 không ạ ?. . Và sau đợt đó thì điểm chuẩn av của k19 sẽ như k20 ạ ?. .   i Yêu cầu khác .",
+            "Chào bạn,. . . . Lần đầu lúc vào nhập học bạn thi điểm cao sẽ xét miễn điểm anh văn, đây là móc điểm được miễn điểm anh văn:. . . . . . Điểm kiểm tra\tXếp lớp\tMiễn học. . và ghi điểm miễn. .    400\tAnh văn cơ bản (nếu có)\t . . 400 – 445\tAnh văn 1\t . . 450 – 495\tAnh văn 2\tAnh văn 1. . 500 – 545\tAnh văn 3\tAnh văn 1, 2. . 550 – 595\tAnh văn 4\tAnh văn 1, 2, 3. . ≥ 600\t \tAnh văn 1, 2, 3, 4. . . . . . Những lần sau bạn thi chỉ dùng để xét chuẩn sinh viên sau các năm.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Thầy/ Cô cho em hỏi với ạ.. . Em là sinh viên K14 thì để chuyển điểm Anh văn qua hết 4 môn Anh văn thì em cần kết quả tối thiểu là bao nhiêu ạ.. . Chuẩn là trường của K14 tụi em là 450 ạ.. . Em xin cảm ơn.",
+            "Chào bạn,. . . . Bạn vui lòng xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ thưa thầy cô em là SV [full_name], MSSV [student_id], khoa KTHH, bô môn thực phẩm.  Em đang đăng ký tốt nghiệp đến bước thanh toán phí 95.000 đồng, đã thanh toán và bị trừ tiền nhưng hệ thống BK pay báo chưa thanh toán. Mong thầy cô hướng dẫn em cách xử lý. Em xin cảm ơn ạ.",
+            "Chào bạn,. . Hiện tại trên bkpay vẫn chưa ghi nhận bạn thanh toán, bạn vui lòng liên hệ tại ngân hàng OCB (chi nhánh Lý Thường kiệt) để kiểm tra về khoản thanh toán.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em chào quý thầy/cô.. . Em tên [full_name], mssv:[student_id]. Hiện tại em đã hoàn thành hết tất cả các yêu cầu về điểm số, chứng chỉ tiếng anh, ngày công tác xã hội cũng như điểm rèn luyện. Nhưng trong tình trạng đăng ký xét tốt nghiệp lại để \"Không tìm thấy thông tin trong danh sách tốt nghiệp dự kiến\". Em kính mong quý thầy/cô xem xét trường hợp của em. . . Em cảm ơn quý thầy/cô.",
+            "Chào bạn [full_name] [full_name] Phòng đào tạo đã ghi nhận trường hợp xét tốt nghiệp bổ sung của sinh viên, sau ngày 14/10/20 phòng đào tạo sẽ thông báo danh sách tốt nghiệp cập nhật mới :[full_name] [full_name] - Sinh viên xem kết quả xét lại tốt nghiệp trên: www[full_name]aao[full_name]hcmut[full_name]edu[full_name]vn    tốt nghiệp    thông tin tốt nghiệp    danh sách tốt nghiệp 11/2020 - Trường hợp không có tên trong danh sách tốt nghiệp bổ sung sinh viên vui lòng phản hồi tại trang bksi[full_name]hcmut[full_name]edu[full_name]vn để để phòng đào tạo kiểm tra lý do[full_name][full_name] [full_name]  [full_name][full_name] [full_name]"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: em là sinh viên khóa k15, em còn thiếu chứng chỉ TOEIC để đủ điều kiện tốt nghiệp. Em có đăng ký giấy xác nhận sv để tham gia thi TOEIC, nhưng khi đăng ký giấy xác nhận sv để đăng ký thi TOEIC lại không có tkb của hk hiện tại, em phải làm sao ạ.",
+            "Chào bạn,. . . . Việc này bạn phải làm đơn nộp PDT xin đăng kí in giấy xác nhận sinh viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Chào phòng đào tạo!. . Học kỳ này cũng có một số video được đưa vào elearning, em muốn hỏi là em không xem tất cả những video có trong học kỳ này (có hoặc không có deadline) thì có bị sao hay không ạ?",
+            "Chào bạn,. . . . Việc này bạn hỏi giáo viên giảng dạy nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi là dự thính kì 201 sẽ học online hay offline vậy ạ,hay là học cả 2 lun.Em cảm ơn.. . . .",
+            "Chào bạn,. . . . Hiện tại là học trên lớp  offline, khi nào có thay đổi hình thức giảng dạy PDT sẽ gởi mail thông báo.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em chào cô. . Em là [full_name]. . MSSV: [student_id]. Lớp: CK18LTH. . Em đã đủ điều kiện tốt nghiệp, và em có vào trang mybk để đăng kí xét tốt nghiệp tháng 11 này. Nhưng đến mục \"Kích hoạt tài khoản cựu sinh viên\" thì em lại không kích hoạt được. Lúc đăng nhập thì trên trang báo lỗi (em có đính kèm hình đăng nhập và sau khi đăng hập).. . Em mong cô giải quyết giùm em trường hợp này để em có thể đăng kí xét tốt nghiệp kịp thời.. . Em cảm ơn cô.. .",
+            "Chào bạn,. . Bạn vui lòng vào kiểm tra thùng thư rác hoặc đổi 1 địa chỉ email khác. Nếu vẫn không thao tác được, bạn có thể đến trực tiếp PDT để được hỗ trợ. . Thân . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Kính chào Phòng Đào Tạo,. . . . Em là [full_name], sinh viên lớp VP14CĐT.. . . . Em muốn kiểm tra xem em còn thiếu những điều kiện gì để được xét tốt nghiệp ạ. Em chỉ muốn lấy bằng của Đại Học Bách Khoa, không cần văn bằng Pháp ạ. (Em đã qua tất cả các môn tiếng Pháp ạ). . . . Em mong sớm nhận được phản hồi từ Phòng Đào Tạo.. . . . Em xin chân thành cảm ơn!",
+            "Chào bạn,. . . . Bạn kiểm lại môn 215720 bạn đã qua chưa nha.. . . . Thân",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý",
+            "Dạ vậy em chỉ cần qua môn 215720 là đủ điều kiện tốt nghiệp phải k ạ?. . . . Em cảm ơn!",
+            "Chào bạn,. . . .    Phòng đào tạo đã ghi nhận trường hợp xét tốt nghiệp bổ sung của sinh viên, sau ngày 21/10 Phòng Đào Tạo sẽ thông báo danh sách tốt nghiệp cập nhật mới : . . -          Sinh viên xem kết quả xét lại tốt nghiệp trên: www.aao.hcmut.edu.vn - tốt nghiệp - thông tin tốt nghiệp -  danh sách tốt nghiệp 11/2020. . -          Trường hợp không có tên trong danh sách tốt nghiệp bổ sung sinh viên liên hệ trực tiếp phòng đào tạo để kiểm tra lại lý do.. . . . Thân. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ em là K19 vừa thi lại đại học để chuyển sang ngành khác của đại học bách khoa thì em có cần phải làm đơn xin thôi học,rút hồ sơ không ạ?(Vì hồ sơ cũ của em đang ở trường)",
+            "Chào bạn,. . . . Bạn phải làm đơn thôi ngành cũ để học ngành mới, đơn thôi học nộp PDT, hồ sơ không được rút nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Cho em hỏi là: hiện tại em học năm 2, cuối năm 1 phân ngành em có chọn chương trình kỹ sư tài năng nhưng điểm của hk2 em không đủ và bị ra khỏi lớp kỹ sư tài năng, vậy năm 3 em có được đăng kí lại chương trình kỹ sư tài năng lần nữa không ạ?",
+            "Chào bạn. . Về chương trình đào tạo/phân ngành/kỹ sư tài năng bạn vui lòng liên hệ Khoa (cụ thể là Thầy phó khoa phụ trách chương trình đào tạo) để tư vấn và giải đáp. . Chúc bạn học tập tốt nhé.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào thầy/cô,. . Em có vài câu hỏi mong thầy/cô giải đáp giúp em ạ.. . 1. Em hiện tại là sinh viên K15 khoa Kỹ thuật Xây dựng và dự kiến tháng 11 này tốt nghiệp. Em có dự định là sẽ học văn bằng 2 Khoa học máy tính và câu hỏi của em là: bây giờ em không đăng ký tốt nghiệp đợt này và đăng ký học các môn học của ngành Khoa học máy tính thì năm sau khi em đăng học văn bằng 2 thì các môn em đã học của ngành khoa học máy tính có được chuyển điểm sang không ạ?. . 2. Chuẩn đầu ra anh văn của hệ văn bằng 2 là bao nhiêu ạ?. . Em cám ơn thầy/cô!",
+            "Chào bạn,. . Bạn vui lòng liên hệ tại phòng 201A4, để tư vấn thêm về chương trình học văn bằng 2 nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "[full_name] - [student_id]. . . . Cho em hỏi là em đã hoàn thành vừa xong môn cuối cùng trong chương trình học trong kỳ hè 193 vừa rồi. em vào mybk bấm đăng ký tốt nghiệp nhưng ở mục trạng thái vẫn chưa có trong danh sách dự kiến tốt nghiệp ạ! hiện ngày ctxh em đã đủ 15, bằng toeic đã nộp và đã chuyển điểm đầy đủ, nghe nói 2 kỹ năng cũng đã xong ạ.. . . .",
+            "Chào bạn,. . . .    Phòng đào tạo đã ghi nhận trường hợp xét tốt nghiệp bổ sung của sinh viên, sau ngày 14/10 Phòng Đào Tạo sẽ thông báo danh sách tốt nghiệp cập nhật mới : . . -          Sinh viên xem kết quả xét lại tốt nghiệp trên: www.aao.hcmut.edu.vn - tốt nghiệp - thông tin tốt nghiệp -  danh sách tốt nghiệp 11/2020. . -          Trường hợp không có tên trong danh sách tốt nghiệp bổ sung sinh viên liên hệ trực tiếp phòng đào tạo để kiểm tra lại lý do.. . . . Thân. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi kì dự thính 201 có học offline không ạ.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Xin chào, em muốn hỏi về vấn đề nộp chứng chỉ ngoại ngữ (CCNN), cụ thể là IELTS cho trường.. . Em thi IELTS tại hội đồng British Council (BC), và tại đây chỉ có dịch vụ gửi \"Bảng điểm\" tới trường. Còn công văn (email) của trường và trên trang MyBK mục nộp CCNN có quy định \"yêu cầu hội đồng thi gửi CCNN đến văn phòng\".. . Trường hợp này em nên giải quyết làm sao ạ.",
+            "Chào bạn,. . . . Bạn sinh viên chất lượng cao, vui lòng liên hệ văn phòng Đào Tạo Quốc Tế nha.. . . . Thân",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Chào thầy/cô.. . . . Em là [full_name], học khoa KH&KT máy tính. Hôm nay trong lúc đăng ký xét tốt nghiệp đợt 2 năm 2019, em nhận thấy thông tin cá nhân của mình đang thiếu mục nơi sinh là tỉnh Bình Định. Mong thông tin được cập nhật sớm để em hoàn thành đăng ký ạ. . . . . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . . . Bạn vào khai lại nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Dạ cho em hỏi nộp bằng tốt nghiệp THPT đợt 2 là nộp về đâu ạ ? Em cám ơn",
+            "Chào bạn,. . . . Bạn nộp cho lớp trưởng nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Dạ cho em hỏi, trong quá trình đăng ký xét tốt nghiệp em gặp vấn đề ở bước kích hoạt tài khoản cựu sinh viên như hình trong file đính kèm bên dưới. Cho em xin hướng khắc phục ạ.. . Em xin cảm ơn.",
+            "Chào bạn,. . . . Do chưa có QĐ tốt nghiệp nên chưa vào được trang cựu sinh viên.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Do một số nguyên nhân nên em đã không tham gia SHCD. Không biết trong tương lai trường còn tổ chức buổi sinh hoạt nào khác cho những sinh viên lỡ vắng như em không ạ? . . Em xin cám ơn!",
+            "Chào bạn,. . Vấn đề về sinh hoạt công dân, bảo hiểm y tế, BHTN, điểm rèn luyện, sinh viên khá giỏi toàn diện, giấy xác nhận sinh viên về vay vốn ngân hàng bạn vui lòng liên hệ tại Phòng Công tác chính trị sinh viên để được hướng dẫn.. . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Em tên [full_name] - [student_id]. Em là sinh viên K16 khoa Điện - Điện tử. Em đã thanh toán số tiền 95.000 để xét tốt nghiệp. Em kiểm tra thì thấy trên BKPay vẫn còn 1 khoản 95.000 chưa thanh toán. Em có đính kèm ảnh chụp màn hình. Mong PĐT xem xét và điều chỉnh lại giúp em. Em xin cảm ơn!",
+            "Chào bạn,. . Bạn vui lòng liên hệ tại ngân hàng OCB (chi nhánh Lý Thường Kiệt) để kiểm tra về việc tiền đã bị trừ nhưng chưa được ghi nhận. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác .  . . Em tên là [full_name], khóa K18.. . Gia đình em được cấp là hộ nghèo và em đang được đề xuất cho mạnh thường quan để có thể hỗ trợ học phí cho em đi học, và do là bên xã yêu cầu bảng học phí của học kì này nên cho em hỏi là em phải làm gì để có thể xin bảng học phí kì này ạ. Em cảm ơn ạ. . .",
+            "Chào bạn,. . . . Bạn vui lòng liên hệ Phòng Công Tác Chính Trị Sinh Viên để xin tư vấn nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy/ cô phòng đào tạo,. . Em là [full_name], mssv [student_id]. Em là sinh viên đã xin PĐT chuyển lớp từ khoá K17 sang khoá K18 . Theo quy định thì thời gian học tại trường của em vẫn tính theo khoá K17 vậy còn xét điều kiện anh văn thì em được xét theo K17 hay K18 ạ ?. . Em chân thành cảm ơn ạ !.. .",
+            "Chào bạn,. . . . Bạn học chương trình đào tạo khoá 2018, điều kiện anh  văn của bạn xét vẫn là khoá 2018.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . em chào PĐT, em mong PĐT cập nhật cấu trúc môn học(trên aao) nhanh nhất có thể để em có thể đăng kí môn ở kì dự thính 201 ạ.",
+            "Chào bạn,. . . . Chưa hiều ý bạn, bạn vui lòng nói rõ. . . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Chào [full_name]T, em có câu hỏi là mình có thể học môn AS1003 ở kì chính 201 và môn ME2003 ở kì dự thính 201 đc k ạ, ME2003 có điều kiện là AS1003(SH). .",
+            "Chào bạn,. . . . Bạn vào đăng kí lại nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Em chào thầy cô. . . Hiện em đã đăng ký ở ktx khu B cho hết năm học này. Nhưng do lịch học của em không tiện ở ktx nữa,  nên em muốn rút khỏi ktx thì ban quản lí ktx bảo em xin giấy xác nhận chuyển cơ sở ạ. Em muốn hỏi giấy xác nhận này em có thể lấy như thế nào ạ? . . Em cảm ơn! . . . .",
+            "Chào bạn,. . Vần đề bạn rút khỏi KTX có nhiều lý do nên nhà trường không thể xác nhận lên đơn cho bạn nhé. Bạn có thể tự trình bày với KTX để xin rút nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B Yêu cầu khác: Em thuộc khoa xây dựng, bây giờ em muốn lấy lại sổ đoàn có được không ?",
+            "Chào bạn,. . Bạn vui lòng liên hệ văn phòng Đoàn Khoa hoặc văn phòng Đoàn trường để hỏi về vấn đề sổ đoàn nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Liệu giờ này em muốn xin phòng đào tạo đăng kí bổ sung đồ án vào học kì chính này được không ạ. . .",
+            "Chào bạn,. . . . Đã hết thời gian DKMH.. . . . Thân"
+        ]
+    }
+]

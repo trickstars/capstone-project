@@ -1,0 +1,412 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Hôm bữa em có đi làm thêm nên quên mất đợt đóng BHYT của trường.. . Sau đó em có điền vào thông tin BHYT của trường nhưng chưa thanh toán.. . Sau đó em đã mua BHYT hộ gia đình.. . . . Vậy em xin hỏi thầy cô là em có cần quan tâm cái thông tin thanh toán trên BKPay nữa không.. . . . Em xin cảm ơn.. . . . [full_name]",
+            "Chào bạn,. . Về việc gia hạn học phí, BHYT, sinh hoạt công dân, bạn vui lòng liên hệ với Phòng Công tác Chính trị sinh viên để được hướng dẫn.. . Bạn có thể gửi mail qua phòng công tác chính trị để được giải đáp:[email]. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Cho em hỏi thầy cô là có một số môn của em không có thêm gì trên BKEL thì em có cần phải chủ động liên hệ thầy cô giảng dạy bộ môn hay không?. . . . Em cảm ơn.. . . . [full_name]",
+            "Chào em, . . . . Em nên chủ động liên hệ với thầy cô.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Hôm nay em có lich học trong thời khóa biểu trường ngày 30/3/2020 nhưng thông báo nghỉ học từ 27/3 . Vậy em có phải đến lớp hôm nay không ạ ?",
+            "Chào em,. . . . Em kiểm tra mail nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Em không thấy mail thông báo đi học lại hay tiếp tục nghỉ đến từ nhà trường,mong thầy cô kiểm tra lại giúp em",
+            "Chào em,. . . . Em kiểm lại mail nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy/cô. Em đang theo lớp của giảng viên [full_name]. Thầy dạy nhưng không để lại thông tin liên lạc gì, em có một số câu hỏi muốn hỏi nhưng không biết liên lạc ra sao. Cho em hỏi cách để liên lạc với giảng viên trong trường hợp này. Em cảm ơn!",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào em,. . . . Em cho biết cụ thể giảng viên [full_name] dạy môn gì?, mã số môn học?. . . . Thân.",
+            "Em chào cô!. . Thầy [full_name]. . Môn: Hệ Điều Hành (CO2017)",
+            "Chào bạn,. . Bạn vui lòng liên hệ với Khoa/ Bộ môn để xin thông tin liên lạc với giảng viên nhé!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em chào thầy/cô ạ,. . Do em đổi số điện thoại nên khi đăng nhập tài khoản Microsoft Student không được ạ. Trường có thể reset setting để em đăng nhập được không ạ.. . Em cảm ơn . .",
+            "Tài khoản Microsoft nào bạn ơi? Bạn phải gửi hình để kỹ thuật kiểm tra chứ",
+            "Dạ tài khoản Microsoft Student [email] ạ.. .",
+            "Chào bạn. . Bộ phận hỗ trợ kỹ thuật sẽ liên lạc với bạn, Bạn kiểm tra thông tin trả lời ở đây nghen",
+            "QUOTE Dạ tài khoản Microsoft Student [email] ạ.. .   /QUOTE . . Chào bạn;. . trường chỉ sử dụng gmail thui bạn ơi, đâu liên quan gì tài khoản Microsoft đâu bạn",
+            "Có lien quan ạ. Vì đầu năm nhất trường có nói tài khoản vào được Microsoft dung One Drive 1TB ạ. . .",
+            "Chào bạn. . Chính xác là trường chỉ sử dụng gmail thôi nghen bạn."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em là [full_name], MSSV : [student_id], hiện đang theo học khóa VHVL2019.. . . . Hiện tại môn giải tích 1 của em đã được miễn, nhưng trong thời khóa biểu vẫn còn cập nhật. Cho em hỏi em có phải làm phiếu đăng ký hủy môn hay không? Hay nhà trường sẽ hủy giúp em ạ.. . . .",
+            "Chào em,. . . . PDT sẽ cập nhật lại TKB cho em nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b \t[full_name] [full_name] [full_name] [full_name]   i Dịch vụ cho sinh viên - Đại học - Cao đẳng chính quy   Đăng ký in bảng điểm  /i [full_name] [full_name] [full_name] [full_name] Kính gửi PĐT trường ĐH Bách Khoa,[full_name] [full_name] [full_name] [full_name] Em tên là: [full_name] - MSSV: [student_id][full_name] [full_name] Trong tuần trước, cụ thể là vào ngày 25/3/2020 em có đăng kí in bảng điểm và đã nhận được lịch hẹn nhận vào ngày 31/3/2020 tại PDT CS1[full_name][full_name] [full_name] Do tình hình diễn biến phức tạp của dịch COVID-19 cho nên TPHCM đã có chỉ thị hạn chế đi lại, và dừng các chuyến xe liên tỉnh[full_name] [full_name] [full_name] Hiện tại, em đang ở quê và cũng đang cần bảng điểm để bổ sung hồ sơ xin việc[full_name] Cho nên em muốn hỏi là ngoài cách nhận bảng điểm trực tiếp thì PDT trường có hỗ trợ gửi bảng điểm qua hệ thống bưu điện trong thời gian này không ạ? Em rất mong được hỗ trợ từ trường, cũng như xin cam kết sẽ thanh toán đầy đủ chi phí vận chuyển qua bưu điện[full_name][full_name] [full_name] [full_name] [full_name] Rất mong sớm nhận được hồi đáp[full_name] Em xin chân thành cảm ơn![full_name] [full_name] [full_name]",
+            "Chào bạn,. . Nhà trường không có dịch vụ gửi bảng điểm qua đường bưu điện cho sinh viên nhé bạn.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . . . Chào anh/ chị. . Anh/ chị có thể xem lại bài giảng trên hệ thống bị lỗi. . Môn học quản trị kinh doanh cho kỹ sư. . Video chương 3.2. . Mã id401234. . LỖI \"unable to decode meadia\". . Em cảm ơn. . link bài giảng bị lỗi. . http://e-learning.hcmut.edu.vn/mod/hvp/view.php?id=401234",
+            "Chào em,. . . . Việc này em liên hệ với giáo viên giảng dạy nhé.",
+            "li answer rate: Answer suits the needs / Câu trả lời đúng ý"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vừa làm vừa học - ĐTTX   Học vụ . thầy/cô cho e hỏi e là sinh viên hệ VLVH thì học trên hệ thống BK e-Learning, khóa học *_video(HK192) của Đại hoc chính quy vẫn theo chương trình và tính điểm học phần đúng không ạ?. . . . em xin cảm ơn!",
+            "Chào em. . . . . Việc này em liên hệ với giáo viên giảng dạy giúp nhé. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ - Đại học - Cao đẳng chính quy   Rút môn học . Dạ cho em hỏi làm thế nào để có thể rút môn online ạ",
+            "Chào bạn,. . Không nộp đơn rút online được nhé bạn. . Bạn vui lòng kiểm tra email, nhà trường đã gửi về việc thông báo dời lịch rút môn học nhé bạn. . Thời gian nhận: Từ ngày 16/04/2020 đến hết ngày 24/04/2020"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Chào thầy/cô, hiện tại em đã hoàn thành các điều kiện để tốt nghiệp, vậy em phải đợi mail từ PĐT để được đăng ký tốt nghiệp bổ sung hay đến trực tiếp PĐT để đăng ký. Em cảm ơn.",
+            "Chào bạn,. . Phòng Đào tạo đã ghi nhận trường hợp của bạn.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em xin hỏi vì saoem  không thấy thời khóa biêủ học kỳ 2 năm học 2019-2020 vào ngày 30/3/2020 nữa vậy ? Nếu có vấn đề gì xin nhà trường thông báo ạ?"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   /B MSSV/MSGV: [student_id]  /b \t. . . .   i Hỏi đáp học trực tuyến (BKeL) . Nhà trường cho em xin phép về tốc độ của video học trên E-learning, tốc độ quá chậm bị delay khi xem được 1-2 giây, mong nhà trường có hướng xử lí thích hợp.. . Em xin chân thành cảm ơn",
+            "Chào em,. . . . [full_name] ghi nhận ý kiến của em.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Hiện tại thời khóa biểu hk2 của em tự nhiên bị mất. Em không thấy mail thông báo gì về vi phạm học vụ. Xin thầy xem giúp em.Em xin cảm ơn.. . Em tên: [full_name] mssv:[student_id]",
+            "Chào em,. . . . Ngày mai em kiểm tra lại giúp nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Tình trạng hiện tại của em là không thấy thời khoá biểu của luận văn và em không có tên trong danh sách làm luận văn, nhưng trước đó em cũng bị tình trạng này em đã lên phòng đào tạo đã khắc phục nhưng bây giờ vẫn vậy.. . Em rất mong giúp đỡ.. .",
+            "Chào em,. . . . Cuối tuần  này em kiểm tra lại TKB nhé, em liên hệ thầy/cô ở Khoa để nhận đề tài làm luận văn. Còn danh sách luận văn PDT sẽ cập nhật về Khoa sau.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dịch vụ cho sinh viên - Đại học - Cao đẳng chính quy   Bằng tốt nghiệp THPT . Cho em hỏi là tình trạng trên trang Thông tin văn bằng THPT của em (theo hình ảnh đính kèm) là đã được xác nhận tính hợp lệ chưa ạ?",
+            "chào bạn, . . đây là phòng đào tạo xác nhận đã nhận được bản sao bẳng của bạn rồi nhé!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b . . Dạ thưa thầy cô, em xin gửi phản hồi của mình về việc học online:. . 1). . Môn: Quản trị kinh doanh cho kĩ sư.. . Mã môn học: IM3001. . Em không xem được video 2.5, điểm video 2.4 không được cập nhật.. . 2). . Môn: hóa học xanh. . Mã môn học: CH2071. . Không cập nhập điểm video chương 2.. . Mong PĐT sửa lỗi giúp em.. . Em cảm ơn.. . . .   i Hỏi đáp học trực tuyến (BKeL) .",
+            "Chào em,. . . . Việc này em vui lòng liên hệ trực tiếp với giáo viên giảng dạy nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Cho em hỏi môn học Công nghệ sản xuất phân bón (CH3149) giảng viên có đăng video lên nhưng khi em xem hết video và làm xong câu hỏi cuối video vẫn không mở được video kế tiếp dù thử nhiều lần là bị lỗi gì ạ. Mong nhà trường giải quyết giúp em.. . Em cảm ơn.",
+            "Chào em,. . . . Việc này em liên hệ với giáo viên giảng dạy nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Em tên : [full_name] . . Mssv: [student_id]. . Em không xem được video với làm trắc nghiệm.... . Em có đính kèm file.. . Em xin lỗi đã làm phiền A/C...",
+            "Chào em,. . . . Việc này em liên hệ trực tiếp với giảo viên giảng dạy.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . .   i Hỏi đáp học trực tuyến (BKeL) . Em là sinh viên khóa K13 hiện có đăng kí dự thính học kì này để trả nợ môn giải tích 2 để ra trường nhưng tình hình dịch bệnh phức tạp nên em muốn hỏi xem liệu có mở lớp dự thính nữa không. Em đã đăng kí môn học trong đợt mở đăng kí dự thính.. .",
+            "Chào bạn,. . . . Nếu có thông báo mới về dự thính PDT sẽ gởi mail thông báo cho từng sinh viên và cập trên trang Web PDT.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em xin hỏi sao ngày 30/3/2020 em không thấy thời khóa biểu năm học 2019-2020 học kỳ 2 nữa vậy ạ ?",
+            "Chào em,. . . . Ngày mai, em kiểm tra lại nhé."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Anh(chị) cho em hỏi, em chuyển điểm ngoại ngữ nhưng CCNN không hợp lệ, nay em muốn hủy kết quả đã chuyển để chuyển điểm lại thì có được không ạ (em chấp nhận mất phí ạ)",
+            "Chào em,. . . . Em đăng kí lại nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Vừa làm vừa học - ĐTTX   Yêu cầu khác . Chào thầy.. . Đầu học kỳ em đã nộp giấy xin thầy [full_name]  hướng dẫn DAMH + DCLVTN. Nhưng do em không biết liên lạc với thầy như thế nào nên đến giờ em vẫn chưa nhận được thông báo gì về thời gian làm cũng như đề tài ( Nhận diện khuôn mặt ) mà em làm có được chấp nhận không? . . Thầy có thể hỏi giúp em được không ạ.. . Năm trước em có đăng ký thầy [full_name] nhưng giờ em muốn chuyển qua thầy [full_name] ạ. Nếu không giữ được điểm bên thầy [full_name] thì cũng không sao, em có thể làm lại bên thầy [full_name].. . Em cám ơn thầy.",
+            "Chào bạn,. . Bạn vui lòng liên hệ tại Khoa để xin thông tin liên lạc với giảng viên nhé!. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Em kính chào Quý Thầy/Cô Phòng đào tạo,. . Em là [full_name], học viên sau đại học Khoa Tài nguyên và Môi Trường,. . Trong học kỳ II, 2019-2020, em đã đăng ký môn học \"Vi sinh vật đại cương (TN)(EN1016)\" để hoàn thành môn kiến thức bổ sung. . . Tuy nhiên, em vào trang http://e-learning.hcmut.edu.vn thì không xem được video giảng dạy.. . Em kính mong Quý Thầy/Cô xem xét và hướng dẫn để em có thể tham gia lớp học này.. . Trân trọng!",
+            "Hỏi đáp học trực tuyến (BKeL). . Em kính chào Quý Thầy/Cô Phòng đào tạo,. . Em là [full_name], học viên sau đại học Khoa Tài nguyên và Môi Trường,. . Trong học kỳ II, 2019-2020, em đã đăng ký môn học \"Vi sinh vật đại cương (TN)(EN1016)\" để hoàn thành môn kiến thức bổ sung.. . Tuy nhiên, em vào trang http://e-learning.hcmut.edu.vn thì không xem được video giảng dạy.. . Em kính mong Quý Thầy/Cô xem xét và hướng dẫn để em có thể tham gia lớp học này.. . Trân trọng!  /QUOTE . .",
+            "Chào bạn,. . môn này giảng viên chưa đưa video lên nhé. . Thân",
+            "Em chào Thầy/Cô, . . Em đã được cập nhật môn học trong trang e-learning.. . - Em rất xin lỗi Thầy/Cô trong thắc mắc ngày 01/04/2020 em đã ghi sai mã môn học Vi sinh vật đại cương là EN1016, mã môn học mà em đăng ký là EN1015 (đính kèm file), do vậy trên trang e-learning của em đang hiển thị nội dung của 2 mã môn học, tuy nhiên khi xem nội dung trong 02 mã môn học, em thấy mã EN1015 - nội dung lý thuyết môn học còn mã EN1016 - nội dung thực hành ở phòng thí nghiệm. Vậy Thầy/Cô cho em hỏi, nếu 02 mã môn học này là 2 môn học khác nhau thì cho em được cập nhật môn học mã EN1015, còn nếu 02 mã môn học này là một môn, thì trong danh sách nhóm thực hành (đính kèm file) thiếu tên của em, Thầy/Cô giúp em cập nhật tên em ([full_name] - MSHV: [student_id]) vào danh sách với ạ,. . Em xin chân thành cảm ơn sự giúp đỡ của các Thầy/Cô!",
+            "Chào em,. . . . Môn EN1016 là môn học kèm của môn EN1015. Danh sách này em cập nhật ở đâu vậy. Vì khi đăng kí môn EN1015 thì tự động sẽ cập nhật môn ME1016.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Việc đăng kí môn học cho kì hè và học kì 201 ( kì 1 năm 2020) sẽ diễn ra vào thời gian nào ạ",
+            "Chào em,. . . . Chào bạn,. . . . Nếu có thông báo mới  sẽ gởi mail thông báo cho từng sinh viên và cập trên trang Web PDT.. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Dạ cho em hỏi nếu em muốn rút môn luận văn tốt nghiệp kì này có vẫn phải đóng tiền môn luận văn này không ạ.",
+            "Chào bạn. . Rút môn học là phải đóng tiền nghen bạn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ - Đại học - Cao đẳng chính quy   Khác ... . Em có thắc mắc là khi nào pdt mở lịch để hoãn thực hiện Luận văn tốt nghiệp. Nếu em bảo vệ Luận văn vào đợt bổ sung tháng 9/2020 thì thời gian làm luận văn của em được tính như thế nào?. . Em chân thành cảm ơn.",
+            "Chào bạn. .    Về việc hoãn thực hiện Luận văn tốt nghiệp, bạn liên hệ trực tiếp với [full_name] để đăng ký nghen"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Em đã xem video 3: chương 1.Hàm nhiều biến và làm đúng câu hỏi cuối video ngay lần đầu xem video nhưng vẫn không được làm bài Trắc nghiệm chương 1. Em đã xem lại video và làm lại câu hỏi cuối video 2 lần nhưng vẫn không được làm bài kiểm tra. Mong nhà trường xem xét giúp em! Em trân trọng cám ơn nhà trường vì đã xem qua ạ! . . Bên dưới em có đính kèm hình ảnh tình trạng của em ạ.",
+            "Chào em,. . . . Em liên hệ với giáo viên giảng dạy giúp nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . [full_name] - MSSV: [student_id]. . Em có đăng kí làm LVTN HK 192 nhưng không có danh sách, nhờ PĐT kiểm tra lại giúp em.. . Em cảm ơn!",
+            "Bạn vui lòng vào trang đăng ký môn học, chọn mục kết quả/ xem lịch sử đăng ký để làm lý do vì sao không đăng ký được LVTN nhé!",
+            "Chào bạn. . Bạn liên hệ Văn phòng [full_name] để kiểm tra lại tất cả danh sách phòng đào tạo đã gởi [full_name] , nếu chưa có bạn báo [full_name] bổ sung thêm vì bạn đã có thời khóa biểu lvtn trên cổng thông tin sinh viên rồi"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Kính thưa Phòng Đào tạo, em có một thắc mắc, mong Phòng Đào tạo giải đáp ạ!. . Chuyện là tại sao khi em xem video bài giảng trên EL với tốc độ bình thường, tại sao khi em xem xong, vào quản trị khóa học phần điểm lại không được tính điểm video bài giảng ạ? Chỉ tính điểm bài KT sau đó thôi ạ, phần điểm video vẫn là 0-0%. Em đã đảm bảo xem đầy đủ, không tua nhanh cũng như đã trả lời đúng các câu hỏi cuối video ạ. . Em cám ơn!",
+            "Chào em,. . . . Việc này em liên hệ với giáo viên giảng dạy nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Kính gửi Văn phòng Đào tạo. . Em tên [full_name], MSSV: [student_id]. . trường có gửi mail đăng ký bổ sung lần cuối HK2 (2019-2020) từ ngày 04/02 đến 06/02. Em có đăng ký nhưng điểm tiên quyết chưa cập nhật kịp(điểm tiên quyết cập nhật ngày 25/03/2020) vì thế phòng đào tạo không đăng ký cho em.Cho em hỏi là giờ em có thể đăng ký bổ sung được không? . .",
+            "Chào bạn. . Bạn gởi mail đến Bình PDT-[full_name]   [email]  để hỏi Thầy xem có đkmh vào thời điểm này được không nghen?",
+            "Chào cô!. . Em cảm ơn cô đã trả lời!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác  /i  Cho em hỏi là học kì này còn tổ chức học kì dự thính nữa không ạ. Hay nhà trường đang có kế hoạch hủy bỏ dự thính ạ. . . .",
+            "Chào bạn,. . Bạn vui lòng theo dõi email và thông báo trên trang aao.hcmut.edu.vn. . Hiện tại nhà trường chưa có thông báo gì về việc không tổ chức dự thính"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . E kÍNH CHÀO CÔ/thầy!. . Thầy/cô cho em hỏi là biên nhận xét miễn môn học ghi là nhận kết quả sau ngày 27/3, nhưng đến nay em vẫn chưa có nhận được kết quả, và cũng chưa nhận được mail, vậy em tiếp tục đợi hay làm gì ạ?. . Cảm ơn thầy/cô!",
+            "Chào bạn. . Vì tình hình hiện tại của dịch bệnh, phòng đào tạo đang triển khai, Bạn vui lòng đợi mail của phòng đào tạo nghen. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp - Đại học - Cao đẳng chính quy   Khác ... . Em đã tích lũy được tổng cộng là 9 chỉ chuyên ngành và tích lũy tổng cộng 155 tín chỉ. Do em mới nộp bằng tiếng anh nên có thể chưa cập nhật tổng số tín chỉ của em.. . Hiện tại đến tháng 5/2020 em sẽ xuất cảnh qua nhật làm việc, và em rất cần tấm bằng tốt nghiệp. Trong chương trình đào tạo thì phải tích lũy là 10 tín chỉ chuyên ngành. Mong thầy cô xem xét.",
+            "Chào bạn. . Bạn xem chi tiết về quy định xét tốt nghiệp ở QUY CHẾ HỌC VỤ : ĐIỀU 20. . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . .   i Hỏi đáp học trực tuyến (BKeL) .  Em là sinh viên K13 có đăng kí dự thính môn giải tích 2 trong đợt mở đăng kí dự thính học kì này,nhưng do tình hình dịch bệnh phức tạp không rõ là nhà trường có mở lớp không.. .  Em muốn xin đăng kí lại lớp chính quy có được không ạ. Mong nhà trường tạo điều kiện giúp em để hoàn thành nốt chương trình học.",
+            "Chào bạn. . Bạn muốn đăng ký môn giải tích 2, vì hiện tại nhà trường đã triển khai học livestream nên bạn vui lòng liên hệ giáo viên giảng dạy xin ý kiến cho phép vào lớp học.. . Bạn có thể gởi mail cho giảng viên xin phép, sau đó gởi mail phản hồi đồng ý của giảng viên đến đến [email] để được xem xét"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Cho em hỏi là hiện tại trường đã phát bảo hiểm ý tế lại chưa ạ. Hiện tại em đang cần sử dụng đến bảo hiểm y tế. Em cám ơn .",
+            "Chào bạn,. . Bạn vui lòng liên hệ tại Phòng Công tác chính trị sinh viên để được hướng dẫn.. . Bạn có thể gửi mail qua email phòng CTCT sinh viên: [email]"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Ngày 17-02 em có nạp chứng chỉ GDQP của trường ĐH Trần Đại Nghĩa ,xin miễn môn học DGQP và xin đăng kí tốt nghiệp.. . PĐT xác minh chứng chỉ.. . Vậy nay em xin hỏi trường đã nhận được phản hồi của trường Trần Đại Nghĩa chưa? và em có cần lên trường làm làm thủ tục gì không?. . . . Mong nhận được sự phản hồi từ pđt.. . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . Trường hợp của bạn đã được xác minh và được miễn môn GDQP và chuyển đi xét tốt nghiệp (đang chờ kết quả). Bạn còn thiếu ngày CTXH vui lòng hoàn thành đủ để được tốt nghiệp nhé!",
+            "Chào Cô,. . Em đã hoàn thành đủ ngày CTXH để xét tốt nghiệp rồi ạ (15 ngày).. . Như vậy em chỉ cần kết quả xét tốt nghiệp và không cần phải lên PĐT nửa phải không ạ.. . Em xin cảm ơn!",
+            "chào ban, . . vậy bạn đợi danh sách công bố tốt nghiệp hàng tuần của Phòng Đào tạo và vào khai thông tin tốt nghiệp nhé!",
+            "Chào cô,. . Cô cho em hỏi quá trình xét tốt nghiệp của em có vấn đề gì không mà đến giờ em vẫn chưa có tên trong danh sách dự kiến tốt nghiệp ạ?",
+            "Chào bạn,. . Đã kiểm tra lại trường hợp của bạn, thứ 2 (ngày 27/4) sẽ cập nhật danh sách tốt nghiệp mới, bạn vô kiểm tra lại danh sách tốt nghiệp và đăng ký tốt nghiệp nhé!. . Thân",
+            "Chào bạn,. . Bạn vui lòng làm đơn cứu xét thu nhận lại để xét tốt nghiệp, bạn vui lòng trình bày rõ trong đơn do mới bổ sung CC Quốc phòng để xét tốt nghiệp, ký tên và chụp hình gửi qua bksi nhé!. . Thân",
+            "Chào cô,. . Thưa cô, em đã nhận được mail thông báo đã có tên trong danh sách dự kiến tốt nghiệp, nhưng em không vào Đăng kí tốt nghiệp trên myBK được do bị hết thời gian đào tạo như trước em đã trình bày với cô đó ạ. Giờ em phải làm gì để đăng kí tốt nghiệp được ạ?. . Em còn bước này nữa là tốt nghiệp thôi. Xin cô giúp, Em xin cảm ơn cô rất nhiều ạ.",
+            "Chào cô,. . Cảm ơn cô đã hướng dẫn! em gửi cô đơn ạ.",
+            "Chào bạn. . Vậy bạn đợi thông báo trả lời của phòng đào tạo nhé",
+            "Chào cô,. . Em đã được phòng đào tạo ra quyết định thu nhận lại rồi, Nhưng chưa được cập nhập trên danh sách dự kiến tốt nghiệp. Nên em vẫn chưa đăng kí tốt nghiệp trên myBK được ạ.. . Mong cô xem lại giúp em.. . Em cảm ơn cô nhiều ạ!",
+            "Chào bạn,. . Quyết định của bạn mới có, trong tuần này Phòng Đào tạo sẽ cập nhật lại danh sách tốt nghiệp mới nhé, sau ngày thứ 6 bạn vô đăng ký tốt nghiệp lại nhé!. . Thân",
+            "Chào cô,. . Phòng Đào Tạo vẫn chưa cập nhật mới thông tin tốt của em trong danh sách dự kiến tốt nghiệp. Nhờ cô giúp em ạ.",
+            "Chào bạn,. . Bạn vui lòng vào kiểm tra và đăng ký tốt nghiệp nhé!. . Thân",
+            "Chào cô,. . Em đăng kí được rồi.. . Cảm ơn cô vì đã hổ trợ rất nhiều cho em trong thời gian qua ạ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Cho em hỏi sao em đã coi những video bài giảng nhưng vẫn để 0 điểm vậy ạ?",
+            "Chào em,. . . . Việc này em liên hệ với giáo viên giảng dạy nhé.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Xin chào thầy cô, cho em hỏi khi nào tổ chức học dự thính ở HK192 và có giảng dạy online không ạ. Em xin cám ơn.",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Bạn vui lòng theo dõi và đợi thông báo của nhà trường nhé. Hiện tại nhà trường chưa có thông báo về việc tổ chức học kỳ dự thính online nhé!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Cho em hỏi là trong quy định học bổng thì ĐTB1HK không tính điểm của môn thi lần 2. Em có thi lần 2 môn Hóa phân tích nhưng ở cột thông tin xét học bổng khuyến khích vẫn tính điểm của môn Hóa phân tích. Em có thắc mắc ở phần đó và mong nhận được giải đáp ạ. Em xin cảm ơn nhiều ạ!",
+            "Chào bạn. . Hiện chưa có danh sách xét học bổng. . Bạn xem  cột thông tin xét học bổng khuyến khích ở đâu ? có thể cung cấp thêm thông tin"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . thưa PĐT! E có gửi hình như trên. Mong PĐT xem xét cho e. . . e bị mất Part 2 của chương 2: OS Structure. .",
+            "Chào em,. . . . Em liên hệ với giáo viên giảng dạy giúp nhé.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp - Đại học - Cao đẳng chính quy   Khác ... . Kính chào Thầy/Cô,. . Em là Trần Nguyễn Bảo [full_name] là sinh viên lớp VP15XDC chuyên ngành Xây dựng dân dụng và Hiệu quả năng lượng (PFIEV), có câu hỏi về Điểm trung bình toàn khoá khi tốt nghiệp.. . Hiện tại theo thông tin trong \"BẢNG ĐIỂM SINH VIÊN\" của em, có:. . Điểm trung bình tích luỹ ngành: 6.82. . Điểm trung bình tích luỹ: 6.63. . . . Điểm khác nhau giữa \"Điểm trung bình tích luỹ ngành\" và \"Điểm trung bình tích luỹ\" là gì ạ? Và khi tốt nghiệp thì Điểm trung bình toàn khoá của em sẽ lấy theo điểm nào?. . . . Em xin chân thành cảm ơn câu trả lời của quý Thầy/Cô.. . . . Trân trọng,. . Trò [full_name].",
+            "Chào bạn. . Bạn xem quy chế học vụ :. . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658. . - Điểm trung bình tích luỹ ngành : xem điều 19. . - tốt nghiệp : xem điều 20. . . . Ngoài ra bạn tham khảo thêm điều 5 về quy định học bạ phụ lục bằng tại :. . http://www.aao.hcmut.edu.vn/image/data/quyche/mot_so_diem_moi_trong_quy_che_tu_HK182.pdf",
+            "Kính gửi Cô,. . Em đã nhân được câu trả lời phù hợp.. . Em chân thành cảm ơn Cô đã hỗ trợ em.. . Chúc Cô luôn khoẻ mạnh và xinh đẹp!. . Em cảm ơn cô,. . Trò [full_name]."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "có thể kiểm tra dùm em tại sao ở thông tin sinh viên lại mất thời khóa biểu học kì 2 ạ. . . .",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn. . Hiện tại thời khóa biểu tại thông tin sinh viên đang cập nhật lại để chuẩn bị cho việc học livestream vào ngày 6/4/2020. Phòng đào tạo sẽ cập nhật lại thời khóa biểu vào cuối tuần này."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Chào thầy,. . Cho em hỏi là em muốn huỷ môn bê tông kết cấu thép 3 em đang học ạ. Nhưng do dịch nên em không có mặt tại hồ chí minh, không biết có thể làm huỷ môn online được không ạ.",
+            "chào bạn,. . hiện tại đã hết thời gian huỷ môn học nhé bạn, bạn có thể làm đơn xin rút môn học nhé!",
+            "Dạ cho em hỏi là giờ làm rút môn học online được không ạ.",
+            "Chào em,. . . . Rút môn học phải nộp trực tiếp tại PDT.. . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em tên [full_name] - MSSV:[student_id].Em vừa hoàn thành chuyển điểm Anh văn 4 vừa xong, đã đủ các điều kiện để tốt nghiệp. Vậy phòng đào tạo cho em hỏi làm thế nào để em có tên trong danh sách tốt nghiệp kỳ này ạ? Xin phòng đào tạo giúp đỡ!. . . .",
+            "Phòng đào tạo đã ghi nhận trường hợp xét tn của bạn, bạn vui lòng theo dõi danh sách công bố vào ngày thứ 3 tuần sau nhé!",
+            "Dạ, thưa Cô!. . Em tìm trên danh sách Tốt nghiệp dự kiến aao.hcmut.edu.vn không thấy có cập nhật mới và tại trang đăng ký tốt nghiệp em cũng chưa đăng ký được. Cô xem xét và hỗ trợ giúp em!. . Nếu có rồi, em có thể xem ở đâu ạ?. . Chân thành cảm ơn Cô!",
+            "Chào bạn. . Bạn vui lòng đợi đến thứ 6 tuần này 17/04/20, phòng đào tạo sẽ trả lời kết quả cho bạn nghen. .",
+            "\"Bạn vui lòng đợi đến thứ 6 tuần này 17/04/20, phòng đào tạo sẽ trả lời kết quả cho bạn nghen?\". . Em vẫn chưa nhận được phản hồi hay thông báo gì vậy a?. . Em cảm ơn!. .",
+            "Chào bạn,. . Hiện tại bạn vô kiểm tra và đăng ký tốt nghiệp không được hay sao?. . Vì kiểm tra hệ thống thấy bạn đã đủ điều kiện tốt nghiệp, khi vào đăng ký tốt nghiệp báo lỗi gì?. . Thân",
+            "Dạ, vào trang đăng ký TN không được Cô ạ!. . em cảm ơn!. . Có ảnh kèm theo, nhờ Cô giúp em ạ!",
+            "Chào bạn. . Phòng đào tạo đã xét bạn đủ điều kiện tốt nghiệp . . Bạn vui lòng đợi mail phòng đào tạo hướng dẫn về thao tác đăng ký tốt nghiệp sau thứ 6 ngày 23/04/20 . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Thầy/cô cho em hỏi, hiện em đang học ngành kĩ thuật máy tính, nhưng sao một thời gian học em thấy chương trình đào tạo của hai ngành cũng không khác nhau lắm trong vài học kì đầu và em muốn chuyển sang ngành khoa học máy tính có được không vậy ạ? . . . . Nếu được chuyển ngành thì có yêu cầu nào không vậy ạ? (Điểm xét tuyển của em đủ để trúng tuyển ngành Khoa học máy tính)",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn. . Bạn xem quy chế học vụ điều 30.1. . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ - Đại học - Cao đẳng chính quy   Khác ... . Hoc ky vua qua ( HK1 ), em co khong thi va rot mon. Em muon biet ve thong tin cua minh o hien tai. Va khi nao e duoc dang ky mon hoc lai.. . Em chan thanh cam on !. .",
+            "Chào bạn, . . bạn cần biết thông tin gì của bạn ở hiện tại? vì tất cả thông tin của sinh viên: tình trạng, bảng điểm, tkb ... nhà trường đều cập nhật tại trang Mybk.hcmut.edu.vn. . về việc bạn rớt môn, bạn có thể tụ sắp xếp để đăng ký học lại (đăng ký môn học) theo lịch học vụ mà phòng đào tạo đã cống bố.. . bạn có thể gặp giáo viên chủ nhiệm để xin tư vấn thêm về vấn đề học tập của mình nhé!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Thưa cô cho em hỏi, em có thể   B hủy môn học dự thính  /B  được không ạ, về nếu có thể thì phải làm thế nào ?",
+            "chào bạn. . Bạn vui lòng đợi thông báo về việc đăng ký dự thính đợt 2, đợt này bạn có vào huỷ hoặc bổ sung môn học nhé!"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em là [full_name], MSSV [student_id]. . . . Hiện em đang theo học khóa VHVL2019, cho em hỏi là trường có dời lịch học và lịch thi theo thông báo của nhà nước không ạ.. . . . . .",
+            "Chào bạn. . Bạn vui lòng check mail để xem các thông tin mới nhất của nhà trường gởi về lịch học và lịch thi"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ, kính chào Thầy/Cô trong tổ kỹ thuật.. . . . Em là [full_name], MSSV:  [student_id]. . Em tham gia lớp học KT phân bón (CH3149). Em đã xem và làm rất nhiều lần chương 0, nhưng hệ thống vẫn không cho xem tiếp phần tiếp theo.. . Em đã email cho giảng viên bộ môn. Thầy đã kiểm tra nhưng em vẫn không vào được. Rất mong Thầy/Cô kiểm tra lại hệ thống giúp em ạ.. . . . Em xin chân thành cảm ơn ạ!. . . .",
+            "Chào em,. . . .  sinh viên là click vào summary trước khi hết thời gian."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Hỏi đáp học trực tuyến (BKeL) . Em có thắc mắc về việc xem bài giảng kế tiếp, em đang gặp vấn đề về việc khi mình học xong bài giảng và làm cái summary trong bài giảng nhưng rốt cuộc em không thể xem bài giảng kế tiếp vì găp lỗi không hợp lệ như hình, mong PĐT hướng dẫn cho em, thật sự em rất là ức chế mỗi lần không xem video kế tiếp mặc dù em đã xem hết video phía trước xong và làm cái trắc nghiệm trong video rồi ạ. . Và em cũng kiến nghị với PĐT có thể post deadline bài giảng không ạ. . Một số môn em ko xem được video vì dính lỗi quá thời hạn điển hình như môn CH-3133 Mô hình hóa mô phỏng, bài giảng phía trước coi được còn bài giảng phía sau thì không coi được ạ. . Em xin chân thành cám ơn",
+            "Chào em,. . . . Việc này em vui lòng liên hệ với giáo viên giảng dạy môn này nhé.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Nộp giấy xác nhận tham gia chương trình liên thông Đại học-Thạc sĩ năm 2020 hết hạn ngày 06.04.2020. Hiện tại vì dịch nên em không lên cơ sở 1 nộp được. Em phải giải quyết như thế nào ạ?",
+            "responsible person: [551] [staff_name] [helpdesk staff]",
+            "Chào bạn,. . Bạn vui lòng liên hệ với Phòng Đào tạo SĐH để được hướng dẫn thêm về vấn đề này nhé!. . email: [email]"
+        ]
+    }
+]

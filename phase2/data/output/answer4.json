@@ -1,0 +1,665 @@
+[
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Chào thầy cô ạ, em là [full_name]. MSSV: [student_id]8. Hiện tại em còn thiếu 2 tín chỉ chưa tính luận văn tốt nghiệp, em muốn đăng kí 2 tín chỉ này song song với luận văn tốt nghiệp tuy nhiên em không đăng kí được môn học do mã môn học đã thay đổi, vậy em có thể đăng kí cũng môn học đó với mã môn học khác thì có đảm bảo được đủ số tín chỉ không ạ. Em xin cảm ơn thầy cô"
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "MSSV/MSGV: [student_id]8",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "MSSV/MSGV: [student_id]8",
+            "đợt": "MSSV/MSGV: [student_id]8"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: 41304812  /b . . Xin chào quý thầy/cô.\t. . Em có học trong chương trình Việt Pháp các môn sau:. . . . -Tin học đại cương _ Mã CT PFIEV 007704 _ Điểm tổng kết 6.0 _ Mã CT Chính Quy 501001 _ Hiện tại chưa đạt.. . . . -Xác Xuất Thống Kê _ Mã CT PFIEV 006718 _ Điểm tổng kết 5.5 _ Mã CT Chính Quy 006018 _ Hiện tại chưa đạt.. . . . - Với 2 môn trên em muốn chuyển điểm sang chương trình chính quy có được hay không và nếu được thì phải làm thế nào ạ?. . . . -Môn vẽ kỹ thuật ở chương trình PFIEV em đạt ( Điểm tổng kết 7.0), em muốn chuyển điểm này thành điểm Môn tự chọn ngoài khoa thì em phải làm thế nào ạ? Các môn có mã như sau PFIEV 806702 _ Chính Quy 806010. . . . -Cuối cùng: Về việc xin mở rộng sĩ số lớp thì phải làm thế nào ạ?. . . . Em xin cảm ơn quý thầy/cô đẫ dành thời gian cho em, rất mong nhận được sự trả lời của quý thầy/cô.. ."
+        ],
+        "intent": "chuyển điểm",
+        "entities": {
+            "môn học": "vẽ kỹ thuật ở chương trình PFIEV em đạt",
+            "học kỳ": "vẽ kỹ thuật ở chương trình PFIEV em đạt",
+            "mã môn học": "vẽ kỹ thuật ở chương trình PFIEV em đạt",
+            "lý do": "-Môn vẽ kỹ thuật ở chương trình PFIEV em đạt"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Thẩm tra chứng chỉ (nộp chứng chỉ) . Chào thầy cô PĐT,. . . . Thầy cô cho em hỏi trường hợp em đã nộp chứng chỉ ngoại ngữ để miễn học môn AV2. Nhưng nếu tới hạn chót ĐKMH (26/7) mà chứng chỉ vẫn tình trạng \"đang thẩm tra\" chờ kết quả; trong khi đó em đã hủy AV2 rồi thì sau đợt ĐKMH em có bị PĐT tự động xếp lại AV2 không ạ.. . . . Em sợ bị xếp lại AV2 trùng với mấy môn khác trong TKB.. . . . Kính mong PĐT giải đáp thắc mắc của em.. . . . Em cảm ơn!. .",
+            "CHào em,. . Hiện tại em có thể hủy môn AV2 này, sau đợt đk này Phòng đào tạo sẽ chạy dữ liệu lại nếu em không hũy AV2 thì Phòng đào tạo sẽ tự hủy cho em.. .  Thân"
+        ],
+        "intent": "hỏi thông tin môn học",
+        "entities": {
+            "môn học": "Chứng chỉ ngoại ngữ",
+            "mã môn học": "Chứng chỉ ngoại ngữ",
+            "học kỳ": "Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy",
+            "khoa": "Chứng chỉ ngoại ngữ",
+            "khoá": "Chứng chỉ ngoại ngữ"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Yêu cầu khác . Dạ, em chào anh chị.. . Em muốn hỏi là: trong học kì làm luận văn tốt nghiệp thì sẽ được học thêm 7 chỉ và e muốn học thêm môn giáo dục thể chất thì có được không ạ tại vì em thấy trên đăng kia môn học thì môn thể dục là 0 chỉ ạ. ."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "giáo dục thể chất",
+            "mã môn học": "0 chỉ",
+            "học kỳ": "học kì làm luận văn",
+            "mã nhóm/lớp": "0 chỉ",
+            "đợt": "học kì làm luận văn"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: 51202448  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính mong PĐT chiếu cố tăng sỉ số lớp môn KINH TẾ HỌC ĐẠI CƯƠNG ở Cs 1 giúp em. Em hiện là sinh viên đã xong luận văn nhưng vì thiếu 2 tín chỉ mà giờ chưa được tốt nghiệp. Học kì sau đúng lúc bằng anh văn của em hết hạn nên mong PĐT giúp em mở thêm sỉ số cho lớp KINH TẾ HỌC ĐẠI CƯƠNG ở cs 1 để em có cơ hội tốt nghiệp trong học kì sau. Em rất chân thành cảm ơn ạ."
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "MSSV/MSGV: 51202448",
+            "môn học": "KINH TẾ HỌC ĐẠI CƯƠNG ở Cs 1",
+            "mã môn học": "MSSV/MSGV: 51202448",
+            "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "lý do": "thiếu 2 tín chỉ mà giờ chưa được tốt nghiệp.",
+            "số lượng": "51202448"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "kính gửi PĐT,. . . . Cho em hỏi hạn chót (cả vét) nộp CCNN để nhận LVTN HK171 ạ.. . . . Em xin cảm ơn!. . . .",
+            "Chào em. . Hiện tại chỉ còn đợt 07/08-- 08/08 là cuối cùng cho đk LVTN.. .  Thân"
+        ],
+        "intent": "gia hạn nộp chứng chỉ",
+        "entities": {
+            "loại": "LVTN HK171",
+            "lý do": "nhận LVTN HK171",
+            "thời gian": "07/08-- 08/08",
+            "học kỳ": "LVTN HK171"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]9  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Kính thưa Phòng đào tạo Trường Đại học Bách khoa TP HCM.. . Em tên [full_name]; MSSV [student_id]9. . Phòng đào tạo cho em hỏi là đợt đăng kí môn học bổ sung ngày 18/8/2017 chung với K2017 thì em được đăng kí Luận văn tốt nghiệp không ạ.. . Mong Phòng đào tạo sớm trả lời câu hỏi của em. Em xin chân thành cảm ơn."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "MSSV/MSGV: [student_id]9",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "MSSV/MSGV: [student_id]9",
+            "đợt": "MSSV/MSGV: [student_id]9"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi Phòng đào tạo!. . Em là [full_name] MSSV: [student_id]3,xin Phòng đào tạo tăng sĩ số môn \"Lập và phân tích dự án-700200\". Lớp đăng kí (60/60) đã full, kính mong Phòng đạo tạo tăng sỉ số để em có thể đăng kí môn học mong sớm tốt nghiệp nhất có thể.. . Em xin chân thành cảm ơn!"
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "môn học",
+            "môn học": "môn học",
+            "mã môn học": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "học kỳ": "môn học",
+            "lý do": "để em có thể đăng kí môn học mong sớm tốt nghiệp nhất có thể..",
+            "số lượng": "án-700200\"."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]2  /b . . Em là sinh viên học văn bằng 2 chính quy chuyên ngành kỹ thuật dệt, công nghệ in nhuôm, sẽ nhập học vào 11/8/2017 tới đây. . . Em dự định đăng ký một số môn học vào học kỳ 1 tới, hiện trường đang có đợt DKMH từ 18/07 đến 26/07, em có tìm hiểu và biết trong đợt này một số môn học mình dự định đăng ký hiện đã đầy đủ sĩ số. Còn đối với sinh viên bằng 2 nhập học tới đây chỉ có thể đăng ký môn học vào ngày 14 và 15/08.. . Em có thắc mắc trong đợt đăng ký môn học của em thì trường có tự động tăng sĩ số các môn học này lên hay không ?, vì em lo sợ nếu không tăng thì trong 2 ngày không thể kịp đề nghị phòng đào tạo tăng sĩ số được và kế hoạch học tập của em sẽ chậm trễ.. . Môn học đã đầy sĩ số là Nhập môn công nghệ da giày - ME4515.. . Kính mong [full_name] giải đáp thắc mắc để em có thể thực hiện kế hoạch học tập theo đúng tiến độ. Em xin chân thành cám ơn."
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "Nhập môn công nghệ da giày",
+            "môn học": "Nhập môn công nghệ da giày",
+            "mã môn học": "Nhập môn công nghệ da giày",
+            "học kỳ": "Nhập môn công nghệ da giày",
+            "lý do": "kế hoạch học tập của em sẽ chậm trễ..",
+            "số lượng": "MSSV/MSGV: [student_id]2"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Chào thầy/cô.. . Theo em đọc quy chế thì điểm trung bình tích lũy trên 7.0 thì sẽ được đăng ký tối đa 25 tín chỉ. Hiện tại điểm trung bình tích lũy của em là 7.98 nhưng em vẫn không thể đăng ký được trên 21 tín chỉ! Mong thầy/cô xem xét.. . Em xin cảm ơn."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "Đại học - Cao đẳng chính quy",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
+            "đợt": "25 tín chỉ."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]1  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi phòng đào tạo. Mong phòng đào tạo mở thêm sĩ số môn CI1053 ( Quản lý dự án xây dựng) . Hiện nay lớp đã 80/80. .  Em xin tăng sĩ số vào ngày thứ 5, lớp của thầy [full_name], vì ngày thứ 3 em trùng học với các môn khác và không thể hủy môn kia được . . .  Nếu không đăng kí được môn này, em bị trễ 1 năm nữa và bị đuổi học mất. Kính mong phòng đào tạo giúp đỡ . Em xin cảm ơn"
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "môn học",
+            "môn học": "Quản lý dự án xây dựng)",
+            "mã môn học": "b",
+            "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "lý do": "ngày thứ 3 em trùng học với các môn khác",
+            "số lượng": "MSSV/MSGV: [student_id]1"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]1  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi phòng đào tạo. Mong phòng đào tạo mở thêm sĩ số môn CI1053 ( Quản lý dự án xây dựng) . Hiện nay lớp đã 80/80. . Em xin tăng sĩ số vào ngày thứ 5, lớp của thầy [full_name], vì ngày thứ 3 em trùng học với các môn khác và không thể hủy môn kia được . . . Nếu không đăng kí được môn này, em bị trễ 1 năm nữa và bị đuổi học mất. Kính mong phòng đào tạo giúp đỡ . Em xin cảm ơn"
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "môn học",
+            "môn học": "Quản lý dự án xây dựng)",
+            "mã môn học": "b",
+            "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "lý do": "ngày thứ 3 em trùng học với các môn khác",
+            "số lượng": "MSSV/MSGV: [student_id]1"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]4  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tình trạng không đăng ký được . Cho em hỏi sao lớp môn học Me2005 nhóm L em không đăng ký được ạ?"
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "MSSV/MSGV: [student_id]4",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "L",
+            "đợt": "MSSV/MSGV: [student_id]4"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "PĐT cho em hỏi hạn chót nộp bằng TOEIC để được đăng ký làm LVTN là khi nào ạ?. . . .",
+            "Chào em,. . Theo thông báo thì đợt cuối cùng cho đk LVTN bổ sung là 7/08-- 08/08.. . Thân",
+            "có đợt vét nữa không ạ?. ."
+        ],
+        "intent": "nộp giấy tờ",
+        "entities": {
+            "loại giấy tờ": "TOEIC",
+            "thời gian": "7/08-- 08/08..",
+            "lý do": "đăng ký làm LVTN"
+        },
+        "accuracy": 1
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Em là sinh viên lớp Việt Pháp. Theo Chương trình đào tạo của VIệt Pháp, thì môn [full_name] [full_name]ởng Hồ Chí Minh sẽ học môn có MSMH là 001025. Nhưng em có thể đăng kí môn [full_name] [full_name]ởng Hồ Chí Minh ở diện D2 với MSMH là SP1005 được không ạ? . . Nếu là Việt Pháp mà học môn học mã SP thì có điều gì khác so với việc học theo mã môn học của Chương trình tụi em ko ạ?"
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "Đại học - Cao đẳng chính quy",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "Việt Pháp.",
+            "đợt": "SP1005"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Thưa phòng đào tạo, em muốn mở xin mở lớp kĩ thuật lập trình thì cần phải có bao nhiêu sinh viên ạ?"
+        ],
+        "intent": "xin mở lớp",
+        "entities": {
+            "mã nhóm/lớp": "kĩ thuật lập trình",
+            "môn học": "kĩ thuật lập trình",
+            "mã môn học": "kĩ thuật lập trình",
+            "học kỳ": "kĩ thuật lập trình",
+            "lý do": "kĩ thuật lập trình thì cần phải có bao nhiêu sinh viên"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]1  /b \t. . . . Gửi phòng đào tạo, . . Em là sinh viên khóa 2013.. . Em đã nộp Chứng chỉ ngoại ngữ từ ngày 20.07 nhưng đến hôm nay là ngày 25.07 mà em vẫn chưa đăng ký được môn luận văn tốt nghiệp. . . Mong phòng đào tạo xem xét trường hợp của em. Và cho em đăng ký luận văn. . . Em xin cảm ơn!"
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "luận văn",
+            "mã môn học": "luận văn",
+            "học kỳ": "luận văn",
+            "mã nhóm/lớp": "MSSV/MSGV: [student_id]1",
+            "đợt": "khóa 2013.."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Yêu cầu khác . Chào thầy/Cô.. . Em tên Nguyễn Văn Min/ MSSV:[student_id]8.. . Kỳ vừa rồi em có học lại môn Quản Lý Chất Lượng với mã số mới. Môn này có trong danh sách môn học thay thế/tương đương, nhưng chỉ thấy cập nhật điểm mà không cập nhật tín chỉ tích lũy và điểm TBTL. Mong thầy/cô giải đáp.. . Em xin cảm ơn."
+        ],
+        "intent": "khiếu nại điểm",
+        "entities": {
+            "loại điểm": "Quản Lý Chất Lượng",
+            "môn học": "Quản Lý Chất Lượng",
+            "mã môn học": "Quản Lý Chất Lượng",
+            "học kỳ": "Quản Lý Chất Lượng",
+            "lý do": "không cập nhật tín chỉ tích lũy và điểm TBTL."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Thầy cô cho em hỏi em là sinh viên khóa 2011 mà chưa tham gia lớp sinh hoạt công dân cuối khóa vậy em có được tham gia vào lớp shcd cuối khóa của các khóa sau không ạ. .",
+            "Bạn vui lòng liên hệ Phòng Công tác chính trị sinh viên : Lầu 1 dãy nhà A4, Phòng 101"
+        ],
+        "intent": "chuyển nhóm",
+        "entities": {
+            "mã nhóm/lớp": "khóa 2011",
+            "môn học": "công dân",
+            "học kỳ": "lớp shcd",
+            "mã môn học": "không",
+            "lý do": "sinh viên khóa 2011 mà chưa tham gia lớp sinh hoạt công dân cuối khóa"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Tốt nghiệp - Đại học - Cao đẳng chính quy   Cập nhật ngày CTXH, điểm ... . Kính thưa thầy cô,. . Em là [full_name], MSSV: [student_id]8 thuộc ngành Khoa Học Máy Tính. Em hiện tại đã hoàn thành xong Luận Văn và tín chỉ tích lũy là 152 (ngành yêu cầu 148 tín chỉ). Thế nhưng, em vẫn chưa có tên trong danh sách dự kiến tốt nghiệp. Cho em hỏi ngoài lý do là thiếu ngày công tác xã hội em còn thiếu điều kiện nào không ạ? Em có thể xem thông tin đó ở đâu? Mong nhận được phản hồi sớm từ thầy cô để em bổ sung để có thể tốt nghiệp vào tháng 11/2017. Cám ơn thầy cô.. . . .",
+            "- Bạn nợ môn tổ hợp (2) tự chọn 15 tín chỉ",
+            "Thưa cô,. . Vậy em khóa 10 học kỳ này còn có thể đăng ký môn học không cô? Hay em chờ đến đợt thi vét vì có môn trong tổ hợp 15 tín chỉ em đã học qua nhưng chưa đạt. Cám ơn cô.",
+            "Em K2010 đã hết thời gian học nên không thể đăng ký môn học. . Về thi vét thì dự kiến đầu tháng 10/2017 mới có thông báo. . Bạn có thể tham khảo thông báo thi vét của K2009. . http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitiettb&thongbao_id=1211"
+        ],
+        "intent": "hỏi điều kiện tốt nghiệp",
+        "entities": {
+            "khoa": "Khoa Học Máy Tính.",
+            "khoá": "thiếu ngày công tác xã hội",
+            "hệ đào tạo": "Đại học - Cao đẳng chính quy"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Chương trình đào tạo (thiếu môn tiên quyết, song hành...) . Em hiện tại chưa qua Anh văn đầu vào nên không đăng ký môn chuyên ngành được. Vậy em có thể làm đơn xin để được học môn chuyên ngành hay không. Nếu được thì mẫu đơn gồm những gì ạ."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "Đại học - Cao đẳng chính quy",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "Đại học - Cao đẳng chính quy",
+            "đợt": "Đại học - Cao đẳng chính quy"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]2  /b \t. . . . Thầy cô cho em hỏi, em là sinh viên K12, em hoàn thành đúng hạn môn học nhưng vì thiếu anh văn nên 2 kì này em chưa đăng kí được luận văn. Hiện em đang chờ kết quả thi Toeic. Thầy cô cho em hỏi mình có đợt đăng kí bổ sung đầu tháng 9 k ạ ? Và nếu em muốn tạm dừng 1 học kỳ này thì em nên làm và gửi PĐT vào lúc nào ạ. . -  Em cảm ơn ạ !"
+        ],
+        "intent": "tạm dừng học",
+        "entities": {
+            "khoá": "MSSV/MSGV: [student_id]2",
+            "khoa": "văn",
+            "thời gian": "đầu tháng 9",
+            "học kỳ": "MSSV/MSGV: [student_id]2",
+            "lý do": "thiếu anh văn"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]7  /b \t. . . .   i Học vụ - Đại học - Cao đẳng chính quy   Tạm dừng . Hiện tại em thiếu CCNN để đăng ký luận văn tốt nghiệp. Em chỉ còn thiếu mỗi luận văn tốt nghiệp trong chương trình đào tạo.. . Em vừa đăng ký môn anh văn 4 để duy trì thời khóa biểu.. . Hiện tại em đã đăng ký làm cho 1 công ty Đức về lập trình robot làm hết thời gian.. . Vậy thầy/cô cho em hỏi em có thể tạm dừng 1 học kỳ không ạ, và việc nếu em rút môn học anh văn 4 đó em có bị kỷ luật vì học kỳ không có điểm không ạ.",
+            "em tải mẫu đơn tạm dừng nộp lại cửa tiếp sinh viên số 4 để xử lý"
+        ],
+        "intent": "tạm dừng học",
+        "entities": {
+            "khoá": "Học vụ - Đại học - Cao đẳng chính quy",
+            "khoa": "Học vụ - Đại học - Cao đẳng chính quy",
+            "thời gian": "MSSV/MSGV: [student_id]7",
+            "học kỳ": "MSSV/MSGV: [student_id]7",
+            "lý do": "thiếu CCNN để đăng ký luận văn tốt nghiệp."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Chào [full_name],. . . . Cho em hỏi ngày 18/8 còn đăng ký LVTN được không ạ?. . . . Em xin cảm ơn!. ."
+        ],
+        "intent": "hỏi thời gian đăng kí môn học",
+        "entities": {
+            "môn học": "LVTN",
+            "mã môn học": "LVTN",
+            "học kỳ": "LVTN",
+            "mã nhóm/lớp": "LVTN được không",
+            "đợt": "ngày 18/8 còn đăng ký LVTN được không"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]9  /b \t. . . .   i Chứng chỉ ngoại ngữ - Đại học - Cao đẳng chính quy   Khác ... . Chào thầy/cô,. . Cho em hỏi là kỳ này thì điểm toeic 2 kỹ năng là bao nhiêu để được nhận luận văn. Em mới thi chỉ được có 405 nên đang hoang mang. Mong thầy cô phản hồi sớm giúp em. Em cảm ơn nhiều ạ.. . . .",
+            "Chào em,. .  Chuẩn nhận LVTN là TOEIC 450.. .  Thân"
+        ],
+        "intent": "hỏi về chuẩn ngoại ngữ",
+        "entities": {
+            "ngoại ngữ": "TOEIC 450..",
+            "mục đích": "TOEIC 450..",
+            "khoá": "TOEIC 450..",
+            "hệ đào tạo": "Đại học - Cao đẳng chính quy"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Cho em hỏi thủ tục cần để xin giấy vay tiền sinh viên là gì ạ?",
+            "Cho em hỏi thủ tục để xin giấy vay vốn sinh viên ạ?. .",
+            "Chào em,. . Em vui lòng liên hệ phòng công tác chính trị sinh viên để được hỗ trợ.. . Thân"
+        ],
+        "intent": "hỏi về thủ tục",
+        "entities": {
+            "loại thủ tục": "xin giấy vay tiền sinh viên là gì",
+            "mục đích": "xin giấy vay tiền sinh viên"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Chương trình đào tạo - Đại học - Cao đẳng chính quy   Môn tương đương, tiên quyết, ... . Cho em hỏi về quy chế môn học tự chọn: học kỳ trước, môn tự chọn em bị 0 điểm (do vắng thi), vậy khi xét tốt nghiệp thì phòng đào tạo có bắt buộc em phải hoàn thành môn tự chọn bị 0 điểm đó hay có thể học môn khác miễn sao là đủ số tín chỉ môn tự chọn là được ạ? . . Mong thầy cô trả lời giúp!. .",
+            "Bạn liên hệ Thầy [full_name], phó Khoa phụ trách về đào tạo để được tư vấn nghen"
+        ],
+        "intent": "hỏi điều kiện tốt nghiệp",
+        "entities": {
+            "khoa": "đủ số tín chỉ môn tự chọn",
+            "khoá": "hoàn thành môn tự chọn bị 0 điểm đó hay có thể học môn khác",
+            "hệ đào tạo": "đủ số tín chỉ môn tự chọn"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Học vụ - Đại học - Cao đẳng chính quy   Rút môn học . Chào thầy/cô!. . . . Cho em hỏi: học kỳ này, em bị xếp lớp anh văn bắt buộc do không đủ 500 điểm toeic (và chưa học môn anh văn), vậy khi em có bằng toeic trên 500 điểm,thì em có thể nộp đơn xin rút môn học anh văn trong 6 tuần đầu học kỳ 1 được không ạ?. . Mong thầy cô trả lời giúp!",
+            "Môn Anh văn không được rút hay hủy nghen bạn"
+        ],
+        "intent": "rút môn học",
+        "entities": {
+            "mã nhóm/lớp": "anh văn",
+            "môn học": "anh văn",
+            "mã môn học": "anh văn",
+            "học kỳ": "Học vụ - Đại học - Cao đẳng chính quy",
+            "lý do": "không đủ 500 điểm toeic (và chưa học môn anh văn),",
+            "hình thức": "anh văn"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "thưa cô thầy , vừa rồi em nộp chứng chỉ anh văn và đăng kí chuyển điểm av 123 Học kì 163 . . av1:10 av2:8 av3:5.5 mà em chưa thấy cập nhật điểm ạ, với lại hôm nay Đăng kí học tập bổ sung em bị sắp lớp anh văn 3 ạ, mong quý thầy cô giải quyết"
+        ],
+        "intent": "cập nhật điểm",
+        "entities": {
+            "môn học": "Học kì 163",
+            "học kỳ": "Học kì 163",
+            "mã môn học": "Học kì 163"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Em chào Thầy(Cô) .. . Thầy (Cô) cho em hỏi vấn đề như sau :. . Em là sinh viên khoa Điện khóa 2014 . Vừa rồi trong đợt đăng kí môn học chính thức học kì 1 , em có đăng kí môn học có mã là EE1015 . Em đã đăng kí thành công . Nhưng bây giờ em muốn hủy đăng kí môn học đó , để đăng kí môn học khác trong đợt đăng kí bổ sung sắp tới .. . Vừa rồi em xuống phòng đào tạo hỏi , thì được cô trả lời là muốn rút môn thì phải chờ tới hạn thanh toán học phí , thanh toán xong rồi mới làm đơn rút môn được. Mà đợt đăng kí bổ sung chỉ còn 2 ngày nữa là hết hạn , trong khi học phí thì phải vài tháng nữa mới cho thanh toán.. .  Thầy( cô) cho em hỏi là trong thời gian này ( chưa thanh toán học phí ) , em có được chấp thuận hủy đăng kí môn học không , và nếu có thì em phải thực hiện thủ tục thế nào .. . Em cảm ơn Thầy ( Cô) đã đọc !"
+        ],
+        "intent": "huỷ môn học",
+        "entities": {
+            "môn học": "chờ tới hạn thanh toán học phí , thanh toán xong",
+            "mã môn học": "EE1015",
+            "học kỳ": "học kì 1",
+            "lý do": "để đăng kí môn học khác trong đợt đăng kí bổ sung sắp tới"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi Phòng đào tạo, mong Phòng đào tạo mở thêm sĩ số môn 809028 (Đàn hồi ứng dụng & pthh). Hiện nay sĩ số lớp đã 60/60 . . . . Hiện tại em đã hoàn thành tất cả các môn học, chỉ còn thiếu môn tự chọn này. Kính mong phòng đào tạo giúp đỡ. Em xin cảm ơn!"
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "môn học",
+            "môn học": "môn học",
+            "mã môn học": "809028",
+            "học kỳ": "môn học",
+            "lý do": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "số lượng": "60/60"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: V[student_id]  /b \t. . . .   i Học vụ - Đại học - Cao đẳng chính quy   Miễn môn học . Thưa thầy cô, em là sinh viên K13 có học 1 số môn mã mới. Trong danh sách trên aao là tương đương và em đã qua các môn đó nhưng trong bảng điểm chuyển thì không có ghi. Em kiểm tra trong chương trình đào tạo thì các môn nói trên vẫn bị tính chưa đạt. Mong được sự giúp đỡ của thầy cô ạ !!"
+        ],
+        "intent": "xét miễn",
+        "entities": {
+            "môn học": "Học vụ - Đại học - Cao đẳng chính quy",
+            "mã môn học": "Học vụ - Đại học - Cao đẳng chính quy",
+            "hệ đào tạo": "Học vụ - Đại học - Cao đẳng chính quy"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Yêu cầu khác: Chào thầy/ cô.. . Em có đăng ký môn SP1005 - Tư tưởng HCM nhưng hệ thống báo thiếu môn học trước SP1003.. . Nhưng em đã học môn SP1003 ở kỳ dự thính 143 rồi ạ. Mong thầy/cô giải đáp giúp em.. ."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "SP1005 - Tư tưởng HCM",
+            "mã môn học": "SP1005 - Tư tưởng HCM",
+            "học kỳ": "SP1005 - Tư tưởng HCM",
+            "mã nhóm/lớp": "SP1005 - Tư tưởng HCM",
+            "đợt": "SP1005"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . . Chào Thầy/Cô. . . Em hiện tại là sinh viên K13 khoa cơ khí. Em đang gặp phải vấn đề như sau: . . Trong đợt đăng ký môn học bổ sung này, em không đăng ký được luận văn vì lý do: ''Thiếu môn học tiên quyết 200064 - Thực tập kỹ thuật (chưa đạt)''. Tuy nhiên, em đã học và đạt môn tương đương mã môn này. . . Mong nhận được sự giải đáp của thầy/cô."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Thực tập kỹ thuật",
+            "mã môn học": "MSSV/MSGV: [student_id]0",
+            "học kỳ": "Thực tập kỹ thuật",
+            "mã nhóm/lớp": "MSSV/MSGV: [student_id]0",
+            "đợt": "MSSV/MSGV: [student_id]0"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "thưa thầy/cô. . đợt trước do nhầm lẫn em đã đăng kí nhầm 1 môn không cần thiết trong tiến độ học tập em muốn bỏ đi để thêm lại môn khác thì phải làm sao ạ."
+        ],
+        "intent": "rút môn học",
+        "entities": {
+            "mã nhóm/lớp": "đăng kí",
+            "môn học": "bỏ đi để thêm lại môn khác",
+            "mã môn học": "đăng kí nhầm 1 môn không cần thiết",
+            "học kỳ": "bỏ đi để thêm lại môn khác",
+            "lý do": "đăng kí nhầm 1 môn không cần thiết trong tiến độ học tập",
+            "hình thức": "đăng kí nhầm 1 môn không cần thiết trong tiến độ học tập"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Chào quý thầy cô, em muốn hỏi vấn đề sau ạ:. . Em đã chuyển điểm 4 môn anh văn bằng chứng chỉ toeic và được thông báo trên trang chuyển điểm là hợp lệ và chuyển cho học kì 163.Tuy nhiên, giờ em lên kiểm tra thời khóa biểu thì lại xuất hiện thêm 2 tín chỉ anh văn 4. Cho em hỏi là do phòng đào tạo đang cập nhật hay sao ạ ?. . . ."
+        ],
+        "intent": "khiếu nại điểm",
+        "entities": {
+            "loại điểm": "anh văn",
+            "môn học": "anh văn",
+            "mã môn học": "anh văn",
+            "học kỳ": "học kì 163.Tuy",
+            "lý do": "do phòng đào tạo đang cập nhật"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]7  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Chào Thầy/Cô.. . Em thiếu chứng chỉ ngoại ngữ để đăng ký môn học ( 440đ), và em đã nộp đơn tạm dừng học 1 học kỳ.. . Hiện tại em lên đăng ký môn học bổ sung để xem thì em đăng ký được Luận Văn tốt nghiệp dù thiếu 10đ CCNN.. . Vậy có phải lỗi hệ thống trong việc xét điều kiện chứng chỉ ngoại ngữ ko ạ.. . Nếu ko phải lỗi thì em có thể hủy tạm dừng học đã nộp trước đó ko ạ. . . cảm ơn Thầy/ Cô đã giúp đỡ"
+        ],
+        "intent": "hỏi điều kiện nhận luận văn",
+        "entities": {
+            "khoa": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "khoá": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "hệ đào tạo": "Đăng ký môn học - Đại học - Cao đẳng chính quy"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]7  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Em chào quý thầy cô,. . . . Em tên [full_name], MSSV [student_id]7, Khóa 2013. . . . . Học kỳ này em đăng ký học lại môn Đàn Hồi Ứng Dụng - PTHH: Em đăng ký nhóm lớp chuyển hệ D2 (Mã B01) do em không thể đăng ký được nhóm A01 vì bị trùng lịch học với môn Kết Cấu Thép 2.. . . . Xin quý thầy cô cho em hỏi cách tính điểm và cách tính số tín chỉ tích lũy ngành khi em học Nhóm B01 (Chủ nhật) có giống với cách tính điểm của nhóm A01 không? Hay chỉ tính là qua môn hoặc không qua môn như khi em học lớp K14 trở đi (khác mã).. . . . Em hy vọng được thầy cô hồi âm sớm. . . . . Em xin cảm ơn quý thầy cô! . . . . Chúc quý thầy cô một ngày tốt lành, . . [full_name].. . . . TP.HCM - Ngày 8 tháng 9 năm 2017"
+        ],
+        "intent": "hỏi cách tính điểm",
+        "entities": {
+            "loại điểm": "tính là qua môn hoặc không qua môn",
+            "khoá": "Nhóm B01 (Chủ nhật)",
+            "hệ số": "A01"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Kính gửi PĐT!. . Em tên: [full_name] . . MSSV: [student_id]0. . Hiện tại em còn nợ môn ĐAMH thiết kế cầu thép (Mã MH: 801033). Đây là môn học tiên quyết để được nhận luận văn tốt nghiệp sau này. Trong đợt DKMH, môn này không được mở do sĩ số quá ít và em thấy có mở môn tương đương thay thế môn học Xây Dựng Cầu (Mã MH:CI4033). Hiện giờ lớp Xây dựng cầu đã đủ sĩ số nên em không thể đăng kí được.. . Kính mong Phòng Đào Tạo xem xét giúp em tăng sĩ số lớp Xây Dựng Cầu (Mã Mh: CI4033). . . Em chân thành cảm ơn PĐT!"
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "Xây Dựng Cầu",
+            "môn học": "thiết kế cầu thép",
+            "mã môn học": "Xây Dựng Cầu",
+            "học kỳ": "Xây Dựng Cầu",
+            "lý do": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "số lượng": "MSSV/MSGV: [student_id]0"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Yêu cầu khác: thầy cô ơi, em lỡ điền sai số hiệu bằng tốt nghiệp THPT trên mybk, mà bây giờ em không sửa lại được thì làm sao ạ ?"
+        ],
+        "intent": "cập nhật thông tin sinh viên",
+        "entities": {
+            "loại thông tin": "lỡ điền sai số hiệu bằng tốt nghiệp THPT trên mybk,",
+            "lý do": "lỡ điền sai số hiệu bằng tốt nghiệp THPT trên mybk,"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Họ tên: [full_name]. . MSSV: [student_id]8. . . . Nội dung: Xin phép Phòng Đào Tạo hủy dùm em môn học 003001 - Anh văn 1 . . Nguyên nhân: Môn học tự thêm vào trong đợt đăng ký bổ sung. . Lý do: Em sẽ chuyển đổi điểm Toeic sang nên không muốn học ạ. . . . Em xin chân thành cảm ơn Phòng Đào Tạo"
+        ],
+        "intent": "huỷ môn học",
+        "entities": {
+            "môn học": "Môn học tự thêm vào trong đợt đăng ký bổ sung.",
+            "mã môn học": "003001 - Anh văn",
+            "học kỳ": "Môn học tự thêm vào trong đợt đăng ký bổ sung.",
+            "lý do": "Em sẽ chuyển đổi điểm Toeic sang nên không muốn học ạ."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Tăng sĩ số lớp môn học . Gửi thầy cô phòng đào tạo ạ,. . . . Em là sinh viên K16, khoa Máy tính.. . Em vừa biết vào lớp KSTN, nên đã đăng ký chuyển vào lớp KSTN ở CS1, tuy nhiên các môn đại trà khác (PH1005, MT1009 và LA1009) hiện ở CS1 đã hết sĩ số và hết lớp rồi ạ. . . . . Có nhiều bạn khác trong khoa của em cũng vậy.. . Cho em hỏi PĐT có mở thêm sĩ số hoặc mở thêm lớp được không ạ. . . . . Em chân thành cảm ơn ! . ."
+        ],
+        "intent": "tăng sĩ số lớp",
+        "entities": {
+            "mã nhóm/lớp": "môn học",
+            "môn học": "Máy tính..",
+            "mã môn học": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "học kỳ": "Đăng ký môn học - Đại học - Cao đẳng chính quy",
+            "lý do": "sinh viên K16, khoa Máy tính..",
+            "số lượng": "sinh viên K16, khoa Máy tính.."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . Hiện giờ em đang có 125 chỉ tích lũy, em khóa K11, kì này em không đăng kí thực tập tốt nghiệp được do không đủ tín chỉ, em chỉ còn kì sau để làm luận văn tốt nghiệp .Nên phòng đào tạo có thể cho phép em đăng kí thực tập tốt nghiệp sớm trong kì này được không ạ ? Em xin cám ơn !!"
+        ],
+        "intent": "đề nghị hỗ trợ thực tập",
+        "entities": {
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "lý do": "không đủ tín chỉ,"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]2  /b \t. . . . . .   i Chương trình đào tạo - Đại học - Cao đẳng chính quy   Môn tương đương, tiên quyết, ... . Dạ cho em hỏi là, . . Em có rớt môn kỹ thuật điện ở học kì 151 với mà 406009 và rớt.. . . . Trong học kì vừa rồi e học kì 162, em có học môn kỹ thuật điện với mã mới là EE2027. . . . . Em có xem danh sách danh sách các môn tương đương thay thế ở khoa máy tính nhưng có những môn tự chọn và sau khi xem hết các khoa thì em thấy môn Kỹ thuật điện với mã 406009 không có môn tương đương.. . . . Vậy cho em hỏi là có cách nào để chuyển điểm môn Kỹ Thuật Điện từ mã EE2027 về  mã 406009 vì em thấy 2 mã này đều học nội dung môn học y hệt nhau.. . . . Em xin chân thành cảm ơn. . . . .",
+            "QUOTE Nguyễn  /QUOTE . ."
+        ],
+        "intent": "chuyển điểm",
+        "entities": {
+            "môn học": "Kỹ Thuật Điện",
+            "học kỳ": "Kỹ Thuật Điện",
+            "mã môn học": "Kỹ Thuật Điện",
+            "lý do": "2 mã này đều học nội dung môn học y hệt nhau.."
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]7  /b \t. . . .   i Học vụ - Đại học - Cao đẳng chính quy   Tạm dừng . Chào thầy/cô Em tên [full_name] Thành MSSV [student_id]7.. . Thầy/cô cho em hỏi . . 1. đăng ký luận văn còn 1 đợt sau 2 tuần học phải không ạ.. . 2. Em có viết đơn tạm dừng học vào ngày 4/8 ngày nhận kết quả ngày 8/8. Quyết định ngày 30/8 Hiện nay em muốn hủy đơn tạm dừng học có được không ạ. . . Hy vọng nhận được câu trả lời sớm từ thầy/cô",
+            "- chào bạn, sẽ có 1 đợt đăng ký lv vào đầu tháng 9/17. . - bạn phải làm đơn hủy tạm dừng nộp tại cửa tiếp phòng đào tạo"
+        ],
+        "intent": "huỷ đơn",
+        "entities": {
+            "loại đơn": "tạm dừng"
+        },
+        "accuracy": 1
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]8  /b \t. . . . Cho em hỏi trong học kì 1 tới đây em sẽ làm LVTN, em học khoa kĩ thuật xây dựng. . . Em muốn học thêm bằng 2 Quản lí công nghiệp. em được biết sinh viên bk sau khi tốt nghiệp học bằng 2 sẽ không phải thi đầu vào phải không ạ? Nếu học kì 1 tới đây em kết hợp học một số môn bên quản lí công nghiệp trong kì dự thính thì sau khi tốt nghiệp em học bằng 2 ngoài việc bỏ môn đại cương có được bỏ những môn đã học đó không? Em cảm ơn ạ.",
+            "Chào em,. . . . Em xem Quy chế học tập năm 2015, điều 28 nhé.. ."
+        ],
+        "intent": "hỏi về quy định quy chế",
+        "entities": {
+            "lĩnh vực": "Quản lí công nghiệp.",
+            "học kỳ": "học kì 1"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]0  /b \t. . . . Em tên là [full_name]_[student_id]0. . Gửi Pđt đơn xin xét đkmh LVTN MSMH 602303. . . ."
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "LVTN",
+            "mã môn học": "LVTN",
+            "học kỳ": "LVTN",
+            "mã nhóm/lớp": "LVTN",
+            "đợt": "LVTN"
+        },
+        "accuracy": 0
+    },
+    {
+        "message": [
+            "b MSSV/MSGV: [student_id]4  /b \t. . . .   i Đăng ký môn học - Đại học - Cao đẳng chính quy   Khác ... . kính gửi pdt!. .  Em tên [full_name] học khoa cơ khí chuyên ngành thiết kế máy. Em đã đăng ký luận văn vào đợt đăng ký thứ nhất và có đủ 2 dấu tích đăng kí thành công. Nhưng không biết vì lý do gì mà đến đợt bổ sung em đã bị xóa mất luận văn, nên em đã đăng ký lại và vẫn đủ điều kiện đăng ký . Em lên coi thời khóa biểu được cập nhật lần cuối vào 12/08/2017 thì vẫn không thấy có môn luận văn. Em muốn hỏi là do luận văn em đăng ký vẫn chưa được cập nhật hay do em bị lỗi ạ. Rất mong được sự giúp đỡ của pdt . . . Em xin cảm ơn"
+        ],
+        "intent": "đăng kí môn học",
+        "entities": {
+            "môn học": "Đại học - Cao đẳng chính quy",
+            "mã môn học": "MSSV/MSGV: [student_id]4",
+            "học kỳ": "Đại học - Cao đẳng chính quy",
+            "mã nhóm/lớp": "MSSV/MSGV: [student_id]4",
+            "đợt": "MSSV/MSGV: [student_id]4"
+        },
+        "accuracy": 0
+    }
+]

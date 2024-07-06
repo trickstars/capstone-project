@@ -1,0 +1,384 @@
+[
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Cho em hỏi là học phí của môn anh văn ở dự thính hè cũng tính như các môn khác ở dự thính hè hay sao ạ. Em cảm ơn ạ.",
+            "Chào bạn,. . . . Đúng bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác . Cho em hỏi.Em rớt 1 môn của HK đầu tiên và HK3 em muốn trả nợ môn. Nhưng khoa không mở vì không đủ sĩ số. Vậy giờ em nên làm gì để có thể trả nợ môn.. . Em cám ơn.. .",
+            "Yêu cầu khác. . Cho em hỏi.Em rớt 1 môn của HK đầu tiên và HK5 em muốn trả nợ môn. Nhưng khoa không mở vì không đủ sĩ số. Vậy giờ em nên làm gì để có thể trả nợ môn.. . Em cám ơn.. .   /QUOTE . .",
+            "Chào bạn,. . . . Cụ thể là môn gì vậy bạn?, bạn cho biết mã số môn học.. . . . Thân",
+            "Dạ. Là môn mã CH1001 ạ",
+            "Chào bạn,. . . . Thông thường những môn này mở vào học kỳ 1. Bạn nhờ khoa tư vấn xem có mở lớp sỉ số ít trong học kỳ 203 này  hay không hoặc đợi đến học kỳ 1 bạn làm đơn xin đăng kí.. . . . Thân",
+            "Dạ[full_name] Vậy cho em xin hỏi thêm là mình lấy mẫu đơn như dưới và nộp cho phòng đào tạo đúng không ạ[full_name]",
+            "Chào bạn,. . Hiện tại đã hết thời gian nhận đơn mở lớp ngoại lệ của học kỳ nhé hè 203 nhé.. . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Chào thầy/cô. Em tên [full_name], mssv [student_id], em xin thêm slot vào lớp DT03 mã môn là SP1035 ạ. Em cảm ơn",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . xin chào PĐT ,. . . . cho e hỏi là làm đơn xin mở lớp riêng là mình viết tay , hay tải biểu mẫu ạ , . . Em xin cảm ơn",
+            "Chào bạn,. . . . Mẫn đơn mở lớp có sẵn trên web PDT.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Xin chào thầy cô ạ. . Em là [full_name] sinh viên K17 khoa Cơ Khí ạ. . Em muốn hỏi là em muốn đăng kí môn thưc tâp chế tạo ME3029 nhưng vẫn còn thiếu môn ME2023 là môn song hành và môn ME2023 trường không mở lớp trong hè này thì em có được đăng kí môn ME3029 không ạ.. . Em xin cám ơn ạ!",
+            "Chào bạn,. . . . Theo những gì bạn nêu, PDT không giải quyết cho bạn được.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi nhà trường. . Em là [full_name], sinh viên lớp HC14 Hóa 3 K19, em xin phép nhà trường mở thêm 1 chỗ đăng ký chủ nghĩa xã hội học sp1035 lớp L01 trong mùa hè cho em ạ.. . Lí do: Nhà mạng em gặp sự số, nên tới giờ đăng ký em đăng ký bị chậm và các lớp đã đầy. . Vì đây là lớp học online, nên sỉ số có tăng thêm 1 người thì giảng viên vẫn giảng được bình thường. Mong nhà trường xem xét.. . Em xin cảm ơn. .",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ em chào thầy cô ạ!. . Dạ kì này HK202 em đang học môn Đồ án môn học thiết kế trang phục(ME3111), nhưng vì môn này em không đăng kí được trong đợt đkmh vì thiếu anh văn,nên cô [full_name] cho em học xong môn này rồi bảo lưu lại kết quả, vì vậy em xin thầy cô cho em đăng kí môn ME3111 vào kì hè 203 này được không ạ, mục đích để cô em chuyển điểm bảo lưu qua được không ạ. Em chân thành cảm ơn thầy cô rất nhiều ạ.. .",
+            "Chào bạn,. . . . Theo qui định nhà trường hè không mở môn đồ án nha bạn.. . . . . . . . Thân."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . sáng em đăng ký mà trường khóa vì chưa đóng học phí dù em đã làm đơn rồi h trường mở lại cho em nhưng các lớp em đăng ký toàn bộ hết chỗ z h em sai hay nhà trường sai ạ em cảm ơn:  . .",
+            "Chào bạn,. . . . - Trường hợp mở lại DKMH mà hết sỉ số thì bạn có thể nộp đơn cho PDT để xem xét đăng kí cho bạn nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ cụ thể là hôm nay em đăng ký học DT hè thì thấy có thể đăng ký được môn SP1035 trong khi em chưa học môn học trước của nó là SP1033. Nhưng em thấy hệ thống vẫn không cảnh báo gì và cho phép đăng ký thành công bình thường.. . . . Vậy em có được học môn SP1035 này không hay bây giờ phải xoá đăng ký môn ạ ?",
+            "Chào bạn,. . . . Hiện tại bạn không đăng kí môn SP1035 nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học .  Dạ em có đki môn phương pháp tính, gt1,gt2  vào đợt 1 đăng ký môn học kì 203, nhưng hôm nay vào xem thì bị xoá, hiện tại các lớp còn lại đã full, BKSI hỗ trợ mở lớp thêm giúp em được ko ạ",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . em muốn đkmh vật lý 1 mã môn ph1003 nhưng không đủ slot. .",
+            "Đăng ký môn học. . em muốn đkmh vật lý 1 mã môn ph1003 nhưng không đủ slot thì em phải làm sao ạ.. .   /QUOTE . .",
+            "QUOTE Trích. . MSSV/MSGV: [student_id]    . . . . Đăng ký môn học. . Em muốn mở sỉ số lớp thì phải làm sao ạ. Xin hãy giúp đỡ em ạ.. . . . . .   /QUOTE . .",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em chào thầy cô PĐT, em tên là [full_name] mssv [student_id]. Cho em hỏi là tại sao em khi đăng kí môn học học kì 203 lại hiện ra lý do \"chưa thanh toán HP\" khi em đã thanh toán học phí xong ngày 24/5/2021 vậy ạ?",
+            "Chào bạn,. . . . Đợt 3 DKMH hè bạn mới đăng kí được vì bạn đóng học phí trễ trong đợt 2 này.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . e muốn đăng ký môn học vật lý 1 mà em vào hết lớp r .Mong pdt có thể mở thêm lớp hoặc tăng số học viên lên xíu . em cảm ơn rất nhiều",
+            "Chào bạn,. . . . Số tín chỉ để đăng kí môn thực tập ngoài trường đã qui định sẵn, nên việc này không giúp cho bạn được.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em chào thầy (cô) ạ.. . Hiện tại em muốn đăng kí môn học Triết học [full_name]-[full_name] cho học kì dự thính HK203 ạ, nhưng các lớp hết quá nhanh nên em không thể đăng kí được ạ. Mong thầy(cô), nhà trường tạo điều kiện cho em có thể đăng kí được môn học này với ạ. Em xin cảm ơn!",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Thưa cô, ở đợt DKMH HK203 - Đợt 1 em có đăng ký môn thực tập tốt nghiệp mã CO3313 nhưng ở kết quả đăng ký không thấy ạ?. . Em có vào phần lý do huỷ môn nhưng cũng không có luôn ạ.. . Mong PĐT xem xét giúp em ạ, hiện tại theo kế hoạch học tập của em thì em đã đầy đủ ĐK điều kiện đăng ký TTTN ạ.. . . . Em cảm ơn!. .",
+            "Chào bạn,. . . . Đã cập nhật lý do không đăng kí môn TTTN, bạn vui lòng kiểm tra lại.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Đăng ký môn học. . . . Em chào thầy cô.. . Theo như gmail mới thông báo của phòng đào tạo thì những môn có phần học thí nghiệm sẽ không được mở lớp. Nhưng ở gmail tthrước em thấy có phần nếu như Khoa đảm bảo có thể bố trí học theo dãn cách thì vẫn được mở.. . Vì đây là môn tiên quyết cho đồ án chuyên ngành ở học kì sau, nếu không đăng kí được bọn em sẽ trễ luận văn tốt nghiệp ạ. Nên em và các bạn khác muốn xin mở lớp môn này thì không biết có được không ạ.  . . Mã môn học là ME3033 ạ.",
+            "Chào bạn,. . . . Theo thông báo mới nhất của PDT,  những môn có thí nghiệm sẽ không được mở lớp trong học kỳ hè.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em muốn xin mở thêm lớp môn Chủ nghĩa xã hội khoa học ạ, nhưng bây giờ tình hình dịch bệnh em đang ở quê nếu xin mở lớp thì vẫn lên quận 10 nộp đơn như trong mail ạ?",
+            "Chào bạn,. . . . Bạn muốn mở lớp thì bạn phải làm đơn xin mở lớp, trong đơn phải có sự đồng ý của giáo viên giảng dạy và ban chủ nhiệm khoa.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . em tên là [full_name] MSSV [student_id]. em muốn chuyển nhóm lớp nhưng nhà trường cập nhật thời khoá biểu nên em không chuyển được. giờ em phải làm sao ạ?",
+            "Chào bạn,. . . . Bạn muốn chuyển nhóm, bạn xoá nhóm cũ và đăng kí nhóm mới.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Kính gửi Phòng Đào Tạo Đại Học Bách Khoa TPHCM.. . . . Em là sinh viên CQ Bằng 2, MS: [student_id], ngành Cơ Điện Tử.. . . . Hiện tại trong đợt đăng kí môn học học kỳ hè 203, các môn học thực tập hè của ngành cơ điện tử (ME2017/ME2115) không mở, trong khi em thấy có nhiều môn Thực tập ngoài trường khác vẫn mở. Em xin hỏi PĐT có thể xem xét mở lớp hoặc cho em được học các môn thực tập ngoài trường khác để thay thế không ạ, vì bình thường môn này chỉ mở hè nên PĐT xem xét giúp em ạ, em cám ơn nhiều.. . . .",
+            "Chào bạn,. . . . Bạn có thể nộp đơn mở lớp tại PDT, đơn có sự đồng ý của giáo viên giảng dạy và ban chủ nhiệm khoa.. . . . Thân",
+            "Kính gửi Phòng Đào Tạo Đại Học Bách Khoa TPHCM.. . . . Em là sinh viên CQ Bằng 2, MS: [student_id], ngành Cơ Điện Tử.. . . . Hiện tại trong đợt đăng kí học kì 203 đã mở môn ME2017 - Thực Tập Kỹ Thuật (CDT) nhưng là nhóm CC01. Nhóm Chính Quy thì không mở, em xin PĐT xem xét hỗ trợ cho em được đăng kí nhóm CC01 để lấy kết quả tương đương được không ạ, vì em học lớp B2CQ hiện tại đã đổi chương trình mới và không mở lớp cho khối chính quy thì em bị ảnh hưởng tiến độ học tập rất nhiều ạ, em cám ơn rất nhiều.",
+            "Chào bạn,. . . . Nhóm CC chỉ dành cho sinh viên chất lượng cao quốc tế nha bạn.. . . . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em chào thầy cô ạ, em bị cảnh cáo học vụ lần 2. cho em hỏi làm đơn cứu xét như thế nào, cho em hỏi tình hình hiện tại dịch covid thì trường và khoa có mở để em nộp không ạ?",
+            "Chào bạn,. . . . Cảnh cáo học vụ thì không làm đơn nha, trường vẫn làm việc bình thường .. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Ad mở giúp em thêm sỉ số môn học PLDC SP1007 lớp DT04 nha.. . Em cảm ơn ad   3",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính gửi quý thầy/cô PĐT trường đại học Bách Khoa Tp.HCM. . Em tên là: [full_name]. . MSSV [student_id]. . Vì em có nhu cầu đăng kí môn học Đường lối cách mạng ĐCSVN ở HK203, nhưng hiện giờ lớp đã full sĩ số. Kính mong quý thầy/cô có thể mở rộng sĩ số lớp DT01 để em có thể được đăng kí ở HK203. Em xin chân thành cảm ơn!. . . .",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "B   b MSSV/MSGV: 1613092  /b \t. . . .   i Đăng ký môn học . Em chào Thầy/Cô ạ!. . Tình hình của em là HK201 Em có làm đơn gia hạn học phí HK201, và sang HK202 này Em vẫn chưa có đủ khả năng để đóng HP cả 2 HK, Em chỉ đủ khả năng đóng HP HK202 thôi ạ. Vậy cho Em hỏi Em có bị cấm thi HK202 hay bị cấm Đăng kí môn học HK203 không ạ? Vì Em chỉ có khả năng đóng HK202 thôi ạ, mong Thầy/Cô giải đáp giúp Em ạ. . Em xin chân thành cám ơn ạ!",
+            "Chào bạn,. . . . Nếu bạn đóng học phí học kỳ 202 thì bạn vẫn thi học kỳ 202 được nhưng đăng kí môn học học kỳ 203 thì bạn không đăng kí được.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Tốt nghiệp . Hiện em đã được xét kéo dài thời gian đào tạo để nộp CCNN nói viết thời hạn trước khi kết thúc học kì 2 năm học này. Nhưng do dịch bệnh Covid nên BKEnglish không tổ chức thi. Em xin . . Hỏi hạn cuối để nộp ccnn ở của nhóm sinh viên kéo dài thời gian đào tạo thuộc khoá K14? Nhiều bạn cũng đang lo lắng vấn đề này. Em mong nhận được phản hồi ạ.. .",
+            "Chào bạn,. . . . Kéo dài đến đợt tốt nghiệp tháng 11.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ cho em hỏi là nếu năm nhất em không thể đăng kí và học được môn Vẽ kỹ thuật xây dựng CI1033 và Khóa học Trái đất CI1069 thì nó có ảnh hưởng gì đến việc đăng kí môn học cho năm 2 và chọn chuyên ngành không ạ.Và sang năm 2 em mới đăng kí các môn này đẻ học có được không ạ. Em học khoa KT Xây dựng.. . Em cảm ơn ạ!. .",
+            "Chào bạn,. . . . Bạn xem cấu trúc môn học xem môn CI1033 và CI1069 có là môn học trước/tiên quyết/song hành các môn năm 2 không nha.. . . . Trường hợp học kỳ nào có mở 2 môn trên thì bạn được quyền đăng kí nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Chào thầy/cô. Em là sinh viên K18, hiện tại em có 2 câu hỏi về vấn đề chuẩn Anh văn mong thầy/cô giải đáp giúp em với ạ.. .  1.Hiện tại em đang trong tình trạng bị trễ anh văn 4. Nếu học kì 211 em đăng kí học anh văn 4 trên trường vậy thì có kịp cho việc học các môn bị yêu cầu bởi anh văn 4 trong học kì 212 không ạ ? ( nếu em vẫn đăng kí môn học như bình thường và kì đó em pass dược av4 ). .  2.Trong trường hợp em thi anh văn ở bên ngoài ( IIG hay BK English) thì phải được bao nhiêu điểm để có thể chuyển điểm pass được anh văn 4 ạ ?. . Em xin cảm ơn thầy/cô. Chúc thầy/cô một ngày tốt lành",
+            "Chào bạn,. . . . 1. Nếu bạn đăng kí học kỳ chính mới được pass chuẩn anh văn nha bạn. . . . . 2. Bạn vui lòng xem qui chế học vụ điều 31, phụ lục 1 http://www.aao.hcmut.edu.vn/index.php?route=catalog/chitietsv&path=90&tid=1658.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "CODE Đăng ký môn học . Kính gửi Phòng Đào Tạo,. . Em tên là [full_name], MSSV [student_id]. . Trong đợt đăng kí môn học HK203 - đợt 2, em muốn đăng kí dự thính môn Vật lí 1 (PH1003), em đã đăng kí môn học này ở đợt 1 rồi nhưng do em muốn đăng kí thêm môn thí nghiệm vật lí (PH1007)nhưng do trùng lịch học nên em đã lỡ xóa môn để chọn lớp cho phù hợp lịch học ạ!Nhưng khi xóa môn vật lí 1 (PH1003) thì em không đăng kí môn thí nghiệm vật lí (PH1007) được cũng như không đăng kí lại môn vật lí 1 (PH1003) lại được ạ!. . Nên em xin phép thầy cô có thể tăng sĩ số môn học lớp DT01_DT01, mã PH1003 giúp em được không ạ? Em rất mong thầy cô có thể xem xét giải quyết giúp em để em được đăng kí lại lớp DT01_DT01(PH1003) ạ! Em rất cần môn học này ạ, nếu không đăng kí môn học này thì em sẽ không đủ tín chỉ để đăng kí môn năm 2 ấy ạ!. . Em xin cảm ơn thầy cô rất nhiều ạ!",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Xin chào thầy/cô, em là [full_name] - sinh viên K19 CLC ngành kỹ thuật máy tính. Em là sinh viên chuyển ngành nên bây giờ em học theo lộ trình với khóa K20, vì lý do cá nhân nên kỳ 202 em không đăng ký môn kỹ thuật lập trình CO1027 nên bây giờ em muốn học bù vào kỳ hè cho đúng tiến độ, thầy/cô có thể cho em biết là bây giờ môn này em đăng ký mã lớp CC có được không ạ? Tại vì em thấy môn này không mở lớp dự thính ạ và học phí của môn này trong kỳ hè 203 sẽ được tính như thế nào ạ? Em xin cảm ơn.",
+            "Chào bạn,. . . . Bạn sinh viên chất lượng cao vui lòng liên hệ văn phòng Đào tạo quốc tế nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Kính chào thầy/cô,. . Em tên là [full_name], MSSV [student_id], chuyên ngành xây dựng dân dụng, khoa kỹ thuật xây dựng.. . Em tạo yêu cầu này với thắc mắc là em cảm thấy mình đủ điều kiện xét học bổng khuyến khích nhưng trong mục bảng điểm lại không đủ. Mong thầy/cô có thể giải đáp cho em là em còn thiếu điều kiện gì để được xét HBKK ạ.. . Em xin chân thành cảm ơn.. . . .",
+            "Chào bạn,. . . . Bạn vui lòng kiểm tra lại cổng thông tin sinh viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Thầy cô cho em hỏi em đã đạt chuẩn anh văn đầu vào của trường nhưng khi đăng kí môn anh văn 1 , hệ thống lại hiển thị cần đăng kí môn anh văn cơ bản (LA0011) trước. Em cảm ơn",
+            "Chào bạn,. . . . Cuối ngày hôm nay PDT sẽ cập nhật lại điều kiện anh văn 1, bạn vào đăng kí nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em chào thầy, cô. Em có đăng kí môn học Trắc địa đại cương MSMH CI1007 mà lớp không mở vì lý do khoa không mở lớp. Nếu em muốn xin mở lớp lại thì phải làm sao ạ tại em thấy trên trang đk của trường có đủ sinh viên để mở ạ. Với giờ em đang ở quê nên không lên thành phố được ạ, mong thầy, cố giúp đở cho em ạ.. .",
+            "Chào bạn,. . . . PDT có thông báo rất rõ, môn có nhóm thí nghiệm sẽ không được mở trong học kỳ hè 203 nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Em chào thầy/cô ạ, em là [full_name], Khoa Kỹ thuật Xây Dựng, ngành Kiến Trúc, hiện tại môn học Vẽ bóng & Phối cảnh (CI1019) vào đợt 1 đăng ký dự thính hè 203 chỉ có 4 bạn đăng ký nên không thỏa điều kiện đăng ký. Môn học này từ khóa K19 không mở lớp và em cũng không thấy môn tương đương, thay thế của môn học này. Bây giờ em muốn đăng ký môn học này để hoàn thành tiến độ học tập thì em phải làm như thế nào ạ, em xin cảm ơn ạ.. .",
+            "Chào bạn,. . . . Bạn làm đơn xin mở lớp nộp tại PDT để ban lãnh đạo phòng xem xét cho bạn.. . . . Thân",
+            "Do tình hình dịch diễn biến căng thẳng nên em có thể gửi đơn qua hình thức online được không ạ? Nếu gửi Online được thì em có thể gửi ở mục này hay ở đâu ạ? Em xin cảm ơn cô!",
+            "Chào bạn,. . . . Đơn mở lớp phải có sự đồng ý của giáo viên giảng dạy và bạn chủ nhiệm khoa. Nhưng hiện tại đã hết thời gian nhận đơn mở lớp rồi bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ thầy/cô. . . . Sau khi đọc bản tổng hợp trả lời ý kiến trong HNSV cấp khoa, cụ thể là câu 39, em có một số thắc mắc như sau:. . . . - Đầu tiên, theo em hiểu, [full_name]19 sẽ có 2 chương trình đào tạo: chương trình cử nhân và chương trình kỹ sư tương đương thạc sỹ, mà yêu cầu của chương trình kỹ sư tương đương thạc sĩ là đạt điểm TBTL từ 7.0 trở lên. Trong khi đó, [full_name]18 vẫn được cấp bằng kỹ sư, khối lượng kiến thức nhiều hơn cử nhân, tuy không bằng thạc sĩ, mà không cần thỏa mãn yêu cầu 7.0 như chương trình mới đây. [full_name]19 do đó gặp bất lợi không đáng có, vì các khóa trước vẫn được tiếp thu chương trình kỹ sư, qua đó khă năng tìm việc làm cao hơn.. . . . - Ngoài ra, việc \"tuyển\" sinh viên vào chương trình kỹ sư tương đương thạc sĩ có giống như tuyển sinh đại học rằng sinh viên được xếp theo điểm từ cao đến thấp rồi lấy theo chỉ tiêu hay miễn là TBTL trên 7.0 là được đăng ký học?. . . . Mong thầy/cô có thể giải đáp thắc mắc giúp em. Em xin cảm ơn",
+            "Chào bạn,. . . . Những câu hỏi trong HNSV cấp khoa, do các thầy/cô có thẩm quyền trả lời cho bạn. Rất tiếc việc này tôi không trả lời cho bạn được.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Kính gửi PĐT.. . . . Em có thắc mắc về mã lớp và khóa ngành của lớp KSTN khóa K19 ngành Kĩ thuật Điều khiển và Tự động hóa.. . . . Vào HK192 lớp em (DD19KSTD) đã tuyển được 24 sinh viên nhưng chương trình học của HK201 giống với các bạn sinh viên khác cùng ngành (từ mã môn, đến việc thi chung đề, học chung với nhau như bình thường và chưa có bài tập mở rộng ạ). . . . Nhưng sau đó thì có 11 bạn khác tuyển bổ sung vào chương trình tài năng sau HK192.. . . . Theo kết quả xét HBKK của HK201 mà phòng CTCTSV cập nhật thì em không đạt được học bổng loại nào (Điểm TBHK của em là 8.35 và em có tham khảo qua điểm của các bạn cùng khóa trong khoa). Em có gửi mail cho phòng CTCTSV thì họ phản hồi là do lớp em có khóa ngành riêng nên không được xét chung với cả khoa. Vấn đề này em không hiểu cho lắm, mặc dù HK201 em học và thi đều như các bạn khác trong ngành. . . . . Kính mong phòng Đào tạo xem xét giùm em ạ!. . . . Em xin cảm ơn.",
+            "Chào bạn,. . . . HBKK do phòng Công Tác Chính Trị Sinh Viên phụ trách, PDT không phụ trách nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: [student_id]  /b \t[full_name] [full_name] [full_name] [full_name]   i Đăng ký môn học  /i [full_name] [full_name] Kính chào thầy (cô) phụ trách hỏi đáp[full_name] Hiện nay theo chương trình đào tạo khóa K2019 thì phải học xong 3 môn thể dục mới được quyền đăng ký môn năm 3 và em còn thiếu 1 môn thể dục nữa nhưng vào đợt đăng ký đợt 2 này lại không có, kính mong thầy (cô) xem xét mở lại tùy ý một môn giúp em[full_name] Em xin cảm ơn ![full_name] [full_name]",
+            "Chào bạn,. . . . Không hiểu ý bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em kính chào quý thầy cô , dạ cho em hỏi là điều kiện để xin đặt cách thực tập tốt nghiệp khi thiếu 1 tín chỉ so với quy định ! Do là em cộng chỉ kỳ chính 202 thì vẫn thiếu 1 và dự thính 202 thì ko được xét ạ !! Mong được phản hồi từ quý thầy cô. .",
+            "Chào bạn,. . . . Rất tiếc việc này không giúp cho bạn được.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "MSSV/MSGV: [student_id]. . . .   i Đăng ký môn học  /i Cho em xin mở thẻm lớp vl1 đi ạ vì sáng này có rất nhiều bạn vào mà k đki kịp như em ạ, em mong pdt xem xét mở thêm nhìu lớp để tụi em trả nợ môn ạ nếu không đki đc kì này năm 2 em sẽ không được đki môn ạ.. . . .",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em xin chào thầy/ cô ạ,. . Em tên là [full_name]. MSSV:[student_id]. Đang là sinh viên năm 3 Khoa kỹ thuật Địa chất và dầu khí.. . Số TCTL của em hiện tại là 82 chỉ (có 2 chỉ AV đang chờ phê duyệt). Số TC đăng kí kì 202 là 16. Nhưng theo quy định thì TC tối thiểu để được thực tập là 99 chỉ. Do đó em bị thiếu 1 chỉ.. . Em mong pdt xem xét trường hợp của em để em có thể đăng kí thực tập ngoài trường cùng các bạn. Em thật sự mong muốn được tham gia kì thực tập ngoài trường theo đúng ctdt để thuận tiện cho việc đăng kí các môn về sau. Em thật lòng mong muốn pdt xem xét cho trường hợp của em. . . Em cảm ơn thầy cô nhiều ạ!",
+            "Chào bạn,. . . . Số tín chỉ để đăng kí môn thực tập ngoài trường đã qui định sẵn, nên việc này không giúp cho bạn được.. . . . Thân",
+            "Em chào pđt ạ. Em là: [full_name], MSSV: [student_id].. . Hiện tại em tích lũy được 72 tín chỉ. Học kỳ 201 em đăng ký kỳ chính 18 chỉ và 3 chỉ dự thính. Theo như thông báo của pđt thì ngành Kỹ thuật Nhiệt mã ME3271 cần 92 chỉ tích lũy. Vì dịch covid nên kỳ thi cuối kỳ môn học dự thính không được diễn ra như thường, trong khi pđt chỉ công nhận số tín chỉ trong kỳ chính, dẫn đến em chỉ được 90 tín chỉ và không được đăng ký TTTN, em mong pđt xem xét lại trường hợp của em ạ. Em cảm ơn.. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Em xin chào bksi.. . Kì 203, em đăng kí môn thực tập hè ( chuyên ngành vật liệu) mã MA3315 tại sao không được ạ , nó cứ bảo là thiếu thực tập kỹ thuật MA2027 VKL mà môn này không phải là chuyên ngành bên polime em đang học, bên em học là VPO mà môn này em đã hoàn thành rồi ạ. . Và em có hỏi mấy bạn bên chuyên ngành kim loại thì bên đó cũng ko đăng kí được nó lại hiện thiếu thực tập kỹ thuật VPO. Hai bên bị tráo với nhau.. . Em nghĩ là hệ thống bị lỗi. . Mong pdt khắc phục nhanh chóng ạ. . Em cảm ơn"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Hiện nay các lớp Vật lí 1 mã môn PH1003 đã hết chỗ, mong phòng đào tạo có thể mở thêm lớp cho chúng em được không ạ? em cảm ơn. .",
+            "Chào bạn,. . . . Tất cả các môn học đã tăng sỉ số tối đa không tăng được nữa. Nếu muốn đăng kí bạn làm đơn xin mở lớp.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Em tên là [full_name],mssv:[student_id],. . Dạ em có thắc mắc như sau, do không có tố chất về mặt thể chất nên việc qua môn các môn thể chất tương đối khó do vậy tính tới hiện nay thì em chỉ mới đạt được 2 môn GDTC theo như dự định ban đầu thì hè học kì 203 em sẽ cố gắng hoàn thành môn GDTC thứ ba để có đủ số môn thể chất để đăng kí năm 3, tuy nhiên do vấn đề dịch bệnh gây cản trở trong việc học trực tiếp nên các lớp thể chất hiện nay không đăng kí được vào kì hè do đó em khá đắng đo về việc đăng kí môn, vậy nên em muốn hỏi là vấn đề này mình có thể  làm đơn xin phép cho học môn GDTC vào năm 3 học song song với các môn năm 3 khác không ạ?",
+            "Chào bạn,. . . . Vấn đề bạn nêu trên không được nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . cho em hỏi em đăng kí 2 mã môn học thực tập tốt nghiệp của 2 ngành trong xây dựng là ci3333 và ci3343 vì em đang học hai bằng để kịp tiến độ . mà em thấy phòng đào tạo xóa của em môn môn thực tập lí do khác ngành . vậy làm sao để em được đk cùng lúc 2 môn đó ạ em cảm ơn",
+            "Chào bạn,. . . . Những trường hợp đặc biệt bạn phải nộp đơn tại PDT nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ cho em hỏi là em bị thiếu 4 tín chỉ để đăng kí môn học thực tập ngoài trường học kì hè, nhưng em có đăng kí môn vi xử lý (4 tín chỉ) ở kỳ dự thính 202 để đủ điều kiện đăng ký thực tập hè mà do tình hình thi cuối kì bị hoãn, vậy nên cho em hỏi em có thể được tạm chấp nhận là đạt để đủ điều kiện đăng kí môn thực tập hè không ạ? Mong thầy/cô xem xét ạ.. . Em cảm ơn.. .",
+            "Chào bạn,. . . . Không bạn, PDT chỉ pass tạm học kỳ chính thôi bạn. Việc này PDT đã thông báo cho sinh viên rồi nha bạn.. . . . Thân. . . ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "b MSSV/MSGV: 1810948  /b \t. . . .   i Đăng ký môn học . Dạ thưa phòng đào tạo, . . Theo thông báo trong mail thì các môn học ở HỌC KÌ CHÍNH 202 sẽ tạm xét đạt để tính số tín chỉ tích lũy và điều kiện tiên quyết. Còn dự thính 202 thì có xét đạt không ạ (số tín chỉ tích lũy ngành của em đang là 71, học kì chính 202 em đăng kí 20 tín chỉ, học kì dự thính 9 tín chỉ). Nếu xét đạt giống học kì chính thì em đã đủ số tín chỉ để đăng kí thực tập tốt nghiệp, còn nếu không xét đạt thì em không đủ tín chỉ tối thiểu để đăng kí . Như vậy là khá thiệt thòi vì học kì dự thính 202 cũng bị hoãn thi lại vì dịch ạ. Và phòng đào tạo có cách giải quyết nào cho trường hợp của em và tạo điều kiện cho em được đi thực tập để không bị ảnh hưởng đến tiến độ học tập không ạ. . . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . . . Số tín chỉ để đăng kí môn thực tập ngoài trường đã qui định sẵn, PDT chỉ pass những môn trong học kỳ chính. Nên việc này không giúp cho bạn được.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Phòng đào tạo cho em hỏi về vấn đề thực tập ngoài trường nếu chưa làm đồ án.. . . . Em là sinh viên khoa điện k18 chuyên ngành điện tử - viễn thông. Kỳ này do thiếu 1 môn học trước nên em không thể đăng kí đồ án được. Và nay mở đăng ký thực tập kỳ hè cho EE3335 cho sinh viên điện tử Viễn thông thì em đăng kí không được do chưa đăng ký đồ án trước đó.. . . . Phòng đào tạo cho em hỏi là liệu em có thể xin 1 chỗ thực tập trong hè này, lấy giấy xác nhận. Rồi tới 2 kỳ sau khi đăng ký thực tập trên hệ thống được em lấy giấy xác nhận đó nộp sau được không ạ?. . . . Mong phòng đào tạo giải đáp thắc mắc giúp em. . . . . Em cảm ơn ạ",
+            "Chào bạn,. . . . Rất tiếc việc này tôi không thể giúp cho bạn được.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Học vụ . Dạ em chào PĐT, Em đã nộp đơn đăng kí thay thế điểm VP 2 môn em đã hoãn kì trước, nhưng hiện tại em vẫn không thấy 2 môn này được cập nhật lên lịch thi cuối kì của em ạ?. . Mong PĐT giải đáp giúp em ạ! Em cảm ơn!",
+            "Chào bạn,. . . . Khi nào có lịch thi cụ thể thì bạn liên hệ PDT để lấy quyết định để thi xoá điểm I nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Dạ cho em hỏi em mong muốn được đăng ký TTTN kì hè này, nhưng kì dự thính của kì 202 vẫn chưa thi nên chưa có kết quả để tích lũy đủ tín chỉ, vậy có cách nào để em đăng ký TTTN vào kì hè 203 này không ạ. .",
+            "Chào bạn,. . . . Số tín chỉ để đăng kí môn thực tập ngoài trường đã qui định sẵn, nên việc này không giúp cho bạn được.. . . . Thân. ."
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . . . Em có đăng ký môn vào đợt 1 cho học kì hè 203, đến đợt 2 thì môn học của em bị xoá đăng ký với lý do nợ học phí. Nhưng trước đó em đã gia hạn và có quyết định gia hạn ở phòng CTCT-SV.  Em mong PĐT xem lại và đăng ký cho em môn học SP1035 ạ, vì bây giờ tất cả các lớp đều có sỉ số tối đa nên em không thể chọn đăng ký. Em cảm ơn.",
+            "Chào bạn,. . . . PDT đã mở khoá rồi nha bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Thưa Thầy/Cô,. . Đợt đkmh đợt 1 em có đăng ký môn học Thực tập tốt nghiệp mã MH CO3313 và đã được chấp nhận và có kết quả ở đợt 2, tuy nhiên Khoa có thông báo thay đổi mã môn học thành môn Thực tập ngoài trường mã MH CO3315 đối với khóa 2018 trở về sau. Nhưng ở đợt 2 này hệ thống DKMH ko cho em đăng ký môn học này thay thế, em mong thầy cô có thể kiểm tra lại giúp em với ạ.. . Em cảm ơn.",
+            "Chào bạn,. . . . Bạn xem chương trình đào tạo bằng 2, đăng kí đúng mã số trong CTDT của bạn.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác: Em hiện tại có nhận được mail bảo hiểm y tế của trường, nhưng hiện tại em có bảo hiểm lao động của công ty ở bên ngoài thì nó có được tính là bảo hiểm y tế không và như vậy thì em có cần mua bảo hiểm ở trường ko. Trong trường hợp cần xác nhận thì em phải làm gì, vì bảo hiểm hiện tại đều chuyển qua dạng điện tử và không thể in ấn hay photo như trước đây, em cảm ơn ạ.",
+            "Chào bạn,. . . . Việc này bạn liên hệ phòng Công Tác Chính Trị Sinh Viên nha.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Yêu cầu khác .  . . Em kính chào quý thầy cô.. . Em tên là: [full_name] Lớp CN03 K17 . . Khoa Bảo Dưỡng Công Nghiệp. . Cho e hỏi là e đã trễ hạn đóng học phí của đợt 1 và đợt 2 bây giờ e có thể bổ sung được không và bằng cách nào ạ.. . Em xin chân thành cảm ơn.",
+            "Chào bạn,. . . . Hiện tại bạn đóng học phí vẫn được nha, bạn đóng học phí qua ngân hàng OCB hoặc trên BKPay.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Đăng ký môn học . Theo như thông tin từ Khoa Khoa học và Kỹ Thuật Máy tính, thì môn CO1009 tương đương với 2 môn CO1023 và CO1029. . . Em đã qua 2 môn này rồi, nhưng khi đăng ký mã CO3313 thì PĐT ghi thiếu môn học trước CO1009.. . PĐT đã huỷ đăng ký môn CO3313 và em đã đăng ký lại. Nhưng em muốn xác nhận lại để không bị huỷ vào đợt 3.. .",
+            "Chào bạn,. . . . Bạn đăng kí được là được rồi bạn, nếu đợt 2 có gì trục trặc bạn phản hồi lại.. . . . Thân"
+        ]
+    },
+    {
+        "intent": "",
+        "message": [
+            "Dạ em chào thầy/cô, hiện tại em thiếu 2 hoặc 3 chỉ để được đăng kí thực tập ngoài trường, em mong thầy cô giúp em có thể đăng kí được thực tập ngoài trường trong kì hè này ạ.. .   i Đăng ký môn học .",
+            "Chào bạn,. . . . Số tín chỉ để đăng kí môn thực tập ngoài trường đã qui định sẵn, nên việc này không giúp cho bạn được.. . . . Thân. ."
+        ]
+    }
+]
