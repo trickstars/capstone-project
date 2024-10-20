@@ -1,61 +1,96 @@
-from transformers import TrainingArguments
-from model.mrc_model import MRCQuestionAnswering
-from transformers import Trainer
-from utils import data_loader
-import numpy as np
-from datasets import load_metric
-import os
+from transformers import AutoTokenizer, AutoModelForTokenClassification
+from transformers import pipeline
+import json
 
-#os.environ["CUDA_VISIBLE_DEVICES"] = ""
+with open('output/fullentities.json', 'r', encoding='utf-8') as f:
+    result = json.load(f)
 
-if __name__ == "__main__":
-    # tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
-    model = MRCQuestionAnswering.from_pretrained("xlm-roberta-large",
-                                                 cache_dir='./model-bin/cache',
-                                                 #local_files_only=True
-                                                )
-    print(model)
-    print(model.config)
+checkpoint = "C:\\Users\\Dell\\.cache\\huggingface\\hub\\edu-ner"
 
-    train_dataset, valid_dataset = data_loader.get_dataloader(
-        train_path='./data-bin/processed/train.dataset',
-        valid_path='./data-bin/processed/valid.dataset'
-    )
+tokenizer = AutoTokenizer.from_pretrained(checkpoint)
+model = AutoModelForTokenClassification.from_pretrained(checkpoint)
 
-    training_args = TrainingArguments("model-bin/test",
-                                      do_train=True,
-                                      do_eval=True,
-                                      num_train_epochs=10,
-                                      learning_rate=1e-4,
-                                      warmup_ratio=0.05,
-                                      weight_decay=0.01,
-                                      per_device_train_batch_size=1,
-                                      per_device_eval_batch_size=1,
-                                      gradient_accumulation_steps=1,
-                                      logging_dir='./log',
-                                      logging_steps=5,
-                                      label_names=['start_positions',
-                                                   'end_positions',
-                                                   'span_answer_ids',
-                                                   'input_ids',
-                                                   'words_lengths'],
-                                      group_by_length=True,
-                                      save_strategy="epoch",
-                                      metric_for_best_model='f1',
-                                      load_best_model_at_end=True,
-                                      save_total_limit=2,
-                                      #eval_steps=1,
-                                      #evaluation_strategy="steps",
-                                      evaluation_strategy="epoch",
-                                      )
+id2label = model.config.id2label
+label2id = model.config.label2id
 
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        train_dataset=train_dataset,
-        eval_dataset=valid_dataset,
-        data_collator=data_loader.data_collator,
-        compute_metrics=data_loader.compute_metrics
-    )
+# list_entities = []
+batch_size = 8
 
-    trainer.train()
+for i in range(81,101):
+    with open(f'input/faq_split/faq_{i}.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    for ticket_id in range(len(data)):
+        entities = []
+        # tickets_batch = data[ticket_id : (ticket_id + 1) * batch_size]
+        # ner_result = ner(ticket)
+        inputs = tokenizer(data[ticket_id], max_length=512, truncation=True, return_tensors="pt")
+        outputs = model(**inputs)
+
+        words = tokenizer.convert_ids_to_tokens(inputs.input_ids[0])
+        # print(words)
+        predictions = outputs.logits.argmax(2)[0].tolist()
+
+        tmp_entity = ""
+        curr_ent = 9
+
+        for id, prediction in enumerate(predictions):
+            if prediction in range(4):
+                if tmp_entity != "":
+                    entities.append(tmp_entity)
+                tmp_entity = words[id]
+                curr_ent = prediction
+            elif prediction == curr_ent + 4:
+                if words[id].startswith("##"):
+                    tmp_entity += words[id][2:]
+                else:
+                    tmp_entity += " " + words[id]
+            else:
+                if tmp_entity != "" and tmp_entity not in entities:
+                    entities.append(tmp_entity)
+                tmp_entity = ""
+
+        result.append({'sentence': data[ticket_id], 'entities': entities})
+        # list_entities.append(entities)
+
+with open('output/fullentities.json', 'w', encoding='utf-8') as f:
+    json.dump(result, f, ensure_ascii=False, indent=4)
+
+# nlp = pipeline("ner", model=model, tokenizer=tokenizer)
+# example = "Liên quan vụ việc CSGT bị tố đánh dân, trúng một cháu nhỏ đang ngủ, đang lan truyền trên mạng xã hội, Đại tá Nguyễn Văn Tảo, Phó Giám đốc Công an tỉnh Tiền Giang vừa có cuộc họp cùng Chỉ huy Công an huyện Châu Thành và một số đơn vị nghiệp vụ cấp tỉnh để chỉ đạo làm rõ thông tin."
+
+# Initialize a list to store the results
+# def split_text(text, max_length, tokenizer):
+#     """Splits text into chunks within the max token length limit."""
+#     tokens = tokenizer.tokenize(text)
+#     token_chunks = [tokens[i:i + max_length] for i in range(0, len(tokens), max_length)]
+#     text_chunks = [tokenizer.convert_tokens_to_string(chunk) for chunk in token_chunks]
+#     return text_chunks
+
+# max_length = 512  # Set max length to the model's limit
+
+# result = []
+
+# for sentence in data:
+#     text_chunks = split_text(sentence, max_length - 2, tokenizer)  # Subtract 2 for special tokens [CLS] and [SEP]
+    
+#     entities = []
+#     for chunk in text_chunks:
+#         ner_results = nlp(chunk)
+        
+#         current_entity = []
+#         for ner in ner_results:
+#             if ner['entity'].startswith('B-'):
+#                 if current_entity:
+#                     entities.append(' '.join(current_entity))
+#                     current_entity = []
+#                 current_entity.append(ner['word'])
+#             elif ner['entity'].startswith('I-'):
+#                 current_entity.append(ner['word'])
+        
+#         if current_entity and current_entity not in entities:
+#             entities.append(' '.join(current_entity))
+    
+#     result.append({'sentence': sentence, 'entities': entities})
+
+

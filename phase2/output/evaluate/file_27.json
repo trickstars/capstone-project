@@ -1,0 +1,4416 @@
+[
+    {
+        "question_paragraph": "Em hiện đã thi online tự luận viết tay được 1 môn, nhưng trong quá trình scan bài bị thiếu sót bài làm. Cho em hỏi bây giờ em có thể xin hoãn thi được không ạ? Nếu được thì bằng cách điền vào link google form hay là bằng cách nào khác? Xin cảm ơn PĐT.",
+        "intent_from_mrc": "xin hoãn thi",
+        "intent_similarity": "hoãn thi",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "online",
+                "entity_start_position": 15,
+                "entity_end_position": 21,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tự luận viết tay",
+                "entity_start_position": 22,
+                "entity_end_position": 38,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "google form",
+                "entity_start_position": 197,
+                "entity_end_position": 208,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi quý thầy cô, Em là  thuộc lớp HC19BSH, MSSV: . Em muốn xin tăng sỉ số của lớp L01 môn Hóa lí hóa keo, mã môn học CH1005 ạ. Lí do: không còn lớp nào trống nữa và em còn trống lịch vào thời gian học của lớp L01 ạ. Em cảm ơn ạ.",
+        "intent_from_mrc": "tăng sỉ số của lớp L01",
+        "intent_similarity": "chuyển lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lớp HC19BSH",
+                "entity_start_position": 35,
+                "entity_end_position": 46,
+                "entity_type": "lớp",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp L01",
+                "entity_start_position": 83,
+                "entity_end_position": 90,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Hóa lí hóa keo",
+                "entity_start_position": 91,
+                "entity_end_position": 109,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mã môn học CH1005",
+                "entity_start_position": 111,
+                "entity_end_position": 128,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp L01",
+                "entity_start_position": 210,
+                "entity_end_position": 217,
+                "entity_type": "nhóm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "lớp",
+            "nhóm",
+            "môn học",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Hôm nay là hạn thanh toán học phí nhưng em thanh toán trễ dẫn đến việc thanh toán không được vậy cho em hỏi là có cách nào để thanh toán học phí để không bị hủy môn học không ạ ? Em cám ơn ! ",
+        "intent_from_mrc": "thanh toán học phí để không bị hủy môn học",
+        "intent_similarity": "thanh toán học phí",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Hôm trước em có nhận mail hủy thời khóa biếu do đóng học phí trễ ạ.Em đã có lên bksi hỏi để xin phép được cập nhật lại thời khóa biểu để học và được trả lời như trong ảnh ạ. Hiện tại em đã đóng học phí, em xin PDT có thể cập nhật lại bk elearning cho em trước hôm thứ 2 để em vào được link học online và điểm danh trên bk elearning được không ạ. Mong PDT xem xét và hỗ trợ giúp em với ạ. Em cảm ơn ạ .",
+        "intent_from_mrc": "cập nhật lại bk elearning cho em trước hôm thứ 2",
+        "intent_similarity": "cập nhật điểm",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "bk elearning",
+                "entity_start_position": 234,
+                "entity_end_position": 246,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": " thứ 2",
+                "entity_start_position": 234,
+                "entity_end_position": 269,
+                "entity_type": "X",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bk elearning",
+                "entity_start_position": 319,
+                "entity_end_position": 331,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "X"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi: Quý thầy cô Phòng Đào tạo Trường Đại Học Bách Khoa TPHCM  Em tên:  MSSV:  Lớp: VP14VL Em là sinh viên Việt Pháp khóa 2014. Em muốn xin đăng ký lớp vào học kỳ chính 191   B Môn học: Giải tích 1 MSMH: 006721 Nhóm: P02    Lý do: Môn học này là môn của chương trình Việt Pháp. Em đăng ký học trả nợ, nhưng bị hủy do là \"Môn học cùng khóa 2019\" . Môn học cũ của khóa 2014 là Toán 1 (MSMH: 006711), từ khóa 2018 đổi thành 2 môn tương đương là Giải tích 1 (MSMH: 006721) và Đại số (MSMH: 006727). Tuy nhiên, theo em được biết, hiện tại các bạn Việt Pháp khóa 2019 đang học môn Giải tích 1 với mã môn học của chương trình đại trà (MSMH: MT1003). Em không biết phải đăng ký theo mã môn học nào . Em mong thầy cô xem xét lại giúp em, em phải học theo mã môn học nào. Thầy cô có thể hỗ trợ em đăng ký môn học này để em trả nợ trong học kỳ này được không ạ. Em xin chân thành cảm ơn.",
+        "intent_from_mrc": "đăng ký lớp vào học kỳ chính",
+        "intent_similarity": "cập nhật kết quả đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Phòng Đào tạo Trường Đại Học Bách Khoa TPHCM",
+                "entity_start_position": 22,
+                "entity_end_position": 66,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "VP14VL",
+                "entity_start_position": 89,
+                "entity_end_position": 95,
+                "entity_type": "lớp",
+                "type_check": ""
+            },
+            {
+                "entity_string": "sinh viên Việt Pháp",
+                "entity_start_position": 102,
+                "entity_end_position": 121,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2014",
+                "entity_start_position": 122,
+                "entity_end_position": 131,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "học kỳ chính 191 B",
+                "entity_start_position": 161,
+                "entity_end_position": 181,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Giải tích 1",
+                "entity_start_position": 191,
+                "entity_end_position": 202,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MSMH : 006721",
+                "entity_start_position": 203,
+                "entity_end_position": 215,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm : P02",
+                "entity_start_position": 216,
+                "entity_end_position": 225,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chương trình Việt Pháp",
+                "entity_start_position": 259,
+                "entity_end_position": 281,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2019",
+                "entity_start_position": 339,
+                "entity_end_position": 348,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2014",
+                "entity_start_position": 367,
+                "entity_end_position": 376,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Toán 1",
+                "entity_start_position": 380,
+                "entity_end_position": 386,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MSMH : 006711",
+                "entity_start_position": 388,
+                "entity_end_position": 400,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2018",
+                "entity_start_position": 406,
+                "entity_end_position": 415,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Giải tích 1",
+                "entity_start_position": 447,
+                "entity_end_position": 458,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MSMH : 006721",
+                "entity_start_position": 460,
+                "entity_end_position": 472,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Đại số",
+                "entity_start_position": 477,
+                "entity_end_position": 483,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MSMH : 006727",
+                "entity_start_position": 485,
+                "entity_end_position": 497,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Việt Pháp",
+                "entity_start_position": 547,
+                "entity_end_position": 556,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2019",
+                "entity_start_position": 557,
+                "entity_end_position": 566,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Giải tích 1",
+                "entity_start_position": 576,
+                "entity_end_position": 591,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chương trình đại trà",
+                "entity_start_position": 611,
+                "entity_end_position": 631,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MSMH : MT1003",
+                "entity_start_position": 633,
+                "entity_end_position": 645,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "lớp",
+            "chương trình đào tạo",
+            "khóa",
+            "học kì",
+            "môn học",
+            "nhóm",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em đã có đăng ký thẻ bảo hiểm y tế ở trường và đã đóng tiền bảo hiểm đầy đủ, tuy nhiên, do lúc kê khai em lại sơ suất điền sai mã số thẻ bảo hiểm y tế, đến giờ em mới phát hiện được sai sót, đến khi tra cứu trên mạng thì thẻ cũ đã hết hạn, mong phòng đào tạo giúp em đưa ra biện pháp xử lý ạ",
+        "intent_from_mrc": "đưa ra biện pháp xử ly",
+        "intent_similarity": "chuyển điểm",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "thẻ bảo hiểm y tê",
+                "entity_start_position": 20,
+                "entity_end_position": 40,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "̉",
+                "entity_start_position": 20,
+                "entity_end_position": 82,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "̉o hiểm y tê",
+                "entity_start_position": 20,
+                "entity_end_position": 176,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Cho em hỏi về vấn đề em bị hủy đăng ký môn học   B \"Mạch Điện Tử Thông Tin\"    với lý do là chưa học môn học Mạch điện tử trong khi em đã học rồi ở kì 202 nhưng bị hoãn thi và hiện tại chưa có điểm Bạn em cũng bị tình trạng cũng y chang em nhưng không bị hủy môn Mạch Điện Tử Thông Tin trong khi em thì bị hủy đăng ký trong kết quả đợt 2 ạ",
+        "intent_from_mrc": "chưa học môn học Mạch điện tử",
+        "intent_similarity": "huỷ đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn học B [UNK] Mạch Điện Tử Thông Tin",
+                "entity_start_position": 39,
+                "entity_end_position": 74,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn học Mạch điện tử",
+                "entity_start_position": 101,
+                "entity_end_position": 121,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "kì 202",
+                "entity_start_position": 148,
+                "entity_end_position": 154,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Mạch Điện Tử Thông Tin",
+                "entity_start_position": 259,
+                "entity_end_position": 285,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 2",
+                "entity_start_position": 332,
+                "entity_end_position": 337,
+                "entity_type": "đợt",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khoa/ngành",
+            "học kì",
+            "đợt"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào thầy/cô Em là  (MSSV: ). Em muốn xin đăng ký rút môn học vì em đã có kết quả của môn học em đăng ký học trong HK202 vừa rồi và đã đạt đủ điểm để hoàn thành môn học nên em muốn xin đăng ký rút môn học ạ. Em có lên trang web của nhà trường download \"Phiếu đăng ký rút môn học\", nhưng em thấy trong phiếu rút môn học có nội dung là \"Đăng ký rút môn học và nhận điểm R\". Thầy/cô cho em hỏi điểm R có ảnh hưởng tới kết quả môn học của em không ạ? Nếu không bị ảnh hưởng em xin nộp \"phiếu đăng ký rút môn học\" em đính kèm bên dưới ạ.",
+        "intent_from_mrc": "xin đăng ký rút môn học",
+        "intent_similarity": "rút môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "HK202",
+                "entity_start_position": 118,
+                "entity_end_position": 123,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Phiếu đăng ký rút môn học",
+                "entity_start_position": 256,
+                "entity_end_position": 281,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            },
+            {
+                "entity_string": " R",
+                "entity_start_position": 256,
+                "entity_end_position": 372,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "tài liệu"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi Pdt đh bách khoa TP.Hồ Chí Minh. Em là  khoá K15 có mssv là  lớp XD15XDCT03. Em đã hoàn thành xong toàn bộ chương trình học chính quy, đạt các chứng chỉ anh văn nghe-đọc và nói viết và đạt đúng số ngày công tác xã hội. Nhưng hiện tại em không thể đăng kí tốt nghiệp trên mybk và cũng không có tên trong danh sách đăng kí tốt nghiệp tạm thời. Kính mong phòng đào tạo xem xét đưa em vào danh sách dự kiến tốt nghiệp để Tốt nghiệp vào tháng tư tới ạ. Em xin cảm ơn.",
+        "intent_from_mrc": "Tốt nghiệp vào tháng tư tới",
+        "intent_similarity": "hỏi lịch học vụ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Pdt đ",
+                "entity_start_position": 9,
+                "entity_end_position": 14,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": " bách khoa TP.Hồ Chí Minh",
+                "entity_start_position": 9,
+                "entity_end_position": 40,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoá K15",
+                "entity_start_position": 49,
+                "entity_end_position": 57,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp XD15XDCT03",
+                "entity_start_position": 70,
+                "entity_end_position": 84,
+                "entity_type": "lớp",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mybk",
+                "entity_start_position": 280,
+                "entity_end_position": 284,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tháng tư",
+                "entity_start_position": 441,
+                "entity_end_position": 449,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "khóa",
+            "lớp",
+            "dịch vụ, hệ thống",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi quý thầy, cô, Em là  (), em muốn hỏi làm thế nào để kiểm tra mình đã đủ điều kiện để tốt nghiệp chưa ạ? Hiện tại em đã hoàn tất chương trình học và tiêu chuẩn tiếng Anh, nhưng em không rõ mình có hoàn toàn đủ điều kiện để xét tốt nghiệp chưa, vì em đã hết thời gian học tối đa nên em rất muốn kiểm tra chắc chắn, xin thầy, cô hướng dẫn ạ. Em xin cảm ơn.   i Tốt nghiệp .",
+        "intent_from_mrc": "làm thế nào để kiểm tra mình đã đủ điều kiện để tốt nghiệp chưa",
+        "intent_similarity": "hỏi thời gian xét tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "tiêu chuẩn tiếng Anh",
+                "entity_start_position": 157,
+                "entity_end_position": 177,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "CODE : Cho em hỏi cách viết đơn chuyển lớp. Em đăng kí lớp hóa vô cơ L03_L10 mà lớp đó là lớp KSTN, nên em muốn đổi sang lớp L04_L14 là lớp thường thì viết như thế nào ạ? Tại lúc đầu em đăng kí em không biết lớp đó là lớp KSTN, lớp đó là sáng thứ 6 với chiều chủ nhật. Em vẫn có thể học được nhưng bây giờ lớp chuyển tiết thành chiều thứ 7 với chiều chủ nhật, thứ 7 em không học được vì bận học thêm anh văn ở ngoài.",
+        "intent_from_mrc": "đổi sang lớp L04_L14 là lớp thường",
+        "intent_similarity": "hỏi đợt đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lớp hóa vô cơ",
+                "entity_start_position": 55,
+                "entity_end_position": 68,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "L03 [UNK] L10",
+                "entity_start_position": 69,
+                "entity_end_position": 76,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp KSTN",
+                "entity_start_position": 90,
+                "entity_end_position": 98,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp L04 [UNK] L14",
+                "entity_start_position": 121,
+                "entity_end_position": 132,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp thường",
+                "entity_start_position": 136,
+                "entity_end_position": 146,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp KSTN",
+                "entity_start_position": 218,
+                "entity_end_position": 226,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "sáng thứ 6",
+                "entity_start_position": 238,
+                "entity_end_position": 248,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chiều chủ nhật",
+                "entity_start_position": 253,
+                "entity_end_position": 267,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chiều thứ 7",
+                "entity_start_position": 328,
+                "entity_end_position": 339,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chiều chủ nhật",
+                "entity_start_position": 344,
+                "entity_end_position": 358,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "thứ 7",
+                "entity_start_position": 360,
+                "entity_end_position": 365,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "nhóm",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi Phòng Đào Tạo trường Đại Học Bách Khoa TPHCM. Em tên là , mã số sinh viên là . Em viết email này liên quan đến vấn đề kỹ thuật khi lưu video trong bài thi môn Vật Lý (17h ngày 21/11/2021). Cụ thể, trước khi thi em có bật recording thông qua phần mềm theo gợi ý của Trường. Tuy nhiên khi hoàn thành bài làm thì em bấm nút lưu thì lại xảy ra lỗi. Em nghĩ nguyên nhân là do lúc em làm bài, em tập trung làm trên nháp nên máy tính rơi vào trạng thái nghỉ. Điều này khiến phần mềm của em không lưu được video . Em không lường trước được sự cố này và thông qua tìm hiểu, nhiều người cũng gặp sự cố như em (Thầy Cô có thể tham khảo trang sau: https://answers.microsoft.com/en-us/windows/forum/all/xbox-game-bar-recording-didnt-save/d7eadbb8-8fd2-4927-82bd-79c0989fe3a5) . Em thực sự đã ôn bài rất kỹ và cam kết là em làm bài thi thực sự nghiêm túc. Nhưng do lỗi kỹ thuật nên video quay màn hình của em đã không được lưu. Em rất buồn vì điều này ạ. Phòng Đào tạo có thể hướng dẫn em nên làm gì trong trường hợp này được không ạ?",
+        "intent_from_mrc": "làm bài thi thực sự nghiêm túc.",
+        "intent_similarity": "hỏi phòng thi",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Phòng Đào Tạo trường Đại Học Bách Khoa TPHCM",
+                "entity_start_position": 9,
+                "entity_end_position": 53,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Vật Lý",
+                "entity_start_position": 164,
+                "entity_end_position": 174,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "17h ngày 21/11/2021",
+                "entity_start_position": 176,
+                "entity_end_position": 195,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "https :",
+                "entity_start_position": 645,
+                "entity_end_position": 651,
+                "entity_type": "đường dẫn",
+                "type_check": ""
+            },
+            {
+                "entity_string": "//answers.microsoft.com/en-us/windows/forum",
+                "entity_start_position": 651,
+                "entity_end_position": 694,
+                "entity_type": "đường dẫn",
+                "type_check": ""
+            },
+            {
+                "entity_string": " xbox-game-bar-recording-didnt-save/d7eadbb8-8fd2-4927-82bd-79c0989fe3a5",
+                "entity_start_position": 651,
+                "entity_end_position": 770,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "thời gian",
+            "đường dẫn"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ em chào pđt ạ, Em đã được thẩm tra Toeic nghe đọc rồi ạ. Pđt giúp em chuyển điểm sớm để có thể đăng ký xét tốt nghiệp tháng 4/2022 ạ. Em xin cảm ơn pđt rất nhiều ạ.",
+        "intent_from_mrc": "đăng ký xét tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "thẩm tra Toeic",
+                "entity_start_position": 29,
+                "entity_end_position": 43,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": " tốt nghiệp",
+                "entity_start_position": 29,
+                "entity_end_position": 120,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tháng 4/2022",
+                "entity_start_position": 121,
+                "entity_end_position": 133,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tài liệu",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Gửi thầy/cô, Em tên , sinh viên k16 khoa: khoa học và kĩ thuật máy tính, nay em viết thư này với mong muốn được tư vấn về thủ tục chuyển từ hệ chính quy chương trình chất lượng cao qua hệ vừa làm vừa học thì cần làm gì ạ, và các môn học em đăng kí ở kì 211 nếu chuyển hệ thì có được hủy không tính học phí không ạ, em cám ơn. Trân trọng, ",
+        "intent_from_mrc": "vừa làm vừa học",
+        "intent_similarity": "hỏi lịch học vụ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên k16",
+                "entity_start_position": 22,
+                "entity_end_position": 35,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoa học và kĩ thuật máy tính",
+                "entity_start_position": 42,
+                "entity_end_position": 71,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ chính quy",
+                "entity_start_position": 140,
+                "entity_end_position": 152,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chương trình chất lượng cao",
+                "entity_start_position": 153,
+                "entity_end_position": 180,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ vừa làm vừa học",
+                "entity_start_position": 185,
+                "entity_end_position": 203,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "kì 211",
+                "entity_start_position": 250,
+                "entity_end_position": 256,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa",
+            "môn học",
+            "chương trình đào tạo",
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "PE1015_L17",
+        "intent_from_mrc": "PE1015_L17",
+        "intent_similarity": "hỏi môn tương đương",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "PE1015 [UNK] L17",
+                "entity_start_position": 0,
+                "entity_end_position": 10,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em tên   Em xin hỏi vấn đề về Môn tự chọn trong Chương trình đào tạo (CTĐT) Em đã đăng kí và học 2 môn Lập trình mạng (CO4013) và An ninh mạng (CO4017). Tuy nhiên 2 môn này không có trong CTĐT thì có được tính vào phần \"môn tự chọn\" của CTĐT hay không . Rất mong thầy/ cô giải đáp giúp em.",
+        "intent_from_mrc": "cô giải đáp giúp em.",
+        "intent_similarity": "được hỗ trợ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn Lập trình mạng",
+                "entity_start_position": 99,
+                "entity_end_position": 117,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CO4013",
+                "entity_start_position": 119,
+                "entity_end_position": 125,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "An ninh mạng",
+                "entity_start_position": 130,
+                "entity_end_position": 142,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CO4017",
+                "entity_start_position": 144,
+                "entity_end_position": 150,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Rút môn học học kì 211 .",
+        "intent_from_mrc": "Rút môn học học kì 211",
+        "intent_similarity": "rút môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "học kì 211",
+                "entity_start_position": 12,
+                "entity_end_position": 22,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Tốt nghiệp       Thưa cô!  Em là , MSSV:   EM đã có tên trong danh sách tốt nghiệp dự kiến Hôm qua em có lên phòng đao tạo hỏi thì cô bảo về đợi em thấy hơi lâu nên lo lắng ạHôm nay em làm đơn này xin phép được thu nhận lại để em đăng ký tốt nghiệp ạ Em xin chân thành cảm ơn   Sinh viên  ",
+        "intent_from_mrc": "đăng ký tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Em tên : Mssv : Em vừa có kết quả thi anh văn 2 kỹ năng nói viết tháng 12.Em mong pdt cập nhật em đủ điều kiện xét tốt nghiệp để đăng kí tốt nghiệp trước hạn ngày 24/12 không ạ. Em cảm ơn.",
+        "intent_from_mrc": "cập nhật em đủ điều kiện xét tốt nghiệp",
+        "intent_similarity": "hỏi thời gian xét tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "anh văn 2 kỹ năng nói viết",
+                "entity_start_position": 38,
+                "entity_end_position": 64,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tháng 12",
+                "entity_start_position": 65,
+                "entity_end_position": 73,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 24/12",
+                "entity_start_position": 158,
+                "entity_end_position": 168,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "em có đăng ký và trúng tuyển văn bằng 2 của ĐHBK, nhưng hiện tại bảng điểm và bằng ĐH của em tất cả đều nằm ở SG, em thì ở quê. Trường cũng yêu cầu ảnh chụp hình thẻ. Hiện tại tình hình dịch bệnh căng thẳng, em không thể đi SG và không có tiệm chụp hình nào mở cửa để mà chụp hình. Quy trình hướng dẫn thì có 1 vài điểm còn mơ hồ chẳng hạn như trong hình, tài liệu thì có mở ngoặc ở phần 'Loại giấy tờ', còn tài liệu thì mở ngoặc ở phần 'ghi chú'=  mình có thể làm 1 bảng để đánh dấu cái nào là cần cho hình thức tuyển sinh nào để sv dễ nắm rõ yêu cầu hơn. Hiện tại các hoạt động shipping cũng bị ảnh hưởng lớn bởi dịc, tài liệu hồ sơ thì bị hạn chế, thời hạn nộp các giấy tờ hồ sơ thì rất sát (6/8-10/8) Em mong an/chị/thầy/cô giải đáp hoặc có liên hệ với các phòng ban làm rõ yêu cầu này giúp em. Em cảm ơn ạ P/s: Em có email cho thầy  nhưng ko thấy hồi âm, và hôm nay là ngày 5/8 rồi (còn 5 ngày nữa là tới hạn chót nộp hồ sơ) SDT của phòng ĐT VB2 gọi vào thì toàn tít tít không có ai hỗ trợ giải đáp.",
+        "intent_from_mrc": "có liên hệ với các phòng ban làm rõ yêu cầu này giúp em.",
+        "intent_similarity": "được hỗ trợ thực tập",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "văn bằng 2",
+                "entity_start_position": 29,
+                "entity_end_position": 39,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ĐHBK",
+                "entity_start_position": 44,
+                "entity_end_position": 48,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "SG",
+                "entity_start_position": 110,
+                "entity_end_position": 112,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "SG",
+                "entity_start_position": 224,
+                "entity_end_position": 226,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "shipping",
+                "entity_start_position": 580,
+                "entity_end_position": 588,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "6/8-10/8",
+                "entity_start_position": 695,
+                "entity_end_position": 703,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 5/8",
+                "entity_start_position": 874,
+                "entity_end_position": 882,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "phòng ĐT VB2",
+                "entity_start_position": 938,
+                "entity_end_position": 950,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "địa điểm",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ kính gửi PĐT trường ĐHBK - ĐHQG TP Hồ Chí Minh. Em tên là  - MSSV:. Em đã có điểm môn còn thiếu cuối cùng là môn Nhập Môn về  (MSMH: ME1001) nhưng em vẫn chưa đăng ký tốt nghiệp được ạ. Mong PĐT xem xét giải quyết giúp em ạ.",
+        "intent_from_mrc": "đăng ký tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "PĐT trường ĐHBK-ĐHQG TP Hồ Chí Minh",
+                "entity_start_position": 12,
+                "entity_end_position": 49,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Nhập Môn về",
+                "entity_start_position": 112,
+                "entity_end_position": 127,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MSMH : ME1001",
+                "entity_start_position": 130,
+                "entity_end_position": 142,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ cho em hỏi là em rớt môn Hóa phân tích mã cũ là CH2005 nhưng môn này mã cũ đã không mở nữa nên em đăng ký mã mới của môn này là CH2113 thì em có được chuyển điểm cho mã cũ không ạ? Và em nghe nói là mã mới không tính điểm trung bình nữa mà chỉ là ạt hoặc Không đạt thì mình có chuyển điểm về mã cũ được không ạ?",
+        "intent_from_mrc": "đăng ký mã mới",
+        "intent_similarity": "đăng kí gia hạn",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn Hóa phân tích",
+                "entity_start_position": 24,
+                "entity_end_position": 41,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH2005",
+                "entity_start_position": 51,
+                "entity_end_position": 57,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH2113",
+                "entity_start_position": 131,
+                "entity_end_position": 137,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": " trung bình",
+                "entity_start_position": 131,
+                "entity_end_position": 235,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em xin chào Thầy/ Cô! Em là sinh viên K19. Bây giờ em chỉ mới đăng kí được 8 tín chỉ theo chương trình đào tạo (có 1 môn em đăng kí được là mã XX2XXX nhưng em nghe nói là môn đó sau đợt này sẽ bị xoá do em không tích luỹ đủ 28 tín chỉ). Theo điều 9.4 trong quy chế đào tạo thì em phải đăng kí ít nhất 10 tín chỉ, vậy thì với 8 tín chỉ đó em có được học không ạ? Vì trong phần học phí em thấy có ghi là nhà trường đang xem xét việc giảm 50% học phí cho sinh viên đăng kí bằng hoặc ít hơn 8 tín chỉ . Em xin cảm ơn!",
+        "intent_from_mrc": "đăng kí ít nhất 10 tín chỉ,",
+        "intent_similarity": "gia hạn nộp chứng chỉ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên K19",
+                "entity_start_position": 28,
+                "entity_end_position": 41,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mã XX2XXX",
+                "entity_start_position": 140,
+                "entity_end_position": 149,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "điều 9.4",
+                "entity_start_position": 242,
+                "entity_end_position": 250,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "loại bệnh"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi, Em là sinh vien khóa 2018 thuộc ngành \"kĩ thuật xây dựng\", em xin phép được hõi vài điều ạ. Trong thời gian đăng ký môn học, em đã đăng kí nhầm môn \"vẽ kĩ thuật xây dựng\" thành môn \"vẽ kĩ thuật\". Em muốn chuyển đổi mon học thì phải làm sao ạ? Mong được thầy cô và các bạn giúp đỡ Em cảm ơn",
+        "intent_from_mrc": "chuyển đổi mon học",
+        "intent_similarity": "chuyển lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh vien",
+                "entity_start_position": 16,
+                "entity_end_position": 25,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2018",
+                "entity_start_position": 26,
+                "entity_end_position": 35,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngành [UNK] kĩ thuật xây dựng [UNK]",
+                "entity_start_position": 42,
+                "entity_end_position": 67,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn [UNK] vẽ kĩ thuật xây dựng [UNK]",
+                "entity_start_position": 154,
+                "entity_end_position": 180,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn [UNK] vẽ kĩ thuật [UNK]",
+                "entity_start_position": 187,
+                "entity_end_position": 204,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa"
+        ]
+    },
+    {
+        "question_paragraph": "Em tên:  MSSV:  Cho em hỏi HK192 ĐTBMR em 9.12 , ĐRL:100 , Tín chỉ tích luỹ:71 nhưng vẫn không nhận được học bổng. Nhưng số lượng học bổng Cơ điện tử là 10. Mong phòng Đào Tạo xem xét . Em xin chân thành cảm ơn.",
+        "intent_from_mrc": "Mong phòng Đào Tạo xem xét",
+        "intent_similarity": "hỏi chương trình đào tạo",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "HK192 ĐTBMR",
+                "entity_start_position": 27,
+                "entity_end_position": 38,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "9.12",
+                "entity_start_position": 42,
+                "entity_end_position": 46,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Tín chỉ tích luỹ",
+                "entity_start_position": 59,
+                "entity_end_position": 75,
+                "entity_type": "loại điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "học bổng Cơ điện tử",
+                "entity_start_position": 130,
+                "entity_end_position": 149,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "loại điểm"
+        ]
+    },
+    {
+        "question_paragraph": "Chào ad, cho em hỏi hôm nay em bấm vào kết quả đăng kí môn học sao không có môn, nó bảo là chuẩn sv năm 2, em đã qua 350 toeic và đã nộp bằng như hình ở dưới . ad phản hồi gấp dùm em ạ!   i     .",
+        "intent_from_mrc": "phản hồi",
+        "intent_similarity": "chuyển hệ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "350 toeic",
+                "entity_start_position": 117,
+                "entity_end_position": 126,
+                "entity_type": "số tiền",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "số tiền"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi: Phòng Đào tạo TRƯỜNG ĐẠI HỌC BÁCH KHOA TPHCM Em tên , Vì một số lý do riêng nên em chưa hoàn thành được chứng chỉ anh văn để ra trường theo đúng thời gian đào tạo. Nay em làm đơn này, mong muốn nhà trường có thể gia hạn thêm 1 học kỳ để em có thể hoàn thành được chứng chỉ anh văn. Em xin cám ơn.",
+        "intent_from_mrc": "gia hạn thêm 1 học kỳ",
+        "intent_similarity": "gia hạn đóng học phí",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Phòng Đào tạo [UNK] [UNK] [UNK] BÁCH KHOA TPHCM",
+                "entity_start_position": 10,
+                "entity_end_position": 54,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chứng chỉ",
+                "entity_start_position": 114,
+                "entity_end_position": 123,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            },
+            {
+                "entity_string": " văn",
+                "entity_start_position": 114,
+                "entity_end_position": 131,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "tài liệu",
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em muốn xin đăng ký thêm 2 môn học: - Các phương pháp phân tích hiện đại(CH3005), nhóm A01, thứ 5, tiết 10-12 - Mô hình hóa, mô phỏng và tối ưu hóa trong công nghệ hóa học(CH3133), nhóm A05, thứ 5, tiết 345",
+        "intent_from_mrc": "đăng ký thêm 2 môn học:",
+        "intent_similarity": "cập nhật kết quả đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Các phương pháp phân tích hiện đại",
+                "entity_start_position": 38,
+                "entity_end_position": 72,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH3005",
+                "entity_start_position": 73,
+                "entity_end_position": 79,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "nhóm A01",
+                "entity_start_position": 82,
+                "entity_end_position": 90,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "thứ 5",
+                "entity_start_position": 92,
+                "entity_end_position": 97,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tiết 10-12",
+                "entity_start_position": 99,
+                "entity_end_position": 109,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": " hình hóa",
+                "entity_start_position": 99,
+                "entity_end_position": 123,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH3133",
+                "entity_start_position": 172,
+                "entity_end_position": 178,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "nhóm A05 ,",
+                "entity_start_position": 181,
+                "entity_end_position": 190,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "thứ 5",
+                "entity_start_position": 191,
+                "entity_end_position": 196,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tiết 345",
+                "entity_start_position": 198,
+                "entity_end_position": 206,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "mã môn học",
+            "nhóm",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ cho em hỏi trong môn này có những lớp mã L nhưng thể hiện lớp ở cs1, cs2 khá lẫn lộn. Mong pđt sẽ xem xét khắc phục lỗi này để chúng em chọn được lớp mong muốn ạ. Em xin cảm ơn.",
+        "intent_from_mrc": "chọn được lớp mong muốn",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "mã L",
+                "entity_start_position": 41,
+                "entity_end_position": 45,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs1",
+                "entity_start_position": 67,
+                "entity_end_position": 70,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs2",
+                "entity_start_position": 72,
+                "entity_end_position": 75,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Em là sinh viên K2014 hệ chính quy đang được gia hạn thêm 1 học kỳ để bổ sung anh văn nói viết. Cho em hỏi kỳ hạn cuối cùng để em có thể bổ sung anh văn nói viết là khi nào, cụ thể là ngày mấy tháng mấy để kịp được xét tốt nghiệp ạ? Hiện tại do dịch bệnh nên bkenglish tạm ngưng thi cũng như đăng ký thi mới nên em không thể thi được. Em cảm ơn.",
+        "intent_from_mrc": "bổ sung anh văn nói viết.",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên K2014",
+                "entity_start_position": 6,
+                "entity_end_position": 21,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ chính quy",
+                "entity_start_position": 22,
+                "entity_end_position": 34,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bkenglish",
+                "entity_start_position": 259,
+                "entity_end_position": 268,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa",
+            "chương trình đào tạo"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi PĐT Em tên:  HẢI       MSSV:  Vì lí do em đang ở nước ngoài không thể về được do dịch. Nên em muốn xin PĐT cho phép em được tạm dừng tiếp một HK nữa (HK212). Các lí do em đã trình bày rất rõ trong đơn đính kèm. Mong PĐT xem xét và chấp thuận giúp em. (Đính kèm đơn bản PDF)",
+        "intent_from_mrc": "tạm dừng tiếp một HK nữa",
+        "intent_similarity": "tạm dừng học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "HK212",
+                "entity_start_position": 159,
+                "entity_end_position": 164,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi phòng đào tạo! Em tên Nguyễn Thị Ngọc Diễm Mssv:. Phòng đào tạo cho e hỏi là em đã hoàn thành chương trình đầu ra của trường nhưng sao e vẫn chưa đăng ký tốt nghiệp được ạ . Em xin cám ơn!",
+        "intent_from_mrc": "đăng ký tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Nguyễn Thị Ngọc Diễm",
+                "entity_start_position": 31,
+                "entity_end_position": 51,
+                "entity_type": "tên người",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tên người"
+        ]
+    },
+    {
+        "question_paragraph": "Em muốn đăng kí huỷ môn kĩ thuật điện do đăng kí nhầm mong thầy cô giải quyết ạ.",
+        "intent_from_mrc": "đăng kí huỷ môn kĩ thuật điện",
+        "intent_similarity": "huỷ đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn kĩ thuật điện",
+                "entity_start_position": 20,
+                "entity_end_position": 37,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Dear Thầy(cô) Em tên là  MSSV:  Em đã hoàn thành chương trình học và các chứng chỉ AV, hiện tại em muốn đăng ký tốt nghiệp nhưng không được vì tình trạng sinh viên \" tạm dừng vì không đăng kí môn học \". Bây giờ em phải làm sao ạ",
+        "intent_from_mrc": "đăng ký tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "chứng chỉ AV",
+                "entity_start_position": 73,
+                "entity_end_position": 85,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tài liệu"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ em chào anh/ chị phòng đào tạo Em là   Học kì 192 em đã tham dự kì thi kiểm tra anh văn định kì của trường và đạt 485 điểm (đủ điều kiện đăng kí môn học năm 3) Vậy cho em hỏi, để đăng kí môn học cho học kì 202 thì em cần có phải thi lại không ạ. Em cảm ơn. Chúc quý anh/chị nhiều sức khỏe. Thân chào.",
+        "intent_from_mrc": "đăng kí môn học cho học kì 202",
+        "intent_similarity": "đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Học kì 192",
+                "entity_start_position": 42,
+                "entity_end_position": 52,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": " thi kiểm tra anh văn định kì",
+                "entity_start_position": 42,
+                "entity_end_position": 98,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "năm 3",
+                "entity_start_position": 156,
+                "entity_end_position": 161,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "học kì 202",
+                "entity_start_position": 202,
+                "entity_end_position": 212,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "lúc trước em có hỏi thì được trả lời là đã mở đăng ký nhưng khi em tra mã học phần thì lại không thấy. Và nếu có thì mình sẽ sử dụng mã học phần môn như bơi, bóng đá, bóng rổ,...Hay mình sử dụng mã là gdtc1 và gdtc2 ạ",
+        "intent_from_mrc": "bơi, bóng đá, bóng rổ,...Hay",
+        "intent_similarity": "hỏi môn tương đương",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "bơi",
+                "entity_start_position": 153,
+                "entity_end_position": 156,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bóng đá",
+                "entity_start_position": 158,
+                "entity_end_position": 165,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bóng rổ",
+                "entity_start_position": 167,
+                "entity_end_position": 174,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "gdtc1",
+                "entity_start_position": 201,
+                "entity_end_position": 206,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "gdtc2",
+                "entity_start_position": 210,
+                "entity_end_position": 215,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Thưa thầy/cô, em hiện là sinh viên khóa K20. Tuy nhiên, do dịch bệnh nên chưa thể gặp lớp trưởng hoặc gửi cho nhà trường bằng tốt nghiệp được, trong khi đó đợt nộp bằng lần 2 đang diễn ra rồi. Không biết nhà trường có thay đổi thời hạn nộp bằng tốt nghiệp cho khóa K20 không ạ? Và nếu không thì thầy/cô có thể hướng dẫn em cách nộp bằng tốt nghiệp được không ạ? Em xin cảm ơn.",
+        "intent_from_mrc": "gặp lớp trưởng hoặc gửi cho nhà trường bằng tốt nghiệp",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên",
+                "entity_start_position": 25,
+                "entity_end_position": 34,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa K20",
+                "entity_start_position": 35,
+                "entity_end_position": 43,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt nộp bằng lần 2",
+                "entity_start_position": 156,
+                "entity_end_position": 174,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa K20",
+                "entity_start_position": 260,
+                "entity_end_position": 268,
+                "entity_type": "khóa",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào thầy cô, kì này em có đăng ký môn học tự chọn là hư hỏng sửa chữa công trình (CI1051) , tuy nhiên hệ thống lại báo lỗi khi đăng ký chung với đồ án thi công (CI4127), em xoá 1 môn thì môn còn lại đăng ký bình thường. Em không biết 2 môn này có liên quan gì đến nhau hay tiên quyết gì mà lại không đăng ký cùng nhau được vậy ạ. Em cảm ơn ",
+        "intent_from_mrc": "hư hỏng sửa chữa công trình",
+        "intent_similarity": "báo lỗi phần mềm, dịch vụ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "hư hỏng sửa chữa công trình",
+                "entity_start_position": 57,
+                "entity_end_position": 84,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CI1051",
+                "entity_start_position": 86,
+                "entity_end_position": 92,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đồ án thi công",
+                "entity_start_position": 149,
+                "entity_end_position": 163,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CI4127",
+                "entity_start_position": 165,
+                "entity_end_position": 171,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào pđt ạ. Dạ lí do là do bữa em có nhờ 1 bạn xin mở thêm lớp môn hoá học trong kỹ thuật và khoa học môi trường 1 mã môn học là En2005 nhưng pđt chỉ thêm sĩ số mà số lượng ít quá em vô check để đăng kí thì đã hết slot r ạ. Em xin pđt cho em vào được học môn này ạ. Do em khoá k19 mà kì này em không học được là bị trễ 2 năm luôn ạ. Em xin pđt giúp em để em được học môn này trong kì này ạ. Tên môn học hoá học trong kỹ thuật và khoa học môi trường 1 mã môn học En2005 nhóm lo xin vào L01 hoặc L02.",
+        "intent_from_mrc": "Em xin pđt cho em vào được học môn này",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn hoá học trong kỹ thuật và khoa học môi trường 1",
+                "entity_start_position": 66,
+                "entity_end_position": 117,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "En2005",
+                "entity_start_position": 132,
+                "entity_end_position": 138,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoá k19",
+                "entity_start_position": 275,
+                "entity_end_position": 283,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            },
+            {
+                "entity_string": " học hoá học trong kỹ thuật và khoa học môi trường 1",
+                "entity_start_position": 275,
+                "entity_end_position": 453,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mã môn học En2005",
+                "entity_start_position": 454,
+                "entity_end_position": 471,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "L01",
+                "entity_start_position": 488,
+                "entity_end_position": 491,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "L02",
+                "entity_start_position": 497,
+                "entity_end_position": 500,
+                "entity_type": "nhóm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khoa/ngành",
+            "mã môn học",
+            "loại bệnh",
+            "nhóm"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi: Phòng Đào tạo trường Đại học Bách khoa – ĐHQG TPHCM Em tên là: , khoa Kĩ thuật Hóa học, chuyên ngành Công nghệ Sinh học.            MSSV:  Em xin phép được gửi chi tiết những môn học cũng như mã lớp các môn Thực hành thí nghiệm em xin phép được hủy đăng ký học trực tiếp như sau: 1. Thí nghiệm Vi sinh vật (CH3004), Nhóm lớp VL01 2. Thí nghiệm Sinh học tế bào (CH3352), Nhóm lớp VL01 3. Thí nghiệm Hóa sinh (CH2034), Nhóm lớp VL02 4. Thí nghiệm Hóa hữu cơ cơ bản (CH2111), Nhóm lớp VA01 Lý do: em đã gửi trong file đính kèm ạ Em mong Phòng đào tạo sẽ xem xét cho trường hợp của em ạ! Em xin chân thành cảm ơn!",
+        "intent_from_mrc": "hủy đăng ký học trực tiếp",
+        "intent_similarity": "cập nhật kết quả đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Phòng Đào tạo trường Đại học Bách khoa – ĐHQG TPHCM",
+                "entity_start_position": 10,
+                "entity_end_position": 61,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoa Kĩ thuật Hóa học",
+                "entity_start_position": 75,
+                "entity_end_position": 96,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chuyên ngành Công nghệ Sinh học",
+                "entity_start_position": 98,
+                "entity_end_position": 129,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn",
+                "entity_start_position": 213,
+                "entity_end_position": 216,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thực hành thí nghiệm",
+                "entity_start_position": 217,
+                "entity_end_position": 237,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "1",
+                "entity_start_position": 290,
+                "entity_end_position": 291,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thí nghiệm Vi sinh vật",
+                "entity_start_position": 293,
+                "entity_end_position": 315,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH3004",
+                "entity_start_position": 317,
+                "entity_end_position": 323,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm lớp VL01",
+                "entity_start_position": 326,
+                "entity_end_position": 339,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "2 .",
+                "entity_start_position": 340,
+                "entity_end_position": 342,
+                "entity_type": "X",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thí nghiệm Sinh học tế bào",
+                "entity_start_position": 343,
+                "entity_end_position": 369,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH3352",
+                "entity_start_position": 371,
+                "entity_end_position": 377,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm lớp VL01",
+                "entity_start_position": 380,
+                "entity_end_position": 393,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "3 .",
+                "entity_start_position": 394,
+                "entity_end_position": 396,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thí nghiệm Hóa sinh (",
+                "entity_start_position": 397,
+                "entity_end_position": 418,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH2034",
+                "entity_start_position": 418,
+                "entity_end_position": 424,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm lớp VL02",
+                "entity_start_position": 427,
+                "entity_end_position": 440,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "4 .",
+                "entity_start_position": 441,
+                "entity_end_position": 443,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thí nghiệm Hóa hữu cơ cơ bản (",
+                "entity_start_position": 444,
+                "entity_end_position": 474,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH2111 )",
+                "entity_start_position": 474,
+                "entity_end_position": 481,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm lớp VA01",
+                "entity_start_position": 483,
+                "entity_end_position": 496,
+                "entity_type": "nhóm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "môn học",
+            "mã môn học",
+            "nhóm",
+            "X"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ em chào thầy cô,   Em tên là  MSSV  là sinh viên khoa công nghệ vật liệu. Em tạo yêu cầu này để nhờ thầy cô phòng đào tạo tăng sỉ số lớp môn hóa lý mã số môn học CH2001. Vì môn học này là môn của sinh viên năm 2 nhưng do chương trình đào tạo của khóa k19 có mã số môn học khác với các năm trước nên kì này khoa chỉ mở một lớp hóa lý CH2001 nhưng do sỉ số lớp quá ít nên em không thể đăng kí được môn học này nên em tạo yêu cầu này xin phòng đào tạo tăng sỉ lớp của số môn để em có thể đăng kí và hoàn thành môn học. Em chân thành cảm ơn. Trân trọng  ",
+        "intent_from_mrc": "đăng kí và hoàn thành môn học.",
+        "intent_similarity": "cập nhật kết quả đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "khoa công nghệ vật liệu",
+                "entity_start_position": 52,
+                "entity_end_position": 75,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn hóa lý",
+                "entity_start_position": 140,
+                "entity_end_position": 150,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": " môn học",
+                "entity_start_position": 140,
+                "entity_end_position": 164,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CH2001",
+                "entity_start_position": 165,
+                "entity_end_position": 171,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "sinh viên năm 2",
+                "entity_start_position": 199,
+                "entity_end_position": 214,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa k19",
+                "entity_start_position": 249,
+                "entity_end_position": 257,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp hóa lý CH2001",
+                "entity_start_position": 325,
+                "entity_end_position": 342,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khoa/ngành",
+            "môn học",
+            "loại bệnh"
+        ]
+    },
+    {
+        "question_paragraph": "Em bị nhập vắng thi (13 điểm) môn 'Nhập môn vễ kỹ thuật' nên đã gửi mail cho thầy , đồng thời đăng kí phúc tra bài thi. Hiện tại trong trang 'Bảng điểm' của em vẫn hiển thị 13 điểm nhưng trong trang 'Đăng kí phúc tra' lại hiển thị 9,5 và phiếu đăng kí của em chưa có kết quả. Phiền nhà trường xem xét và cập nhật lại điểm giúp em ạ. Em xin cảm ơn.",
+        "intent_from_mrc": "Phiền nhà trường xem xét và cập nhật lại điểm giúp em",
+        "intent_similarity": "cập nhật lịch thi",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn ' Nhập môn vễ kỹ thuật",
+                "entity_start_position": 30,
+                "entity_end_position": 55,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Bảng điểm",
+                "entity_start_position": 142,
+                "entity_end_position": 151,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Đăng kí phúc tra",
+                "entity_start_position": 200,
+                "entity_end_position": 216,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            },
+            {
+                "entity_string": "9,5",
+                "entity_start_position": 231,
+                "entity_end_position": 234,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tài liệu"
+        ]
+    },
+    {
+        "question_paragraph": "Cho em hỏi là hiện tại em có đăng kí học dự thính HK202 và em học xong lúc 16h50 tại cs2 sau đó em đăng kí học lúc 18h tại cs1 thì có bị xóa môn do không đủ thời gian di chuyển giữa 2cs không ạ? Em cảm ơn ạ",
+        "intent_from_mrc": "đăng kí học dự thính HK202",
+        "intent_similarity": "hỏi thủ tục nhập học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "dự thính HK202",
+                "entity_start_position": 41,
+                "entity_end_position": 55,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lúc 16h50",
+                "entity_start_position": 71,
+                "entity_end_position": 80,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs2",
+                "entity_start_position": 85,
+                "entity_end_position": 88,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lúc 18h",
+                "entity_start_position": 111,
+                "entity_end_position": 118,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs1",
+                "entity_start_position": 123,
+                "entity_end_position": 126,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào PDT, Hiện tại em muốn hoãn thi GK thì có được chấp nhận không ạ. Nếu có thì mình tải đơn ở đâu vì em chỉ thấy mẫu đơn hoãn thi cuối kì trên AAO. Em xin cảm ơn",
+        "intent_from_mrc": "hoãn thi GK",
+        "intent_similarity": "hoãn thi",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "AAO",
+                "entity_start_position": 148,
+                "entity_end_position": 151,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Thưa thầy/cô phụ trách Em là , sinh viên lớp L15 của bộ môn Chủ nghĩa xã hội khoa học (SP1035) Hôm nay, ngày 9/12, em có lịch thi vào lúc 7h, nhưng do sự cố kỹ thuật( máy em ép cập nhật lên Windows 11) mà em lại không vào được phòng thi. Xin phép cho em được hoãn thi và đăng kí trong học kì kế tiếp.     i  .",
+        "intent_from_mrc": "hoãn thi và đăng kí trong học kì kế tiếp.",
+        "intent_similarity": "huỷ học kì",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lớp L15",
+                "entity_start_position": 41,
+                "entity_end_position": 48,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bộ môn Chủ nghĩa xã hội khoa học",
+                "entity_start_position": 53,
+                "entity_end_position": 85,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "SP1035",
+                "entity_start_position": 87,
+                "entity_end_position": 93,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 9/12",
+                "entity_start_position": 104,
+                "entity_end_position": 113,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lúc 7h",
+                "entity_start_position": 134,
+                "entity_end_position": 140,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Windows 11",
+                "entity_start_position": 190,
+                "entity_end_position": 200,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Không đủ trang thiết bị theo yêu cầu của nhà trường. - Hiện tại đang ở kí túc xá Bách Khoa, chuẩn bị về quê cách li tập trung .",
+        "intent_from_mrc": "Không đủ trang thiết bị",
+        "intent_similarity": "huỷ bảo hiểm y tế",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "kí túc xá Bách Khoa",
+                "entity_start_position": 71,
+                "entity_end_position": 90,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ cho em hỏi là môn Anh Văn 4 khi nào mở ạ, tại em thấy số lượng đăng kí đông ạ.",
+        "intent_from_mrc": "môn Anh Văn 4",
+        "intent_similarity": "đăng kí thi tiếng Anh",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn Anh Văn 4",
+                "entity_start_position": 17,
+                "entity_end_position": 30,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Chào  ạ, Cho em hỏi là đã mở đăng ký hủy môn học học kỳ 211 chưa và cách thức đăng ký như nào ạ? Em xin cảm ơn.",
+        "intent_from_mrc": "hủy môn học học kỳ 211",
+        "intent_similarity": "thanh toán học phí",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "học kỳ 211",
+                "entity_start_position": 49,
+                "entity_end_position": 59,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Tốt nghiệp . Em chào Thầy/ Cô, Em tên là Trần Hoàng Kim Ngân, MSSV: 1512138, là sinh viên khóa 2015 khoa Công nghệ vật liệu - chuyên ngành Vật Liệu Silicate. Hiện tại em đang gặp tình trạng là có quyết định xóa tên vì hết thời gian đào tạo ngày 15/03/2022. Em đã 1. Đậu TOEIC với số điểm 555 ngày 07/12/2021 2. Ngày công tác xã hội: 33 ngày 3. Đậu TOEIC nói viết: 235 (thi ngày 03/04/2022 ca 03-04B) Đã đủ điều kiện tốt nghiệp, em xin Phòng đào tạo ghi nhận và có quyết định thu hồi cho em được đăng ký tốt nghiệp tháng 04/2022 ạ. Em rất mong nhận được phản hồi sớm từ Thầy, Cô. Em xin chân thành cảm ơn!",
+        "intent_from_mrc": "nhận được phản hồi sớm từ Thầy, Cô.",
+        "intent_similarity": "khiếu nại điểm",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Trần Hoàng Kim Ngân",
+                "entity_start_position": 41,
+                "entity_end_position": 60,
+                "entity_type": "tên người",
+                "type_check": ""
+            },
+            {
+                "entity_string": "1512138",
+                "entity_start_position": 68,
+                "entity_end_position": 75,
+                "entity_type": "mã sinh viên",
+                "type_check": ""
+            },
+            {
+                "entity_string": "sinh",
+                "entity_start_position": 80,
+                "entity_end_position": 84,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa 2015",
+                "entity_start_position": 90,
+                "entity_end_position": 99,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoa Công nghệ vật liệu",
+                "entity_start_position": 100,
+                "entity_end_position": 123,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chuyên ngành Vật Liệu Silicate",
+                "entity_start_position": 126,
+                "entity_end_position": 156,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 15/03/2022",
+                "entity_start_position": 240,
+                "entity_end_position": 255,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "TOEIC",
+                "entity_start_position": 270,
+                "entity_end_position": 275,
+                "entity_type": "chứng chỉ",
+                "type_check": ""
+            },
+            {
+                "entity_string": "số điểm 555",
+                "entity_start_position": 280,
+                "entity_end_position": 291,
+                "entity_type": "số điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 07/12/2021",
+                "entity_start_position": 292,
+                "entity_end_position": 307,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "TOEIC",
+                "entity_start_position": 348,
+                "entity_end_position": 353,
+                "entity_type": "chứng chỉ",
+                "type_check": ""
+            },
+            {
+                "entity_string": "235",
+                "entity_start_position": 364,
+                "entity_end_position": 367,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 03/04/2022",
+                "entity_start_position": 373,
+                "entity_end_position": 388,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ca 03-04B",
+                "entity_start_position": 389,
+                "entity_end_position": 398,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tháng 04/2022",
+                "entity_start_position": 514,
+                "entity_end_position": 527,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tên người",
+            "mã sinh viên",
+            "khóa",
+            "khoa/ngành",
+            "thời gian",
+            "chứng chỉ",
+            "số điểm",
+            "nhóm"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ cho em hỏi về vấn đề đăng ký dưới 14 chỉ ạ ? Nếu em đăng ký dưới 14 chỉ thì em có được đăng ký giấy hoãn nghĩa vụ quân sự không ạ ?",
+        "intent_from_mrc": "đăng ký giấy hoãn nghĩa vụ quân sự",
+        "intent_similarity": "hoãn thi",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "giấy hoãn nghĩa vụ quân sự",
+                "entity_start_position": 98,
+                "entity_end_position": 124,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tài liệu"
+        ]
+    },
+    {
+        "question_paragraph": "Chào phòng đào tạo,  Em là   MSSV  Hiện tại em đã thanh toán tất cả học phí. Hiện không còn khoản nợ nào. Nhưng trong mục đang ký tốt nghiệp lại ghi là em đang nợ học phí. Mong phòng đào tạo cập nhật lại giúp em để em đăng ký tốt nghiệp ạ. Em cảm ơn ạ.",
+        "intent_from_mrc": "đăng ký tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Em chào thầy cô ạ, em là , mssv  Mặc dù biết là thời gian đăng kí môn học đã hết nhưng em mong muốn là phòng đạo tạo có thể mở thêm lớp vật lý bán dẫn(EE1007) lớp L07_L13 được không ạ do đợt 2 và đợt 3 e ko thể đăng kí vì trùng lịch và số lượng thành viên trong lớp đã đủ. Em xin cảm ơn và chúc thầy cô nhiều sức khoẻ ạ.",
+        "intent_from_mrc": "phòng đạo tạo có thể mở thêm lớp vật lý bán dẫn(EE1007)",
+        "intent_similarity": "hỏi về cảnh cáo học vụ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lớp vật lý bán dẫn (",
+                "entity_start_position": 132,
+                "entity_end_position": 151,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "EE1007 )",
+                "entity_start_position": 151,
+                "entity_end_position": 158,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp L07 [UNK] L13",
+                "entity_start_position": 159,
+                "entity_end_position": 170,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 2",
+                "entity_start_position": 187,
+                "entity_end_position": 192,
+                "entity_type": "đợt",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 3",
+                "entity_start_position": 196,
+                "entity_end_position": 201,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "nhóm",
+            "đợt"
+        ]
+    },
+    {
+        "question_paragraph": "Kính thưa phòng đào tạo, Tiếp nối câu chuyện em không thể tốt nghiệp vì hiện bị tạm dừng học, em đã cập nhật lại ngày CTXH và hiện đã đủ điều kiện tốt nghiệp, em xin lỗi vì sự chậm trễ này. Kính mong quý anh chị/thầy cô xem xét trường hợp của em. Em xin cảm ơn .",
+        "intent_from_mrc": "tốt nghiệp",
+        "intent_similarity": "gia hạn tốt nghiệp",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "ng Ký Hoãn Thi . Em đã đăng ký hoãn thi môn học Vật Lý 1 PH1003 - DT05 - HK203, tuy nhiên bảng điểm chưa sửa điểm hiện tại của em, xin pđt giải quyết giúp em ạ. và em muốn đăng kí thi lại cuối kì Vật lý 1 vào HK211 thì em phải làm những gì ạ.",
+        "intent_from_mrc": "đăng kí thi lại cuối kì Vật lý 1 vào HK211",
+        "intent_similarity": "xin thi bù",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "PH1003-DT05-HK203",
+                "entity_start_position": 57,
+                "entity_end_position": 78,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cuối kì Vật lý 1",
+                "entity_start_position": 188,
+                "entity_end_position": 204,
+                "entity_type": "thời điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "HK211",
+                "entity_start_position": 209,
+                "entity_end_position": 214,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "thời điểm"
+        ]
+    },
+    {
+        "question_paragraph": "MSSV: Khiếu nại đăng ký môn học: luận văn tốt nghiệp. Mã môn học: ME4677 Em tên: , gửi Phòng đào tạo. Ở học kì 212 em có đăng kí môn học mã ME4677 nhiều lần liên tiếp, ở các kì đăng ký, nhưng đều bị hủy đăng kí với lý do chưa đủ điều kiện nhận luận văn. Mặc dù, hiện em đã hoàn thành quá trình học tập đủ điều kiện nhận luận văn theo qui định của trường, do đó em chưa biết tại sao mình vẫn liên tục bị từ chối việc đăng ký, mong được phòng đào tạo giải thích giúp em lý do em bị từ chối đăng ký . Mong được phản hồi sớm, Trân trọng.",
+        "intent_from_mrc": "Mong được phản hồi sớm,",
+        "intent_similarity": "được hỗ trợ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "luận văn tốt nghiệp",
+                "entity_start_position": 33,
+                "entity_end_position": 52,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME4677",
+                "entity_start_position": 66,
+                "entity_end_position": 72,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "học kì 212",
+                "entity_start_position": 104,
+                "entity_end_position": 114,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mã ME4677",
+                "entity_start_position": 137,
+                "entity_end_position": 146,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "luận văn",
+                "entity_start_position": 244,
+                "entity_end_position": 252,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "luận văn",
+                "entity_start_position": 320,
+                "entity_end_position": 328,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "học kì",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi phòng đào tạo đại học BÁCH KHOA TPHCM Do tình hình Covid 19, cũng như chỉ thị 16 dẫn đến việc em không thể lên trường nộp trực tiếp đơn cho phòng đào tạo xác nhận. Nên em thực hiện việc nộp đơn online ạ. Mong phòng đào tạo xem xét xác nhận hộ em. Em cảm ơn!!!!",
+        "intent_from_mrc": "nộp đơn online",
+        "intent_similarity": "hỏi thông tin dự thi",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "phòng đào tạo đại học BÁCH KHOA TPHCM",
+                "entity_start_position": 9,
+                "entity_end_position": 46,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Covid 19",
+                "entity_start_position": 60,
+                "entity_end_position": 68,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chỉ thị 16",
+                "entity_start_position": 79,
+                "entity_end_position": 89,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "loại bệnh"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ thầy/cô cho em hỏi là hiện tại em đã là sinh viên năm 3. Em hiện đang nợ anh văn và em không đăng kí được môn học. Em cũng đã đăng kí học anh văn do pdt mở lớp. Và em không biết là mình có thể làm đơn để được đăng kí môn học và sẽ trả anh văn sau không ạ. Tai em cũng đang hoang mang vì em là K18 mà chuyên ngành của em đa phần đều không còn mở lớp. Nên em không biết mình có thể xin được học trước rồi trả anh văn sau không. Em cảm ơn thầy/cô.",
+        "intent_from_mrc": "xin được học trước rồi trả anh văn sau",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên năm 3",
+                "entity_start_position": 43,
+                "entity_end_position": 58,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "anh văn",
+                "entity_start_position": 141,
+                "entity_end_position": 148,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "K18",
+                "entity_start_position": 296,
+                "entity_end_position": 299,
+                "entity_type": "khóa",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "khóa"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ em chào PĐT  Cho em hình em có thể lập đơn xin mở lớp anh văn ở kì chính 211 được không ạ. Em cảm ơn .",
+        "intent_from_mrc": "lập đơn xin mở lớp anh văn ở kì chính 211",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lớp anh văn",
+                "entity_start_position": 53,
+                "entity_end_position": 64,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "kì chính 211",
+                "entity_start_position": 67,
+                "entity_end_position": 79,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào quý thầy/cô, Em tên là , MSSV là . Em muốn hỏi về vấn đề nhận bản scan của bảng điểm sau khi đăng ký in bảng điểm . Do diễn biến phức tạp của dịch COVID-19 nên em sợ bản cứng của bảng điểm gửi qua dịch vụ chuyển phát nhanh sẽ về trễ. Em muốn hỏi phòng đào tạo có hỗ trợ gửi trước bản scan cho sinh viên để sử dụng trong lúc đợi nhận bản cứng không ạ? Do em đang cần bảng điểm (bản scan) để bổ sung hồ sơ làm việc cho công ty trước ngày 15/9. Em xin cảm ơn. Trân trọng./.",
+        "intent_from_mrc": "nhận bản scan của bảng điểm sau khi đăng ký in bảng điểm",
+        "intent_similarity": "đăng kí in bảng điểm",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "dịch",
+                "entity_start_position": 150,
+                "entity_end_position": 154,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            },
+            {
+                "entity_string": "COVID-19",
+                "entity_start_position": 155,
+                "entity_end_position": 163,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 15/9",
+                "entity_start_position": 439,
+                "entity_end_position": 448,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "loại bệnh",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Chào anh (chị) Thầy cô, em tên là Trần Gia Thịnh. Hiện tại trong đợt đăng kí môn học đợt 3 học kỳ 192, môn học Cơ Lý Thuyết Lớp L01 sĩ số: 140/140. Em muốn xin tăng sĩ số lớp để được tham gia học trong HK 192. Em rất mong được sự giúp đỡ của thầy (cô) và các anh chị ạ, em thành thật cám ơn.",
+        "intent_from_mrc": "xin tăng sĩ số lớp để được tham gia học trong HK 192.",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Trần Gia Thịnh",
+                "entity_start_position": 34,
+                "entity_end_position": 48,
+                "entity_type": "tên người",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 3",
+                "entity_start_position": 85,
+                "entity_end_position": 90,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "học kỳ 192",
+                "entity_start_position": 91,
+                "entity_end_position": 101,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn",
+                "entity_start_position": 103,
+                "entity_end_position": 106,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": " Cơ Lý Thuyết",
+                "entity_start_position": 103,
+                "entity_end_position": 123,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Lớp L01",
+                "entity_start_position": 124,
+                "entity_end_position": 131,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "140/140",
+                "entity_start_position": 139,
+                "entity_end_position": 146,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "HK 192",
+                "entity_start_position": 202,
+                "entity_end_position": 208,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tên người",
+            "học kì",
+            "môn học",
+            "nhóm",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ chào thầy(cô). Hôm nay là hạn cuối cùng thanh toán học phí của e mà hiện tại e không thể thanh toán được ạ do trang wed bị lỗi. Em có thể thanh toán bàng cách nào khác nữa không ạ. Em cám ơn!!",
+        "intent_from_mrc": "thanh toán học phí",
+        "intent_similarity": "thanh toán học phí",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Kính gửi văn phòng đào tạo trường Đại học Bách Khoa Em tên  (MSSV: ). Sau khi điểm của tất cả các môn đã cập nhật trên hệ thống Mybk, số tín chỉ em đã hoàn tất đủ 144 tín chỉ và hoàn thành đủ 15 ngày CTXH. Nhưng, em vẫn không thể đăng ký xét tốt nghiệp trên hệ thống MyBk của trường vì lý do không có thông tin trong danh sách dự kiến tốt nghiệp. Em mong nhận được phản hồi từ trường Đại học Bách Khoa để em có thể thực hiện xét tốt nghiệp. Em xin cảm ơn.",
+        "intent_from_mrc": "thực hiện xét tốt nghiệp.",
+        "intent_similarity": "hỏi thời gian xét tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "văn phòng đào tạo trường Đại học Bách Khoa",
+                "entity_start_position": 9,
+                "entity_end_position": 51,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ thống Mybk",
+                "entity_start_position": 119,
+                "entity_end_position": 132,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ thống MyBk",
+                "entity_start_position": 258,
+                "entity_end_position": 271,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "trường Đại học Bách Khoa",
+                "entity_start_position": 377,
+                "entity_end_position": 401,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "dịch vụ, hệ thống"
+        ]
+    },
+    {
+        "question_paragraph": "Thầy/cô cho em hỏi: hiện tại em đã đăng ký xét tốt nghiệp trên MyBK với tình trạng đăng ký: phiếu đăng ky đã được xử lý. đã 1 tuần rồi em vẫn chưa nhận được mail xác nhận từ trường và chưa có tên trong danh sách chính thức tốt nghiệp đợt 4/2022. trường hợp em như vậy thì em cần phải làm gì để kịp dự lễ tốt nghiệp vào tháng 4/2022 ạ?",
+        "intent_from_mrc": "kịp dự lễ tốt nghiệp vào tháng 4/2022",
+        "intent_similarity": "gia hạn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "MyBK",
+                "entity_start_position": 63,
+                "entity_end_position": 67,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": " đăng ky",
+                "entity_start_position": 63,
+                "entity_end_position": 105,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 4/2022",
+                "entity_start_position": 234,
+                "entity_end_position": 244,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lễ tốt nghiệp",
+                "entity_start_position": 301,
+                "entity_end_position": 314,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tháng 4/2022",
+                "entity_start_position": 319,
+                "entity_end_position": 331,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "dịch vụ, hệ thống",
+            "thời gian",
+            "tài liệu"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ PĐT cho em hỏi thông tin về đăng kí tốt nghiệp. em đã nhận được mail trong danh sách tạm thời vào lúc 17h35 ngày 22/10 ( chiều thứ sáu). nhưng hôm nay thứ 2 em vào đăng ký xét tốt nghiệp thì trong trang web đăng kí em bị Không được phép đăng kí (). Mong PĐT kiểm tra lại giúp em ạ. Vì sao e vẫn chưa đăng kí xét tốt nghiệp được ạ. Cảm ơn PĐT.",
+        "intent_from_mrc": "Mong PĐT kiểm tra lại giúp em",
+        "intent_similarity": "nộp đơn cứu xét",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lúc 17h35",
+                "entity_start_position": 101,
+                "entity_end_position": 110,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 22/10",
+                "entity_start_position": 111,
+                "entity_end_position": 121,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "chiều thứ sáu",
+                "entity_start_position": 124,
+                "entity_end_position": 137,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "thứ 2",
+                "entity_start_position": 154,
+                "entity_end_position": 159,
+                "entity_type": "X",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "thời gian",
+            "X"
+        ]
+    },
+    {
+        "question_paragraph": "Chào thầy/cô Em hiện đang là sinh viên k17 do không đăng ký môn học HK1 2021-2022 nên bị tạm dừng. Nay em làm đơn đăng ký thu nhận lại để có thể đăng ký tốt nghiệp. Em rất mong thầy/cô giải quyết sớm giúp em để em có thể tốt nghiệp đúng hạn ạ. Em xin cảm ơn!",
+        "intent_from_mrc": "tốt nghiệp đúng hạn",
+        "intent_similarity": "gia hạn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên k17",
+                "entity_start_position": 29,
+                "entity_end_position": 42,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn học",
+                "entity_start_position": 60,
+                "entity_end_position": 67,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "HK1 2021-2022",
+                "entity_start_position": 68,
+                "entity_end_position": 81,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa",
+            "môn học",
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào pdt ,pdt có thể cho e hỏi là e lên ngân hàng đóng tiền bảo hiểm y tế như mọi năm vânc thường làm , nhưng sao e ko đc cập nhập trên bkpay vậy  Em cảm ơn ạ.",
+        "intent_from_mrc": "lên ngân hàng đóng tiền bảo hiểm y tế",
+        "intent_similarity": "liên kết tài khoản ngân hàng",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "bkpay",
+                "entity_start_position": 139,
+                "entity_end_position": 144,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "dịch vụ, hệ thống"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi phòng đào tạo ĐHBK TPHCM, Em tên là , Mssv . Em gửi yêu cầu này là mong thầy cô cập nhật lại danh sách dự kiến đăng ký tốt nghiệp để em được đăng ký tốt nghiệp ạ. Em xin cảm ơn!   i Tốt nghiệp .",
+        "intent_from_mrc": "Tốt nghiệp",
+        "intent_similarity": "gia hạn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "phòng đào tạo ĐHBK TPHCM",
+                "entity_start_position": 9,
+                "entity_end_position": 33,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức"
+        ]
+    },
+    {
+        "question_paragraph": "Em tên là , lớp HC18HD. Em xin phép Thầy/Cô mở thêm sỉ số lớp An Toàn Quá Trình 02, mã CH3297 được không ạ? Vì em cần đăng kí môn học khác ở lớp hiện tại, nên e phải đổi qua lớp 02 nhưng sỉ số đã full ạ. Mong Thầy/Cô phản hồi sớm, em xin cảm ơn.",
+        "intent_from_mrc": "đăng kí môn học khác ở lớp hiện tại,",
+        "intent_similarity": "đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lớp HC18HD",
+                "entity_start_position": 12,
+                "entity_end_position": 22,
+                "entity_type": "lớp",
+                "type_check": ""
+            },
+            {
+                "entity_string": "sỉ số lớp An Toàn Quá Trình 02",
+                "entity_start_position": 52,
+                "entity_end_position": 82,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mã CH3297",
+                "entity_start_position": 84,
+                "entity_end_position": 93,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp 02",
+                "entity_start_position": 174,
+                "entity_end_position": 180,
+                "entity_type": "nhóm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "lớp",
+            "nhóm",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào thầy/cô.  Hiện tại em đã hết hạn đào tạo, và em có mong muốn chuyển sang hệ VHVl , thầy/cô cho em hỏi là hiện tại em đang ở quê, sau nghỉ tết em mới có thể vào lại thành phố để nộp hồ sơ chuyển hệ, vậy thì e vẫn có thể chuyển hệ được không ạ? và nếu như chuyển thì điểm các môn học đã hoàn thành của em có được chuyển sang cho hệ VHVL không ạ?  Em xin cảm ơn thầy/cô.  Em mong nhận được câu trả lời sớm từ thầy/cô ạ.",
+        "intent_from_mrc": "muốn chuyển sang hệ VHVl",
+        "intent_similarity": "hỏi về chuẩn ngoại ngữ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "hệ VHVl",
+                "entity_start_position": 94,
+                "entity_end_position": 102,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "nghỉ tết",
+                "entity_start_position": 161,
+                "entity_end_position": 171,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "thành phố",
+                "entity_start_position": 199,
+                "entity_end_position": 210,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ VHVL",
+                "entity_start_position": 392,
+                "entity_end_position": 400,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "địa điểm"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ chào Thầy/Cô/Anh/Chị, Em cảm ơn vì những giải đáp cụ thể như trong ảnh đính kèm. Em muốn hỏi thêm là: Em có thể nộp đơn xin thu nhận lại và đăng kí môn học trong khi tình trạng sinh viên vẫn là \"đang học\" không ạ ? (Vì em không thể đăng kí môn học khoảng 6 tháng rồi nhưng trạng thái hiện tại vẫn là đang học) Em cảm ơn ạ",
+        "intent_from_mrc": "nộp đơn xin thu nhận lại và đăng kí môn học",
+        "intent_similarity": "đăng kí thu nhận lại",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Chào thầy cô ạ, cho em xin mở thêm slot cho môn Pháp Luật Đại Cương lớp LO1 cơ sở 2 với ạ. Em cảm ơn.",
+        "intent_from_mrc": "slot cho môn Pháp Luật Đại Cương lớp LO1 cơ sở 2",
+        "intent_similarity": "đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn Pháp Luật Đại Cương",
+                "entity_start_position": 44,
+                "entity_end_position": 67,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp LO1",
+                "entity_start_position": 68,
+                "entity_end_position": 75,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cơ",
+                "entity_start_position": 76,
+                "entity_end_position": 78,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": " 2",
+                "entity_start_position": 76,
+                "entity_end_position": 83,
+                "entity_type": "X",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "nhóm",
+            "X"
+        ]
+    },
+    {
+        "question_paragraph": "Trong học kì 191, em đã tích lũy được 11 tín chỉ, và trung bình môn là 6,07, nhưng em vẫn bị cảnh cáo học vụ, và khi em tra cảnh cáo, thì trong đó em chỉ có 8 chỉ và điểm trung bình môn là 5.21, em mong nhà trường xem xét lại",
+        "intent_from_mrc": "mong nhà trường xem xét lại",
+        "intent_similarity": "xin mở lớp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "học kì 191",
+                "entity_start_position": 6,
+                "entity_end_position": 16,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": " 07",
+                "entity_start_position": 6,
+                "entity_end_position": 75,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Chào anh chị phụ trách  Em hiện đang có nhu cầu học môn: Cơ sở kỹ thuật điện (EE2017).Vì các khóa sau không còn học môn này nữa nên em rất mong nhà trường xem xét mở thêm lớp hoặc sĩ số môn học này. Em xin cảm ơn",
+        "intent_from_mrc": "học môn: Cơ sở kỹ thuật điện",
+        "intent_similarity": "được hỗ trợ học trực tuyến",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Cơ sở kỹ thuật điện",
+                "entity_start_position": 57,
+                "entity_end_position": 76,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "EE2017 )",
+                "entity_start_position": 78,
+                "entity_end_position": 85,
+                "entity_type": "khóa",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "khóa"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi,  Em đã đủ điều kiện tốt nghiệp và nhận được mail như hình 1. Nhưng em vẫn chưa có đơn thu nhận lại như bên phía thầy cô (Hình 2) nên em chưa thể vào để đăng ký tốt nghiệp được (Hình 3).",
+        "intent_from_mrc": "đăng ký tốt nghiệp",
+        "intent_similarity": "đăng kí bổ sung luận văn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Hình 2",
+                "entity_start_position": 131,
+                "entity_end_position": 137,
+                "entity_type": "X",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Hình 3",
+                "entity_start_position": 187,
+                "entity_end_position": 193,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "X"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi PĐT! m có nhận được thanh toán học phí nhưng lại không có thể tích chọn ô thanh toán như hình, không biết là có phải do lỗi hệ thống hay là do chưa mở đợt thanh toán . Em xin cảm ơn PĐT",
+        "intent_from_mrc": "thanh toán học phí",
+        "intent_similarity": "thanh toán học phí",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Kính gửi thầy/cô PĐT, Em tên:  MSSV (VLVH):  MSSV (cũ)  : 3 Hệ VLVH: Điện-Điện tử ( Tự động hóa ) Đợt này em có đăng ký LVTN (EE4323) . Nhưng hệ thống báo em còn thiếu các môn như Đồ Án và Thực tập tốt nghiệp, những môn này em đã hoàn thành ở hết ở hệ chính quy cũ (K13) và đã nộp bảng điểm cũ cho văn phòng khoa (nơi đăng ký chuyển hệ chính quy sang VLVH ) để xét duyệt lại để miễn môn cho các môn này với  mã mới. Kính mong quý thầy/cô xem xét giải quyết giúp em để em có thể đăng ký LVTN trong kỳ này ạ. Em xin chân thành cảm ơn.",
+        "intent_from_mrc": "đăng ký LVTN trong kỳ này",
+        "intent_similarity": "đăng kí gia hạn",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Điện-Điện tử",
+                "entity_start_position": 69,
+                "entity_end_position": 81,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Tự động hóa",
+                "entity_start_position": 84,
+                "entity_end_position": 95,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "LVTN",
+                "entity_start_position": 120,
+                "entity_end_position": 124,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "EE4323",
+                "entity_start_position": 126,
+                "entity_end_position": 132,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Đồ Án",
+                "entity_start_position": 180,
+                "entity_end_position": 185,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thực tập tốt nghiệp",
+                "entity_start_position": 189,
+                "entity_end_position": 208,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ chính quy",
+                "entity_start_position": 249,
+                "entity_end_position": 261,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "K13",
+                "entity_start_position": 266,
+                "entity_end_position": 269,
+                "entity_type": "khoá",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ chính quy",
+                "entity_start_position": 333,
+                "entity_end_position": 345,
+                "entity_type": "chương trình đào tạo",
+                "type_check": ""
+            },
+            {
+                "entity_string": "VLVH",
+                "entity_start_position": 351,
+                "entity_end_position": 355,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "LVTN",
+                "entity_start_position": 486,
+                "entity_end_position": 490,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khoa/ngành",
+            "mã môn học",
+            "chương trình đào tạo",
+            "khoá"
+        ]
+    },
+    {
+        "question_paragraph": "Đă          Chào ban quản lý ạ, Em là , sinh viên ngành Kiến trúc, khoa Xây Dựng Đặc thù ngành liên quan đến làm việc trên máy tính rất nhiều do sử dụng phần mềm thiết kế Tuy nhiên trong thời gian học môn CI3145(Thiết kế kiến trúc nhà ở), em đã gặp sự cố với máy tính xách tay của mình và chiếc máy đã bị hư do phần cứng trong máy gặp lỗi, theo đó các dữ liệu dang dở bị xóa mất không khôi phục được, qua những lần sửa chữa không cho ra kết quả khả quan, vậy nên khả năng không hoàn thành được môn học là có thể xảy ra Nên em xin phép được rút môn học CI3145 không tính học phí ạ, mặc dù theo như mail trường đã thông báo rằng đã hết hạn rút môn học không tính phí ( ngày 17/4/2020) Mong ban quản lý xem xét giúp đỡ trường hợp của em vì vấn đề xảy ra bất ngờ, không trong dự tính và bất khả kháng Cộng với thời điểm này kinh tế gia đình không được ổn định do hạn chế của dịch bệnh, chưa có khả năng chi trả ngay lập tức cho một thiết bị mới, kính mong ban quản lý xem xét trường hợp của em và hỗ trợ Em xin cam đoan các thông tin trên là thật Em xin được chân thành cảm ơn!  ",
+        "intent_from_mrc": "rút môn học CI3145 không tính học phí",
+        "intent_similarity": "huỷ đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "ngành Kiến trúc",
+                "entity_start_position": 50,
+                "entity_end_position": 65,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoa Xây Dựng",
+                "entity_start_position": 67,
+                "entity_end_position": 80,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn",
+                "entity_start_position": 201,
+                "entity_end_position": 204,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CI3145",
+                "entity_start_position": 205,
+                "entity_end_position": 211,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thiết kế kiến trúc nhà ở",
+                "entity_start_position": 212,
+                "entity_end_position": 236,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CI3145",
+                "entity_start_position": 552,
+                "entity_end_position": 558,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 17/4/2020",
+                "entity_start_position": 667,
+                "entity_end_position": 681,
+                "entity_type": "thời gian",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "khoa/ngành",
+            "mã môn học",
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào thầy cô, Theo như thông báo của Nhà trường thì 6/12 này tụi em sẽ học lại thí nghiệm/thực hành trực tiếp nên em có vài thắc mắc mong thầy cô có thể giải đáp giúp em ạ. 1. Kế hoạch học trực tiếp này là cho tất cả các bạn sinh viên hay chỉ áp dụng với các bạn đăng ký học thí nghiệm trước đó ạ. 2. Giả sử là áp dụng cho tất cả các bạn sinh viên vậy có thể hoãn không ạ, vì theo em biết nhiều bạn hiện đang ở vùng đỏ/ở xa/gia đình không cho vào học,... 3. Vấn đề chỗ ở, dù học ở cs1 nhưng việc thuê trọ ở khu vực gần cs1 sẽ là bất khả thi hoặc quá khả năng tài chính của nhiều bạn (nhiều bạn đã đăng ký ở ktx ở cs2 sẵn rồi), nên nếu mọi việc diễn ra như dự kiến, Nhà trường có thông báo cho ktx đón sinh viên không ạ. Câu văn lủng củng mong thầy/cô thông cảm ạ. Cảm ơn thầy/cô đã đọc ạ. Chúc thầy/cô một ngày tốt lành!!!",
+        "intent_from_mrc": "học lại thí nghiệm/thực hành trực tiếp",
+        "intent_similarity": "đăng kí thu nhận lại",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "6/12",
+                "entity_start_position": 55,
+                "entity_end_position": 59,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs1",
+                "entity_start_position": 484,
+                "entity_end_position": 487,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs1",
+                "entity_start_position": 522,
+                "entity_end_position": 525,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ktx",
+                "entity_start_position": 610,
+                "entity_end_position": 613,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cs2",
+                "entity_start_position": 616,
+                "entity_end_position": 619,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "k",
+                "entity_start_position": 696,
+                "entity_end_position": 697,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "thời gian"
+        ]
+    },
+    {
+        "question_paragraph": "Dạ thưa cô/ thầy. Em mong muốn được học môn chuyên ngành mã môn học là ME3085 nhưng hiện tại lớp đã full 34/34. Thầy cô có thể xem xét lại phòng học tăng sĩ số lên để em có thể đăng kí học môn này được không ạ. Em mong được thầy/ cô phản hồi . Em xin cảm ơn ạ.",
+        "intent_from_mrc": "học môn chuyên ngành mã môn học là ME3085",
+        "intent_similarity": "hỏi học phí",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "ME3085",
+                "entity_start_position": 71,
+                "entity_end_position": 77,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "34/34",
+                "entity_start_position": 105,
+                "entity_end_position": 110,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em xin kính chào Phòng đào tạo Em tên là , mssv  Hiện trên file điều kiện tốt nghiệp của em cho thấy em không đủ điều kiện các môn MR để tốt nghiệp. Lý do là vì em học chương trình liên thông cao học và chuyển điểm về, do đó không thể hoàn thành phần MR của tài năng. Do đó, em đã liên hệ với cô  qua email và gửi đơn xin ra khỏi chương trình tài năng để có thể tốt nghiệp. Đính kèm là file điều kiện tốt nghiệp em đã nhận và file đơn xin ra khỏi chương trình tài năng đã gửi cho cô . Kính mông Phòng đào tạo xem xét trường hợp của em. Trân trọng ",
+        "intent_from_mrc": "tốt nghiệp.",
+        "intent_similarity": "hỏi thời gian xét tốt nghiệp",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Em tên:  MSSV:   Khoa: Kỹ thuật xây dựng Cho em hỏi là do em không tích lũy đủ tín chỉ nên không đăng kí được những môn của năm 2. Giờ em đăng kí không đủ tín chỉ để có thời khóa biểu. Xin phòng đào tạo cho em xin hướng giải quyết ạ. Em xin chân thành cảm ơn.",
+        "intent_from_mrc": "Xin phòng đào tạo cho em xin hướng giải quyết",
+        "intent_similarity": "nộp đơn cứu xét",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Kỹ thuật xây dựng",
+                "entity_start_position": 23,
+                "entity_end_position": 40,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "năm 2",
+                "entity_start_position": 124,
+                "entity_end_position": 129,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khoa/ngành",
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Cho em hỏi: Thời khóa biểu em đang xếp lịch học online cho 2 môn bị trùng thời gian (file đính kèm), vậy giờ em phải xử lý sao ạ? Học phí em đã đóng đầy đủ hết cho nhà trường.",
+        "intent_from_mrc": "xếp lịch học online cho 2 môn bị trùng thời gian",
+        "intent_similarity": "cập nhật lịch thi",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Dạ em chào phòng đào tạo, em là  MSSV: . Kì vừa rồi, em có học môn Quản lý dự án nhóm A01 vào thứ tư. Vì lý do cách ly y tế nên em đăng ký hoãn thi cuối kỳ môn QLDA để thi vào học kì tới. Em vào myBK để xem bảng điểm thì thấy điểm tổng kết là 13, điểm 13 là điểm vắng thi mà trường hợp của em thuộc diện là được phép đăng ký hoãn thi và đã đăng ký bên phía nhà trường, lúc thi cuối kỳ vừa rồi, em cũng vào meet để nói cán bộ coi thi lý do là đã đăng ký hoãn thi, tức là điểm tổng kết của em phải là điểm 14, điểm hoãn thi được phép thi sau chứ. Phòng đào tạo có nói trước ngày 30/9 mà vào myBK thấy chưa có kết quả cập nhật thì khiếu nại lên đây. Mong phòng đào tạo sớm cập nhật lại điểm và tín chỉ trên hệ thống myBK vì ảnh hưởng trực tiếp đến việc em hoàn thiện hồ sơ xin học bổng. Tại vì trên myBK phòng đào tạo để điểm 13 và ảnh hưởng đến điểm trung bình tích luỹ và số tín chỉ của em. Em cảm ơn và mong sớm nhận được sự phản hồi. Best reagrds !!!",
+        "intent_from_mrc": "cập nhật lại điểm và tín chỉ trên hệ thống myBK",
+        "intent_similarity": "cải thiện điểm",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "môn Quản lý dự án",
+                "entity_start_position": 63,
+                "entity_end_position": 80,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "nhóm A01",
+                "entity_start_position": 81,
+                "entity_end_position": 89,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "thứ tư",
+                "entity_start_position": 94,
+                "entity_end_position": 100,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn QLDA",
+                "entity_start_position": 156,
+                "entity_end_position": 164,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "myBK",
+                "entity_start_position": 195,
+                "entity_end_position": 199,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "điểm",
+                "entity_start_position": 226,
+                "entity_end_position": 230,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "điểm 14",
+                "entity_start_position": 499,
+                "entity_end_position": 506,
+                "entity_type": "khoá",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 30/9",
+                "entity_start_position": 572,
+                "entity_end_position": 581,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "BK",
+                "entity_start_position": 572,
+                "entity_end_position": 593,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "K",
+                "entity_start_position": 572,
+                "entity_end_position": 717,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "điểm trung bình tích luỹ",
+                "entity_start_position": 843,
+                "entity_end_position": 867,
+                "entity_type": "loại điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Best",
+                "entity_start_position": 935,
+                "entity_end_position": 939,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "agrds",
+                "entity_start_position": 935,
+                "entity_end_position": 947,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "nhóm",
+            "dịch vụ, hệ thống",
+            "khoá",
+            "loại điểm"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào Thầy/Cô, Hiện em đang có nhu cầu in giấy chứng nhận sinh viên năm học 2020 - 2021 để bổ sung và hoàn tất hồ sơ ở địa phương. Tuy nhiên, khi em vào trang đăng ký chứng nhận sinh viên, em chỉ thấy có thể đăng ký giấy CN sinh viên cho năm học 2021 - 2022. Hiện tại, do em đã tốt nghiệp nên không thể đăng ký in giấy năm học này. Thầy/Cô cho em hỏi có cách nào đăng ký in giấy chứng nhận sinh viên năm học 2020 - 2021 được không ạ ? Em cảm ơn Thầy/Cô nhiều ạ.",
+        "intent_from_mrc": "in giấy chứng nhận sinh viên năm học 2020 - 2021",
+        "intent_similarity": "nhận giấy xác nhận sinh viên",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "giấy chứng nhận sinh viên năm học 2020-2021",
+                "entity_start_position": 44,
+                "entity_end_position": 89,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "giấy CN sinh viên",
+                "entity_start_position": 218,
+                "entity_end_position": 235,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "năm học 2021-2022",
+                "entity_start_position": 240,
+                "entity_end_position": 259,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "giấy chứng nhận sinh viên",
+                "entity_start_position": 376,
+                "entity_end_position": 401,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "năm học 2020-2021",
+                "entity_start_position": 402,
+                "entity_end_position": 421,
+                "entity_type": "học kì",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Cho em hỏi là tại sao thi chuẩn anh văn đầu vào lần đầu tiên thì điểm đó được xét vào tín chỉ còn thi lần thứ 2 thì không được xét ạ",
+        "intent_from_mrc": "thi chuẩn anh văn đầu",
+        "intent_similarity": "đăng kí thi tiếng Anh",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Trong đăng kí môn học chính quy, có đợt chuyển hệ là gì. Có thể giải thích em hiểu được không ạ?",
+        "intent_from_mrc": "đợt chuyển hệ",
+        "intent_similarity": "chuyển hệ",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Dạ là kì 2 này có mở môn đề cương luận văn. Nhưng em chưa đăng kí môn học này vào đợt 1,2 và 3. Nhưng ngày 2-3 tháng 02 có đợt đăng kí môn học bổ sung thì không biết em có đăng kí được môn này không ạ. ( Do em nghĩ phải đăng kí trước vào đợt 1 hoặc 2 hoặc 3 thì đến đợt bổ sung mới hiệu chỉnh được)",
+        "intent_from_mrc": "đăng kí trước vào đợt 1 hoặc 2 hoặc 3",
+        "intent_similarity": "đăng kí gia hạn",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "kì 2",
+                "entity_start_position": 6,
+                "entity_end_position": 10,
+                "entity_type": "đợt",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đề cương luận văn",
+                "entity_start_position": 25,
+                "entity_end_position": 42,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 1,2 và 3",
+                "entity_start_position": 82,
+                "entity_end_position": 94,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 2-3 tháng 02",
+                "entity_start_position": 102,
+                "entity_end_position": 119,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 1",
+                "entity_start_position": 238,
+                "entity_end_position": 243,
+                "entity_type": "đợt",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "đợt",
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Chào thầy cô, Hiện tại em đã đăng ký chuyển điểm các môn Anh Văn 1, Anh Văn 2, Anh Văn 3. Tuy nhiên, sau khi chuyển điểm, thì em vẫn chưa không đăng ký được   U Anh Văn 4A (Dự thính)     I . Vậy nên cho em hỏi, khi nào thì điểm chuyển sẽ được cập nhật và em sẽ đăng ký được Anh Văn 4A (Dự thính). Và đăng ký Anh Văn 4A (Dự thính) trong kì này, liệu có kịp để tốt nghiệp trong đợt sắp tới đây không ạ. Em xin cảm ơn.",
+        "intent_from_mrc": "tốt nghiệp trong đợt sắp tới đây",
+        "intent_similarity": "hỏi thời gian xét tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Anh Văn 1",
+                "entity_start_position": 57,
+                "entity_end_position": 66,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Anh Văn 2",
+                "entity_start_position": 68,
+                "entity_end_position": 77,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Anh Văn 3",
+                "entity_start_position": 79,
+                "entity_end_position": 88,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "U",
+                "entity_start_position": 159,
+                "entity_end_position": 160,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Anh Văn 4A(Dự thính )",
+                "entity_start_position": 161,
+                "entity_end_position": 182,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Anh Văn 4A(Dự thính",
+                "entity_start_position": 274,
+                "entity_end_position": 294,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Anh Văn 4A(Dự thính",
+                "entity_start_position": 308,
+                "entity_end_position": 328,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Sinh viên xin mở lsot  ANH  Mã môn học: SP1009- Đường lối CM của Đảng CSVN Lớp DT-01: GV  Thứ 4  Tiết  2 3 4 Phòng B2-A  CS1 Thứ 5  Tiết  2 3 4 Phòng B2-A  CS1",
+        "intent_from_mrc": "mở lsot",
+        "intent_similarity": "cập nhật dữ liệu",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "SP1009",
+                "entity_start_position": 40,
+                "entity_end_position": 46,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Đường lối CM",
+                "entity_start_position": 48,
+                "entity_end_position": 60,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Đảng CSVN",
+                "entity_start_position": 65,
+                "entity_end_position": 74,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Lớp DT-01",
+                "entity_start_position": 75,
+                "entity_end_position": 84,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "GV",
+                "entity_start_position": 86,
+                "entity_end_position": 88,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thứ 4",
+                "entity_start_position": 90,
+                "entity_end_position": 95,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Tiết 2 3 4",
+                "entity_start_position": 97,
+                "entity_end_position": 108,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Phòng B2-A CS1",
+                "entity_start_position": 109,
+                "entity_end_position": 124,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Thứ 5",
+                "entity_start_position": 125,
+                "entity_end_position": 130,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Tiết 2 3 4",
+                "entity_start_position": 132,
+                "entity_end_position": 143,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Phòng B2-A CS1",
+                "entity_start_position": 144,
+                "entity_end_position": 159,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "mã môn học",
+            "môn học",
+            "nhóm",
+            "thời gian",
+            "địa điểm"
+        ]
+    },
+    {
+        "question_paragraph": "Thưa phòng đào tạo, em tên  mssv , vào lúc 13h49 phút em có thực hiện đóng tiền học phí đợt 2, ocb đã báo thành công và trừ tiền, bkpay hiển thị đã thanh toán. Tuy nhiên vào trưa nay ngày 15-7, em nhận được mail báo chưa nộp học phí và cảnh báo CẤM THI. Khi em vào bkpay thì được hiển thị là chưa đóng học phí đợt 2 dù đã đíng rồi và đã trừ tiền. Mong phòng đào tạo có thể kịp thời hỗ trợ giúp em. Sau đây là một số hình ảnh xác thực",
+        "intent_from_mrc": "kịp thời hỗ trợ giúp em.",
+        "intent_similarity": "được hỗ trợ",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "lúc 13h49 phút",
+                "entity_start_position": 39,
+                "entity_end_position": 53,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 2",
+                "entity_start_position": 88,
+                "entity_end_position": 93,
+                "entity_type": "đợt",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ocb",
+                "entity_start_position": 95,
+                "entity_end_position": 98,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bkpay",
+                "entity_start_position": 130,
+                "entity_end_position": 135,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 15-7",
+                "entity_start_position": 183,
+                "entity_end_position": 192,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": " THI",
+                "entity_start_position": 183,
+                "entity_end_position": 252,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bkpay",
+                "entity_start_position": 265,
+                "entity_end_position": 270,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            },
+            {
+                "entity_string": "đợt 2",
+                "entity_start_position": 310,
+                "entity_end_position": 315,
+                "entity_type": "đợt",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "đợt",
+            "dịch vụ, hệ thống"
+        ]
+    },
+    {
+        "question_paragraph": "Em là k17 nhưng do nhiều kì chưa đăng kí giáo dục thể chất nên vẫn chưa qua đủ 3 môn thể chất ạ. Thầy (cô) cho em hỏi là kì này em có đăng kí học cùng lúc 2 môn thể chất là bóng rổ và cầu lông thì có được phép đăng kí không ạ? Em cám ơn! ",
+        "intent_from_mrc": "học cùng lúc 2 môn thể chất là bóng rổ và cầu lông",
+        "intent_similarity": "hỏi môn tương đương",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "k17",
+                "entity_start_position": 6,
+                "entity_end_position": 9,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bóng rổ",
+                "entity_start_position": 173,
+                "entity_end_position": 180,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "cầu lông",
+                "entity_start_position": 184,
+                "entity_end_position": 192,
+                "entity_type": "môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "khóa",
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Cho em hỏi là em đăng ký chuyển điểm anh văn mà bị lỗi này ạ em đã thử nhiều lần vẫn vậy ạ",
+        "intent_from_mrc": "đăng ký chuyển điểm anh văn",
+        "intent_similarity": "đăng kí in bảng điểm",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Em bị lỗi ở phần nộp bằng tốt nghiệp THPT  Ở mục chọn sở gd và đt, em chọn tp.HCM thì nó hiện dấu x và em ko bấm xác nhận được.",
+        "intent_from_mrc": "bằng tốt nghiệp THPT",
+        "intent_similarity": "gia hạn tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "nộp bằng tốt nghiệp THPT",
+                "entity_start_position": 17,
+                "entity_end_position": 41,
+                "entity_type": "tài liệu",
+                "type_check": ""
+            },
+            {
+                "entity_string": " sở gd",
+                "entity_start_position": 17,
+                "entity_end_position": 59,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "t",
+                "entity_start_position": 17,
+                "entity_end_position": 65,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "tp.HCM",
+                "entity_start_position": 75,
+                "entity_end_position": 81,
+                "entity_type": "địa điểm",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tài liệu",
+            "địa điểm"
+        ]
+    },
+    {
+        "question_paragraph": "Chào phòng đào tạo ĐH Bách Khoa tp HCM, em là  MSSV  Dạ do là trước đó e đã hoãn thi thành công rồi, nhưng em đã kịp xuất viện để thi  Sau đây là thông tin các môn em đã xin hoãn:  *Giải tích 2:-MT1005-HK202-Nhóm L06-B-Giờ thi: 16h00-Ngày thi 17/08/2021. *Phương pháp tính:-MT2013-HK202-Nhóm L09-C-Giờ thi: 13h00-Ngày thi 15/08/2021. Em mong muốn được hủy kết quả hoãn thi ở môn Giải tích 2 và Phương pháp tính lần trước ạ. Em cảm ơn PĐT.",
+        "intent_from_mrc": "hủy",
+        "intent_similarity": "hỏi môn tương đương",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "phòng đào tạo ĐH Bách Khoa tp HCM",
+                "entity_start_position": 5,
+                "entity_end_position": 38,
+                "entity_type": "tổ chức",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Giải tích 2",
+                "entity_start_position": 182,
+                "entity_end_position": 193,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MT1005-HK202",
+                "entity_start_position": 195,
+                "entity_end_position": 207,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm L06-B",
+                "entity_start_position": 208,
+                "entity_end_position": 218,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "16h00",
+                "entity_start_position": 228,
+                "entity_end_position": 233,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Ngày thi 17/08/2021",
+                "entity_start_position": 234,
+                "entity_end_position": 253,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Phương",
+                "entity_start_position": 256,
+                "entity_end_position": 262,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "MT2013 -",
+                "entity_start_position": 274,
+                "entity_end_position": 281,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "HK202",
+                "entity_start_position": 281,
+                "entity_end_position": 286,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Nhóm L09-C",
+                "entity_start_position": 287,
+                "entity_end_position": 297,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "13h00",
+                "entity_start_position": 307,
+                "entity_end_position": 312,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Ngày thi 15/08/2021",
+                "entity_start_position": 313,
+                "entity_end_position": 332,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Giải tích 2",
+                "entity_start_position": 375,
+                "entity_end_position": 390,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Phương pháp tính",
+                "entity_start_position": 394,
+                "entity_end_position": 410,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tổ chức",
+            "môn học",
+            "học kì",
+            "nhóm",
+            "thời gian",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Xin chào em là sinh viên hệ VHVL gặp lỗi trong việc thanh toán học phí trên trang Bkpay của trường nên không thể thanh toán được học phí . Bên trường kiểm tra lại hệ thống để khắc phục. Em xin cảm ơn.",
+        "intent_from_mrc": "thanh toán học phí",
+        "intent_similarity": "thanh toán học phí",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "sinh viên",
+                "entity_start_position": 15,
+                "entity_end_position": 24,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hệ VHVL",
+                "entity_start_position": 25,
+                "entity_end_position": 32,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "trang Bkpay",
+                "entity_start_position": 76,
+                "entity_end_position": 87,
+                "entity_type": "dịch vụ, hệ thống",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "dịch vụ, hệ thống"
+        ]
+    },
+    {
+        "question_paragraph": "Em là:   MSSV:   Lớp: TN GIải tích mạch thầy  (VL01) Em có lịch học TN buổi một vào sáng ngày 17/3/2002 Nhưng nay em test và bị dương tính với covid và em đã được đưa vào khu cách ly ở ktx đhqg em đã thông báo với thầy  và thầy thông báo 17/3 là buổi học cuối nên  bảo em liên hệ với phòng đào tạo để được hoãn môn học. Vậy bây giờ em cần làm gì để có thể hoãn môn học TN GTM ạ. Em cảm ơn",
+        "intent_from_mrc": "hoãn môn học TN GTM",
+        "intent_similarity": "huỷ đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "TN GIải tích mạch",
+                "entity_start_position": 22,
+                "entity_end_position": 39,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "VL01",
+                "entity_start_position": 47,
+                "entity_end_position": 51,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": " buổi một",
+                "entity_start_position": 47,
+                "entity_end_position": 79,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "sáng ngày 17/3/2002",
+                "entity_start_position": 84,
+                "entity_end_position": 103,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "covid",
+                "entity_start_position": 143,
+                "entity_end_position": 148,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ktx đhqg",
+                "entity_start_position": 185,
+                "entity_end_position": 193,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "17/3",
+                "entity_start_position": 238,
+                "entity_end_position": 242,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn học TN GTM",
+                "entity_start_position": 361,
+                "entity_end_position": 375,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "môn học",
+            "nhóm"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi PĐT, Em là   CK17DET Em còn nợ duy nhất 1 môn cơ học máy ME2043. ME2043 (4 tín chỉ) có môn tương đương thay thế:  ME2117 (TN 1 tín chỉ) và ME2101 (lý thuyết 3 tín chỉ) Em đã đăng kí học môn ME2101 Tuy nhiên môn   B ME2117    (TN 1 tín chỉ) lại yêu cầu   U phải học thêm    các môn không có trong CTĐT của kỹ thuật Dệt (bao gồm   U ME2117, ME2007 và ME2003   ) Đây là lí do em không thể đăng kí môn ME2117, môn này cũng không có trong CTĐT của ngành kỹ thuật dệt khóa k19. Đợt đăng kí môn học cũng sắp hết . Mong PĐT hướng dẫn em .",
+        "intent_from_mrc": "Mong PĐT hướng dẫn em",
+        "intent_similarity": "nộp đơn cứu xét",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "CK17DET",
+                "entity_start_position": 22,
+                "entity_end_position": 29,
+                "entity_type": "lớp",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn cơ học máy",
+                "entity_start_position": 51,
+                "entity_end_position": 65,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2043.ME2043",
+                "entity_start_position": 66,
+                "entity_end_position": 80,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2117",
+                "entity_start_position": 123,
+                "entity_end_position": 129,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "TN 1 tín chỉ",
+                "entity_start_position": 131,
+                "entity_end_position": 143,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2101",
+                "entity_start_position": 148,
+                "entity_end_position": 154,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lý thuyết",
+                "entity_start_position": 156,
+                "entity_end_position": 165,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "3 tín chỉ",
+                "entity_start_position": 166,
+                "entity_end_position": 175,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2101",
+                "entity_start_position": 199,
+                "entity_end_position": 205,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "B",
+                "entity_start_position": 222,
+                "entity_end_position": 223,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2117",
+                "entity_start_position": 224,
+                "entity_end_position": 230,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "TN 1 tín chỉ",
+                "entity_start_position": 235,
+                "entity_end_position": 247,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "kỹ thuật Dệt",
+                "entity_start_position": 314,
+                "entity_end_position": 326,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "U ME2117",
+                "entity_start_position": 338,
+                "entity_end_position": 346,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2007",
+                "entity_start_position": 348,
+                "entity_end_position": 354,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2003",
+                "entity_start_position": 358,
+                "entity_end_position": 364,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ME2117",
+                "entity_start_position": 407,
+                "entity_end_position": 413,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngành kỹ thuật dệt",
+                "entity_start_position": 452,
+                "entity_end_position": 470,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khóa k19",
+                "entity_start_position": 471,
+                "entity_end_position": 479,
+                "entity_type": "loại bệnh",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "lớp",
+            "môn học",
+            "mã môn học",
+            "loại bệnh"
+        ]
+    },
+    {
+        "question_paragraph": "Kính gửi Thầy/Cô, Em tên Trần Hồ Minh Nhựt. MSSV:1914566. Em học khoa Quản lý công nghiệp ở lớp LO3. Em muốn đăng ki môn SP1037 ở học kì dự thính nhưng không được do trường mình mới thêm quy chế là học dự thính k được học môn lần đầu nên em không thể học môn SP1037 được. Em muốn xin có thể châm chế cho em học ở học kì dự thính được không ạ tại em muốn học sớm môn này cho xong để năm 4 em học thuận lợi hơn. Em xin cảm ơn Minh Nhựt, Trân trọng.",
+        "intent_from_mrc": "đăng ki môn SP1037 ở học kì dự thính",
+        "intent_similarity": "hỏi đợt đăng kí môn học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Trần Hồ Minh Nhựt",
+                "entity_start_position": 25,
+                "entity_end_position": 42,
+                "entity_type": "tên người",
+                "type_check": ""
+            },
+            {
+                "entity_string": "1914566",
+                "entity_start_position": 49,
+                "entity_end_position": 56,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoa Quản lý công nghiệp",
+                "entity_start_position": 65,
+                "entity_end_position": 89,
+                "entity_type": "khoa/ngành",
+                "type_check": ""
+            },
+            {
+                "entity_string": "lớp LO3",
+                "entity_start_position": 92,
+                "entity_end_position": 99,
+                "entity_type": "nhóm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn SP1037",
+                "entity_start_position": 117,
+                "entity_end_position": 127,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "học kì dự thính",
+                "entity_start_position": 130,
+                "entity_end_position": 145,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn",
+                "entity_start_position": 255,
+                "entity_end_position": 258,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "SP1037",
+                "entity_start_position": 259,
+                "entity_end_position": 265,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": " dự",
+                "entity_start_position": 259,
+                "entity_end_position": 322,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "năm 4",
+                "entity_start_position": 382,
+                "entity_end_position": 387,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "Minh Nhựt",
+                "entity_start_position": 424,
+                "entity_end_position": 433,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "tên người",
+            "khoa/ngành",
+            "nhóm",
+            "mã môn học",
+            "học kì",
+            "môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Cho em hỏi là tại sao trong Chương trình đào tạo K2019 khoa KTXD kì 5 có 2 môn   B CI3231    và   B CI3233    nhưng em không đăng kí được môn CI3231 vì nó yêu cầu phải học trước CI3233 ạ?",
+        "intent_from_mrc": "phải học trước CI3233",
+        "intent_similarity": "hỏi thủ tục nhập học",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Chương trình đào tạo K2019",
+                "entity_start_position": 28,
+                "entity_end_position": 54,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "khoa KTXD kì 5",
+                "entity_start_position": 55,
+                "entity_end_position": 69,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "B CI3231",
+                "entity_start_position": 81,
+                "entity_end_position": 89,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "B CI3233",
+                "entity_start_position": 98,
+                "entity_end_position": 106,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CI3231",
+                "entity_start_position": 142,
+                "entity_end_position": 148,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "CI3233",
+                "entity_start_position": 178,
+                "entity_end_position": 184,
+                "entity_type": "mã môn học",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "mã môn học"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào anh/chị ở PĐT. Em có thắc mắc về qui định chuyển điểm anh văn bắt đầu từ hk201.Em là K17 cần 500 toeic để tốt nghiệp nhưng để chuyển điểm av3 là 550 toeic, av4 là 600 toeic.em thấy có sự không công bằng cho những bạn thi toeic sau như tụi em, trong khi các bạn cùng khóa thi trước 500 là được chuyển điểm av4 r ạ. Mong PĐT giải đáp giúp em với ạ.Em cảm ơn",
+        "intent_from_mrc": "500 toeic để tốt nghiệp",
+        "intent_similarity": "kiểm tra danh sách tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "hk201",
+                "entity_start_position": 81,
+                "entity_end_position": 86,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "K17",
+                "entity_start_position": 93,
+                "entity_end_position": 96,
+                "entity_type": "khóa",
+                "type_check": ""
+            },
+            {
+                "entity_string": "500 toeic",
+                "entity_start_position": 101,
+                "entity_end_position": 110,
+                "entity_type": "số điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "điểm av3",
+                "entity_start_position": 141,
+                "entity_end_position": 149,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "550 toeic",
+                "entity_start_position": 153,
+                "entity_end_position": 162,
+                "entity_type": "số điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "av4",
+                "entity_start_position": 164,
+                "entity_end_position": 167,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "600 toeic",
+                "entity_start_position": 171,
+                "entity_end_position": 180,
+                "entity_type": "số điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "toeic",
+                "entity_start_position": 229,
+                "entity_end_position": 234,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "500",
+                "entity_start_position": 289,
+                "entity_end_position": 292,
+                "entity_type": "số điểm",
+                "type_check": ""
+            },
+            {
+                "entity_string": "điểm av4",
+                "entity_start_position": 308,
+                "entity_end_position": 316,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì",
+            "khóa",
+            "số điểm"
+        ]
+    },
+    {
+        "question_paragraph": "Em tên  mssv  Dạ thưa em muốn hỏi là về bhyt.. Hôm đó e có nhận được mail là phải đk bhyt nên e lấy thẻ ra coi thì nó để tới năm 2022 nên em không đóng bhyt. Cho em hỏi là như vậy là có bị đình chỉ không ạ.. Tại vì qua thời hạn quá lâu rồi. Giờ em sợ là thẻ k có hiệu lực nên e sợ.. Nếu như mà không hợp lệ vậy em có bị đình chỉ không ạ. Xin nhà trường đừng đình chỉ em ạ. Em không biết là như vậy  Em cảm ơn nhiều lắm ạ",
+        "intent_from_mrc": "đừng đình chỉ",
+        "intent_similarity": "huỷ bảo lưu",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "bhyt",
+                "entity_start_position": 40,
+                "entity_end_position": 44,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "hyt",
+                "entity_start_position": 40,
+                "entity_end_position": 89,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "năm 2022",
+                "entity_start_position": 125,
+                "entity_end_position": 133,
+                "entity_type": "học kì",
+                "type_check": ""
+            },
+            {
+                "entity_string": "bhyt",
+                "entity_start_position": 152,
+                "entity_end_position": 156,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "học kì"
+        ]
+    },
+    {
+        "question_paragraph": "Em chào thầy/cô Dạ cho em hỏi là học kì này, ngày thi giữa kì là vào ngày mấy vậy ạ . Em xin cảm ơn   ",
+        "intent_from_mrc": "học kì",
+        "intent_similarity": "hỏi đợt đăng kí môn học",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "PĐT cho phép em hỏi về quy trình làm đơn rút môn học và hiện nay với tình hình dịch bệnh kéo dài thì em có thể nộp lại đơn đó như thế nào ạ?  Em xin cảm ơn.",
+        "intent_from_mrc": "hỏi về quy trình làm đơn rút môn học",
+        "intent_similarity": "hỏi đợt đăng kí môn học",
+        "intent_label": "",
+        "entities": [],
+        "entity_type_list": []
+    },
+    {
+        "question_paragraph": "Chào PĐT! Em tên là , MSSV: . Hôm nay e viết mail này mong phòng đào tạo có thể xem xét giúp em vấn đề sau: Sáng nay ngày 17/08/2021 e có đăng kí học dự thính môn Ô tô chuyên dùng mã môn học TR3091 nhưng không thể đăng kí được. Nhưng mà trước đó môn học này e đã đăng kí và có thời khóa biểu nhưng bây giờ bị xóa và không đăng kí lại được. Kính mong PĐT có thể xem xét và giải quyết trường hợp này giúp em được ko ạ . Em xin chân thành cảm ơn .",
+        "intent_from_mrc": "mong PĐT có thể xem xét và giải quyết trường hợp này giúp em",
+        "intent_similarity": "hỏi điều kiện tốt nghiệp",
+        "intent_label": "",
+        "entities": [
+            {
+                "entity_string": "Sáng nay",
+                "entity_start_position": 108,
+                "entity_end_position": 116,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "ngày 17/08/2021",
+                "entity_start_position": 117,
+                "entity_end_position": 132,
+                "entity_type": "thời gian",
+                "type_check": ""
+            },
+            {
+                "entity_string": "dự thính",
+                "entity_start_position": 150,
+                "entity_end_position": 158,
+                "entity_type": "-1",
+                "type_check": ""
+            },
+            {
+                "entity_string": "môn Ô tô chuyên dùng",
+                "entity_start_position": 159,
+                "entity_end_position": 179,
+                "entity_type": "môn học",
+                "type_check": ""
+            },
+            {
+                "entity_string": "mã môn học TR3091",
+                "entity_start_position": 180,
+                "entity_end_position": 197,
+                "entity_type": "-1",
+                "type_check": ""
+            }
+        ],
+        "entity_type_list": [
+            "thời gian",
+            "môn học"
+        ]
+    }
+]

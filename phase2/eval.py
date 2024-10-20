@@ -1,60 +1,57 @@
 import json
+import pandas as pd
+from mlxtend.frequent_patterns import apriori, association_rules
+from sklearn.preprocessing import MultiLabelBinarizer
+from collections import Counter
+from mlxtend.preprocessing import TransactionEncoder
 
-number_of_answer_files = 5
-number_of_temps = 3
-model_use = "vi-mrc-large"
-# num_of_corrects = 0
-# num_of_data_points = 0
+with open('output/evaluate/arm_eval4.json', 'r', encoding='utf-8') as file:
+    datasets = json.load(file)
+    # data = json.load(file)
 
-# tp = 0
-# num_ad = 0
-# num_a = 0
+# result = []
+# for component in datasets:
+#     intent = component["intent_label"]
+#     if intent != "khác":
+#         # entities = list(set([entity["entity_type"] for entity in component["entities"] if entity["entity_type"] != "-1"]))
+#         entities = list(set([entity["type_check"] for entity in component["entities"] if entity["type_check"] != "2"]))
 
-for k in range(number_of_temps):
-    tp = 0
-    num_ad = 0
-    num_a = 0
+#         result.append([intent] + entities)
+# result.sort()
+# with open('output/evaluate/arm_label.json', 'w', encoding='utf-8') as f:
+#     json.dump(result, f, ensure_ascii=False, indent=4)
 
-    for i in range(number_of_answer_files):
-        file_in = 'labeled_inputs/input' + str(i+1) + '.json'
-        file_out = model_use + '/temp' + str(k+1) + '_answers/answers' + str(i+1) + ".json"
+# count = Counter(sublist[0] for sublist in datasets)
+# result = {}
+# for sublist in datasets:
+#     key = sublist[0]  
+#     if count[key] >= 4:
+#         if key not in result:
+#             result[key] = []
+#         result[key].append(sublist)
+# list_of_lists = list(result.values())
+# list_of_lists.sort()
+# with open('output/evaluate/arm_eval4.json', 'w', encoding='utf-8') as f:
+#     json.dump(list_of_lists, f, ensure_ascii=False, indent=4)
 
-        with open(file_out, 'r', encoding="utf-8") as f:
-            answers = json.load(f)
+results = []
+num = 0.8
+for data in datasets:
+    encoder = TransactionEncoder()
+    encoded_data = encoder.fit(data).transform(data)
+    df = pd.DataFrame(encoded_data, columns=encoder.columns_)
+    
+    frequent_itemsets = apriori(df, min_support=num, use_colnames=True)
+    
+    rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=num)
+    
+    first_elements = [sublist[0] for sublist in data]  
+    filtered_rules = rules[rules['antecedents'].apply(
+        lambda x: len(x) == 1 and list(x)[0] in first_elements  
+    )].copy()
+    
+    results.append(filtered_rules)
 
-        with open(file_in, 'r', encoding="utf-8") as f:
-            inputs = json.load(f)
+all_results = pd.concat(results, ignore_index=True)
 
-        print(len(inputs) == len(answers))
-        for j in range(len(inputs)):
-            if(inputs[j]['intent'] == ""):
-                continue
-            arg_glb = inputs[j]['entities']
-            if 'entities' not in answers[j]:
-                print('Temp', k + 1)
-                print('File', i + 1)
-                print(answers[j]['message'])
-            arg_det = answers[j]['entities']
-            for key,values in arg_glb.items():
-                if arg_glb[key] != '':
-                    num_a += 1
-                if arg_det[key] != '':
-                    num_ad += 1
-                if arg_glb[key] != '' and arg_glb[key] == arg_det[key]:
-                    # print(arg_det[key], arg_glb[key])
-                    tp += 1
-
-    # EM_score = num_of_corrects / num_of_data_points
-    # print(EM_score)
-
-    print("\n================================")
-    print("Temp", k+1, ": \n")
-    print(tp, num_a, num_ad)
-
-    prec = tp / num_ad
-    rec = tp / num_a
-    f1 = 2* (prec * rec) / (prec + rec)
-
-    print("Precision: ", prec)
-    print("Recall: ", rec)
-    print("F1: ", f1)
+all_results.to_excel(f'arm_eval/4/eval{num}.xlsx', index=False)

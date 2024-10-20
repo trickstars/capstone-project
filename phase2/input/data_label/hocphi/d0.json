@@ -1,0 +1,780 @@
+{
+    "0": [
+        {
+            "wordForm": "1",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ],
+    "1": [
+        {
+            "wordForm": "Thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "học phí",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "và",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "các",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "khoản",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tiền",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "khác",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Nộp",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tiền",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "vào",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tài khoản",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "cá nhân",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "sinh viên",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tại",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "ngân hàng",
+            "nerLabel": "B-ORG"
+        },
+        {
+            "wordForm": "OCB",
+            "nerLabel": "I-ORG"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ],
+    "2": [
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Truy cập",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "myBK",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "(",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "mybk.hcmut.edu.vn",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": ")",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ">> BKPay",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ",",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đăng nhập",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tên",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "username",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "là",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "mã số",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "sinh viên",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "và",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "password",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "là",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "mật khẩu",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "của",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "email",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "sinh viên",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ],
+    "3": [
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Đánh dấu",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "chọn",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "các",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "khoản",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "cần",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Bấm",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ",",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "trang web",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tự động",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "chuyển",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đến",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "trang",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "OCB online",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Đăng nhập",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "với",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tên",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đăng nhập",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "và",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "mật khẩu",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "do",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "ngân hàng",
+            "nerLabel": "B-ORG"
+        },
+        {
+            "wordForm": "OCB",
+            "nerLabel": "I-ORG"
+        },
+        {
+            "wordForm": "cung cấp",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Tiến hành",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "theo",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "quy trình",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "của",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "OCB online",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "(",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thông tin",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "xác",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thực OTP",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "sẽ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "được",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "gửi",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "qua",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "ĐTDĐ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đã",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đăng ký",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ")",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ],
+    "4": [
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Đăng xuất",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "OCB online",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Kiểm tra",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "việc",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "trên",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "BKPay",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "(",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "cần",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "refresh",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "lại",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "trang BKPay",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "hoặc",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đăng xuất",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "và",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đăng nhập",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "lại",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ")",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Đăng xuất",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "BKPay",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "Lưu ý",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ":",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Chỉ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "có",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "duy nhất",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "1",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "hình thức",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "học phí",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tại",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "myBK",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": "(",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "mybk.hcmut.edu.vn",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": ")",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ">> BKPay",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ",",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "không",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "giải quyết",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "bất kỳ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "các",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "hình thức",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "khác",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "(",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "ví dụ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ":",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "chuyển khoản",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "vào",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "tài khoản",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "của",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Trường",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ",",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "nộp",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "trực tiếp",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "…",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ")",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ],
+    "5": [
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Quy định",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "về",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "học",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "vụ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "và",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đào tạo",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "bậc",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "đại học",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "–",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Phiên bản",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "hợp",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "nhất",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "/",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Điều",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "39.4",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Không",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "thanh toán",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "học phí",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ],
+    "6": [
+        {
+            "wordForm": "-",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Số",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "điện thoại",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "hotline",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "của",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "Ngân hàng",
+            "nerLabel": "B-ORG"
+        },
+        {
+            "wordForm": "OCB",
+            "nerLabel": "I-ORG"
+        },
+        {
+            "wordForm": "để",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "được",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "hỗ trợ",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "(",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "khi",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "có",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "phát sinh",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "sự cố",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ")",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": ":",
+            "nerLabel": "O"
+        },
+        {
+            "wordForm": "18006678",
+            "nerLabel": "B-MISC"
+        },
+        {
+            "wordForm": ".",
+            "nerLabel": "O"
+        }
+    ]
+}
